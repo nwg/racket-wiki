@@ -1,5 +1,7 @@
 HTTP connections using SSL
 
+Using the `net/url` collection:
+
     #lang racket/load
 
     (module ssl-url.ss racket
@@ -45,3 +47,11 @@ HTTP connections using SSL
         (make-object image-snip% file 'gif))))
     
     (require 'sample-client)
+
+Using the `bzlib/http` PLaneT library:
+
+    (require (planet bzlib/http/client))
+    (http-get <url> <list-of-headers>)
+    (http-post <url> <data> <list-of-headers>)
+
+See also: http://schemecookbook.org/view/Cookbook/WebFetchingHttpsUrl
