@@ -48,6 +48,8 @@ Using the `net/url` collection:
     
     (require 'sample-client)
 
+Most of the above is wrapped into a PLaneT package: http://planet.racket-lang.org/display.ss?package=ssl-url.plt&owner=offby1
+
 Using the `bzlib/http` PLaneT library:
 
     (require (planet bzlib/http/client))
