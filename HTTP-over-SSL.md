@@ -1,1 +1,1 @@
-As of [Racket 5.1.2](http://blog.racket-lang.org/2011/08/racket-v512.html), the [`net/url`](http://docs.racket-lang.org/net/url.html?q=get-pure-port#%28def._%28%28lib._net/url..rkt%29._get-pure-port%29%29) library automatically handles HTTPS connections by default.
+As of [Racket 5.1.2](http://blog.racket-lang.org/2011/08/racket-v512.html), the [`net/url`](http://docs.racket-lang.org/net/url.html#%28def._%28%28lib._net/url..rkt%29._get-pure-port%29%29) library automatically handles HTTPS connections by default.
