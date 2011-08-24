@@ -7,18 +7,23 @@ The best place to ask for help with any of these is on the [users mailing list](
 These are improvements to the Racket source.  Fork the GitHub repository and then submit a pull request.
 
 * Revise the FFI docs
-* Etags support for Racket features
 * Port code that uses `class100` to the current class system
 * Get rid of units in the net collect
 * Extend the gabot IRC bot to deliver messages to offline people (contact Eli for more info)
-* Racket support for github code highlighting
-* Racket support for github code editing
 * Fix warnings in C code
 * Find uses of a-lists and replace them with hash tables
 * Find things that use lists for sets, replace them with `racket/set'
 * Find uses of srfi/1, replace them with racket/list stuff
 * Documentation clarifications and/or small examples
 * Add support for macro-debugger/analysis/check-requires to xrepl
+
+These are improvements to other systems to better support Racket.
+
+* Racket support for github code highlighting
+* Racket support for github code editing
+* Etags support for Racket features
+* Improve Racket support in Ohloh's line counter
+* Racket support in MediaWiki's GeSHi highligher
 
 # Small Projects
 
@@ -39,7 +44,7 @@ These are self-contained projects.  Just create a new github repository, and sta
 * Bindings for Apple's Core * Libraries
 * Write better s-exp diff tool
 * Write bindings to gobject introspection
-* Improve Racket support in Ohloh's line counter
+
 
 # Larger Projects
 
