@@ -1,1 +1,1 @@
-As of Racket 5.1.2, the `net/url` library automatically handles HTTPS connections by default.
+As of [Racket 5.1.2](http://blog.racket-lang.org/2011/08/racket-v512.html), the `net/url` library automatically handles HTTPS connections by default.
