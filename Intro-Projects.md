@@ -1,4 +1,3 @@
-
 This page lists Racket projects which are feasible for people who don't
 have a lot of experience with the Racket code base. They're mostly
 small, self contained, and would be extremely useful. Some involve
@@ -44,6 +43,7 @@ and start hacking.  When you have something that works, release it on
 
 * Code for doing OAuth
 * Write bindings for libgit
+* Write bindings to Authorize.Net
 * Write libraries to interact with Wii Remotes
 * Write libraries to interact with game controllers
 * Write bindings to various Google APIs
