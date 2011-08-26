@@ -60,8 +60,6 @@ and start hacking.  When you have something that works, release it on
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
-* Write bindings to R.
-* Write bindings to SDL.
 
 # Larger Projects
 
@@ -79,3 +77,4 @@ For the more ambitious Racketeer ...
   all the core language features that would make this extremely
   difficult; for example: keep immutable pairs)
 * Write a Clojure compatibility layer
+* Write bindings to SDL.
