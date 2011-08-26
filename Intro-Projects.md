@@ -47,7 +47,7 @@ and start hacking.  When you have something that works, release it on
 * Write libraries to interact with Wii Remotes
 * Write libraries to interact with game controllers
 * Write bindings to various Google APIs
-  - Authentication would be usefule
+  - Authentication would be useful
   - Other interesting things: docs (esp. around spreadsheets), maps
 * Write bindings to the Github API
 * Write bindings to the Twitter APIs
