@@ -16,9 +16,12 @@ and then submit a pull request.
 * Port code that uses `class100` to the current class system
 * Get rid of units in the net collect
 * Fix warnings in C code
+  - Refer to [DrDr's make output](http://drdr.racket-lang.org/current/src/build/make) or your platform's make output
 * Find uses of a-lists and replace them with hash tables where
   appropriate
+  - Search for uses of assq and friends to find
 * Find things that use lists for sets, replace them with `racket/set'
+  - Search for uses of member and friends to find
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * Documentation clarifications and/or small examples
 * Add support for `macro-debugger/analysis/check-requires` to xrepl
@@ -46,6 +49,7 @@ and start hacking.  When you have something that works, release it on
 * Write bindings to Authorize.Net
 * Write libraries to interact with Wii Remotes
 * Write libraries to interact with game controllers
+  - This exists on for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
 * Write bindings to various Google APIs
   - Authentication would be useful
   - Other interesting things: docs (esp. around spreadsheets), maps
