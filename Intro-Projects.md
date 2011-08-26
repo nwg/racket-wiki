@@ -56,7 +56,7 @@ and start hacking.  When you have something that works, release it on
 * Write bindings to the Github API
 * Write bindings to the Twitter APIs
 * Write bindings to the Facebook APIs
-* Write bindings to Amazon AWS
+* Write bindings to Amazon AWS.  [Eric Hanchrow](https://github.com/offby1/doodles/tree/master/plt-scheme/web/amazon) has some pitiful first steps which might be inspirational.
 * Write XMPP bindings
 * Bindings for a text to speech engine
 * IRC log highlighter
