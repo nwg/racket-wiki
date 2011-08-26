@@ -15,9 +15,8 @@ and then submit a pull request.
 * Revise the FFI docs: better docs, lots of examples, guide-like text
 * Port code that uses `class100` to the current class system
 * Get rid of units in the net collect
-* Fix warnings in C code
+* Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to [DrDr's make output](http://drdr.racket-lang.org/current/src/build/make) or your platform's make output
-  > _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
 * Find uses of a-lists and replace them with hash tables where
   appropriate
   - Search for uses of assq and friends to find
