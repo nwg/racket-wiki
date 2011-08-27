@@ -15,6 +15,8 @@ and then submit a pull request.
 * Revise the FFI docs: better docs, lots of examples, guide-like text
 * Port code that uses `class100` to the current class system
 * Get rid of units in the net collect
+  - _Forked to <http://github.com/97jaz/racket>_
+  - _Any suggestions on what to do with net/tcp-redirect.rkt? Is the idea to get rid of tcp^ altogether?_
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to [DrDr's make output](http://drdr.racket-lang.org/current/src/build/make) or your platform's make output
 * Find uses of a-lists and replace them with hash tables where
