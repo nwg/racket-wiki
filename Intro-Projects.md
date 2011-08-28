@@ -18,7 +18,7 @@ and then submit a pull request.
   - _Forked to <http://github.com/97jaz/racket>_
   - _Any suggestions on what to do with net/tcp-redirect.rkt? Is the idea to get rid of tcp^ altogether?_
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
-  - Refer to [DrDr's make output](http://drdr.racket-lang.org/current/src/build/make) or your platform's make output
+  - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
 * Find uses of a-lists and replace them with hash tables where
   appropriate
   - Search for uses of assq and friends to find
@@ -26,7 +26,7 @@ and then submit a pull request.
   - Search for uses of member and friends to find
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * Documentation clarifications and/or small examples
-* Add support for `macro-debugger/analysis/check-requires` to xrepl
+* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~
 * Fix Swindle to have `call-next-method` available without #lang swindle
 
 These are improvements to other systems to better support Racket.
@@ -64,7 +64,7 @@ and start hacking.  When you have something that works, release it on
 * Write XMPP bindings
 * Bindings for a text to speech engine
 * IRC log highlighter
-* IRC client library (can be based on the gabot code; [rudybot](https://github.com/offby1/rudybot) is another option)
+* IRC client library (can be based on the gabot code (contact Eli); [rudybot](https://github.com/offby1/rudybot) is another option)
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
