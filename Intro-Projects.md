@@ -37,7 +37,7 @@ These are improvements to other systems to better support Racket.
 * Improve Racket support in Ohloh's line counter
 * Racket support in MediaWiki's GeSHi highligher
 * Extend the gabot IRC bot to deliver messages to offline people
-  (contact Eli for more info)
+  (contact [Eli](mailto:eli@barzilay.org) for more info)
   - Optionally, extend it to do more cool stuffs
   - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
 
@@ -64,7 +64,8 @@ and start hacking.  When you have something that works, release it on
 * Write XMPP bindings
 * Bindings for a text to speech engine
 * IRC log highlighter
-* IRC client library (can be based on the gabot code (contact Eli); [rudybot](https://github.com/offby1/rudybot) is another option)
+* IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org));
+  [rudybot](https://github.com/offby1/rudybot) is another option)
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
@@ -76,7 +77,7 @@ For the more ambitious Racketeer ...
 * Write a markdown parser (important: lots of tests; support at least
   popular variants that are used by stackoverflow and github)
 * Write a YAML parser
-* Write a gitolite replacement in Racket (contact Eli)
+* Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org))
 * `#lang scsh` -- or better: write just a library for similar bindings
   (macros & functions), and make it into a language that has shell-like
   syntax
@@ -85,4 +86,4 @@ For the more ambitious Racketeer ...
   all the core language features that would make this extremely
   difficult; for example: keep immutable pairs)
 * Write a Clojure compatibility layer
-* Write bindings to SDL.
+* Write bindings to SDL (note that there are Allegro bindings on planet).
