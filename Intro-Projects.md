@@ -39,6 +39,7 @@ These are improvements to other systems to better support Racket.
 * Extend the gabot IRC bot to deliver messages to offline people
   (contact Eli for more info)
   - Optionally, extend it to do more cool stuffs
+  - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
 
 # Small Projects
 
