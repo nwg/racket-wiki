@@ -26,7 +26,7 @@ and then submit a pull request.
   - Search for uses of member and friends to find
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * Documentation clarifications and/or small examples
-* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~
+* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * Fix Swindle to have `call-next-method` available without #lang swindle
 
 These are improvements to other systems to better support Racket.
@@ -48,6 +48,7 @@ and start hacking.  When you have something that works, release it on
 [PLaneT](http://planet.racket-lang.org).
 
 * Code for doing OAuth
+  - Now available [here](https://github.com/veer-public/OAuth-2.0)
 * Write bindings for libgit
 * Write bindings to Authorize.Net
 * Write libraries to interact with Wii Remotes
