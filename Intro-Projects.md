@@ -50,6 +50,7 @@ and start hacking.  When you have something that works, release it on
 * Code for doing OAuth
   - Now available [here](https://github.com/veer-public/OAuth-2.0)
 * Write bindings for libgit
+  - Work started [here](https://github.com/jarnaldich/racket-git)
 * Write bindings to Authorize.Net
 * Write libraries to interact with Wii Remotes
 * Write libraries to interact with game controllers
