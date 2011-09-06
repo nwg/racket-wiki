@@ -12,11 +12,8 @@ mailing list](http://racket-lang.org/community.html).
 These are improvements to the Racket source.  Fork the GitHub repository
 and then submit a pull request.
 
-* Revise the FFI docs: better docs, lots of examples, guide-like text
 * Port code that uses `class100` to the current class system
-* Get rid of units in the net collect
-  - _Forked to <http://github.com/97jaz/racket>_
-  - _Any suggestions on what to do with net/tcp-redirect.rkt? Is the idea to get rid of tcp^ altogether?_
+* ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
 * Find uses of a-lists and replace them with hash tables where
@@ -25,9 +22,16 @@ and then submit a pull request.
 * Find things that use lists for sets, replace them with `racket/set'
   - Search for uses of member and friends to find
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
-* Documentation clarifications and/or small examples
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * Fix Swindle to have `call-next-method` available without #lang swindle
+
+# Documentation Improvements
+
+Similar to code improvements (docs are code).
+
+* Revise the FFI docs: better docs, lots of examples, guide-like text
+* Add a detailed example to the profiler manual.
+* Documentation clarifications and/or small examples
 
 These are improvements to other systems to better support Racket.
 
