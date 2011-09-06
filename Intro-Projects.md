@@ -70,8 +70,8 @@ and start hacking.  When you have something that works, release it on
 * Write XMPP bindings
 * Bindings for a text to speech engine
 * IRC log highlighter
-* IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org));
-  [rudybot](https://github.com/offby1/rudybot) is another option)
+* IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org)), which
+  is better for a library than [rudybot](https://github.com/offby1/rudybot))
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
