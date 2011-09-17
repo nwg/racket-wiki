@@ -58,7 +58,7 @@ and start hacking.  When you have something that works, release it on
 * Write bindings to Authorize.Net
 * Write libraries to interact with Wii Remotes
   - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
-  - See [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
+  - [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
   - Mac OSX [Bluetooth Dev info](http://developer.apple.com/library/mac/#documentation/DeviceDrivers/Conceptual/Bluetooth/BT_Intro/BT_Intro.html)
 * Write libraries to interact with game controllers
   - This exists on for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
