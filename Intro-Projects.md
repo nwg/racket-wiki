@@ -18,12 +18,12 @@ and then submit a pull request.
   - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
 * Find uses of a-lists and replace them with hash tables where
   appropriate
-  - Search for uses of assq and friends to find
-* Find things that use lists for sets, replace them with `racket/set'
-  - Search for uses of member and friends to find
+  - Search for uses of `assq` and friends to find
+* Find things that use lists for sets, replace them with `racket/set`
+  - Search for uses of `member` and friends to find
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
-* Fix Swindle to have `call-next-method` available without #lang swindle
+* Fix Swindle to have `call-next-method` available without `#lang swindle`
 
 # Documentation Improvements
 
