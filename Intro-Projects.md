@@ -1,4 +1,4 @@
-This page lists Racket projects which are feasible for people who don't
+This page lists [Racket](http://www.racket-lang.org) projects which are feasible for people who don't
 have a lot of experience with the Racket code base. They're mostly
 small, self contained, and would be extremely useful. Some involve
 writing a new library that would be useful to lots of other people, and
