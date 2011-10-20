@@ -16,8 +16,8 @@ and then submit a pull request.
 * ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
-* Find uses of a-lists and replace them with hash tables where
-  appropriate
+* Find uses of alists and replace them with hash tables where
+  appropriate (note that short alists, below ~40 items, can be faster than hashes)
   - Search for uses of `assq` and friends to find
 * Find things that use lists for sets, replace them with `racket/set`
   - Search for uses of `member` and friends to find
