@@ -99,4 +99,5 @@ For the more ambitious Racketeer ...
   all the core language features that would make this extremely
   difficult; for example: keep immutable pairs)
 * Write a Clojure compatibility layer
+  - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
