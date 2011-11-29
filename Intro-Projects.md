@@ -101,3 +101,4 @@ For the more ambitious Racketeer ...
 * Write a Clojure compatibility layer
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
+* Implement s-expression-based regular expressions (i.e., [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt)s by Olin Shivers)
