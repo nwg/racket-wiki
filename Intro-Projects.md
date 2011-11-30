@@ -102,3 +102,4 @@ For the more ambitious Racketeer ...
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
 * Implement s-expression-based regular expressions (i.e., [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt)s by Olin Shivers)
+* Port the [GOOPS](http://www.gnu.org/software/guile/manual/html_node/GOOPS.html) object system from Guile to Racket.
