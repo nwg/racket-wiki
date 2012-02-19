@@ -24,6 +24,7 @@ and then submit a pull request.
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * Fix Swindle to have `call-next-method` available without `#lang swindle`
+* Convert Eli's Swindle documentation to Scribble.
 
 # Documentation Improvements
 
@@ -102,5 +103,4 @@ For the more ambitious Racketeer ...
 * Write a Clojure compatibility layer
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
-* Implement s-expression-based regular expressions (i.e., [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt)s by Olin Shivers)
-* Port the [GOOPS](http://www.gnu.org/software/guile/manual/html_node/GOOPS.html) object system from Guile to Racket.
+* Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
