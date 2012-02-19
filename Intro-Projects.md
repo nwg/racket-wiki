@@ -24,7 +24,6 @@ and then submit a pull request.
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * Fix Swindle to have `call-next-method` available without `#lang swindle`
-* Convert Eli's Swindle documentation to Scribble.
 
 # Documentation Improvements
 
@@ -33,6 +32,7 @@ Similar to code improvements (docs are code).
 * Revise the FFI docs: better docs, lots of examples, guide-like text
 * Add a detailed example to the profiler manual.
 * Documentation clarifications and/or small examples
+* Convert Eli's Swindle documentation to Scribble.
 
 # Integration
 
