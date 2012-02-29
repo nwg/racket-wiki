@@ -15,6 +15,13 @@ If you add another project idea, please follow this format:
 * Possible mentors: Asumu Takikawa
 * Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
 
+### Universe programming for Android ###
+* Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
+* Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
+* Requirements: Ideally experience with the Universe API and the Android platform.
+* Possible mentors: David Van Horn
+* Other:
+
 ### Write libraries to interact with Wii Remotes ###
   - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
   - [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
@@ -42,5 +49,4 @@ If you add another project idea, please follow this format:
 * Benefits:
 * Requirements:
 * Possible mentors:
-* Other:
 * Other:
