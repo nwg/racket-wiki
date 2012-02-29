@@ -1,18 +1,12 @@
 These are project ideas for the Google Summer of Code 2012 for the Racket programming language.
 
-If you add another project idea, please follow the format:
+If you add another project idea, please follow this format:
 ### Project name ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
 * Requirements: any required experience or knowledge.
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
-
-### Github integration for Racket ###
-* Summary: Implement github code highlighting, code editing, and other features to allow better Racket integration on github.
-* Benefits: Allows the Racket community to take more advantage of github.
-* Requirements: Functional programming experience. Knows about git/github. Ideally some familiarity with the internals of github.
-* Possible mentor:
 
 ### DrRacket support for git ###
 * Summary: Build a DrRacket plugin/tool that allows integration with git.
