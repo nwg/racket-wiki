@@ -56,9 +56,9 @@ Follow the template below:
 ---
 
 ### Write a gitolite replacement in Racket ###
-* Summary:
-* Benefits:
-* Requirements:
+* Summary: Build a replace for gitolite, which is software that manages the internal development repositories for Racket.
+* Benefits: Reduces dependency of Racket development on software in other languages.
+* Requirements/Difficulty: Knowledge of gitolite or similar systems. Functional programming experience. This is a more ambitious project.
 * Possible mentors:
 * Other:
 
@@ -73,10 +73,10 @@ Follow the template below:
 
 ---
 
-### Write bindings to SDL. In general, game dev. support for Racket ###
+### Game development support for Racket/Bindings to SDL. ###
 * Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
-* Benefits:
-* Requirements:
+* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
+* Requirements: Familiarity with game development. Functional programming experience a plus.
 * Possible mentors:
 * Other:
 
