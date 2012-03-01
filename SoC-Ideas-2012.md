@@ -35,6 +35,8 @@ Follow the template below:
 ### Write libraries to interact with Wii Remotes and/or game controllers ###
 * Summary: Write a library for interacting with Wiimotes for Racket.
 * Benefits: A library niched that isn't filled yet. Potentially useful in education.
+* Requirements: Familiarity with functional programming and ideally with foreign-function interface bindings.
+* Potential mentors:
 * Other: 
   - If the Wiimote library is just building an FFI binding, it may not take the whole 12 weeks,
     so this project should also try to support other kinds of controllers. Building a generic
@@ -47,7 +49,7 @@ Follow the template below:
 
 ---
 
-### Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org)) ###
+### Write a gitolite replacement in Racket ###
 * Summary:
 * Benefits:
 * Requirements:
