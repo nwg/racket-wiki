@@ -1,9 +1,11 @@
 Welcome! If you are a student who is interested in working on a Google Summer of Code project for [Racket](http://www.racket-lang.org), you are in the right place. For general information about eligbility, please look [here](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2012/faqs#student_eligibility) on Google's FAQ. The projects listed here are ideas that the community is excited about and would be willing to mentor for. Note that you are not restricted to these ideas. If you have your own project idea, we encourage you to discuss it on the Racket [mailing list](http://lists.racket-lang.org/users/).
 
+If you are a potential mentor and community member, please feel free to add your own project ideas here. Project ideas should be substantial enough to take about 12 weeks, but self-contained enough not to take longer. If you are interested in mentoring a project, please list yourself under the potential mentors of that idea. When you add an idea, please follow the template shown below.
+
 ## Project ideas ##
 
-If you add another project idea, please follow this format:
-### Project name ###
+Follow the template below:
+### Project template name ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
 * Requirements: any required experience or knowledge.
