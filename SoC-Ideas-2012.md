@@ -32,13 +32,18 @@ Follow the template below:
 
 ---
 
-### Write libraries to interact with Wii Remotes ###
-  - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
+### Write libraries to interact with Wii Remotes and/or game controllers ###
+* Summary: Write a library for interacting with Wiimotes for Racket.
+* Benefits: A library niched that isn't filled yet. Potentially useful in education.
+* Other: 
+  - If the Wiimote library is just building an FFI binding, it may not take the whole 12 weeks,
+    so this project should also try to support other kinds of controllers. Building a generic
+    functional abstraction for game controllers would be an interesting challenge.
+  -[Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
   - [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
   - Mac OSX [Bluetooth Dev info](http://developer.apple.com/library/mac/#documentation/DeviceDrivers/Conceptual/Bluetooth/BT_Intro/BT_Intro.html)
-* Write libraries to interact with game controllers
-  - This exists on for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
-  - maybe use [libsdl](http://www.libsdl.org/)?
+  - A game controller interface exists for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
+  - Maybe use [libsdl](http://www.libsdl.org/)?
 
 ---
 
@@ -66,3 +71,5 @@ Follow the template below:
 * Requirements:
 * Possible mentors:
 * Other:
+
+---
