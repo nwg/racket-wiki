@@ -20,6 +20,15 @@ Follow the template below:
 
 ---
 
+### Bindings to OpenCV ###
+* Summary: Bindings to OpenCV, the cross-platform image-capture and machine-vision toolkit.
+* Benefits: Lets Racket capture and process video streams and still images from webcams etc. Lets Racket perform machine vision tasks. Provides ingredients for making engaging teaching projects.
+* Requirements/Difficulty: FFI bindings. Needs access to a webcam. Possibly experience with integrating libraries into the Racket build system - it'd be nice to have it available easily for students on all platforms, but that's just a nice-to-have.
+* Possible mentor:
+* Other: 
+
+---
+
 ### DrRacket support for git ###
 * Summary: Build a DrRacket plugin/tool that allows integration with git.
 * Benefits: Better support for core developers, brings DrRacket closer to other IDEs, possibly teaching benefits.
