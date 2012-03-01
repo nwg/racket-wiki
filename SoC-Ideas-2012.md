@@ -1,4 +1,6 @@
-These are project ideas for the Google Summer of Code 2012 for the Racket programming language.
+Welcome! If you are a student who is interested in working on a Google Summer of Code project for Racket, you are in the right place. For general information about eligbility, please look [here](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2012/faqs#student_eligibility) on Google's FAQ. The projects listed here are ideas that the community is excited about and would be willing to mentor for. Note that you are not restricted to these ideas. If you have your own project idea, we encourage you to discuss it on the Racket [mailing list](http://lists.racket-lang.org/users/).
+
+## Project ideas ##
 
 If you add another project idea, please follow this format:
 ### Project name ###
