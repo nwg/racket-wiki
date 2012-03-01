@@ -6,7 +6,7 @@ If you are a **potential mentor** and/or **community member**, please feel free 
 
 For advice on mentoring, see the [GSoC mentoring manual](http://en.flossmanuals.net/GSoCMentoring/).
 
-To see what other project ideas are like, see the [GNOME Summer of Code](http://live.gnome.org/SummerOfCode2012/Ideas) ideas or for [Haskell](http://hackage.haskell.org/trac/summer-of-code/report/1).
+To see what other project ideas are like, see the ideas for [GNOME](http://live.gnome.org/SummerOfCode2012/Ideas), [Scala](http://www.scala-lang.org/gsoc2011), or for [Haskell](http://hackage.haskell.org/trac/summer-of-code/report/1).
 
 ## Project ideas ##
 
