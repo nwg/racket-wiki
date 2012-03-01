@@ -12,6 +12,8 @@ Follow the template below:
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
 
+---
+
 ### DrRacket support for git ###
 * Summary: Build a DrRacket plugin/tool that allows integration with git.
 * Benefits: Better support for core developers, brings DrRacket closer to other IDEs, possibly teaching benefits.
@@ -19,12 +21,16 @@ Follow the template below:
 * Possible mentors: Asumu Takikawa
 * Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
 
+---
+
 ### Universe programming for Android ###
 * Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
 * Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
 * Requirements: Ideally experience with the Universe API and the Android platform.
 * Possible mentors: David Van Horn
 * Other:
+
+---
 
 ### Write libraries to interact with Wii Remotes ###
   - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
@@ -34,6 +40,8 @@ Follow the template below:
   - This exists on for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
   - maybe use [libsdl](http://www.libsdl.org/)?
 
+---
+
 ### Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org)) ###
 * Summary:
 * Benefits:
@@ -41,12 +49,16 @@ Follow the template below:
 * Possible mentors:
 * Other:
 
+---
+
 ### `#lang scsh` or Racket shell support ###
 * Summary: Design and implement a Racket shell language that supports processes, regular expressions, and other tools needed for shell scripting.
 * Benefits: Another niche for Racket dogfooding. Fills a scripting role that currently Racket is not ideal for.
 * Requirements: Some familiarity with shell scripting. Functional programming experience.
 * Possible mentors:
 * Other:
+
+---
 
 ### Write bindings to SDL. In general, game dev. support for Racket ###
 * Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
