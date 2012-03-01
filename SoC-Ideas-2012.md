@@ -14,7 +14,7 @@ Follow the template below:
 ### Project template name ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
+* Requirements/Difficulty: any required experience or knowledge. Difficulty if applicable.
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
 
