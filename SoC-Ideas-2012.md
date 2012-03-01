@@ -2,6 +2,8 @@ Welcome! If you are a student who is interested in working on a Google Summer of
 
 If you are a potential mentor and community member, please feel free to add your own project ideas here. Project ideas should be substantial enough to take about 12 weeks, but self-contained enough not to take longer. If you are interested in mentoring a project, please list yourself under the potential mentors of that idea. When you add an idea, please follow the template shown below.
 
+To see what other project ideas are like, see the [GNOME Summer of Code](http://live.gnome.org/SummerOfCode2012/Ideas) ideas or for [Haskell](http://hackage.haskell.org/trac/summer-of-code/report/1).
+
 ## Project ideas ##
 
 Follow the template below:
