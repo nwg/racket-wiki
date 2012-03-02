@@ -40,7 +40,7 @@ Follow the template below:
 
 ### Compiler from Redex patterns to `racket/match` ###
 * Summary: [Redex](http://docs.racket-lang.org/redex/index.html) is a domain-specific language for designing programming language semantics. This project entails building a compiler from Redex's pattern language (used to describe terms and expressions) to the pattern language used by `racket/match`.
-* Benefits: More efficient pattern matching for Redex, maybe extensibility.
+* Benefits: More efficient pattern matching for Redex, which is used by the core dev team and other community members.
 * Requirements: Experience with functional programming, especially pattern matching. Ideally some experience with PL semantics.
 * Possible mentors: Robby Findler
 * Other: For more information about Redex, look at the [reference manual](http://docs.racket-lang.org/redex/index.html) and the [Semantics Engineering with PLT Redex](http://redex.racket-lang.org/) website.
@@ -50,7 +50,7 @@ Follow the template below:
 ### Extend Check Syntax ###
 * Summary: DrRacket has a great built-in online syntax analysis tool. However, it would be even better if it reported more diagnostic information such as unused definitions, unprovided definitions, and some easy static analysis (e.g., arity analysis).
 * Benefits: Makes developers lives easier. Might help students as well.
-* Requirements: Functional programming experience. GUI programming experience may also help.
+* Requirements: Functional programming, GUI programming experience is good. Also experience with programs that process other programs.
 * Possible mentors: Robby Findler
 * Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
 
@@ -67,10 +67,10 @@ Follow the template below:
 
 ### Design a graph layout library for Racket ###
 * Summary: DrRacket makes use of graph layout algorithms frequently in many parts of the UI. This project would involve writing a native Racket library that can handle that.
-* Benefits: Would allow more graph-based UIs in DrRacket and other Racket programs. Eliminates a dependency on other tools.
+* Benefits: Would allow more graph-based UIs in DrRacket and other Racket programs.
 * Requirements: Experience with functional programming and GUI programming.
 * Possible mentors: Robby Findler
-* Other:
+* Other: Functionality similar to [Graphviz](http://www.graphviz.org/) is desirable. One mode of operation might be to call out to Graphviz via the FFI.
 
 ---
 
