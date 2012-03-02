@@ -20,6 +20,15 @@ Follow the template below:
 
 ---
 
+### Data table/frame library ###
+* Summary: Build a library that provides a data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects) or Python's [panda](http://pandas.pydata.org/pandas-docs/stable/index.html) library.
+* Benefits: Fills a gap for Racket in statistical computing. Could tie into other tools like the `plot` library.
+* Requirements: Familiarity with numerical/statistical computing (R, Numpy, or other). Functional programming experience.
+* Possible mentors:
+* Other:
+
+---
+
 ### Bindings to OpenCV ###
 * Summary: Bindings to OpenCV, the cross-platform image-capture and machine-vision toolkit.
 * Benefits: Lets Racket capture and process video streams and still images from webcams etc. Lets Racket perform machine vision tasks. Provides ingredients for making engaging teaching projects.
