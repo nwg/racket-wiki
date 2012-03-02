@@ -29,11 +29,38 @@ Follow the template below:
 
 ---
 
-### Project support for DrRacket ###
-* Summary: DrRacket currently lacks a way to organize files into projects. This project would aim to develop a lightweight [optional] project functionality.
-* Benefits: Makes DrRacket more viable as a non-teaching IDE, possible benefits in education.
+### Compiler from Redex patterns to `racket/match` ###
+* Summary: Redex is a domain-specific language for designing programming language semantics. This project entails building a compiler from Redex's pattern language (used to describe terms and expressions) to the pattern language used by `racket/match`.
+* Benefits: More efficient pattern matching for Redex, maybe extensibility.
+* Requirements: Experience with functional programming, especially pattern matching. Ideally some experience with PL semantics.
+* Possible mentors: Robby Findler
+* Other:
+
+---
+
+### Extend Check Syntax ###
+* Summary: DrRacket has a great built-in online syntax analysis tool. However, it would be even better if it reported more diagnostic information such as unused definitions, unprovided definitions, and some easy static analysis (e.g., arity analysis).
+* Benefits: Makes developers lives easier. Might help students as well.
+* Requirements: Functional programming experience. GUI programming experience may also help.
+* Possible mentors: Robby Findler
+* Other:
+
+---
+
+### Implement proper indentation for Scribble documents ###
+* Summary: Scribble is a language-based documentation format for Racket. Scribble documents are currently not indented properly in DrRacket. This project involves implementing proper tabbing for Scribble and extending DrRacket to allow language-specific tabbing.
+* Benefits: Scribble would be easier to use for developers. Language-specific indentation could be useful in the future for different languages.
+* Requirements: Functional programming experience.
+* Possible mentors: Robby Findler
+* Other:
+
+---
+
+### Design a graph layout library for Racket ###
+* Summary: DrRacket makes use of graph layout algorithms frequently in many parts of the UI. This project would involve writing a native Racket library that can handle that.
+* Benefits: Would allow more graph-based UIs in DrRacket and other Racket programs. Eliminates a dependency on other tools.
 * Requirements: Experience with functional programming and GUI programming.
-* Possible mentors: Asumu Takikawa
+* Possible mentors: Robby Findler
 * Other:
 
 ---
