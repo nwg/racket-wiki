@@ -29,11 +29,20 @@ Follow the template below:
 
 ---
 
-### DrRacket support for git ###
-* Summary: Build a DrRacket plugin/tool that allows integration with git.
-* Benefits: Better support for core developers, brings DrRacket closer to other IDEs, possibly teaching benefits.
-* Requirements: familiarity with C (for FFI binding to libgit), functional programming and OO experience. Ideally experience with GUI programming.
+### Project support for DrRacket ###
+* Summary: DrRacket currently lacks a way to organize files into projects. This project would aim to develop a lightweight [optional] project functionality.
+* Benefits: Makes DrRacket more viable as a non-teaching IDE, possible benefits in education.
+* Requirements: Experience with functional programming and GUI programming.
 * Possible mentors: Asumu Takikawa
+* Other:
+
+---
+
+### Git library for Racket ###
+* Summary: Build a Racket library that allows interaction with git repositories.
+* Benefits: Will make it easier to write scripts for development, Racket-based git tools in the future.
+* Requirements: familiarity with C (if binding to libgit), functional programming and OO experience.
+* Possible mentors:
 * Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
 
 ---
@@ -64,21 +73,21 @@ Follow the template below:
 
 ---
 
-### Write a gitolite replacement in Racket ###
-* Summary: Build a replace for gitolite, which is software that manages the internal development repositories for Racket.
+### Write a git hosting system for Racket ###
+* Summary: Build a git hosting system (like gitolite, but with more features) for managing Racket repositories.
 * Benefits: Reduces dependency of Racket development on software in other languages.
 * Requirements/Difficulty: Knowledge of gitolite or similar systems. Functional programming experience. This is a more ambitious project.
-* Possible mentors:
+* Possible mentors: Eli Barzilay
 * Other:
 
 ---
 
-### `#lang scsh` or Racket shell support ###
+### Racket shell support ###
 * Summary: Design and implement a Racket shell language that supports processes, regular expressions, and other tools needed for shell scripting.
-* Benefits: Another niche for Racket dogfooding. Fills a scripting role that currently Racket is not ideal for.
-* Requirements: Some familiarity with shell scripting. Functional programming experience.
-* Possible mentors:
-* Other:
+* Benefits: Another niche for Racket dogfooding. Fills a scripting role Racket is not currently ideal for.
+* Requirements: Familiarity with shell scripting. Functional programming experience.
+* Possible mentors: Eli Barzilay
+* Other: See [scsh](http://www.scsh.net/) for inspiration. The goal is not full compatibility with scsh, but the ideas may be importable.
 
 ---
 
