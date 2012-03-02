@@ -2,11 +2,11 @@ Welcome! If you are a **student** who is interested in working on a Google Summe
 
 For more advice on applying for a project, see Google's [advice for students](http://code.google.com/p/google-summer-of-code/wiki/AdviceforStudents) page. We encourage you to get involved on [IRC](http://www.racket-lang.org/community.html) or the mailing list prior to applying. Submitting patches to Racket or starting to write code on github is even better.
 
-If you are a **potential mentor** and/or **community member**, please feel free to add your own project ideas here. Project ideas should be substantial enough to take about 12 weeks, but self-contained enough not to take longer. If you are interested in mentoring a project, please list yourself under the potential mentors of that idea. Don't hesitate to add ideas if you can't mentor yourself, just leave it blank. When you add an idea, please follow the template shown below.
+If you are a **potential mentor** and/or **community member**, please feel free to add your own project ideas here. Project ideas should be substantial enough to take about 12 weeks, but self-contained enough not to take longer. If you are interested in mentoring a project, please list yourself under the potential mentors of that idea. Don't hesitate to add ideas if you can't mentor yourself; just leave it blank. When you add an idea, please follow the template shown below.
 
 For advice on mentoring, see the [GSoC mentoring manual](http://en.flossmanuals.net/GSoCMentoring/).
 
-To see what other project ideas are like, see the ideas for [GNOME](http://live.gnome.org/SummerOfCode2012/Ideas), [Scala](http://www.scala-lang.org/gsoc2011), or for [Haskell](http://hackage.haskell.org/trac/summer-of-code/report/1).
+For an idea of what project ideas are like for other orgs, see the ideas for [GNOME](http://live.gnome.org/SummerOfCode2012/Ideas), [Scala](http://www.scala-lang.org/gsoc2011), or for [Haskell](http://hackage.haskell.org/trac/summer-of-code/report/1).
 
 ## Project ideas ##
 
