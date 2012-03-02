@@ -30,11 +30,11 @@ Follow the template below:
 ---
 
 ### Compiler from Redex patterns to `racket/match` ###
-* Summary: Redex is a domain-specific language for designing programming language semantics. This project entails building a compiler from Redex's pattern language (used to describe terms and expressions) to the pattern language used by `racket/match`.
+* Summary: [Redex](http://docs.racket-lang.org/redex/index.html) is a domain-specific language for designing programming language semantics. This project entails building a compiler from Redex's pattern language (used to describe terms and expressions) to the pattern language used by `racket/match`.
 * Benefits: More efficient pattern matching for Redex, maybe extensibility.
 * Requirements: Experience with functional programming, especially pattern matching. Ideally some experience with PL semantics.
 * Possible mentors: Robby Findler
-* Other:
+* Other: For more information about Redex, look at the [reference manual](http://docs.racket-lang.org/redex/index.html) and the [Semantics Engineering with PLT Redex](http://redex.racket-lang.org/) website.
 
 ---
 
@@ -43,7 +43,7 @@ Follow the template below:
 * Benefits: Makes developers lives easier. Might help students as well.
 * Requirements: Functional programming experience. GUI programming experience may also help.
 * Possible mentors: Robby Findler
-* Other:
+* Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
 
 ---
 
