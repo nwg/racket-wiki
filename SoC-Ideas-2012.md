@@ -29,6 +29,15 @@ Follow the template below:
 
 ---
 
+### DrRacket tool for collaborative editing ###
+* Summary: a DrRacket plug-in to enable real-time collaborative editing of a source file, possibly with fine-grained logging as well.  Two or more different programmers each edit the same file simultaneously, and edits one of them make show up immediately on the others' screens.
+* Benefits: Collaborative editing has various benefits to students and developers. The logging functionality could allow an instructor to pinpoint mistakes a student makes.
+* Requirements/Difficulty: Functional programming experience and GUI programming experience. Ideally some experience with networking.
+* Possible mentor: Robby Findler, Asumu Takikawa
+* Other:
+
+---
+
 ### Compiler from Redex patterns to `racket/match` ###
 * Summary: [Redex](http://docs.racket-lang.org/redex/index.html) is a domain-specific language for designing programming language semantics. This project entails building a compiler from Redex's pattern language (used to describe terms and expressions) to the pattern language used by `racket/match`.
 * Benefits: More efficient pattern matching for Redex, maybe extensibility.
