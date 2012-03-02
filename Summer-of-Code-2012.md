@@ -1,1 +1,3 @@
-GSoC 2012 information
+The [Racket](http://www.racket-lang.org) Programming Language is applying as a mentoring organization for the [Google Summer of Code 2012](http://www.google-melange.com/gsoc/homepage/google/gsoc2012). Our aim is to use this as an opportunity to grow the Racket community and develop some useful tools or libraries.
+
+If you are a **student**, make sure to look at the [[ideas|SoC Ideas 2012]] page to see what projects the community is interested in. You are also free to come up with your own project proposal. However, note that an idea that is too ambitious or too easy will not be accepted.
