@@ -144,3 +144,12 @@ Follow the template below:
 * Other:
 
 ---
+
+### Scripting language for Google SketchUp ###
+* Summary: Allow Racket to be used as scripting language for Google SketchUp.
+* Benefits: Designers and architects that employ generative design techniques. Very useful in education.
+* Requirements: Familiarity with (some) CAD application and Racket.
+* Possible mentors: Antonio Menezes Leitao
+* Other:
+
+---
