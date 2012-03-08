@@ -153,3 +153,25 @@ Follow the template below:
 * Other:
 
 ---
+
+### SIMD Intrinsics ###
+* Summary: Provide access to SIMD operations for fast numeric computing.
+* Benefits: Fast numeric computation is necessary for computer audio and vision, and scientific computing.
+* Requirements/Difficulty: all CS undergrads should have the basic knowledge required.
+* Possible mentor: can I nominate Matthew Flatt?.
+* Other: The notes on adding SIMD to Haskell might be useful: http://hackage.haskell.org/trac/ghc/wiki/SIMD
+
+The basic implementation would provide SIMD intrinsics that operate on fl/fxvector similar to the existing fx/fl operations. Better implementations would build abstractions on top of these leading to further speedup and ease-of-use. It might require hacking the JIT or alternatively by building a little language for expressing SIMD operations along with a custom compiler.
+
+---
+
+### An Assembler ###
+* Summary: build an in-memory assembler in Racket.
+* Benefits: Racket is the premier language for language exploration, but it doesn't support experimentation with runtime characteristics. This requires custom code generation. Complex projects might want something like LLVM but for just messing around an assembler is a good way to get started. It also allows exploration of systems programming (you can call into the kernel directly). 
+* Requirements/Difficulty: a willingness to get stuck into low-level detail.
+* Possible mentor: Noel Welsh.
+* Other: there are some existing projects:
+
+https://github.com/noelwelsh/assembler
+
+https://github.com/darius/miasma
