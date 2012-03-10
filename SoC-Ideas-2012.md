@@ -20,29 +20,11 @@ Follow the template below:
 
 ---
 
-### Data table/frame library ###
-* Summary: Build a library that provides a data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects) or Python's [panda](http://pandas.pydata.org/pandas-docs/stable/index.html) library.
-* Benefits: Fills a gap for Racket in statistical computing. Could tie into other tools like the `plot` library.
-* Requirements: Familiarity with numerical/statistical computing (R, Numpy, or other). Functional programming experience.
-* Possible mentors:
-* Other:
-
----
-
-### Bindings to OpenCV ###
-* Summary: Bindings to OpenCV, the cross-platform image-capture and machine-vision toolkit.
-* Benefits: Lets Racket capture and process video streams and still images from webcams etc. Lets Racket perform machine vision tasks. Provides ingredients for making engaging teaching projects.
-* Requirements/Difficulty: FFI bindings. Needs access to a webcam. Possibly experience with integrating libraries into the Racket build system - it'd be nice to have it available easily for students on all platforms, but that's just a nice-to-have.
-* Possible mentor:
-* Other: 
-
----
-
 ### DrRacket tool for collaborative editing ###
 * Summary: a DrRacket plug-in to enable real-time collaborative editing of a source file, possibly with fine-grained logging as well.  Two or more different programmers each edit the same file simultaneously, and edits one of them make show up immediately on the others' screens.
 * Benefits: Collaborative editing has various benefits to students and developers. The logging functionality could allow an instructor to pinpoint mistakes a student makes.
 * Requirements/Difficulty: Functional programming experience and GUI programming experience. Ideally some experience with networking.
-* Possible mentor: Robby Findler, Asumu Takikawa
+* Possible mentor: Robby Findler
 * Other:
 
 ---
@@ -83,38 +65,12 @@ Follow the template below:
 
 ---
 
-### Git library for Racket ###
-* Summary: Build a Racket library that allows interaction with git repositories.
-* Benefits: Will make it easier to write scripts for development, Racket-based git tools in the future.
-* Requirements: familiarity with C (if binding to libgit), functional programming and OO experience.
-* Possible mentors:
-* Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
-
----
-
 ### Universe programming for Android ###
 * Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
 * Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
 * Requirements: Ideally experience with the Universe API and the Android platform.
 * Possible mentors: David Van Horn
 * Other:
-
----
-
-### Write libraries to interact with Wii Remotes and/or game controllers ###
-* Summary: Write a library for interacting with Wiimotes for Racket.
-* Benefits: A library niched that isn't filled yet. Potentially useful in education.
-* Requirements: Familiarity with functional programming and ideally with foreign-function interface bindings.
-* Potential mentors:
-* Other: 
-  - If the Wiimote library is just building an FFI binding, it may not take the whole 12 weeks,
-    so this project should also try to support other kinds of controllers. Building a generic
-    functional abstraction for game controllers would be an interesting challenge.
-  - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
-  - [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
-  - Mac OSX [Bluetooth Dev info](http://developer.apple.com/library/mac/#documentation/DeviceDrivers/Conceptual/Bluetooth/BT_Intro/BT_Intro.html)
-  - A game controller interface exists for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
-  - Maybe use [libsdl](http://www.libsdl.org/)?
 
 ---
 
@@ -133,15 +89,6 @@ Follow the template below:
 * Requirements: Familiarity with shell scripting. Functional programming experience.
 * Possible mentors: Eli Barzilay
 * Other: See [scsh](http://www.scsh.net/) for inspiration. The goal is not full compatibility with scsh, but the ideas may be importable.
-
----
-
-### Game development support for Racket/Bindings to SDL. ###
-* Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
-* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
-* Requirements: Familiarity with game development. Functional programming experience a plus.
-* Possible mentors:
-* Other:
 
 ---
 
@@ -175,3 +122,56 @@ The basic implementation would provide SIMD intrinsics that operate on fl/fxvect
 https://github.com/noelwelsh/assembler
 
 https://github.com/darius/miasma
+
+---
+
+### Data table/frame library ###
+* Summary: Build a library that provides a data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects) or Python's [panda](http://pandas.pydata.org/pandas-docs/stable/index.html) library.
+* Benefits: Fills a gap for Racket in statistical computing. Could tie into other tools like the `plot` library.
+* Requirements: Familiarity with numerical/statistical computing (R, Numpy, or other). Functional programming experience.
+* Possible mentors:
+* Other:
+ 
+---
+
+### Bindings to OpenCV ###
+* Summary: Bindings to OpenCV, the cross-platform image-capture and machine-vision toolkit.
+* Benefits: Lets Racket capture and process video streams and still images from webcams etc. Lets Racket perform machine vision tasks. Provides ingredients for making engaging teaching projects.
+* Requirements/Difficulty: FFI bindings. Needs access to a webcam. Possibly experience with integrating libraries into the Racket build system - it'd be nice to have it available easily for students on all platforms, but that's just a nice-to-have.
+* Possible mentor:
+* Other: 
+
+---
+
+### Git library for Racket ###
+* Summary: Build a Racket library that allows interaction with git repositories.
+* Benefits: Will make it easier to write scripts for development, Racket-based git tools in the future.
+* Requirements: familiarity with C (if binding to libgit), functional programming and OO experience.
+* Possible mentors:
+* Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
+
+---
+
+### Write libraries to interact with Wii Remotes and/or game controllers ###
+* Summary: Write a library for interacting with Wiimotes for Racket.
+* Benefits: A library niched that isn't filled yet. Potentially useful in education.
+* Requirements: Familiarity with functional programming and ideally with foreign-function interface bindings.
+* Potential mentors:
+* Other: 
+  - If the Wiimote library is just building an FFI binding, it may not take the whole 12 weeks,
+    so this project should also try to support other kinds of controllers. Building a generic
+    functional abstraction for game controllers would be an interesting challenge.
+  - [Technical details](http://wiibrew.org/wiki/Wiimote) on the Wiimote
+  - [wiiuse](http://sourceforge.net/projects/wiiuse/) has code for the Wiimote's protocol, as well as Win/Linux bluetooth code
+  - Mac OSX [Bluetooth Dev info](http://developer.apple.com/library/mac/#documentation/DeviceDrivers/Conceptual/Bluetooth/BT_Intro/BT_Intro.html)
+  - A game controller interface exists for [Mac OS X](https://github.com/get-bonus/get-bonus/blob/master/exp/joystick.rkt), but an interface should be normalized and available across platforms.
+  - Maybe use [libsdl](http://www.libsdl.org/)?
+
+---
+
+### Game development support for Racket/Bindings to SDL. ###
+* Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
+* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
+* Requirements: Familiarity with game development. Functional programming experience a plus.
+* Possible mentors:
+* Other:
