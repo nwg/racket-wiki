@@ -9,4 +9,10 @@ This page captures useful code snippets that are too small to be a Planet packag
                              (HMAC-SHA1-stuffer #"mysupersecretkey")))
 ```
 
+##### Split a string into lines
+
+```racket
+(regexp-split "\n+" str)
+```
+
 ###### Thanks to Zack Galler for the suggestion.
