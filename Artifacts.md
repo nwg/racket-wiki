@@ -15,4 +15,10 @@ This page captures useful code snippets that are too small to be a Planet packag
 (regexp-split "\n+" str)
 ```
 
+##### Fetch the contents of a URL
+
+```racket
+(require net/url)
+(port->string (get-pure-port (string->url "https://www.google.com")))
+```
 ###### Thanks to Zack Galler for the suggestion.
