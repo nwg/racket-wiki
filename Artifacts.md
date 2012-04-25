@@ -59,17 +59,18 @@ Note: Uses generate-authenticator-key from the preceding Artifact.
 
 ```
 ##### Controversial code: cleaning up state on exit, when errors are expected
-```racket
-#|
-Explanation: this code creates an unhygenic macro which will execute an arbitrary number of procedures 
+This code creates an unhygenic macro which will execute an arbitrary number of procedures 
 while ignoring errors thrown.
 
-it most closely resembles Microsoft's "On Error Resume Next",
-in that it will execute a number of potentially error-causing statements
-****without allowing control-flow to branch***.**
+It most closely resembles Microsoft's "On Error Resume Next", in that it will 
+sequentially execute a number of potentially error-causing statements
+**without allowing control-flow to branch**.
 
 Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
 to use instead of this macro. 
+
+```racket
+#|
 
 USAGE: 
 (define (myerror n)
