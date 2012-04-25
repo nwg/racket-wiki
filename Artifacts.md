@@ -181,4 +181,18 @@ This is a quick hack for parsing libpcap files (the standard format used by pack
             [else empty]))))
 ```
 
+    
+#### Directly calling the OpenSSL executable from Racket 
+
+This example generates a 1024-bit RSA key in PEM format 
+
+Idea courtesy of Neil Van Dyke. Control flow suggested by Neil Van Dyke, Robby Findler and Eli Barzilay. 
+
+```racket
+(parameterize ([current-input-port (open-input-string "")])
+  (with-output-to-string (λ _(system* (build-path "c:" "openssl-win32" "bin" "openssl.exe")
+                                      "genrsa" 
+                                      "1024"))))
+```
+
 ###### Thanks to Zack Galler for the suggestion.
