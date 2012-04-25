@@ -42,13 +42,14 @@ This page captures useful code snippets that are too small to be a Planet packag
 
 ;;and now we get *signed-message* back and attempt to authenticate it
 
-(let ((MAC (subbytes *signed-message* 0 20))
+(let ((received-MAC (subbytes *signed-message* 0 20))
       (received-plaintext (subbytes *signed-message* 20)))
-  (if (bytes=? MAC
+  (if (bytes=? received-MAC
                (HMAC-SHA1 received-plaintext 
                           *private-key*))
       "Message is authentic and not forged"
       "Message has been forged"))
+
 ```
 
 ###### Thanks to Zack Galler for the suggestion.
