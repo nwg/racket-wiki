@@ -71,15 +71,13 @@ to use instead of this macro.
 
 ```racket
 #|
-
 USAGE: 
 (define (myerror n)
   (raise (exn:fail (format "threw error ~A\n" n) (current-continuation-marks))))
 
 (on-error-resume-next (myerror 1) (myerror 2) (myerror 3) (myerror 4))
-
-
 |#
+
 (require mzlib/defmacro)
 
 (define-macro (on-error-resume-next . (fn . rest))
