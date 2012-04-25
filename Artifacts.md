@@ -66,10 +66,8 @@ it most closely resembles Microsoft's "On Error Resume Next",
 in that it will execute a number of potentially error-causing statements
  without allowing control-flow to branch.
 
-Many, including Matthew F. strongly believe that Racket's dynamic-wind is the correct primitive 
+Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
 to use instead this macro. 
-
-I use dynamic-wind a lot, and still find the (finally...) macro has utility.
 
 |#
 (require mzlib/defmacro)
