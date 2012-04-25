@@ -59,20 +59,25 @@ Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication o
 ##### Controversial code: cleaning up state on exit, when errors are expected
 ```racket
 #|
-Explanation: this code creates an unhygenic macro which will execute any number of procedures 
+Explanation: this code creates an unhygenic macro which will execute an arbitrary number of procedures 
 while ignoring errors thrown.
 
 it most closely resembles Microsoft's "On Error Resume Next",
 in that it will execute a number of potentially error-causing statements
- without allowing control-flow to branch.
+****without allowing control-flow to branch***.**
 
 Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
 to use instead of this macro. 
 
+USAGE: 
+(define (myerror n)
+  (raise (exn:fail (format "threw error ~A\n" n) (current-continuation-marks))))
+
+(finally (myerror 1) (myerror 2) (myerror 3) (myerror 4))
+
+
 |#
 (require mzlib/defmacro)
-
-;USAGE: (finally (proc1 ...) (proc2...) (proc3...) ...)
 
 (define-macro (finally . (fn . rest))
   (let ((out (gensym))
