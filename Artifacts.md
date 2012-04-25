@@ -30,7 +30,7 @@ This page captures useful code snippets that are too small to be a Planet packag
 ```
 ##### How to generate a Message Authentication Code and authenticate a signed message.
 ```racket
-((require web-server/stuffers/hmac-sha1)
+(require web-server/stuffers/hmac-sha1)
 
 (define *private-key* (generate-authenticator-key 128))
 
