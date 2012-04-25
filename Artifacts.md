@@ -28,4 +28,27 @@ This page captures useful code snippets that are too small to be a Planet packag
   (-> exact-positive-integer? bytes?)
   (list->bytes (build-list key-len (λ _ (random 255)))))
 ```
+##### How to generate a Message Authentication Code and authenticate a signed message.
+```racket
+((require web-server/stuffers/hmac-sha1)
+
+(define *private-key* (generate-authenticator-key 128))
+
+(define *signed-message* (let* ((plaintext #"We are Spinal Tap!")
+                                (MAC (HMAC-SHA1 plaintext *private-key*)))
+                           (bytes-append MAC plaintext)))
+  
+;;now we lose custody of *signed-message* by sending it to the client...
+
+;;and now we get *signed-message* back and attempt to authenticate it
+
+(let ((MAC (subbytes *signed-message* 0 20))
+      (received-plaintext (subbytes *signed-message* 20)))
+  (if (bytes=? MAC
+               (HMAC-SHA1 received-plaintext 
+                          *private-key*))
+      "Message is authentic and not forged"
+      "Message has been forged"))
+```
+
 ###### Thanks to Zack Galler for the suggestion.
