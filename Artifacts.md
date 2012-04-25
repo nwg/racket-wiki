@@ -23,7 +23,7 @@ This page captures useful code snippets that are too small to be a Planet packag
 ```
 ##### generate a n-byte key for use in MAC authentication (like HMAC-SHA1)
 ```racket
-;usage (generate-authenticator-key 128) -> returns 128-byte key
+;usage (generate-authenticator-key 32) -> returns 256-bit key
 (define/contract (generate-authenticator-key key-len)
   (-> exact-positive-integer? bytes?)
   (list->bytes (build-list key-len (λ _ (random 255)))))
@@ -39,7 +39,8 @@ Note: Uses generate-authenticator-key from the preceding Artifact.
 ```racket
 (require web-server/stuffers/hmac-sha1)
 
-(define *private-key* (generate-authenticator-key 128))
+;use 128-bit key
+(define *private-key* (generate-authenticator-key 16))
 
 (define *signed-message* (let* ((plaintext #"We are Spinal Tap!")
                                 (MAC (HMAC-SHA1 plaintext *private-key*)))
@@ -189,6 +190,19 @@ Idea courtesy of Neil Van Dyke. Control flow suggested by Neil Van Dyke, Robby F
   (with-output-to-string (λ _(system* (build-path "c:" "openssl-win32" "bin" "openssl.exe")
                                       "genrsa" 
                                       "1024"))))
+```
+
+#### More OpenSSL: generating an HMAC-SHA1 digest 
+```racket
+;;returns the string "(stdin)= 5df23ffdf57d5d925f150c885d64bee2eaf55a43\n"
+
+(parameterize ([current-input-port (open-input-string "We are Spinal Tap!")])
+  (with-output-to-string (λ _ (system* (build-path "c:" "openssl-win32" "bin" "openssl.exe")
+                                      "dgst" 
+                                      "-sha1"
+                                      "-hex"
+                                      "-hmac"
+                                      #"mysecretkey"))))
 ```
 
 ###### Thanks to Zack Galler for the suggestion.
