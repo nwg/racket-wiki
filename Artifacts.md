@@ -72,7 +72,7 @@ to use instead of this macro.
 |#
 (require mzlib/defmacro)
 
-;USAGE: (finally proc1 proc2 proc3...)
+;USAGE: (finally (proc1 ...) (proc2...) (proc3...) ...)
 
 (define-macro (finally . (fn . rest))
   (let ((out (gensym))
