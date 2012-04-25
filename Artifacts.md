@@ -67,7 +67,7 @@ in that it will execute a number of potentially error-causing statements
  without allowing control-flow to branch.
 
 Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
-to use instead this macro. 
+to use instead of this macro. 
 
 |#
 (require mzlib/defmacro)
