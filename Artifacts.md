@@ -31,7 +31,8 @@ This page captures useful code snippets that are too small to be a Planet packag
 ##### How to generate a Message Authentication Code and authenticate a signed message.
 ```racket
 #|
-This would be useful for creating an "Unforgeable Authenticator Cookie", per the MIT Cookie Eater's recommendations (see: Do's And Don'ts of Client Authentication on the Web, Fu et al"
+This would be useful for creating an "Unforgeable Authenticator Cookie", per the MIT 
+Cookie Eater's recommendations (see: Do's And Don'ts of Client Authentication on the Web, Fu et al"
 |#
 
 (require web-server/stuffers/hmac-sha1)
