@@ -56,5 +56,27 @@ Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication o
       "Message has been forged"))
 
 ```
+##### Controversial code: cleaning up state on exit, when errors are expected
+```racket
+#|
+Explanation: this code creates an unhygenic macro which will execute any number of procedures while ignoring errors thrown.
+
+it most closely resembles Microsoft's "On Error Resume Next", in that it will execute a number of potentially error-causing statements without allowing control-flow to branch.
+
+Many, including Matthew F. strongly believe that dynamic-wind is the correct primitive to use instead this macro. I use dynamic-wind a lot, and still find the (finally...) macro has utility.
+
+|#
+(require mzlib/defmacro)
+
+;USAGE: (finally proc1 proc2 proc3...)
+
+(define-macro (finally . (fn . rest))
+  (let ((out (gensym))
+        (k   (gensym)))
+  `(let* ((,out #f))
+    (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn)) (,out))])
+      ,@(map (lambda (f) `(let/cc ,k (set! ,out ,k) ,f)) (cons fn rest))))))
+```     
+
 
 ###### Thanks to Zack Galler for the suggestion.
