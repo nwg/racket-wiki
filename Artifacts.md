@@ -21,4 +21,11 @@ This page captures useful code snippets that are too small to be a Planet packag
 (require net/url)
 (port->string (get-pure-port (string->url "https://www.google.com")))
 ```
+##### generate a n-byte key for use in MAC authentication (like HMAC-SHA1)
+```racket
+;usage (generate-authenticator-key 128) -> returns 128-byte key
+(define/contract (generate-authenticator-key key-len)
+  (-> exact-positive-integer? bytes?)
+  (list->bytes (build-list key-len (λ _ (random 255)))))
+```
 ###### Thanks to Zack Galler for the suggestion.
