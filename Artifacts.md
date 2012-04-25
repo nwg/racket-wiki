@@ -59,11 +59,17 @@ Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication o
 ##### Controversial code: cleaning up state on exit, when errors are expected
 ```racket
 #|
-Explanation: this code creates an unhygenic macro which will execute any number of procedures while ignoring errors thrown.
+Explanation: this code creates an unhygenic macro which will execute any number of procedures 
+while ignoring errors thrown.
 
-it most closely resembles Microsoft's "On Error Resume Next", in that it will execute a number of potentially error-causing statements without allowing control-flow to branch.
+it most closely resembles Microsoft's "On Error Resume Next",
+in that it will execute a number of potentially error-causing statements
+ without allowing control-flow to branch.
 
-Many, including Matthew F. strongly believe that dynamic-wind is the correct primitive to use instead this macro. I use dynamic-wind a lot, and still find the (finally...) macro has utility.
+Many, including Matthew F. strongly believe that Racket's dynamic-wind is the correct primitive 
+to use instead this macro. 
+
+I use dynamic-wind a lot, and still find the (finally...) macro has utility.
 
 |#
 (require mzlib/defmacro)
