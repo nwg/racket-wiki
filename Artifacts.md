@@ -87,16 +87,11 @@ USAGE:
   `(let* ((,out #f))
     (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn)) (,out))])
       ,@(map (lambda (f) `(let/cc ,k (set! ,out ,k) ,f)) (cons fn rest))))))
-```     
-
-##### Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets
+```
+##### Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets (courtesy of Jay McCarthy)
 
 ```racket
-
 #lang web-server
-#|
-code provided by Jay McCarthy
-|#  
 (require  web-server/servlet-env)
 
 (define (secure-start request)
