@@ -29,17 +29,14 @@ This page captures useful code snippets that are too small to be a Planet packag
   (list->bytes (build-list key-len (λ _ (random 255)))))
 ```
 
-##### How to generate a Message Authentication Code and authenticate a signed message.
+##### How to generate a Message Authentication Code (MAC) and authenticate a signed message.
+
+This would be useful for creating the "Unforgeable Authenticator Cookie", discussed in section 4.1 of the MIT 
+Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication on the Web", Fu et al)
+
+Note: Uses generate-authenticator-key from the preceding Artifact.
 
 ```racket
-#|
-This would be useful for creating an "Unforgeable Authenticator Cookie", per the MIT 
-Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication on the Web", Fu at para 4.1)
-
-Uses generate-authenticator-key from the preceding Artifact.
-
-|#
-
 (require web-server/stuffers/hmac-sha1)
 
 (define *private-key* (generate-authenticator-key 128))
