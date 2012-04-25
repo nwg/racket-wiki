@@ -64,7 +64,7 @@ while ignoring errors thrown.
 
 It most closely resembles Microsoft's "On Error Resume Next", in that it will 
 sequentially execute a number of potentially error-causing statements
-**without allowing control-flow to branch**.
+_without allowing control-flow to branch_.
 
 Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
 to use instead of this macro. 
