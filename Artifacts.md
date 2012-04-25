@@ -28,7 +28,9 @@ This page captures useful code snippets that are too small to be a Planet packag
   (-> exact-positive-integer? bytes?)
   (list->bytes (build-list key-len (λ _ (random 255)))))
 ```
+
 ##### How to generate a Message Authentication Code and authenticate a signed message.
+
 ```racket
 #|
 This would be useful for creating an "Unforgeable Authenticator Cookie", per the MIT 
@@ -88,6 +90,7 @@ USAGE:
 ```     
 
 ##### Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets
+
 ```racket
 
 #lang web-server
