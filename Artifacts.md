@@ -35,6 +35,9 @@ This page captures useful code snippets that are too small to be a Planet packag
 #|
 This would be useful for creating an "Unforgeable Authenticator Cookie", per the MIT 
 Cookie Eater's recommendations (see: "Do's And Don'ts of Client Authentication on the Web", Fu at para 4.1)
+
+Uses generate-authenticator-key from the preceding Artifact.
+
 |#
 
 (require web-server/stuffers/hmac-sha1)
