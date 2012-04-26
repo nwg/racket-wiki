@@ -272,8 +272,10 @@ You still need to send the reponse back to the client via one of Jay McCarthy's 
 ```racket
 #|
 USAGE: 
-(make-xml-response `(xml "victory!"))
--> #<response>
+(define res (make-xml-response `(xml "victory!")))
+(call-with-output-string (response-output res))
+-> "<xml>victory!</xml>"
+
 |#
 #lang racket
 (require  xml
