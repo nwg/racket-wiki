@@ -261,5 +261,36 @@ secure-key-generation uses the **on-errror-resume-next** Artifact from above.
    (set! key-thread null)
    (set! daily-key null)))
 ```
+#### AJAX: A working incantation for generating an HTTP reponse to a browser request created by javascript:HTTPXmlRequest
+
+Note the correct **MIME-type** seems particularly important to get the browser to understand what you're sending over. 
+
+Client-side convention with respect setting up the javascript AJAX callback (better word: continuation) seems to be to at least check the **message-field** equal to "OK", so be aware of this. 
+
+You will still need to send the reponse back to the client via one of Jay McCarthy's primitives such as send/suspend/dispatch (if stateless), or send/back (if stateful)
+
+```racket
+#|
+USAGE: 
+(make-xml-response `(xml "victory!"))
+-> #<response>
+|#
+#lang racket
+(require  xml
+          web-server/servlet-env
+          web-server/http/response-structs
+          web-server/http/request-structs)
+
+;; or just use #lang web-server and (require xml), if that's easier for you
+
+(define (make-xml-response  #:code [code 200]
+                            #:message [message #"OK"]
+                            #:seconds [seconds (current-seconds)]
+                            #:mime-type [mime-type #"text/xml charset=utf-8"]
+                            #:headers [headers (list (make-header #"Cache-Control" #"no-cache"))]
+                            content)
+  (response/full code message seconds mime-type headers (list (string->bytes/utf-8 (xexpr->string content)))))
+```
+
 
 ###### Thanks to Zack Galler for the suggestion.
