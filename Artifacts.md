@@ -263,11 +263,11 @@ secure-key-generation uses the **on-errror-resume-next** Artifact from above.
 ```
 #### AJAX: A working incantation for generating an HTTP reponse to a browser request created by javascript:HTTPXmlRequest
 
-Note the correct **MIME-type** seems particularly important to get the browser to understand what you're sending over. 
+Note: the correct **MIME-type** is important to get the browser to understand what you're sending over in the body of the response.
 
-Client-side convention with respect setting up the javascript AJAX callback (better word: continuation) seems to be to at least check the **message-field** equal to "OK", so be aware of this. 
+Client-side convention with respect to setting up client AJAX continuation seems to be to at least check the **message-field** equal to "OK", so be aware of this. 
 
-You will still need to send the reponse back to the client via one of Jay McCarthy's primitives such as send/suspend/dispatch (if stateless), or send/back (if stateful)
+You still need to send the reponse back to the client via one of Jay McCarthy's primitives such as send/suspend/dispatch (if stateless), or send/back (if stateful).
 
 ```racket
 #|
