@@ -267,7 +267,7 @@ Note: the correct **MIME-type** is important to get the browser to understand wh
 
 Client-side convention with respect to setting up client AJAX continuation seems to be to at least check the **message-field** equal to "OK", so be aware of this. 
 
-In addition to this code, You still need to send the reponse back to the client via one of Jay McCarthy's primitives such as send/suspend/dispatch (if stateless), or send/back (if stateful).
+In addition to this code, You still need to send the reponse back to the client via one of Jay McCarthy's primitives such as **send/suspend/dispatch** (if _stateless_), or **send/back** (if _stateful_).
 
 ```racket
 #|
