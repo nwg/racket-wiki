@@ -344,7 +344,7 @@ COUNTEREXAMPLES: MALFORMED TREES
 ```
 #### How to transform a Tree (see above) into an x-expression
 
-This converts the **beautiful tree notation possible in Racket** into the **ugly, verbose representations **necessary to send hierarchical structures to other computational environments with no respect for beauty, symmetry nor notational elegance.
+This converts the **beautiful tree notation possible in Racket** into the **ugly, verbose representation** necessary to send hierarchical structures to other computational environments with no respect for beauty, symmetry nor notational elegance.
 
 ```racket
 (require xml)
