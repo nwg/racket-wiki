@@ -304,12 +304,10 @@ For example, here's a context-free grammar of a binary tree written using the co
 Its like getting a free goal-seeker for Christmas.  [while it can't find substitutions, it can provide answers to existential queries!]
 
 ```racket
-(define tree/c
-  (flat-rec-contract
-   tree
-   (or/c symbol?
-        (listof symbol?)
-        (cons/c tree tree))))
+(define tree/c (flat-rec-contract tree
+                                  (or/c symbol?
+                                        (listof symbol?)
+                                        (cons/c tree tree))))
 
 #|
 usage 
