@@ -303,7 +303,7 @@ Its like getting a free goal-seeker for Christmas!  [while Racket's recursive co
 (define tree/c (flat-rec-contract tree
                                   (or/c symbol?
                                         (listof symbol?)
-                                        (cons/c symbol? tree))))
+                                        (cons/c tree tree))))
 
 #|
 usage 
@@ -330,11 +330,6 @@ usage
 
 (tree/c '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4)) ;->#t
 
-;Counterexamples: Malformed- trees
-
-(tree/c '((a b) (c d))) ;-> #f
-
-(tree/c '((a b)))  ;-> #f
 
 |#
 ```
