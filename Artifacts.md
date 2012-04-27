@@ -339,7 +339,9 @@ COUNTEREXAMPLES: MALFORMED TREES
 
 |#
 ```
-#### How to convert a **nice, laconic representation of a tree** (see above) into an **ugly, verbose x-expression representation of a tree** which can be 1) transferred over a wire or 2) understood by some language that has no respect for beauty or truth or elegance.
+#### How to write out a Tree (see above) into an x-expression
+
+This converts the beautiful tree notation possible in Racket into the ugly, verbose representation necessary to transfer hierarchical structures over to mouthbreathing languages with no respect for beauty, symmetry nor elegance.
 
 ```racket
 (require xml)
@@ -367,7 +369,7 @@ COUNTEREXAMPLES: MALFORMED TREES
                             [(cons? (car subtree)) (cons (parent-proc (car subtree)) (child-proc (cdr subtree)))]))))
       (parent-proc tree)))
 
-#|usage
+#|
 USAGE
 
 (tree->xexpr '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4))
