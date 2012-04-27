@@ -218,7 +218,7 @@ Idea courtesy of Neil Van Dyke. Control flow suggested by Neil Van Dyke, Robby F
                                       #"mysecretkey"))))
 ```
 
-#### How to generate a changing key-value, which changes at some arbitrary chronological interval.
+#### How to generate a rotating key-value, which changes at some arbitrary interval.
 
 Here the daily-key is a simple random number, available at module level. You can plug in a better Artifact from above to create a more useful n-bit key.
 
