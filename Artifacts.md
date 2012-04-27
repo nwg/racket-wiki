@@ -315,15 +315,16 @@ Its like getting a free goal-seeker for Christmas.  [while it can't find substit
 
 #|
 usage 
-S1
+       S1 
 (tree/c 'S1) ;-> #t
 
-S1
-|
-S2
+        S1
+        |
+       S2
 (tree/c '(S1 S2)) ;-> #t
 
-   __ S1___
+       S1
+   ____|____
    |   |   |    
    S2  S3  S4  
      __|__
