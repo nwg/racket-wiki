@@ -339,6 +339,52 @@ COUNTEREXAMPLES: MALFORMED TREES
 
 |#
 ```
+#### How to convert a **nice, laconic representation of a tree** (see above) into an **ugly, verbose x-expression representation of a tree** which can be 1) transferred over a wire or 2) understood by some language that has no respect for beauty or truth or elegance.
+
+```racket
+(require xml)
+
+(define tree/c
+  (flat-rec-contract
+   tree
+   (or/c symbol?
+        (listof symbol?)
+        (cons/c symbol? (listof tree)))))
+
+(define atom?
+  (lambda (x)
+    (and (not (pair? x)) (not (null? x)))))
+
+(define/contract (tree->xexpr tree)
+  (tree/c . -> . xexpr/c)
+  (letrec ((parent-proc (λ (subtree)
+                          (cond
+                            [(atom? (car subtree)) `(div ((id ,(symbol->string (car subtree)))) ,@(child-proc (cdr subtree)))])))
+           (child-proc (λ (subtree)
+                          (cond 
+                            [(null? subtree) '("")]
+                            [(symbol? (car subtree)) (cons `(div ((id ,(symbol->string (car subtree)))) "")  (child-proc (cdr subtree)))]
+                            [(cons? (car subtree)) (cons (parent-proc (car subtree)) (child-proc (cdr subtree)))]))))
+      (parent-proc tree)))
+
+#|usage
+USAGE
+
+(tree->xexpr '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4))
+
+RETURNS
+
+(div
+ ((id "S1"))
+ (div ((id "S2")) "")
+ (div ((id "S3")) (div ((id "S3-1")) (div ((id "S3-1-1")) "") (div ((id "S3-1-2")) "") "") (div ((id "S3-2")) "") "")
+ (div ((id "S4")) "")
+
+|#
+
+
+```
+
 
 
 
