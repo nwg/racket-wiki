@@ -307,6 +307,9 @@ Its like getting a free goal-seeker for Christmas!  [while Racket's recursive co
 
 #|
 usage 
+
+EXAMPLES: WELL-FORMED TREES
+
        S1 
 
 (tree/c 'S1) ;-> #t
