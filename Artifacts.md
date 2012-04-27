@@ -293,15 +293,11 @@ USAGE:
                             content)
   (response/full code message seconds mime-type headers (list (string->bytes/utf-8 (xexpr->string content)))))
 ```
-#### Racket's Mind-Blowing, Consciousness-Expanding Recursive Contract System
+#### How to Build a Context-Free Grammar with Racket's unique Recursive Contract System
 
-Racket's contract system doesn't get enough love from the community. 
+Here's a context-free grammar of a binary tree written using the contract system. A parent node is the first element of a list. A child node is a cons'd element in the same list
 
-You can build a syntactical parser out of it.  
-
-For example, here's a context-free grammar of a binary tree written using the contract system. A parent node is the first element of a list. A child node is a cons'd element in the same list
-
-Its like getting a free goal-seeker for Christmas.  [while it can't find substitutions, it can provide answers to existential queries!]
+Its like getting a free goal-seeker for Christmas!  [while Racket's recursive contract system can't find substitutions, it can provide answers to existential queries!]
 
 ```racket
 (define tree/c (flat-rec-contract tree
