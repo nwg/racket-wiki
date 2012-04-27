@@ -293,7 +293,7 @@ USAGE:
                             content)
   (response/full code message seconds mime-type headers (list (string->bytes/utf-8 (xexpr->string content)))))
 ```
-#### Racket's Mind-Blowing, Consciousness-Expanding Contract System
+#### Racket's Mind-Blowing, Consciousness-Expanding Recursive Contract System
 
 Racket's contract system doesn't get enough love from the community. 
 
