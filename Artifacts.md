@@ -293,6 +293,51 @@ USAGE:
                             content)
   (response/full code message seconds mime-type headers (list (string->bytes/utf-8 (xexpr->string content)))))
 ```
+#### Contract System
+
+I think Racket's contract system fails to get enough love from the community. 
+
+The recursive definitions are mind blowing.
+
+You can build a syntactical parser out of it.  
+
+For example, here's a context-free grammar of a binary tree written using the contract system. A parent node is the first element of a list. A child node is a cons'd element in the same list
+
+Its like getting a free goal-seeker for Christmas.  [ok, it can't generate substitutions, but it can provide answers to existential queries!]
+
+```racket
+(define tree/c
+  (flat-rec-contract
+   tree
+   (or/c symbol?
+        (listof symbol?)
+        (cons/c tree tree))))
+
+#|
+usage 
+S1
+(tree/c 'S1) ;-> #t
+
+S1
+|
+S2
+(tree/c '(S1 S2)) ;-> #t
+
+   __ S1___
+   |   |   |    
+   S2  S3  S4  
+     __|__
+    |     |
+   S3-1  S3-2
+  __|__
+ |     |
+ S3-1-1  S3-1-2   
+
+(tree/c '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4)) ;->#t
+
+|#
+```racket
+
 
 
 ###### Thanks to Zack Galler for the suggestion.
