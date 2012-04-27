@@ -297,8 +297,6 @@ USAGE:
 
 Racket's contract system doesn't get enough love from the community. 
 
-The recursive definitions are mind blowing.
-
 You can build a syntactical parser out of it.  
 
 For example, here's a context-free grammar of a binary tree written using the contract system. A parent node is the first element of a list. A child node is a cons'd element in the same list
