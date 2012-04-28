@@ -374,16 +374,22 @@ This converts the **beautiful tree notation possible in Racket** into the **ugly
 
 #|
 USAGE
+(display (xexpr->string 
+          (tree->xexpr '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4))))
 
-(tree->xexpr '(S1 S2 (S3 (S3-1 S3-1-1 S3-1-2) S3-2) S4))
+RETURNS 
 
-RETURNS
-
-(div
- ((id "S1"))
- (div ((id "S2")) "")
- (div ((id "S3")) (div ((id "S3-1")) (div ((id "S3-1-1")) "") (div ((id "S3-1-2")) "") "") (div ((id "S3-2")) "") "")
- (div ((id "S4")) "")
+<div id="S1">
+     <div id="S2"></div>
+     <div id="S3">
+        <div id="S3-1">
+             <div id="S3-1-1"></div>
+             <div id="S3-1-2"></div>
+        </div>
+        <div id="S3-2"> </div>
+     </div>
+     <div id="S4"></div>
+</div>
 
 |#
 
