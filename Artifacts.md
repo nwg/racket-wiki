@@ -485,7 +485,7 @@ typical output is ( ((pkid . 1) (firstname . "Jim") ...)
       (listof (listof pair?)))
      (let* ([fields (com-get-property recordset "Fields")]
             [field-count (com-get-property fields "Count")])
-       (letrec ((rfc  (lambda () (cond 
+       (letrec ((rfc  (λ  _ (cond 
                                    ((com-get-property recordset "EOF") empty)
                                    (else (cons 
                                           (begin0
