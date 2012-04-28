@@ -468,7 +468,7 @@ Usage and the missing helper functions will be discussed in Part II.
 
 ```
 
-#### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list for each row)
+#### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list per row)
 
 **Note:** this was derived from earlier code which may have come from **Paul Steckler**(?). 
 
@@ -509,8 +509,6 @@ typical output is ( ((pkid . 1) (firstname . "Jim") ...)
    [(com-date? x) (date->string (com-date->date x) #t)]
    [(com-currency? x) (com-currency->number x)]
    [else x]))
-
-
 ```
 
 
