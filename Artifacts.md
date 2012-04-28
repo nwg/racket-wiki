@@ -423,7 +423,7 @@ and
 
 **make-idl** returns a single function which operates on the **HTTP request-bindings**, and either returns a value which honors the description we generate with the four arguments, or throws an error
 
-Usage and the helper functions will be discussed in Part II.
+Usage and the missing helper functions will be discussed in Part II.
 
 ```racket
 (require (prefix-in HTTP: web-server/http/request-structs)) 
