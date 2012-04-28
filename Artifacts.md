@@ -427,7 +427,7 @@ and
 
 **contract-fn**, which is the actual domain-enforcing racket-contract we want to assert before we send the argument to the server
 
-**make-idl** returns a single function which operates on the **HTTP request-bindings**, and either returns a value which honors the description we generate with the four arguments, or throws an error
+**(make-idl...)** returns a single function which operates on the **HTTP request-bindings**, and either returns a value which honors the description we generate with the four arguments, or throws an error
 
 Usage and the missing helper functions will be discussed in Part II.
 
