@@ -406,9 +406,9 @@ _**Sad, Tragic and Unfortunate Outcome space:**_
 **4)** The actual values passed might be outside the domain (i.e. allowable values) the Racket code works on
 
 
-We want to catch these problems using the contract system before we create a server error. We use functional composition to create **make-idl**, which will take four arguments:
+We want to catch these problems using the contract system before we create a server error. We use _functional composition_ to create **make-idl**, which will take four arguments:
 
-Recall that in composition, the first function to exectute is the rightmost argument, with its return value(s) being passed to the function-argument on its left
+Recall that in _composition_, the first function to exectute is the rightmost argument, with its return value(s) being passed to the function-argument on its left
 
 So reading **(make-idl....)** from right to left:
 
