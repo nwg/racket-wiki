@@ -101,6 +101,24 @@ USAGE:
     (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn)) (,out))])
       ,@(map (lambda (f) `(let/cc ,k (set! ,out ,k) ,f)) (cons fn rest))))))
 ```
+
+For clarity, the following code demonstrates whats going on in the macro expansion of
+
+(on-error-resume-next (myerror 1) (myerror 2) (myerror 3) (myerror 4)  (myerror 4))
+
+Note that after an exception is raised and logged to stdout, the stored-continuation **out** is invoked, which jumps to the next line of [buggy] code
+
+```racket
+(let ((out #f))
+  (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn))
+                                           (out))])
+    (let/cc k (set! out k) (myerror 1))
+    (let/cc k (set! out k) (myerror 2))
+    (let/cc k (set! out k) (myerror 3))
+    (let/cc k (set! out k) (myerror 4))
+    (let/cc k (set! out k) (myerror 5))))
+```
+
 ##### Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets (courtesy of Jay McCarthy)
 
 ```racket
