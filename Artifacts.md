@@ -425,7 +425,7 @@ _**Sad, Tragic and Unfortunate Outcome space:**_
 
 **2)** optional bindings might be present or absent
 
-**3)** The underlying values might not be interpretable as the value types you expect (you expect an integer, the binding-value is "frobnitzzz")
+**3)** The underlying values might not be interpretable as the value types you expect (just when you expect an integer, the binding-value is "_frobnitzzz_")
 
 **4)** The actual values passed might be outside the domain (i.e. allowable values) the Racket code works on
 
