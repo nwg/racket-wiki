@@ -468,48 +468,5 @@ Usage and the missing helper functions will be discussed in Part II.
 
 ```
 
-#### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list per row)
-
-**Note:** this was derived from earlier code which may have come from **Paul Steckler**(?). 
-
-If anyone wishes to claim authorship, please let me know and I'll credit appropriately.
-
-```racket
-
-#|
-typical output is ( ((pkid . 1) (firstname . "Jim") ...)
-                    ((pkid . 2) (firstname . "Bill") ...)
-                    ((pkid . 3) (firstname . "Mary") ...) )
-#|
-
-(require mysterx racket/date)
-
-(define/contract (recordset->list recordset)
-  (-> com-object? 
-      (listof (listof pair?)))
-     (let* ([fields (com-get-property recordset "Fields")]
-            [field-count (com-get-property fields "Count")])
-       (letrec ((rfc  (λ  _ (cond 
-                                   ((com-get-property recordset "EOF") empty)
-                                   (else (cons 
-                                          (begin0
-                                          (for/list ([field-idx (in-range field-count)])
-                                            (let ([field (com-get-property fields (list "Item" field-idx))])
-                                             (cons (string->symbol (com-get-property field "Name"))
-                                                    (com-value->racket-value (com-get-property field "Value")))))
-                                          (com-invoke recordset "MoveNext")) (rfc)))))))
-         (rfc))))
-
-
-;;three special field-value data-transforms overriding default mysterx behavior 
-
-(define (com-value->racket-value x)
-  (cond
-   [(void? x) null] ;convert voids to null [mysterx passes void instead of null]
-   [(com-date? x) (date->string (com-date->date x) #t)]
-   [(com-currency? x) (com-currency->number x)]
-   [else x]))
-```
-
 
 ###### Thanks to Zack Galler for the suggestion.
