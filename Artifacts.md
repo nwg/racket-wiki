@@ -469,9 +469,12 @@ Usage and the missing helper functions will be discussed in Part II.
 ```
 
 #### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list for each row)
-```racket
 
-(require mysterx racket/date)
+**Note:** this was derived from earlier code which may have come from Paul Steckler(?). 
+
+If anyone wants to claim authorship, please let me know and I'll credit appropriately.
+
+```racket
 
 #|
 typical output is ( ((pkid . 1) (firstname . "Jim") ...)
@@ -479,6 +482,7 @@ typical output is ( ((pkid . 1) (firstname . "Jim") ...)
                     ((pkid . 3) (firstname . "Mary") ...) )
 #|
 
+(require mysterx racket/date)
 
 (define/contract (recordset->list recordset)
   (-> com-object? 
