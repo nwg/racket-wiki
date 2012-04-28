@@ -408,7 +408,7 @@ _**Sad, Tragic and Unfortunate Outcome space:**_
 
 We want to catch these problems using the contract system before we create a server error. We use _functional composition_ to create **make-idl**, which will take four arguments:
 
-Recall that in _composition_, the first function to exectute is the rightmost argument, with its return value(s) being passed to the function-argument on its left
+Recall that in _composition_, the first function to execute is the rightmost argument, with its return value(s) being passed to the function-argument on its left
 
 So reading **(make-idl....)** from right to left:
 
