@@ -414,7 +414,7 @@ So reading **(make-idl....)** from right to left:
 
 **binding-name**: the name of the binding we expect in the HTTP request
 
-**optionality-fn**: one of two functions. either **required-arg**, or **optional-arg.** **required-arg** will throw an error if the binding is missing or malformed. **optional-arg ** allows missing bindings to pass
+**optionality-fn**: one of two functions. either **required-arg**, or **optional-arg.** **required-arg** will throw an error if the binding is missing or malformed. **optional-arg** allows missing bindings to pass
 
 **transform-fn** will transform the byte-string to some primitive type (number, boolean, etc.) or throw an error trying
 and 
