@@ -295,7 +295,7 @@ USAGE:
 ```
 #### How to Build a Context-Free Grammar with Racket's unique Recursive Contract System
 
-Here's a context-free grammar of a binary tree written using the contract system. A parent node is the first element of a list. A child node is a cons'd element in the same list
+Here's a context-free grammar of a binary tree written using the contract system. A parent node is the first symbol of a list. A child node is a cons'd s-expression in the same list
 
 Its like getting a free goal-seeker for Christmas!  [while Racket's recursive contract system can't find substitutions, it can provide answers to existential queries!]
 
