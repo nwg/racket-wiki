@@ -471,7 +471,7 @@ Usage and the missing helper functions will be discussed in Part II.
 #### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list for each row)
 ```racket
 
-(require mysterx)
+(require mysterx racket/date)
 
 #|
 typical output is ( ((pkid . 1) (firstname . "Jim") ...)
@@ -492,9 +492,21 @@ typical output is ( ((pkid . 1) (firstname . "Jim") ...)
                                           (for/list ([field-idx (in-range field-count)])
                                             (let ([field (com-get-property fields (list "Item" field-idx))])
                                              (cons (string->symbol (com-get-property field "Name"))
-                                                    (com-value->scheme-value (com-get-property field "Value")))))
+                                                    (com-value->racket-value (com-get-property field "Value")))))
                                           (com-invoke recordset "MoveNext")) (rfc)))))))
          (rfc))))
+
+
+;;three special field-value data-transforms overriding default mysterx behavior 
+
+(define (com-value->racket-value x)
+  (cond
+   [(void? x) null] ;convert voids to null [mysterx passes void instead of null]
+   [(com-date? x) (date->string (com-date->date x) #t)]
+   [(com-currency? x) (com-currency->number x)]
+   [else x]))
+
+
 ```
 
 
