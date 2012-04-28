@@ -466,6 +466,36 @@ Usage and the missing helper functions will be discussed in Part II.
            optionality-fn
            (λ (bindings) (HTTP:bindings-assq binding-name bindings))))
 
-
 ```
+
+#### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list for each row)
+```racket
+
+(require mysterx)
+
+#|
+typical output is ( ((pkid . 1) (firstname . "Jim") ...)
+                    ((pkid . 2) (firstname . "Bill") ...)
+                    ((pkid . 3) (firstname . "Mary") ...) )
+#|
+
+
+(define/contract (recordset->list recordset)
+  (-> com-object? 
+      (listof (listof pair?)))
+     (let* ([fields (com-get-property recordset "Fields")]
+            [field-count (com-get-property fields "Count")])
+       (letrec ((rfc  (lambda () (cond 
+                                   ((com-get-property recordset "EOF") empty)
+                                   (else (cons 
+                                          (begin0
+                                          (for/list ([field-idx (in-range field-count)])
+                                            (let ([field (com-get-property fields (list "Item" field-idx))])
+                                             (cons (string->symbol (com-get-property field "Name"))
+                                                    (com-value->scheme-value (com-get-property field "Value")))))
+                                          (com-invoke recordset "MoveNext")) (rfc)))))))
+         (rfc))))
+```
+
+
 ###### Thanks to Zack Galler for the suggestion.
