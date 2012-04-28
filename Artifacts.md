@@ -104,7 +104,7 @@ USAGE:
 
 For clarity, the following code demonstrates whats going on in the macro expansion of
 
-(on-error-resume-next (myerror 1) (myerror 2) (myerror 3) (myerror 4)  (myerror 4))
+**(on-error-resume-next (myerror 1) (myerror 2) (myerror 3) (myerror 4)  (myerror 5))**
 
 Note that after an exception is raised and logged to stdout, the stored-continuation **out** is invoked, which jumps to the next line of [buggy] code
 
