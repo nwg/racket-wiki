@@ -470,9 +470,9 @@ Usage and the missing helper functions will be discussed in Part II.
 
 #### Microsoft ADO: transform an ADO-recordset into a list of associative lists (one A-list for each row)
 
-**Note:** this was derived from earlier code which may have come from Paul Steckler(?). 
+**Note:** this was derived from earlier code which may have come from **Paul Steckler**(?). 
 
-If anyone wants to claim authorship, please let me know and I'll credit appropriately.
+If anyone wishes to claim authorship, please let me know and I'll credit appropriately.
 
 ```racket
 
