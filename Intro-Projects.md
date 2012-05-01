@@ -7,48 +7,6 @@ some help fix or clean up some aspect of the existing Racket code base.
 The best place to ask for help with any of these is on the [users
 mailing list](http://racket-lang.org/community.html).
 
-# Code Improvements
-
-These are improvements to the Racket source.  Fork the GitHub repository
-and then submit a pull request.
-
-* Port code that uses `class100` to the current class system
-* ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
-* Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
-  - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
-* Find uses of alists and replace them with hash tables where
-  appropriate (note that short alists, below ~40 items, can be faster than hashes)
-  - Search for uses of `assq` and friends to find
-* Find things that use lists for sets, replace them with `racket/set`
-  - Search for uses of `member` and friends to find
-* Find uses of `srfi/1`, replace them with `racket/list` stuff
-* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
-* Fix Swindle to have `call-next-method` available without `#lang swindle`
-
-# Documentation Improvements
-
-Similar to code improvements (docs are code).
-
-* Revise the FFI docs: better docs, lots of examples, guide-like text
-* Add a detailed example to the profiler manual.
-* Documentation clarifications and/or small examples
-* Write tutorials for building small applications and using major features, e.g., the class system or macros.
-* Convert Eli's Swindle documentation to Scribble.
-
-# Integration
-
-These are improvements to other systems to better support Racket.
-
-* Racket support for github code highlighting
-* Racket support for github code editing
-* Etags support for Racket features
-* Improve Racket support in Ohloh's line counter
-* Racket support in MediaWiki's GeSHi highligher
-* Extend the gabot IRC bot to deliver messages to offline people
-  (contact [Eli](mailto:eli@barzilay.org) for more info)
-  - Optionally, extend it to do more cool stuffs
-  - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
-
 # Small Projects
 
 These are self-contained projects.  Just create a new github repository,
@@ -106,3 +64,45 @@ For the more ambitious Racketeer ...
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
 * Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
+
+# Code Improvements
+
+These are improvements to the Racket source.  Fork the GitHub repository
+and then submit a pull request.
+
+* Port code that uses `class100` to the current class system
+* ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
+* Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
+  - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
+* Find uses of alists and replace them with hash tables where
+  appropriate (note that short alists, below ~40 items, can be faster than hashes)
+  - Search for uses of `assq` and friends to find
+* Find things that use lists for sets, replace them with `racket/set`
+  - Search for uses of `member` and friends to find
+* Find uses of `srfi/1`, replace them with `racket/list` stuff
+* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
+* Fix Swindle to have `call-next-method` available without `#lang swindle`
+
+# Documentation Improvements
+
+Similar to code improvements (docs are code).
+
+* Revise the FFI docs: better docs, lots of examples, guide-like text
+* Add a detailed example to the profiler manual.
+* Documentation clarifications and/or small examples
+* Write tutorials for building small applications and using major features, e.g., the class system or macros.
+* Convert Eli's Swindle documentation to Scribble.
+
+# Integration
+
+These are improvements to other systems to better support Racket.
+
+* Racket support for github code highlighting
+* Racket support for github code editing
+* Etags support for Racket features
+* Improve Racket support in Ohloh's line counter
+* Racket support in MediaWiki's GeSHi highligher
+* Extend the gabot IRC bot to deliver messages to offline people
+  (contact [Eli](mailto:eli@barzilay.org) for more info)
+  - Optionally, extend it to do more cool stuffs
+  - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
