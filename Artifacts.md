@@ -72,52 +72,7 @@ Note: Uses generate-authenticator-key from the preceding Artifact.
       "Message has been forged"))
 
 ```
-##### Controversial code: cleaning up state on exit, when errors are expected
-This code creates an unhygenic macro which will execute an arbitrary number of procedures 
-while ignoring errors thrown.
 
-It most closely resembles Microsoft's "On Error Resume Next", in that it will 
-sequentially execute a number of potentially error-causing statements
-_without allowing control-flow to branch_.
-
-Many, including Matthias F. strongly believe that Racket's dynamic-wind is the correct primitive 
-to use instead of this macro. 
-
-```racket
-#|
-USAGE: 
-(define (myerror n)
-  (raise (exn:fail (format "threw error ~A\n" n) (current-continuation-marks))))
-
-(on-error-resume-next (myerror 1) (myerror 2) (myerror 3) (myerror 4))
-|#
-
-(require mzlib/defmacro)
-
-(define-macro (on-error-resume-next . (fn . rest))
-  (let ((out (gensym))
-        (k   (gensym)))
-  `(let* ((,out #f))
-    (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn)) (,out))])
-      ,@(map (lambda (f) `(let/cc ,k (set! ,out ,k) ,f)) (cons fn rest))))))
-```
-
-For clarity, the following code demonstrates whats going on in the macro expansion of
-
-(**on-error-resume-next** (myerror 1) (myerror 2) (myerror 3) (myerror 4)  (myerror 5))
-
-Note that after an exception is raised and logged to stdout, the stored-continuation **out** is invoked, which jumps to the next line of [buggy] code
-
-```racket
-(let ((out #f))
-  (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn))
-                                           (out))])
-    (let/cc k (set! out k) (myerror 1))
-    (let/cc k (set! out k) (myerror 2))
-    (let/cc k (set! out k) (myerror 3))
-    (let/cc k (set! out k) (myerror 4))
-    (let/cc k (set! out k) (myerror 5))))
-```
 
 ##### Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets (courtesy of Jay McCarthy)
 
@@ -469,4 +424,3 @@ Usage and the missing helper functions will be discussed in Part II.
 ```
 
 
-###### Thanks to Zack Galler for the suggestion.
