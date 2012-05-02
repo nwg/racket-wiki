@@ -443,6 +443,7 @@ Two quick notes:
 ```
 
 **GOOD:**
+```racket
 ...code...
                   #:headers  (list (make-header #"Cache-Control" #"no-cache")
                                    (make-header #"Set-Cookie" #"Racketboy=XetM5o+My2BQYizra/y+NC7UJ0MxMjM0NTY2OQ==; Secure;"))
