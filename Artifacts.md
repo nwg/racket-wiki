@@ -435,18 +435,14 @@ Two quick notes:
 (define (start request)
   (response/xexpr `(html (head (meta ((name "viewport")(content "initial-scale=1.0, user-scalable=no")))
                                (meta ((http-equiv "content-type")(content "text/html; charset=UTF-8"))))
-                                       (body 
-                                        (div "Cookies!")
-                                        ))
-                  #:headers  (list (make-header #"Cache-Control" #"no-cache")
-                                   (make-header #"Set-Cookie" #"Racketboy=XetM5o+My2BQYizra/y+NC7UJ0MxMjM0\r\nNTY2OQ==\r\n; Secure;"))))
+                                       (body (div "Cookies!")))
+                  #:headers  (list (make-header #"Set-Cookie" #"Racketboy=XetM5o+My2BQYizra/y+NC7UJ0MxMjM0\r\nNTY2OQ==\r\n; Secure;"))))
 ```
 
 **GOOD:**
 ```racket
 ...code...
-                  #:headers  (list (make-header #"Cache-Control" #"no-cache")
-                                   (make-header #"Set-Cookie" #"Racketboy=XetM5o+My2BQYizra/y+NC7UJ0MxMjM0NTY2OQ==; Secure;"))
+#:headers  (list (make-header #"Set-Cookie" #"Racketboy=XetM5o+My2BQYizra/y+NC7UJ0MxMjM0NTY2OQ==; Secure;"))
 ...code...
 ```
 
