@@ -464,7 +464,9 @@ It doesn't do very much, but you can use as an AJAX test bed. I used this partic
           web-server/http/xexpr)
 
 (define my-xml-response
-  (response/xexpr `(xml "victory!") #:mime-type #"text/xml charset=utf-8" #:headers (list (make-header #"Set-Cookie" #"name=mikey"))))
+  (response/xexpr `(xml "victory!")
+                  #:mime-type #"text/xml charset=utf-8"
+                  #:headers (list (make-header #"Set-Cookie" #"name=mikey"))))
   
 (define (start request)
   (letrec ((response-generator (λ (make-url)
