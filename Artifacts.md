@@ -190,7 +190,7 @@ Idea courtesy of Neil Van Dyke. Control flow suggested by Neil Van Dyke, Robby F
                                       "-hmac"
                                       #"mysecretkey"))))
 ```
-#### On Error Resume Next symantics using Pattern Matching Macros
+#### On Error Resume Next using Pattern Matching Macros
 
 Allows us to sequentially execute error-throwing statements without causing control flow to branch
 
