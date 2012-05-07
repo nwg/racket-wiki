@@ -206,6 +206,13 @@ Allows us to sequentially execute error-throwing statements without causing cont
 (define (my-error val) (error (format "my-error ~A\n" val)))
 
 (on-error-resume-next (my-error 1) (my-error 2) (my-error 3))
+;RETURNS
+my-error 1
+
+my-error 2
+
+my-error 3
+
 #|
 
 ```
