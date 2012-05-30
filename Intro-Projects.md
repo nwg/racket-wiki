@@ -71,7 +71,7 @@ For the more ambitious Racketeer ...
 These are improvements to the Racket source.  Fork the GitHub repository
 and then submit a pull request.
 
-* Port code that uses `class100` to the current class system
+* ~~Port code that uses `class100` to the current class system~~ _(Completed by Asumu)_
 * ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
