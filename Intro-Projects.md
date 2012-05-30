@@ -64,6 +64,7 @@ For the more ambitious Racketeer ...
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
 * Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
+* Write some code metrics tools (number of functions, number of lines, etc) and integrate them with DrRacket's module browser.
 
 # Code Improvements
 
