@@ -1,5 +1,4 @@
 A wishlist of backwards incompatible things for a future Racket2.
-  - #:else instead of else keyword
 
 * Remove cond's default else-is-void clause and replace with a default else-is-error
 
