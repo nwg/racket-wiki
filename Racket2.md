@@ -1,6 +1,8 @@
 A wishlist of backwards incompatible things for a future Racket2.
+  - #:else instead of else keyword
 
 * Remove cond's default else-is-void clause and replace with a default else-is-error
+
 * Enable internal definitions everywhere
 * Enable the racket/package define* form everywhere
 * Use keywords in more places, such as unifying member, memv, memf, etc.
