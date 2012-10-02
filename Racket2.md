@@ -5,5 +5,5 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Enable the racket/package define* form everywhere
 * Use keywords in more places, such as unifying member, memv, memf, etc.
 * struct definition macro that allows the naming of the accessors/constructors/etc
-* include pattern matching forms in more binding positions
+* include pattern matching forms in more binding positions (e.g. for clauses, define)
 
