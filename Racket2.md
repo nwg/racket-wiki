@@ -11,4 +11,4 @@ A wishlist of backwards incompatible things for a future Racket2.
   - creating a constructor that takes all fields (when #:auto values should be something different)
   - creating a constructor that makes #:auto fields optional keyword arguments
 * include pattern matching forms in more binding positions (e.g. for clauses, define)
-
+* Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists.
