@@ -7,6 +7,12 @@ The plan for the Hackathon is to encourage work on small, self-contained improve
 
 Some suggested projects are listed below. The main categories are documentation improvements, FFI bindings, and web APIs.
 
+To make documentation improvements, fork the Racket git repo and make your changes there. Most of the core documentation can be found at `collects/scribblings/`. When you're done, submit a pull request and a developer will review and suggest changes or merge it. For help with pull requests, see the [GitHub help page](https://help.github.com/articles/using-pull-requests).
+
+For other projects, PLaneT is probably the appropriate distribution channel. For help with making a PLaneT package, see [this page](http://pre.racket-lang.org/docs/html/planet/Developing_Packages_for_PLaneT.html) or ask around. Neil Van Dyke's [McFly](http://planet.racket-lang.org/package-source/neil/mcfly-tools.plt/1/10/planet-docs/doc/index.html) tool is also helpful.
+
+***
+
 # Documentation improvements
 
 * Add code examples to Reference sections that lack or have few examples. Examples: [string ports](http://pre.racket-lang.org/docs/html/reference/stringport.html), [reading](http://pre.racket-lang.org/docs/html/reference/Reading.html), [delayed evaluation](http://pre.racket-lang.org/docs/html/reference/Delayed_Evaluation.html), and so on.
