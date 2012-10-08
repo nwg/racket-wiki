@@ -1,7 +1,7 @@
 This is the organization page for the Hackathon at [RacketCon 2012](http://con.racket-lang.org/).
 
 * Where: WVH 110
-* When:  14 October (precise time TBA)
+* When:  14 October, 10:00AM
 
 The plan for the Hackathon is to encourage work on small, self-contained improvements that can be finished in a short amount of time. Of course, people are free to work on other projects if they would prefer. Racket developers will be around to give advice and help.
 
@@ -31,10 +31,28 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 
 # FFI Bindings
 
+* [Google Snappy](http://code.google.com/p/snappy/) (high speed compression/decompression)
+* [OpenCV](http://opencv.org/)
+* Comprehensive GStreamer bindings (Asumu has a small part of it [here](https://github.com/takikawa/racket-gst))
+* [MurmurHash3](http://code.google.com/p/smhasher/) (either FFI binding or pure Racket reimplementation)
+* [AudioFile](http://audiofile.68k.org/) (read and write audio files)
+* [Sundown](https://github.com/vmg/sundown) (Markdown parser)
+* [libnotify](http://developer.gnome.org/libnotify/) (GUI notifications)
+* [gnome-keyring](http://developer.gnome.org/gnome-keyring/stable/)
+* [bcrypt](http://www.openwall.com/crypt/)
+* [libsane](http://www.sane-project.org/) (scanning)
+* [libxslt](http://xmlsoft.org/XSLT/)
+* [libaosd](https://github.com/atheme/libaosd) (on screen display)
+
 # Web APIs
 
+* [WeatherUnderground API](http://www.wunderground.com/weather/api/). [Other](http://blog.programmableweb.com/2009/04/15/5-weather-apis-from-weatherbug-to-weather-channel/) weather APIs.
+* [Imgur](http://api.imgur.com/) API
 * Write bindings to the Twitter APIs
 * Write bindings to the Facebook APIs
+* [Google Places](https://developers.google.com/places/documentation/) API
+* [Google Prediction](https://developers.google.com/prediction/docs/getting-started) API
+* [Google API Discovery](https://developers.google.com/discovery/)
 
 # Misc
 
