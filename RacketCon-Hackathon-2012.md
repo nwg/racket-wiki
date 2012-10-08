@@ -32,7 +32,6 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 # FFI Bindings
 
 * [Google Snappy](http://code.google.com/p/snappy/) (high speed compression/decompression)
-* [OpenCV](http://opencv.org/)
 * Comprehensive [GStreamer](http://gstreamer.freedesktop.org/documentation/) bindings (Asumu has a small part of it [here](https://github.com/takikawa/racket-gst))
 * [MurmurHash3](http://code.google.com/p/smhasher/) (either FFI binding or pure Racket reimplementation)
 * [AudioFile](http://audiofile.68k.org/) (read and write audio files)
@@ -40,7 +39,7 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 * [libnotify](http://developer.gnome.org/libnotify/) (GUI notifications)
 * [gnome-keyring](http://developer.gnome.org/gnome-keyring/stable/)
 * [bcrypt](http://www.openwall.com/crypt/)
-* [libsane](http://www.sane-project.org/) (scanning)
+* [OpenCV](http://opencv.org/)
 * [libxslt](http://xmlsoft.org/XSLT/)
 * [libaosd](https://github.com/atheme/libaosd) (on screen display)
 
