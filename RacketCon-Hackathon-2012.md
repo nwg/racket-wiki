@@ -47,7 +47,6 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 # Web APIs
 
 * [WeatherUnderground API](http://www.wunderground.com/weather/api/). [Other](http://blog.programmableweb.com/2009/04/15/5-weather-apis-from-weatherbug-to-weather-channel/) weather APIs.
-* [Imgur](http://api.imgur.com/) API
 * Write bindings to the Twitter APIs
 * Write bindings to the Facebook APIs
 * [Google Places](https://developers.google.com/places/documentation/) API
