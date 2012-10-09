@@ -42,6 +42,7 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 * [OpenCV](http://opencv.org/)
 * [libxslt](http://xmlsoft.org/XSLT/)
 * [libaosd](https://github.com/atheme/libaosd) (on screen display)
+* [LAPACK](http://www.netlib.org/lapack/) (BSD Licensed Matrix Library - in wide use for scientific computations)
 
 # Web APIs
 
