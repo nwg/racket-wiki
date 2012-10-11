@@ -56,4 +56,4 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 
 # Misc
 
-* Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redex benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program.
+* Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redux benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program.
