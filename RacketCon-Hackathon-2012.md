@@ -57,3 +57,4 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 # Misc
 
 * Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redux benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program.
+* A harder project for someone with JS and maybe Racket webserver chops: something like [tryclj.com](http://tryclj.com/) for Racket that looks nice and possibly comes with a tutorial. Useful things to know: [jquery-console](https://github.com/chrisdone/jquery-console), the Racket [sandbox](http://docs.racket-lang.org/reference/Sandboxed_Evaluation.html).
