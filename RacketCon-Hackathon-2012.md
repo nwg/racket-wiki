@@ -58,7 +58,7 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 * Write bindings to the Facebook APIs
 * [Google Places](https://developers.google.com/places/documentation/) API
 * [Google Prediction](https://developers.google.com/prediction/docs/getting-started) API
-* [Google API Discovery](https://developers.google.com/discovery/)
+* [Google API Discovery](https://developers.google.com/discovery/)  _Greg Hendershott_: "I'd like to work on this. It should yield ~40 wrappers, including the Places and Prediction ones above."
 
 # Misc
 
