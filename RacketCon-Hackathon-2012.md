@@ -32,7 +32,7 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
   - Tutorial on classes, OO (Matthias & Danny)
   - Development how-to. (using raco, setting up your environment, writing tests, etc.)
   - How to get the most out of Racket tools (e.g., debugger, macro stepper) with screenshots
-  - Extended FFI tutorial
+  - Extended FFI tutorial (Chris, after getting Java FFI working)
 
 * Add a detailed example to the profiler manual.
 
