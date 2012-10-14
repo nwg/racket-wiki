@@ -4,6 +4,8 @@ This is the organization page for the Hackathon at [RacketCon 2012](http://con.r
 * When:  14 October, 10:00AM
 * What to bring: a laptop
 
+Food: we will be providing lunch (pizza)
+
 The plan for the Hackathon is to encourage work on small, self-contained improvements that can be finished in a short amount of time. Of course, people are free to work on other projects if they would prefer. Racket developers will be around to give advice and help.
 
 Some suggested projects are listed below. The main categories are documentation improvements, FFI bindings, and web APIs.
