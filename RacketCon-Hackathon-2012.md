@@ -28,8 +28,8 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 
 * Create more tutorials. Some suggested topics:
   - Writing a GUI application
-  - How to write & understand macros
-  - Tutorial on classes, OO
+  - How to write & understand macros (Ryan & Claire)
+  - Tutorial on classes, OO 
   - Development how-to. (using raco, setting up your environment, writing tests, etc.)
   - How to get the most out of Racket tools (e.g., debugger, macro stepper) with screenshots
   - Extended FFI tutorial
