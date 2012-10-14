@@ -14,6 +14,8 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 
 ***
 
+If you claim a project, mark it on the wiki.
+
 # Documentation improvements
 
 See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-started.html) page for how to write documentation and also the Reference [style guide](http://docs.racket-lang.org/scribble/reference-style.html).
