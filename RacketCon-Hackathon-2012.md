@@ -22,7 +22,7 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 
 See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-started.html) page for how to write documentation and also the Reference [style guide](http://docs.racket-lang.org/scribble/reference-style.html).
 
-* Add code examples to Reference sections that lack or have few examples. Our goal is to have examples for all Reference entries. Some places to look: [string ports](http://pre.racket-lang.org/docs/html/reference/stringport.html), [reading](http://pre.racket-lang.org/docs/html/reference/Reading.html), [delayed evaluation](http://pre.racket-lang.org/docs/html/reference/Delayed_Evaluation.html), and so on. (Kevin & Michael)
+* Add code examples to Reference sections that lack or have few examples. Our goal is to have examples for all Reference entries. Some places to look: [string ports](http://pre.racket-lang.org/docs/html/reference/stringport.html), [reading](http://pre.racket-lang.org/docs/html/reference/Reading.html), [delayed evaluation](http://pre.racket-lang.org/docs/html/reference/Delayed_Evaluation.html), and so on. (Kevin & Michael & Xiangqi)
 
 * Expand short Guide sections. Some sections are too short to explain difficult features, such as [continuations and control](http://pre.racket-lang.org/docs/html/guide/control.html).
 
