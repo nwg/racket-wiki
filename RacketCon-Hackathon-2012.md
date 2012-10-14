@@ -65,3 +65,14 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 * Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redux benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program. (Danny Yoo is working on this)
 * A harder project for someone with JS and maybe Racket webserver chops: something like [tryclj.com](http://tryclj.com/) for Racket that looks nice and possibly comes with a tutorial. Useful things to know: [jquery-console](https://github.com/chrisdone/jquery-console), the Racket [sandbox](http://docs.racket-lang.org/reference/Sandboxed_Evaluation.html).
 * Hack on TR (Neil & Vincent)
+
+# Results
+
+Add links here to commits, repositories, pull requests, web pages, or anything else that's a result of the Hackathon.
+
+* https://github.com/samth/racket-examples
+* https://github.com/plt/racket/pull/150
+* https://github.com/plt/racket/pull/151
+* https://github.com/plt/racket/pull/152
+* https://github.com/plt/racket/pull/153
+* Commits: https://github.com/plt/racket/compare/93784be78d3cf93d575454d8180dc2295e8bcf2c...df594d3b3bd6924b80942323803385964e9a708b
