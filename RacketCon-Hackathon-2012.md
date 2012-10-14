@@ -29,7 +29,7 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 * Create more tutorials. Some suggested topics:
   - Writing a GUI application
   - How to write & understand macros (Ryan & Claire)
-  - Tutorial on classes, OO 
+  - Tutorial on classes, OO (Matthias & Danny)
   - Development how-to. (using raco, setting up your environment, writing tests, etc.)
   - How to get the most out of Racket tools (e.g., debugger, macro stepper) with screenshots
   - Extended FFI tutorial
@@ -64,3 +64,4 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 
 * Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redux benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program. (Danny Yoo is working on this)
 * A harder project for someone with JS and maybe Racket webserver chops: something like [tryclj.com](http://tryclj.com/) for Racket that looks nice and possibly comes with a tutorial. Useful things to know: [jquery-console](https://github.com/chrisdone/jquery-console), the Racket [sandbox](http://docs.racket-lang.org/reference/Sandboxed_Evaluation.html).
+* Hack on TR (Neil & Vincent)
