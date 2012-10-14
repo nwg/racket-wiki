@@ -14,7 +14,7 @@ For other projects, PLaneT is probably the appropriate distribution channel. For
 
 ***
 
-If you claim a project, mark it on the wiki.
+**If you claim a project, mark it on the wiki.**
 
 # Documentation improvements
 
