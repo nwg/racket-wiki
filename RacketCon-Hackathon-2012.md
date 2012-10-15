@@ -77,3 +77,4 @@ Add links here to commits, repositories, pull requests, web pages, or anything e
 * https://github.com/plt/racket/pull/153
 * Commits: https://github.com/plt/racket/compare/93784be78d3cf93d575454d8180dc2295e8bcf2c...5bc108c7b108d1a9856a193f11be259fb69ad035
 * Snappy: https://github.com/stchang/snappy
+* MurmurHash3: https://github.com/jrslepak/murmur3
