@@ -80,3 +80,4 @@ Add links here to commits, repositories, pull requests, web pages, or anything e
 * https://github.com/plt/racket/commit/79ada3b16ee5cd905a4a04d329a7cdf447147b0a
 * Snappy: https://github.com/stchang/snappy
 * MurmurHash3: https://github.com/jrslepak/murmur3
+* Rackona: https://github.com/cky/rackona
