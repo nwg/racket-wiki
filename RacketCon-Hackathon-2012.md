@@ -58,7 +58,7 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 * Write bindings to the Facebook APIs
 * [Google Places](https://developers.google.com/places/documentation/) API
 * [Google Prediction](https://developers.google.com/prediction/docs/getting-started) API
-* [Google API Discovery](https://developers.google.com/discovery/)  _Greg Hendershott_: "I'd like to work on this. It should yield ~40 wrappers, including the Places and Prediction ones above."
+* [Google API Discovery](https://developers.google.com/discovery/) (Greg & Eli)
 
 # Misc
 
@@ -81,3 +81,4 @@ Add links here to commits, repositories, pull requests, web pages, or anything e
 * Snappy: https://github.com/stchang/snappy
 * MurmurHash3: https://github.com/jrslepak/murmur3
 * Rackona: https://github.com/cky/rackona
+* Google API Discovery (40+ Google web services): On [GitHub](https://github.com/greghendershott/gapi) and [PLaneT](http://planet.racket-lang.org/display.ss?package=gapi.plt&owner=gh)
