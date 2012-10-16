@@ -70,11 +70,13 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
 
 Add links here to commits, repositories, pull requests, web pages, or anything else that's a result of the Hackathon.
 
-* https://github.com/samth/racket-examples
+* Explanations of short Racket examples: https://github.com/samth/racket-examples
 * https://github.com/plt/racket/pull/150
 * https://github.com/plt/racket/pull/151
 * https://github.com/plt/racket/pull/152
 * https://github.com/plt/racket/pull/153
 * Commits: https://github.com/plt/racket/compare/93784be78d3cf93d575454d8180dc2295e8bcf2c...5bc108c7b108d1a9856a193f11be259fb69ad035
+* https://github.com/plt/racket/commit/2c56ace436db5e70102980dc4cb1ce9863bd8d96
+* https://github.com/plt/racket/commit/79ada3b16ee5cd905a4a04d329a7cdf447147b0a
 * Snappy: https://github.com/stchang/snappy
 * MurmurHash3: https://github.com/jrslepak/murmur3
