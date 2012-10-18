@@ -89,5 +89,4 @@ https://github.com/plt/racket/commit/4787361d7f0598751f962b28739a0cc79b3d0194
 https://github.com/plt/racket/commit/c75cc48f5cfba3059fe7f245424a4c00f3eb2366
 https://github.com/plt/racket/commit/a59df8c7ee19f2c91d41f823d2981854408c50a6
 https://github.com/plt/racket/commit/44a0c8a6c1bd744e139ea9b3a719807bee5708e1
-
-
+* Macro Tutorial: https://github.com/rmculpepper/malr/
