@@ -76,17 +76,13 @@ Add links here to commits, repositories, pull requests, web pages, or anything e
 * https://github.com/plt/racket/pull/152
 * https://github.com/plt/racket/pull/153
 * https://github.com/plt/racket/pull/154
-* Commits: https://github.com/plt/racket/compare/93784be78d3cf93d575454d8180dc2295e8bcf2c...5bc108c7b108d1a9856a193f11be259fb69ad035
-* https://github.com/plt/racket/commit/2c56ace436db5e70102980dc4cb1ce9863bd8d96
-* https://github.com/plt/racket/commit/79ada3b16ee5cd905a4a04d329a7cdf447147b0a
+* Commits: https://github.com/plt/racket/compare/93784be7...5bc108c7
+* https://github.com/plt/racket/commit/2c56ace436
+* https://github.com/plt/racket/commit/79ada3b16e
 * Snappy: https://github.com/stchang/snappy (http://planet.racket-lang.org/display.ss?package=snappy.plt&owner=plt)
 * MurmurHash3: https://github.com/jrslepak/murmur3
 * Rackona: https://github.com/cky/rackona
 * Google API Discovery (40+ Google web services): On [GitHub](https://github.com/greghendershott/gapi) and [PLaneT](http://planet.racket-lang.org/display.ss?package=gapi.plt&owner=gh)
-* DrRacket string constant spell checker: 
-https://github.com/plt/racket/commit/72fa1d45a18e2e38444db4c11300a1d9f344035c
-https://github.com/plt/racket/commit/4787361d7f0598751f962b28739a0cc79b3d0194
-https://github.com/plt/racket/commit/c75cc48f5cfba3059fe7f245424a4c00f3eb2366
-https://github.com/plt/racket/commit/a59df8c7ee19f2c91d41f823d2981854408c50a6
-https://github.com/plt/racket/commit/44a0c8a6c1bd744e139ea9b3a719807bee5708e1
+* DrRacket string constant spell checker: https://github.com/plt/racket/compare/5bc108c7...a59df8c7
+https://github.com/plt/racket/commit/4787361d
 * Macro Tutorial: https://github.com/rmculpepper/malr/
