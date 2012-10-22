@@ -13,7 +13,6 @@ These are self-contained projects.  Just create a new github repository,
 and start hacking.  When you have something that works, release it on
 [PLaneT](http://planet.racket-lang.org).
 
-* Write a version of the [shootout](http://shootout.alioth.debian.org/) [fannkuch-redex benchmark](http://shootout.alioth.debian.org/u32/performance.php?test=fannkuchredux).  Currently the only missing Racket program.
 * Code for doing OAuth
   - Now available [here](https://github.com/veer-public/OAuth-2.0)
   - Also available as part of ryanc's webapi PLaneT package.
