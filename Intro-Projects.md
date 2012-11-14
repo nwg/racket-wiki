@@ -45,29 +45,6 @@ and start hacking.  When you have something that works, release it on
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
 
-# Larger Projects
-
-For the more ambitious Racketeer ...
-
-* Write a markdown parser (important: lots of tests; support at least
-  popular variants that are used by stackoverflow and github)
-  - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [on PLaneT](http://planet.racket-lang.org/display.ss?package=squicky.plt&owner=nxg).  It's reasonably clear how to generalise that to cope with markdown, and Norman is working on this as a background project.
-* Write a YAML parser
-  - Now available [on PLaneT](http://planet.racket-lang.org/display.ss?package=yaml.plt&owner=esilkensen).
-* Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org))
-* `#lang scsh` -- or better: write just a library for similar bindings
-  (macros & functions), and make it into a language that has shell-like
-  syntax
-* Write a blogging framework
-* Write a Common Lisp compatibility layer (same functionality, but not
-  all the core language features that would make this extremely
-  difficult; for example: keep immutable pairs)
-* Write a Clojure compatibility layer
-  - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
-* Write bindings to SDL (note that there are Allegro bindings on planet).
-* Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
-* Write some code metrics tools (number of functions, number of lines, etc) and integrate them with DrRacket's module browser.
-
 # Code Improvements
 
 These are improvements to the Racket source.  Fork the GitHub repository
@@ -110,3 +87,26 @@ These are improvements to other systems to better support Racket.
   (contact [Eli](mailto:eli@barzilay.org) for more info)
   - Optionally, extend it to do more cool stuffs
   - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
+
+# Larger Projects
+
+For the more ambitious Racketeer ...
+
+* Write a markdown parser (important: lots of tests; support at least
+  popular variants that are used by stackoverflow and github)
+  - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [on PLaneT](http://planet.racket-lang.org/display.ss?package=squicky.plt&owner=nxg).  It's reasonably clear how to generalise that to cope with markdown, and Norman is working on this as a background project.
+* Write a YAML parser
+  - Now available [on PLaneT](http://planet.racket-lang.org/display.ss?package=yaml.plt&owner=esilkensen).
+* Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org))
+* `#lang scsh` -- or better: write just a library for similar bindings
+  (macros & functions), and make it into a language that has shell-like
+  syntax
+* Write a blogging framework
+* Write a Common Lisp compatibility layer (same functionality, but not
+  all the core language features that would make this extremely
+  difficult; for example: keep immutable pairs)
+* Write a Clojure compatibility layer
+  - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
+* Write bindings to SDL (note that there are Allegro bindings on planet).
+* Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
+* Write some code metrics tools (number of functions, number of lines, etc) and integrate them with DrRacket's module browser.
