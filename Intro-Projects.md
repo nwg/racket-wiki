@@ -38,6 +38,7 @@ and start hacking.  When you have something that works, release it on
   - Staying in the pitiful vein, a typed/racket effort by [Ray Racine](https://github.com/RayRacine/knozamalib/tree/master/src/racket/aws) which is actively being developed.
   - Greg Hendershott has untyped Racket code for the S3, SDB, SES, SNS, SQS, and CloudWatch services: [PLaneT package](http://planet.racket-lang.org/display.ss?package=aws.plt&owner=gh), [Github](https://github.com/greghendershott/aws). 
 * Write XMPP bindings
+   - A starting point can be found [here](https://github.com/zzkt/gibberish)
 * Bindings for a text to speech engine
 * IRC log highlighter
 * IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org)), which
