@@ -13,6 +13,7 @@ These are self-contained projects.  Just create a new github repository,
 and start hacking.  When you have something that works, release it on
 [PLaneT](http://planet.racket-lang.org).
 
+* Implement a Rosetta code task: http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket
 * Data structures: [hash array mapped trie](http://en.wikipedia.org/wiki/Hash_array_mapped_trie), [2-3 finger trees](http://en.wikipedia.org/wiki/Finger_tree), other [purely functional data structures](http://cstheory.stackexchange.com/questions/1539/whats-new-in-purely-functional-data-structures-since-okasaki) (some already implemented [here](https://github.com/takikawa/tr-pfds)).
 * Code for doing OAuth
   - Now available [here](https://github.com/veer-public/OAuth-2.0)
