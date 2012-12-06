@@ -25,3 +25,5 @@ A wishlist of backwards incompatible things for a future Racket2.
 * include pattern matching forms in more binding positions (e.g. `define`, `let`/`for` clauses)
 
 * Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists.
+
+* Change `integer?` to mean `exact-integer?`.
