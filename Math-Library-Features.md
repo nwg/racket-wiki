@@ -79,4 +79,3 @@ The to-do lists in each subsection are roughly in priority order.
  * Pareto
  * Von Mises
  * chisqr-dist (easy wrapper around gamma-dist)
- * Weibull
