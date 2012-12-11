@@ -33,7 +33,6 @@ The to-do lists in each subsection are roughly in priority order.
 ## math/number-theory
 
  * in-primes
- * improve performance for prime? for small primes
 
 ## math/bigfloat
 
