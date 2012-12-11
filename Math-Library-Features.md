@@ -57,7 +57,7 @@ The to-do lists in each subsection are roughly in priority order.
 ## math/matrix
 
 * Review, fiddle, document
-* Add constructor (matrix [[1 2] [3 4]])
+* Add constructor (matrix ((1 2) (3 4)))
 
 ## math/statistics
 
