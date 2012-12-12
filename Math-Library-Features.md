@@ -62,6 +62,8 @@ The to-do lists in each subsection are roughly in priority order.
 
 * Expose Walker table functions used in discrete-dist
 * Covariance/correlation matrices
+* Principal Component Analysis
+* Common regression algorithms (linear, general linear, polynomial)
 
 ## math/distributions
 
