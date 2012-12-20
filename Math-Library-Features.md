@@ -64,6 +64,7 @@ The to-do lists in each subsection are roughly in priority order.
 * Covariance/correlation matrices
 * Principal Component Analysis
 * Common regression algorithms (linear, general linear, polynomial)
+* Common, robust hypothesis testing algorithms
 
 ## math/distributions
 
