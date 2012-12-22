@@ -51,12 +51,17 @@ The to-do lists in each subsection are roughly in priority order.
 * Efficient functional update
  * Sparse-Array type
  * array-set, array-indexes-set, array-slice-set
-* Array unfolds (should be able to define list-array->array with them)
 
 ## math/matrix
 
-* Review, fiddle, document
-* Add constructor (matrix ((1 2) (3 4)))
+* matrix-row-space
+* matrix-null-space, matrix-left-null-space
+ * Use QR or SVD for inexact matrices; see http://scicomp.stackexchange.com/questions/1861/understanding-how-numpy-does-svd
+* S+N decomposition
+* Linear least squares problems (data fitting)
+* Pseudo inverse
+* Eigenvalues and eigenvectors
+* Operator (induced) norms, condition numbers
 
 ## math/statistics
 
