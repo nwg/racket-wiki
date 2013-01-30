@@ -32,7 +32,7 @@ Tutorials and Demos
    — Shriram Krishnamurthi
 
  * [Videos and worked exercises keyed to _Picturing Programs_ textbook](http://picturingprograms.org/worked-exercises/current/)
-   - Stephen Bloch
+   — Stephen Bloch
 
 Research Talks
 --------------
