@@ -9,10 +9,10 @@ Talks
 
  * [The Racket Way](http://www.infoq.com/presentations/Racket) — at StrangeLoop 2012, Matthew Flatt
 
+ * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
+
  * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
    — Matthias Felleisen
-
- * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
 
 Interviews
 ----------
