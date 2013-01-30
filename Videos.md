@@ -12,6 +12,8 @@ Talks
  * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
    — Matthias Felleisen
 
+ * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
+
 Interviews
 ----------
 
@@ -34,7 +36,14 @@ Research Talks
 
  * [Run Your Research](http://www.youtube.com/watch?v=BuCRToctmw0) — POPL'12, Robby Findler
 
- * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
+ * [Logical Types for Untyped Languages](http://vimeo.com/16539620)
+   — ICFP'10, Sam Tobin-Hochstadt
+
+ * [Fortifying Macros](http://vimeo.com/16540696)
+   — ICFP'10, Ryan Culpepper
+
+ * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
+   — ICFP'10, Matthias Felleisen
 
  * [Processes without Partitions](http://www.researchchannel.org/prog/displayevent.aspx?rID=3892)
    — Matthew Flatt
