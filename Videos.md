@@ -17,7 +17,7 @@ Talks
 Interviews
 ----------
 
- * [FLOSS Weekly interview](http://blog.racket-lang.org/2011/05/racket-on-floss-weekly.html)
+ * [Racket on FLOSS Weekly](http://blog.racket-lang.org/2011/05/racket-on-floss-weekly.html)
    — Matthew Flatt
 
  * [WeScheme](http://vidiowiki.com/watch/cydr9yk/) — Shriram Krishnamurthi
