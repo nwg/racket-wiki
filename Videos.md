@@ -31,6 +31,9 @@ Tutorials and Demos
  * [DrScheme v4.0 Tour](http://www.youtube.com/watch?v=vgQO_kHl39g&fmt=18)
    — Shriram Krishnamurthi
 
+ * [Videos and worked exercises keyed to _Picturing Programs_ textbook](http://picturingprograms.org/worked-exercises/current/)
+   - Stephen Bloch
+
 Research Talks
 --------------
 
