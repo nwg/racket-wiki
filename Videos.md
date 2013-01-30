@@ -7,7 +7,7 @@ Talks
  * RacketCon: [2012](http://con.racket-lang.org/), [2011](http://con.racket-lang.org/2011) 
    (see [video] link for each talk)
 
- * [The Racket Way](http://www.infoq.com/presentations/Racket) — at StrangeLoop 2012, Matthew Flatt
+ * [The Racket Way](http://www.infoq.com/presentations/Racket) — StrangeLoop 2012, Matthew Flatt
 
  * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
 
