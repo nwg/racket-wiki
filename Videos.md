@@ -59,6 +59,7 @@ Education Talks
  * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
    — Matthias Felleisen
 
+ * The Bootstrap Videos (http://www.youtube.com/user/GetBootstrapped)
  * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
    — ICFP'10, Matthias Felleisen
 
