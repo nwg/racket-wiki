@@ -45,12 +45,9 @@ Research Talks
  * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
    — ICFP'10, Matthias Felleisen
 
- * [Processes without Partitions](http://www.researchchannel.org/prog/displayevent.aspx?rID=3892)
-   — Matthew Flatt
-
  * [Automatically RESTful Web Applications: Marking Modular Serializable
      Continuations](http://vimeo.com/6627041)
-   — Jay McCarthy
+   — ICFP'09, Jay McCarthy
 
  * [A Functional I/O System or, Fun for Freshman Kids](http://vimeo.com/6631514)
    — ICFP'09, Matthias Felleisen
