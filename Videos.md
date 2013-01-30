@@ -11,8 +11,6 @@ Talks
 
  * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
 
- * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
-   — Matthias Felleisen
 
 Interviews
 ----------
@@ -45,9 +43,6 @@ Research Talks
  * [Fortifying Macros](http://vimeo.com/16540696)
    — ICFP'10, Ryan Culpepper
 
- * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
-   — ICFP'10, Matthias Felleisen
-
  * [Automatically RESTful Web Applications: Marking Modular Serializable
      Continuations](http://vimeo.com/6627041)
    — ICFP'09, Jay McCarthy
@@ -57,6 +52,15 @@ Research Talks
 
  * [Scribble: Closing the Book on Ad Hoc Documentation Tools](http://vimeo.com/6630691)
    — ICFP'09, Matthew Flatt 
+
+Education Talks 
+---------------
+
+ * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
+   — Matthias Felleisen
+
+ * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
+   — ICFP'10, Matthias Felleisen
 
 More
 ----
