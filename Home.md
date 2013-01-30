@@ -10,3 +10,4 @@ See the [[Artifacts]] page for Racket snippets for specific small tasks.  Contri
 
 See [[Math-Library-Features]] to suggest features for the math library.
 
+See the [[Videos]] page for Racket-related videos.
