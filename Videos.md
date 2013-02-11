@@ -26,6 +26,9 @@ Tutorials and Demos
  * [Introductory DrRacket](http://www.youtube.com/playlist?list=PLD0EB7BC8D7CF739A)
    — John Clements
 
+ * [DrRacket videos](http://www.cdf.toronto.edu/~heap/racket_lectures.html)
+   — Danny Heap
+
  * [DrScheme v4.0 Tour](http://www.youtube.com/watch?v=vgQO_kHl39g&fmt=18)
    — Shriram Krishnamurthi
 
