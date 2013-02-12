@@ -1,3 +1,3 @@
-This page should include links to bugs in the Racket bug tracker that should be fairly easy to fix, for volunteers who are interested in contributing back to the Racket source tree.
+This page should include links to bugs in the [Racket bug tracker](http://bugs.racket-lang.org/) that should be fairly easy to fix, for volunteers who are interested in contributing back to the Racket source tree.
 
 [PR-9312](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=9312&return_url=http%3A%2F%2Fbugs.racket-lang.org%2Fquery%2F%3Fdatabase%3Ddefault%3Bdebug%3D%3BState%3Dany%3Bignoreclosed%3DIgnore%2520Closed%3BSynopsis%3D%3Bmultitext%3D%3Bcolumns%3DState%3Bcolumns%3DSynopsis%3Bcolumns%3DCategory%3Bcolumns%3DLast-Modified%3Bcolumns%3DRelease%3Bcmd%3Dsubmit%2520query%3Bsortby%3DNumber)  Modify the content of of the [string-constants](http://git.racket-lang.org/plt/tree/HEAD:/collects/string-constants/private) associated to portuguese.
