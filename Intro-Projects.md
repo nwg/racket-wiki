@@ -65,6 +65,7 @@ and then submit a pull request.
 * Find uses of `srfi/1`, replace them with `racket/list` stuff
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * Fix Swindle to have `call-next-method` available without `#lang swindle`
+* Find uses of log-xxx (using the global logger), and use 5.3.2's new `define-logger` form to change them to use their own logger. That way, users can filter the log messages. Examples might include "optimizer" and "file dependency" categories of messages.
 
 # Documentation Improvements
 
