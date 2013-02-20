@@ -13,3 +13,7 @@ Use something like colored local type inference or the system described in Jesse
 ### Reduce the number of base types
 
 We should have a general structure for representing type constructors that takes variance into account, and use it for things like `Vectorof`, `Parameterof`, `Boxof`, and so on.
+
+### Support `#:names` declaration in `case->`
+
+This will allow using names for parameter types in annotations in the body of functions with `case->` types.  @stamourv is working on this.
