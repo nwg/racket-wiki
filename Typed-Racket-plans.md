@@ -1,6 +1,6 @@
 # Typed Racket plans
 
-This page focuses on internal issues in Typed Racket, althoughth most of them also have user-visible results.
+This page focuses on internal issues in Typed Racket, although most of them also have user-visible results.
 
 ### Purity analysis
 
@@ -16,4 +16,4 @@ We should have a general structure for representing type constructors that takes
 
 ### Support `#:names` declaration in `case->`
 
-This will allow using names for parameter types in annotations in the body of functions with `case->` types.  @stamourv is working on this.
+This will allow using names for parameter types in annotations in the body of functions with `case->` types.  [@stamourv](https://github.com/stamourv) is working on this.
