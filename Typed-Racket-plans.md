@@ -17,3 +17,7 @@ We should have a general structure for representing type constructors that takes
 ### Support `#:names` declaration in `case->`
 
 This will allow using names for parameter types in annotations in the body of functions with `case->` types.  [@stamourv](https://github.com/stamourv) is working on this.
+
+### Support for generics (`racket/generic`)
+
+May require research.
