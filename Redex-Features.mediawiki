@@ -11,3 +11,4 @@ List of fixes/features for the planned Redex hackathon:
 ** even better: check that the clause's pattern is a refined version of the pattern from the contract (this may be hard)
 * shortcut arrows that are actually useful
 ** (There's already a macro hack by Ian for this; should be in redex-proper)
+* it might be nice if there was a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
