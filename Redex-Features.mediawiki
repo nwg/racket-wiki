@@ -12,3 +12,4 @@ List of fixes/features for the planned Redex hackathon:
 * shortcut arrows that are actually useful
 ** (There's already a macro hack by Ian for this; should be in redex-proper)
 * it might be nice if there was a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
+* 'traces' support for user-defined reduction relation applications (e.g. apply-reduction-relation*/random)
