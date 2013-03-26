@@ -47,6 +47,7 @@ and start hacking.  When you have something that works, release it on
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
+* Use the Racket examples on Rosetta Code to make demo.racket-lang.org that show cases programs and snippets written in Racket.
 
 # Code Improvements
 
