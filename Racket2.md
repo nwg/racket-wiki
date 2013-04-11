@@ -17,6 +17,13 @@ A wishlist of backwards incompatible things for a future Racket2.
 
 * Use keywords in more places, such as unifying `member`, `memv`, `memf`, etc.
 
+* Some syntax that avoids the verbosity in the `keyword-apply` etc kind of functions in the common
+  case of passing keywords around.
+
+* Some solution to the "no-value" value, which could be such a blessed value, or it could be a way
+  to say that some function accepts all the keywords as some other function.  (Possibly related to
+  the above, of course.)
+
 * `struct` definition macro that allows
   - naming of the accessors/constructors/etc
   - ~~per-field `#:auto` values~~
