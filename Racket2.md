@@ -34,4 +34,5 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Change `integer?` to mean `exact-integer?`.
 
 * Get rid of the `arity-at-least` struct, and replace it with just an `arity` that abstracts over the
-  whole arity thing -- always normalizing and includes keyword arity information.
+  whole arity thing -- always normalizing and includes keyword arity information.  Also, make it possible
+  to always use a procedure where an arity is expected.
