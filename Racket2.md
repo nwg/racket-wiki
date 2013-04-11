@@ -32,3 +32,6 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists.
 
 * Change `integer?` to mean `exact-integer?`.
+
+* Get rid of the `arity-at-least` struct, and replace it with just an `arity` that abstracts over the
+  whole arity thing -- always normalizing and includes keyword arity information.
