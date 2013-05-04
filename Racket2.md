@@ -6,6 +6,11 @@ A wishlist of backwards incompatible things for a future Racket2.
 
 * Remove `cond`'s default else-is-void clause and replace with a default else-is-error.
 
+* Change `match' to recognize clauses based on bindings instead of symbols, and make
+  it treat `else` like `cond`.
+
+* Consider changing `cond` (and `match`) to use `#:else` instead of `else`.
+
 * More prefabs for basic values, especially ones like srclocs where it is useful to make cross phase
   movements easy.
 
