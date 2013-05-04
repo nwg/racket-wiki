@@ -16,6 +16,12 @@ A wishlist of backwards incompatible things for a future Racket2.
         (length '()) := 0
         (length (cons x y)) := (+ 1 (len y))
 
+And, even better, have this turn into `define/contract` or maybe `provide/contract` if something like this is written:
+
+        length : (-> list? exact-nonnegative-integer?)
+        (length '()) := 0
+        (length (cons x y)) := (+ 1 (len y))
+
 * Consider changing `cond` (and `match`) to use `#:else` instead of `else`.
 
 * More prefabs for basic values, especially ones like srclocs where it is useful to make cross phase
