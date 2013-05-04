@@ -39,6 +39,8 @@ A wishlist of backwards incompatible things for a future Racket2.
   - more ideas from CL, like a `struct` keyword that actually use (tagged) lists for the values,
     similar to prefabs (and possibly redundant because of them)
 
+* Disallow mutation of `struct` bindings.
+
 * include pattern matching forms in more binding positions (e.g. `define`, `let`/`for` clauses)
 
 * Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists.
