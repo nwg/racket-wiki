@@ -9,6 +9,13 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Change `match` to recognize clauses based on bindings instead of symbols, and make
   it treat `else` like `cond`.
 
+* Make every place where binding variables currently appear allow arbitrary match patterns (this requires some thought for handling what is currently things like `(define (f x) ..)`, so maybe we do this in a more limited way or change that way of defining functions to use a new keyword)
+
+* Building on the match allowance, also allow functions to be defined case-by-case, for example maybe using a notation like this (roughly allowed in all internal definition contexts where := is the keyword that triggers this kind of parsing):
+
+        (length '()) := 0
+        (length (cons x y)) := (+ 1 (len y))
+
 * Consider changing `cond` (and `match`) to use `#:else` instead of `else`.
 
 * More prefabs for basic values, especially ones like srclocs where it is useful to make cross phase
@@ -17,6 +24,8 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Enable internal definitions everywhere.  (Note: this is tricky -- what's "everywhere"?
   Eg, can `define id` be followed by a definition(s) and then a value?  How about in the middle
   of an `if`?  Taken to an extreme, could definitions appear in an application form?)
+
+* change syntax-case to allow internal definitions (possibly by getting rid of the 'guard' section)
 
 * Enable the `define*` form (from `racket/package`) everywhere
 
@@ -50,3 +59,4 @@ A wishlist of backwards incompatible things for a future Racket2.
 * Get rid of the `arity-at-least` struct, and replace it with just an `arity` that abstracts over the
   whole arity thing -- always normalizing and includes keyword arity information.  Also, make it possible
   to always use a procedure where an arity is expected.
+
