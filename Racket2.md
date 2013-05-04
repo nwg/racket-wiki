@@ -11,7 +11,7 @@ A wishlist of backwards incompatible things for a future Racket2.
 
 * Make every place where binding variables currently appear allow arbitrary match patterns (this requires some thought for handling what is currently things like `(define (f x) ..)`, so maybe we do this in a more limited way or change that way of defining functions to use a new keyword)
 
-* Building on the match allowance, also allow functions to be defined case-by-case, for example maybe using a notation like this (roughly allowed in all internal definition contexts where := is the keyword that triggers this kind of parsing):
+* Building on the match allowance, also allow functions to be defined case-by-case, for example maybe using a notation like this (roughly allowed in all internal definition contexts where `:=` is the keyword that triggers this kind of parsing):
 
         (length '()) := 0
         (length (cons x y)) := (+ 1 (len y))
