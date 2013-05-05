@@ -66,3 +66,6 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
   whole arity thing -- always normalizing and includes keyword arity information.  Also, make it possible
   to always use a procedure where an arity is expected.
 
+* Reconsider printing and equality of mutable and immutable variants of data types (vectors,
+  hash tables, strings, etc.)
+
