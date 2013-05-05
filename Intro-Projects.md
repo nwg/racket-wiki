@@ -97,6 +97,8 @@ These are improvements to other systems to better support Racket.
 
 For the more ambitious Racketeer ...
 
+* Make a web page (demo.racket-lang ?) that contains Racket snippets. Use 
+  the programs from http://rosettacode.org/wiki/Category:Racket to get started.
 * Write a markdown parser (important: lots of tests; support at least
   popular variants that are used by stackoverflow and github)
   - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [on PLaneT](http://planet.racket-lang.org/display.ss?package=squicky.plt&owner=nxg).  It's reasonably clear how to generalise that to cope with markdown, and Norman is working on this as a background project.
