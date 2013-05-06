@@ -67,5 +67,6 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
   to always use a procedure where an arity is expected.
 
 * Reconsider printing and equality of mutable and immutable variants of data types (vectors,
-  hash tables, strings, etc.)
+  hash tables, strings, etc.). Also reconsider the coercion of mutable vectors to immutable
+  vectors by `datum->syntax`.
 
