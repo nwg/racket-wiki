@@ -9,6 +9,7 @@ List of fixes/features for the planned Redex hackathon:
 * disable caching for individual metafunctions (but not the metafunctions they call)
 * "type-checking"-like thing for metafunctions: at the very least, every clause's pattern should have the same arity as the contract
 ** even better: check that the clause's pattern is a refined version of the pattern from the contract (this may be hard)
+** "has some overlap with pattern contract" might be a more useful check
 * shortcut arrows that are actually useful
 ** (There's already a macro hack by Ian for this; should be in redex-proper)
 * it might be nice if there was a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
