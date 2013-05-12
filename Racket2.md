@@ -70,3 +70,6 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
   hash tables, strings, etc.). Also reconsider the coercion of mutable vectors to immutable
   vectors by `datum->syntax`.
 
+* Add CLOS-like defmethod (with multidispatch and :before, :after, :around) on Racket classes.
+
+* Add interactive breakpoint in DrRacket debug. One should have REPL at breakpoint
