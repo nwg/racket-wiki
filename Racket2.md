@@ -73,3 +73,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * Add CLOS-like defmethod (with multidispatch and :before, :after, :around) on Racket classes.
 
 * Add interactive breakpoint in DrRacket debug. One should have REPL at breakpoint
+
+* Make strings immutable.
