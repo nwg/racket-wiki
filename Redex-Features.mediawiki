@@ -4,15 +4,16 @@ List of fixes/features for the planned Redex hackathon:
 * `traces' analogue for judgment-holds
 * allow unquoting in judgment premise side-conditions
 * cross-language metafunctions
-* don't-bind-don't-care
+* don't-bind-don't-care construct
 * matching on more than just sexprs: structs, sets, hashes
 * general "debugging" friendliness
+** e.g. a "reasonable" means of introspecting the state of a reduction so that we don't have to e.g. put in nasty printing side-conditions
 * disable caching for individual metafunctions (but not the metafunctions they call)
 * "type-checking"-like thing for metafunctions: at the very least, every clause's pattern should have the same arity as the contract
 ** even better: check that the clause's pattern is a refined version of the pattern from the contract (this may be hard)
 ** "has some overlap with pattern contract" might be a more useful check
 * shortcut arrows that are actually useful
 ** (There's already a macro hack by Ian for this; should be in redex-proper)
-* it might be nice if there was a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
+* a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
 * 'traces' support for user-defined reduction relation applications (e.g. apply-reduction-relation*/random)
 * built-in support for (partial/complete) hash and set matching.
