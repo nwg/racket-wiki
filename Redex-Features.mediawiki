@@ -1,7 +1,6 @@
 List of fixes/features for the planned Redex hackathon:
 * multi-hole evaluation contexts
 ** being able to write up the pi-calculus in a natural way, with multi-hole contexts acting as congruence rules, could be a good goal here
-* `traces' analogue for judgment-holds
 * allow unquoting in judgment premise side-conditions
 * cross-language metafunctions
 * don't-bind-don't-care construct
