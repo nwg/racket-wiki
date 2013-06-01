@@ -4,6 +4,10 @@
 
 Not sure how to run this yet. Nominations? An informal voting system? Free-for-all?
 
+* [Automatic Differentiation](http://en.wikipedia.org/wiki/Automatic_differentiation)
+* Data Tables like Python's PANDAS library
+* [Mondrian](http://stats.math.uni-augsburg.de/mondrian/) style dynamic, interactive data analysis visualizations (probably belongs in plotting library)
+
 # Planned Features
 
 Please don't edit this section. Neil or Jens Axel will move things here from Requested Features.
