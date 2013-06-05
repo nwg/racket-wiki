@@ -22,6 +22,7 @@ Bigger projects:
 Smaller projects:
 * don't-bind-don't-care construct
 * disable caching for individual metafunctions (but not the metafunctions they call)
+** note: this also requires that any metafunction that calls that metafunction also disables its caching 
 * 'traces' support for user-defined reduction relation applications (e.g. apply-reduction-relation*/random)
 
 Uncertain effort/scope:
