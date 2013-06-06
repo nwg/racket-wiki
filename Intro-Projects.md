@@ -88,7 +88,7 @@ These are improvements to other systems to better support Racket.
 * Etags support for Racket features
 * Improve Racket support in Ohloh's line counter
 * Racket support in MediaWiki's GeSHi highligher
-  - Awaiting Integration into GeSHi source: [Tim Brown](mailto:tim@timb.net) as written [racket.php](https://github.com/tim-brown/geshi-racket/blob/master/racket.php), and is making sure that the GeSHi/Rosetta Code maintainers are suitably pestered re its integration
+  - Awaiting Integration into GeSHi source: [Tim Brown](mailto:tim@timb.net) has written [racket.php](https://github.com/tim-brown/geshi-racket/blob/master/racket.php), it is scheduled for the next iteration of GeSHi, but the next iteration of GeSHi might be a little while.
 * Extend the gabot IRC bot to deliver messages to offline people
   (contact [Eli](mailto:eli@barzilay.org) for more info)
   - Optionally, extend it to do more cool stuffs
