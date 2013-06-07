@@ -20,7 +20,6 @@ Bigger projects:
 ** [http://git.racket-lang.org/plt/blobdiff/430d45b471aff..0b19c6e798b03:/collects/ good test case to aim for]
 
 Smaller projects:
-* don't-bind-don't-care construct
 * disable caching for individual metafunctions (but not the metafunctions they call)
 ** note: this also requires that any metafunction that calls that metafunction also disables its caching 
 * 'traces' support for user-defined reduction relation applications (e.g. [https://gist.github.com/schuster/5716842 apply-reduction-relation*/random])
@@ -34,3 +33,6 @@ Uncertain effort/scope:
 * figure out an Ott-like description for binding structure that can be added to a define-language and use that to automatically generate capture-avoiding substitution functions and alpha-equivalence predicates. Nominal logic should also be a good inspiration for this
 * add some "drop the parens" support to typesetting. That is, let someone specify precedence declarations for productions in a grammar and then have the typesetting infrastructure drop parenthesis based on those declarations when rendering a term
 * a distinction between introducing a new variable and matching on that variable: would prevent trying to bind to that variable twice.
+
+Successes:
+* don't-bind-don't-care construct [https://github.com/plt/racket/pull/365]
