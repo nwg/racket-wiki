@@ -36,3 +36,4 @@ Uncertain effort/scope:
 
 Successes:
 * don't-bind-don't-care construct [https://github.com/plt/racket/pull/365]
+* 'traces' support for user-defined reduction relation applications [https://github.com/plt/racket/pull/362]
