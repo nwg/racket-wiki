@@ -121,6 +121,7 @@ For the more ambitious Racketeer ...
 * Write a Clojure compatibility layer
   - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
 * Write bindings to SDL (note that there are Allegro bindings on planet).
+  - Work started [here](http://planet.racket-lang.org/display.ss?package=sdl4racket.plt&owner=pb82)
 * Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
 * Write some code metrics tools (number of functions, number of lines, etc) and integrate them with DrRacket's module browser.
 * Write image filters [example](http://reference.wolfram.com/mathematica/guide/ImageFilteringAndNeighborhoodProcessing.html)
