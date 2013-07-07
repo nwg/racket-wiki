@@ -19,9 +19,9 @@ To make documentation improvements, fork the [Racket git repo](https://github.co
 # Documentation Improvements
 
 * Tutorials. More tutorials or even sections of tutorials would be helpful. This is a project where multiple people can work together easily, possibly by splitting the work by section (and having someone do an editing pass to make it cohesive). Potential tutorial topics:
-  - `racket/gui`
+  - `racket/gui` (e.g., [Qt Quick](http://qt-project.org/doc/qt-5.1/qtdoc/gettingstartedqml.html), [GTK getting started](https://developer.gnome.org/gtk3/stable/gtk-getting-started.html))
   - `racket/draw`
-  - Concurrency and synchronization (e.g., see [Rust tasks tutorial](http://static.rust-lang.org/doc/tutorial-tasks.html) for inspiration)
+  - Concurrency and synchronization (e.g., see [Rust tasks tutorial](http://static.rust-lang.org/doc/tutorial-tasks.html) or [Qt Threads](http://qt-project.org/doc/qt-5.1/qtcore/thread-basics.html) for inspiration)
 
 # FFI Bindings
 
