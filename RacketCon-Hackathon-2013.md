@@ -15,3 +15,13 @@ To make documentation improvements, fork the [Racket git repo](https://github.co
 ***
 
 **If you claim a project, mark it on the wiki.**
+
+# Documentation Improvements
+
+# FFI Bindings
+
+# More involved projects
+
+* Add additional GUI widgets.
+  - For example, a progress indicator/spinner. It has support on [Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/nsprogressindicator_Class/Reference/Reference.html), [Win32](http://msdn.microsoft.com/en-us/library/windows/desktop/bb760816%28v=vs.85%29.aspx) (see marquee mode), and [GTK](https://developer.gnome.org/gtk3/stable/GtkSpinner.html)
+  - Tooltips. [Win32](http://msdn.microsoft.com/en-us/library/windows/desktop/bb760250%28v=vs.85%29.aspx), [Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSView_Class/Reference/NSView.html) (see `setToolTip`), [GTK](https://developer.gnome.org/gtk3/3.7/GtkTooltip.html). Note that DrRacket has a class that supports tooltips, but implemented in Racket and not natively. The use in DrRacket might be a good test.
