@@ -22,6 +22,7 @@ To make documentation improvements, fork the [Racket git repo](https://github.co
   - `racket/gui` (e.g., [Qt Quick](http://qt-project.org/doc/qt-5.1/qtdoc/gettingstartedqml.html), [GTK getting started](https://developer.gnome.org/gtk3/stable/gtk-getting-started.html))
   - `racket/draw`
   - Concurrency and synchronization (e.g., see [Rust tasks tutorial](http://static.rust-lang.org/doc/tutorial-tasks.html) or [Qt Threads](http://qt-project.org/doc/qt-5.1/qtcore/thread-basics.html) for inspiration)
+  - File I/O, command-line applications
 
 # FFI Bindings
 
