@@ -18,6 +18,11 @@ To make documentation improvements, fork the [Racket git repo](https://github.co
 
 # Documentation Improvements
 
+* Tutorials. More tutorials or even sections of tutorials would be helpful. This is a project where multiple people can work together easily, possibly by splitting the work by section (and having someone do an editing pass to make it cohesive). Potential tutorial topics:
+  - `racket/gui`
+  - `racket/draw`
+  - Concurrency and synchronization (e.g., see [Rust tasks tutorial](http://static.rust-lang.org/doc/tutorial-tasks.html) for inspiration)
+
 # FFI Bindings
 
 # More involved projects
