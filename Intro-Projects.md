@@ -7,6 +7,41 @@ some help fix or clean up some aspect of the existing Racket code base.
 The best place to ask for help with any of these is on the [users
 mailing list](http://racket-lang.org/community.html).
 
+# Recreational Programming
+
+These are intended to be a collection of fun topics to explore, intended as exercises or mini-projects, but also interesting in their own right.  If you implement one, then leave a link: different solutions can lead to comparisons of style and constructive suggestions.  Finally, add more ideas ...
+
+* Graphics
+  - Draw some fractals: Mandelbrot set; Julia set; L-systems; Sierpinski gasket; Koch snowflake; space-filling curves
+  - Make a random maze; animate the drawing
+  - Tile a plane: rectangles - grid or herringbone; triangles; hexagons; Penrose tilings; quilt designs
+  - Animate a classic looking clock
+  - Animate a word clock
+* Wordplay
+  - Find anagrams
+  - Find palindromes
+  - Make a scrabble or crossword helper
+  - Scan a text for haikus
+* Puzzles
+  - zebra puzzle
+  - sudoku solver
+  - sudoku generator
+* Calendars
+  - Day of the week of any given date
+  - When is Easter (and other holidays) in a given year?
+* Cryptography
+  - Encrypt / decrypt simple ciphers and codes
+  - rot13
+  - Crack simple ciphers
+* Programming tools
+  - Reimplement some standard library operations
+  - Reimplement some of the standard Unix tools
+* Classical mechanics
+  - Animate a bouncing ball, then balls
+  - Simulate planets in orbit
+  - Pendulum
+  - Newton's cradle
+
 # Small Projects
 
 These are self-contained projects.  Just create a new github repository,
@@ -14,6 +49,8 @@ and start hacking.  When you have something that works, release it on
 [PLaneT](http://planet.racket-lang.org).
 
 * Implement a Rosetta code task: http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket
+  - You could also re-implement or improve an existing Racket solution
+* Math: Try some project Euler exercises: http://projecteuler.net
 * Implement mini versions of classical programs (can be used as extended examples on the web site):
   - Notepad using racket/gui
   - Paint 
