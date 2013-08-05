@@ -54,6 +54,8 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
   - more ideas from CL, like a `struct` keyword that actually use (tagged) lists for the values,
     similar to prefabs (and possibly redundant because of them)
 
+* Have only either `struct` or `define-struct`. Not both.
+
 * Disallow mutation of `struct` bindings.
 
 * include pattern matching forms in more binding positions (e.g. `define`, `let`/`for` clauses)
