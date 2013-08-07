@@ -79,3 +79,7 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * Add interactive breakpoint in DrRacket debug. One should have REPL at breakpoint
 
 * Make strings immutable.
+
+* Have `with-output-to-string` and friends take a body, not a thunk.
+
+* Have `<`, `>` and others take 0 or more arguments (returning `#t` for the 0 and 1 argument cases). This would allow applying them to lists without fear, which would allow patterns like `(define (sorted? l) (apply < l))`
