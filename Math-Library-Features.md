@@ -7,6 +7,7 @@ Not sure how to run this yet. Nominations? An informal voting system? Free-for-a
 * [Automatic Differentiation](http://en.wikipedia.org/wiki/Automatic_differentiation)
 * Data Tables like Python's [PANDAS](http://pandas.pydata.org/) library
 * [Mondrian](http://stats.math.uni-augsburg.de/mondrian/) style dynamic, interactive data analysis visualizations (this probably belongs in plotting library, but needs to be integrated with the data table above)
+* I/O using [HDF5](http://www.hdfgroup.org/HDF5/) files (see [h5py](http://www.h5py.org/) for Python as an example how well HDF5 can be integrated with an array API)
 
 # Planned Features
 
