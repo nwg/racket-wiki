@@ -59,7 +59,7 @@ Research Talks
 Education Talks 
 ---------------
 
- * [Programming at Northeastern](http://www.savevid.com/video/matthias-felleisen-programming-at-northeastern-university.html)
+ * [Programming at Northeastern](http://www.youtube.com/watch?v=m3be1PHW5X0)
    — Matthias Felleisen
 
  * [Bootstrap Videos](http://www.youtube.com/user/GetBootstrapped)
