@@ -87,3 +87,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * Rename `racket/cmdline` to `racket/command-line`.
 
 * Require that macro literals always be bound.
+
+* Make Matthew's doc-define from ClojureWest keynote real
