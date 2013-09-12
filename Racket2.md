@@ -55,6 +55,7 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
   - maybe even allow several constructors with different argument "shapes"
   - more ideas from CL, like a `struct` keyword that actually use (tagged) lists for the values,
     similar to prefabs (and possibly redundant because of them)
+  - like [sstruct2](https://github.com/jeapostrophe/exp/blob/master/sstruct2.rkt)
 
 * Have only either `struct` or `define-struct`. Not both.
 
