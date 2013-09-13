@@ -1,7 +1,7 @@
 This is the organization page for the Hackathon at [RacketCon 2013](http://con.racket-lang.org/).
 
 * Where: West Village H Room 108
-* When:  28 September, 2013
+* When:  28 September, 2013 10AM-5PM
 * What to bring: a laptop
 
 Food: we will be providing lunch (pizza)
