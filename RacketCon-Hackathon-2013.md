@@ -33,6 +33,8 @@ To make documentation improvements, fork the [Racket git repo](https://github.co
   - Tooltips. [Win32](http://msdn.microsoft.com/en-us/library/windows/desktop/bb760250%28v=vs.85%29.aspx), [Cocoa](https://developer.apple.com/library/mac/#documentation/Cocoa/Reference/ApplicationKit/Classes/NSView_Class/Reference/NSView.html) (see `setToolTip`), [GTK](https://developer.gnome.org/gtk3/3.7/GtkTooltip.html). Note that DrRacket has a class that supports tooltips, but implemented in Racket and not natively. The use in DrRacket might be a good test.
   - Spin button/stepper/up-down button. [Cocoa](https://developer.apple.com/library/mac/#documentation/cocoa/reference/ApplicationKit/Classes/NSStepper_Class/Reference/Reference.html), [GTK](https://developer.gnome.org/gtk3/stable/GtkSpinButton.html), [Win32](http://msdn.microsoft.com/en-us/library/windows/desktop/bb759889%28v=vs.85%29.aspx)
 
+* Implement a library for [HAMT](http://en.wikipedia.org/wiki/Hash_array_mapped_trie)s.
+
 # Pick something from "rudybot"s TODO list
 
 [rudybot](https://github.com/offby1/rudybot/) has been annoying IRC users on #racket, #scheme, and #emacs for years.  There's lots of little improvements on [the TODO list](https://github.com/offby1/rudybot/blob/master/TODO) and [the issue tracker](https://github.com/offby1/rudybot/issues?state=open); [the primary author](https://plus.google.com/110719264043637716066/) will be attending.
