@@ -18,13 +18,11 @@ The to-do lists in each subsection are roughly in priority order.
 ## math/base
 
 * New functions
- * logb (high-accuracy log with base)
  * floor-logb (exact, take from plot)
  * ceiling-logb (exact, take from plot)
 
 ## math/flonum
 
-* Document double-double flonum operators (e.g. fl2+ : Flonum Flonum Flonum Flonum -> (Values Flonum Flonum))
 * New functions
  * flmodulo
  * flremainder
