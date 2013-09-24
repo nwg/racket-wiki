@@ -18,6 +18,7 @@ The to-do lists in each subsection are roughly in priority order.
 ## math/base
 
 * New functions
+ * logb (high-accuracy log with base)
  * floor-logb (exact, take from plot)
  * ceiling-logb (exact, take from plot)
 
