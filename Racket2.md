@@ -90,3 +90,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * Require that macro literals always be bound.
 
 * Make Matthew's doc-define from ClojureWest keynote real
+
+* Consider having real identifiers for class/object members and use the module/namespace mechanisms to manage these references. Possibly in conjunction with a convention for names that are prefixed or included in others (so that we can have identifiers like `frame%:show` treated specially).
