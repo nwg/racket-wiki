@@ -51,3 +51,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 # Pick something from "rudybot"s TODO list
 
 [rudybot](https://github.com/offby1/rudybot/) has been annoying IRC users on #racket, #scheme, and #emacs for years.  There's lots of little improvements on [the TODO list](https://github.com/offby1/rudybot/blob/master/TODO) and [the issue tracker](https://github.com/offby1/rudybot/issues?state=open); [the primary author](https://plus.google.com/110719264043637716066/) will be attending.
+
+# Products of the Hackathon
+
+* [ianj](http://www.ccs.neu.edu/home/ianj/) produced a [package of pict combinators and constructors](https://github.com/ianj/slideshow-helpers) for slideshow presentations.
