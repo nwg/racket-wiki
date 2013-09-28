@@ -12,6 +12,8 @@ Some suggested projects are listed below. We encourage anyone writing libraries 
 
 To make documentation improvements, fork the [Racket git repo](https://github.com/plt/racket) and make your changes there. Most of the core documentation can be found at `collects/scribblings/`. When you're done, submit a pull request and a developer will review and suggest changes or merge it. For help with pull requests, see the [GitHub help page](https://help.github.com/articles/using-pull-requests).
 
+Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012) and the [Intro Projects](https://github.com/plt/racket/wiki/Intro-Projects) page.
+
 ***
 
 **If you claim a project, mark it on the wiki.**
