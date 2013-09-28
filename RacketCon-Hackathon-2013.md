@@ -16,7 +16,16 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 
 ***
 
-**If you claim a project, mark it on the wiki.**
+**If you claim a project, mark it on the wiki.**\
+
+* Neil Toronto, Doug Williams - math t-distribution and t-tests
+* Ryan, Spencer - something
+* Vincent, Claire, Xiangqi - generic collections
+* Dan, Eric Dobson - Typed Racket stuff
+* David, Asumu - tutorial/guide on concurrency
+* Vlad, Dan King(?) - porting scsh
+* Greg - Fear of Macros
+* Jeremy - networking library (SMTP?)
 
 # Documentation Improvements
 
