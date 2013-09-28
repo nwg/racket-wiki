@@ -26,6 +26,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 * Vlad, Dan King(?) - porting scsh
 * Greg - Fear of Macros
 * Jeremy - networking library (SMTP?)
+* Jon - HMAT library (already have some old code)
 
 # Documentation Improvements
 
