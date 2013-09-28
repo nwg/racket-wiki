@@ -16,7 +16,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 
 ***
 
-**If you claim a project, mark it on the wiki.**\
+**If you claim a project, mark it on the wiki.**
 
 * Neil Toronto, Doug Williams - math t-distribution and t-tests
 * Ryan, Spencer - something
@@ -27,6 +27,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 * Greg - Fear of Macros
 * Jeremy - networking library (SMTP?)
 * Jon - HMAT library (already have some old code)
+* Jon Schuster - IRC library/rudybot
 
 # Documentation Improvements
 
