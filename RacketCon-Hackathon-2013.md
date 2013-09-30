@@ -28,6 +28,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 * Jeremy - networking library (SMTP?)
 * Jon - HMAT library (already have some old code)
 * Jon Schuster - IRC library/rudybot
+* Stephen Chang - pastebin site for Racket
 
 # Documentation Improvements
 
