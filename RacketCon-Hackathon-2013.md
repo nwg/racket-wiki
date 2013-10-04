@@ -26,7 +26,7 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 * Vlad, Dan King(?) - porting scsh
 * Greg - Fear of Macros
 * Jeremy - networking library (SMTP?)
-* Jon - HMAT library (already have some old code)
+* Jon - HAMT library (https://github.com/97jaz/hamt)
 * Jon Schuster - IRC library/rudybot
 * Stephen Chang - pastebin site for Racket
 
