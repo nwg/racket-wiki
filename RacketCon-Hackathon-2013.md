@@ -56,4 +56,4 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 # Products of the Hackathon
 
 * [ianj](http://www.ccs.neu.edu/home/ianj/) produced a [package of pict combinators and constructors](https://github.com/ianj/slideshow-helpers) for slideshow presentations.
-* stchang, with assistance from samth and jeapostrophe, created pasterack.org, an evaluating pastebin for Racket.
+* @stchang, with assistance from @samth and @jeapostrophe, created pasterack.org, an evaluating pastebin for Racket.
