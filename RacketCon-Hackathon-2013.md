@@ -57,3 +57,6 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 
 * [ianj](http://www.ccs.neu.edu/home/ianj/) produced a [package of pict combinators and constructors](https://github.com/ianj/slideshow-helpers) for slideshow presentations.
 * @stchang, with assistance from @samth and @jeapostrophe, created pasterack.org, an evaluating pastebin for Racket.
+* Jon Zeppieri wrote a HAMT library: https://github.com/97jaz/hamt
+* David T. Pierson wrote a Guide chapter on concurrency: http://lists.racket-lang.org/dev/archive/2013-October/013502.html
+* Spencer Florence and Jeremy Heiler started an HTTP library: https://github.com/florence/rkt-http
