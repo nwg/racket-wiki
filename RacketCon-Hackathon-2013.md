@@ -16,19 +16,15 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 
 ***
 
-**If you claim a project, mark it on the wiki.**
+# Products of the Hackathon
 
-* Neil Toronto, Doug Williams - math t-distribution and t-tests
-* Ryan, Spencer - something
-* Vincent, Claire, Xiangqi - generic collections
-* Dan, Eric Dobson - Typed Racket stuff
-* David, Asumu - tutorial/guide on concurrency
-* Vlad, Dan King(?) - porting scsh
-* Greg - Fear of Macros
-* Jeremy - networking library (SMTP?)
-* Jon - HAMT library (https://github.com/97jaz/hamt)
-* Jon Schuster - IRC library/rudybot
-* Stephen Chang - pastebin site for Racket
+* [ianj](http://www.ccs.neu.edu/home/ianj/) produced a [package of pict combinators and constructors](https://github.com/ianj/slideshow-helpers) for slideshow presentations.
+* @stchang, with assistance from @samth and @jeapostrophe, created pasterack.org, an evaluating pastebin for Racket.
+* Jon Zeppieri wrote a HAMT library: https://github.com/97jaz/hamt
+* David T. Pierson wrote a Guide chapter on concurrency: http://lists.racket-lang.org/dev/archive/2013-October/013502.html
+* Spencer Florence and Jeremy Heiler started an HTTP library: https://github.com/florence/rkt-http
+* Jonathan Schuster and Eric Hanchrow converted rudybot to use the IRC library: https://github.com/offby1/rudybot/commit/ab0efb45c636a9b072deb9f1febf7840b5e62beb
+* Justin Slepak and Alex Marquez worked on toggling caching for Redex metafunctions (continuation of work from Redex hackfest): https://github.com/plt/racket/pull/449
 
 # Documentation Improvements
 
@@ -52,13 +48,3 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 # Pick something from "rudybot"s TODO list
 
 [rudybot](https://github.com/offby1/rudybot/) has been annoying IRC users on #racket, #scheme, and #emacs for years.  There's lots of little improvements on [the TODO list](https://github.com/offby1/rudybot/blob/master/TODO) and [the issue tracker](https://github.com/offby1/rudybot/issues?state=open); [the primary author](https://plus.google.com/110719264043637716066/) will be attending.
-
-# Products of the Hackathon
-
-* [ianj](http://www.ccs.neu.edu/home/ianj/) produced a [package of pict combinators and constructors](https://github.com/ianj/slideshow-helpers) for slideshow presentations.
-* @stchang, with assistance from @samth and @jeapostrophe, created pasterack.org, an evaluating pastebin for Racket.
-* Jon Zeppieri wrote a HAMT library: https://github.com/97jaz/hamt
-* David T. Pierson wrote a Guide chapter on concurrency: http://lists.racket-lang.org/dev/archive/2013-October/013502.html
-* Spencer Florence and Jeremy Heiler started an HTTP library: https://github.com/florence/rkt-http
-* Jonathan Schuster and Eric Hanchrow converted rudybot to use the IRC library: https://github.com/offby1/rudybot/commit/ab0efb45c636a9b072deb9f1febf7840b5e62beb
-* Justin Slepak and Alex Marquez worked on toggling caching for Redex metafunctions (continuation of work from Redex hackfest): https://github.com/plt/racket/pull/449
