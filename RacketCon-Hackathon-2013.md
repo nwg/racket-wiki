@@ -60,3 +60,4 @@ Also see the [2012 page](https://github.com/plt/racket/wiki/RacketCon-Hackathon-
 * Jon Zeppieri wrote a HAMT library: https://github.com/97jaz/hamt
 * David T. Pierson wrote a Guide chapter on concurrency: http://lists.racket-lang.org/dev/archive/2013-October/013502.html
 * Spencer Florence and Jeremy Heiler started an HTTP library: https://github.com/florence/rkt-http
+* Jonathan Schuster and Eric Hanchrow converted rudybot to use the IRC library: https://github.com/offby1/rudybot/commit/ab0efb45c636a9b072deb9f1febf7840b5e62beb
