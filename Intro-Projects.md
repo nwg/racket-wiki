@@ -45,8 +45,8 @@ These are intended to be a collection of fun topics to explore, intended as exer
 # Small Projects
 
 These are self-contained projects.  Just create a new github repository,
-and start hacking.  When you have something that works, release it on
-[PLaneT](http://planet.racket-lang.org).
+and start hacking.  When you have something that works, release it on the
+[package catalog](http://pkgs.racket-lang.org/). To get started with packages, take a look at its [documentation](http://www.cs.utah.edu/plt/snapshots/current/doc/pkg/index.html).
 
 * Implement a Rosetta code task: http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket
   - You could also re-implement or improve an existing Racket solution
