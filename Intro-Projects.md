@@ -41,6 +41,8 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Simulate planets in orbit
   - Pendulum
   - Newton's cradle
+* Math
+  - Try some project Euler exercises: http://projecteuler.net
 
 # Small Projects
 
@@ -50,7 +52,6 @@ and start hacking.  When you have something that works, release it on the
 
 * Implement a Rosetta code task: http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket
   - You could also re-implement or improve an existing Racket solution
-* Math: Try some project Euler exercises: http://projecteuler.net
 * Implement mini versions of classical programs (can be used as extended examples on the web site):
   - Notepad using racket/gui
   - Paint 
