@@ -135,6 +135,7 @@ These are improvements to other systems to better support Racket.
   (contact [Eli](mailto:eli@barzilay.org) for more info)
   - Optionally, extend it to do more cool stuffs
   - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
+* [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
 
 # Larger Projects
 
