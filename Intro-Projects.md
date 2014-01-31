@@ -79,13 +79,13 @@ and start hacking.  When you have something that works, release it on the
 * Write bindings to Amazon AWS.
   - [Eric Hanchrow](https://github.com/offby1/doodles/tree/master/plt-scheme/web/amazon) has some pitiful first steps which might be inspirational.
   - Staying in the pitiful vein, a typed/racket effort by [Ray Racine](https://github.com/RayRacine/knozamalib/tree/master/src/racket/aws) which is actively being developed.
-  - Greg Hendershott has untyped Racket code for the S3, SDB, SES, SNS, SQS, and CloudWatch services: [PLaneT package](http://planet.racket-lang.org/display.ss?package=aws.plt&owner=gh), [Github](https://github.com/greghendershott/aws). 
+  - Greg Hendershott has untyped Racket code for the S3, SDB, SES, SNS, SQS, CloudWatch, and other services [Github](https://github.com/greghendershott/aws). 
 * Write XMPP bindings
    - A starting point can be found [here](https://github.com/zzkt/gibberish)
 * Bindings for a text to speech engine
 * IRC log highlighter
 * IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org)), which
-  is better for a library than [rudybot](https://github.com/offby1/rudybot))
+  is better for a library than [rudybot](https://github.com/offby1/rudybot)). Jonathan Schuster has done [racket-irc](https://github.com/schuster/racket-irc).
 * Bindings for Apple's Core-* Libraries
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
