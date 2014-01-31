@@ -124,8 +124,7 @@ Similar to code improvements (docs are code).
 
 These are improvements to other systems to better support Racket.
 
-* Racket support for github code highlighting
-  - In progress: Github (and Bitbucket) use [pygments](http://pygments.org/docs/lexerdevelopment/). Gave pygments a [pull request](https://bitbucket.org/birkenfeld/pygments-main/pull-request/94/add-lexer-for-racket-language) to use a new `RacketLexer` instead of `SchemeLexer`. Accepted and merged into pygments 2012-08-23. Waiting for Github and Bitbucket to pull latest pygments.
+* -Racket support for github code highlighting-
 * Racket support for github code editing
 * Etags support for Racket features
 * Improve Racket support in Ohloh's line counter
