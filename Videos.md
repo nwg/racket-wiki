@@ -9,6 +9,8 @@ Talks
 
  * [The Racket Way](http://www.infoq.com/presentations/Racket) — StrangeLoop 2012, Matthew Flatt
 
+ * [Racket: Metaprogramming Time!](http://www.infoq.com/presentations/racket) — Clojure/west 2013, Matthew Flatt
+
  * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
 
 
