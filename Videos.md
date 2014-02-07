@@ -56,6 +56,10 @@ Research Talks
  * [Scribble: Closing the Book on Ad Hoc Documentation Tools](http://vimeo.com/6630691)
    — ICFP'09, Matthew Flatt 
 
+ * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/)
+   — 2014, Matthew Flatt 
+
+
 Education Talks 
 ---------------
 
