@@ -593,7 +593,7 @@ and set a UNIQUE constraint to make sure same order isn't entered twice.
         (error "Unable to generate GUID"))))
   
 
-
+```
 
 #### Sending a file to the Windows Print Spool using the Win32 API
 
@@ -637,21 +637,20 @@ Uses the on-error-resume-next macro from above in the postlude. Also uses an ana
        (let ((di (make-DOC_INFO_1  (string-append "Box-lunch:" (path->string (file-name-from-path pth))) #f "RAW")))
          (ON-FAIL  (start-doc-printer hprn 1 di) "spool-file: failed to start document")
          (ON-FAIL  (start-page-printer hprn) "spool-file: failed to start page")
-         (let ([buffer (make-bytes buf-size (char->integer #\_))]
-               [written 0])
+         (let ([buffer (make-bytes buf-size (char->integer #\_))])
          (with-input-from-file pth
            (λ _ 
              ((aλ (bytes-read)
                   (unless (eof-object? bytes-read)
-                    (let-values ([(read retval) (write-printer hprn buffer  bytes-read)])
+                    (let-values ([(written retval) (write-printer hprn buffer  bytes-read)])
                       (ON-FAIL retval "spool-file: failed to write to printer"))
                     (self (read-bytes! buffer))))
               (read-bytes! buffer)))
            #:mode 'binary))
          ))
    (λ _ (on-error-resume-next (end-page-printer hprn)
-                 (end-doc-printer hprn)
-                 (close-printer hprn))))))
+                              (end-doc-printer hprn)
+                              (close-printer hprn))))))
 
 
 
