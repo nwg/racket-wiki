@@ -626,8 +626,7 @@ Uses the on-error-resume-next macro from above in the postlude. Also uses an ana
 (define close-printer (get-ffi-obj "ClosePrinter" winspool (_fun _uint32 -> _uint32)))
 
 
-;usage (spool-file (build-path  "C:\\temp.doc") "ZebraUSB")
-
+;usage (spool-file (build-path  "C:\\temp.doc") "printername")
 (define (spool-file pth szprinter)
   (let ((hprn 0))
     (dynamic-wind
@@ -638,19 +637,19 @@ Uses the on-error-resume-next macro from above in the postlude. Also uses an ana
          (ON-FAIL  (start-doc-printer hprn 1 di) "spool-file: failed to start document")
          (ON-FAIL  (start-page-printer hprn) "spool-file: failed to start page")
          (let ([buffer (make-bytes buf-size (char->integer #\_))])
-         (with-input-from-file pth
-           (λ _ 
-             ((aλ (bytes-read)
-                  (unless (eof-object? bytes-read)
-                    (let-values ([(written retval) (write-printer hprn buffer  bytes-read)])
-                      (ON-FAIL retval "spool-file: failed to write to printer"))
-                    (self (read-bytes! buffer))))
-              (read-bytes! buffer)))
-           #:mode 'binary))
+           (with-input-from-file pth
+             (λ _ 
+               ((aλ (bytes-read)
+                    (unless (eof-object? bytes-read)
+                      (let-values ([(written retval) (write-printer hprn buffer  bytes-read)])
+                        (ON-FAIL retval "spool-file: failed to write to printer"))
+                      (self (read-bytes! buffer))))
+                (read-bytes! buffer)))
+             #:mode 'binary))
          ))
-   (λ _ (on-error-resume-next (end-page-printer hprn)
-                              (end-doc-printer hprn)
-                              (close-printer hprn))))))
+     (λ _ (on-error-resume-next (end-page-printer hprn)
+                                (end-doc-printer hprn)
+                                (close-printer hprn))))))
 
 
 
