@@ -21,7 +21,3 @@ This will allow using names for parameter types in annotations in the body of fu
 ### Support for generics (`racket/generic`)
 
 May require research.
-
-### Generate better contracts.
-
-Contracts should not have flat checks against values from the typed world.
