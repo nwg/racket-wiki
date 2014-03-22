@@ -21,3 +21,7 @@ This will allow using names for parameter types in annotations in the body of fu
 ### Support for generics (`racket/generic`)
 
 May require research.
+
+### Support multiple objects for expressions and aliasing of objects
+
+We should be able to typecheck: `(let ((y x)) (if (number? y) (add1 x) 5))`
