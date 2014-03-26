@@ -83,7 +83,9 @@ and start hacking.  When you have something that works, release it on the
 * Write XMPP bindings
    - A starting point can be found [here](https://github.com/zzkt/gibberish)
 * Bindings for a text to speech engine
-* IRC log highlighter
+* IRC log highlighter. Starting points :
+   - [cosmez/racket-log-highlighter](https://github.com/cosmez/racket-log-highlighter)
+   - [fridim/pimpmylog](https://github.com/fridim/pimpmylog)
 * IRC client library (can be based on the gabot code (contact [Eli](mailto:eli@barzilay.org)), which
   is better for a library than [rudybot](https://github.com/offby1/rudybot)). Jonathan Schuster has done [racket-irc](https://github.com/schuster/racket-irc).
 * Bindings for Apple's Core-* Libraries
