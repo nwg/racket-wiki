@@ -24,7 +24,7 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Scan a text for haikus
 * Puzzles
   - zebra puzzle
-  - sudoku solver
+  - sudoku solver ([Jay Kominek's](https://github.com/jkominek/sudoku))
   - sudoku generator
 * Calendars
   - Day of the week of any given date
