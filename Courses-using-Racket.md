@@ -13,3 +13,4 @@
 * Vassar College, Artificial Intelligence (CMPU-365) http://www.cs.vassar.edu/courses/top
 
 * University of British Columbia, Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
+* University of British Columbia, Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
