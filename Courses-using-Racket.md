@@ -2,4 +2,5 @@
 
 * C211, Indiana University, http://www.cs.indiana.edu/classes/c211/
 
+* EECS 111, Northwestern University http://eecs.northwestern.edu/eecs-111
 * EECS 321 and 322, Northwestern University http://www.eecs.northwestern.edu/~robby/courses/
