@@ -35,3 +35,7 @@
 ##### Berry College
 
 * Designing Programs: Problem-solving and Abstraction (CSC 120), https://cs.berry.edu/moodle/ _(guest access available upon request)_
+
+##### Coursera
+
+* Introduction to Systematic Program Design, https://www.coursera.org/course/programdesign
