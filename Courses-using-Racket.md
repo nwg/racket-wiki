@@ -40,3 +40,13 @@
 
 * Introduction to Systematic Program Design, https://www.coursera.org/course/programdesign
 * Programming Languages, https://www.coursera.org/course/proglang
+
+##### University of Waterloo
+
+* CS 115, Introduction to Computer Science 1, https://www.student.cs.uwaterloo.ca/~cs115/
+* CS 116, Introduction to Computer Science 2, https://www.student.cs.uwaterloo.ca/~cs115/
+* CS 135, Designing Functional Programs, https://www.student.cs.uwaterloo.ca/~cs135/
+* CS 136, Elementary Algorithm Design and Data Abstraction, https://www.student.cs.uwaterloo.ca/~cs136/
+* CS 145, Designing Functional Programs (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs145/
+* CS 136, Elementary Algorithm Design and Data Abstraction (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs146/
+* CS 442, Principles of Programming Languages, https://www.student.cs.uwaterloo.ca/~cs442/
