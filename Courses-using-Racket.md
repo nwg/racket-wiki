@@ -4,9 +4,13 @@
 
 * Northeastern University, Fundamentals I, http://www.ccs.neu.edu/course/cs2500f14/
 * Northeastern University, Programming Languages, http://pl.barzilay.org/
+* Northeastern University, Program Design Paradigms (Masters), http://www.ccs.neu.edu/course/cs5010f14/
+* Northeastern University, Intensive Principles of Programming Languages, http://www.ccs.neu.edu/home/matthias/7400-s14/index.html
 
 * Northwestern University, EECS 111, http://eecs.northwestern.edu/eecs-111
 * Northwestern University, EECS 321 and 322, http://www.eecs.northwestern.edu/~robby/courses/
+
+* Tufts, COMP 50, http://www.cs.tufts.edu/comp/50PSS-2013f/
 
 * Vassar College, CS I (CMPU-101) http://www.cs.vassar.edu/courses/top
 * Vassar College, Programming Languages (CMPU-235) http://www.cs.vassar.edu/courses/top
