@@ -14,3 +14,5 @@
 
 * University of British Columbia, Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
 * University of British Columbia, Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
+
+* Berry College, Designing Programs: Problem-solving and Abstraction (CSC 120), https://cs.berry.edu/moodle/ _(guest access available upon request)_
