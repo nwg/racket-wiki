@@ -11,3 +11,5 @@
 * Vassar College, CS I (CMPU-101) http://www.cs.vassar.edu/courses/top
 * Vassar College, Programming Languages (CMPU-235) http://www.cs.vassar.edu/courses/top
 * Vassar College, Artificial Intelligence (CMPU-365) http://www.cs.vassar.edu/courses/top
+
+* University of British Columbia, Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
