@@ -39,3 +39,4 @@
 ##### Coursera
 
 * Introduction to Systematic Program Design, https://www.coursera.org/course/programdesign
+* Programming Languages, https://www.coursera.org/course/proglang
