@@ -26,7 +26,12 @@
 * Programming Languages (CMPU-235) http://www.cs.vassar.edu/courses/top
 * Artificial Intelligence (CMPU-365) http://www.cs.vassar.edu/courses/top
 
-* University of British Columbia, Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
-* University of British Columbia, Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
+##### University of British Columbia
 
-* Berry College, Designing Programs: Problem-solving and Abstraction (CSC 120), https://cs.berry.edu/moodle/ _(guest access available upon request)_
+* Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
+* Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
+
+
+##### Berry College
+
+* Designing Programs: Problem-solving and Abstraction (CSC 120), https://cs.berry.edu/moodle/ _(guest access available upon request)_
