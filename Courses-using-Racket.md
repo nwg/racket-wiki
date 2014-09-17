@@ -7,3 +7,5 @@
 
 * Northwestern University, EECS 111, http://eecs.northwestern.edu/eecs-111
 * Northwestern University, EECS 321 and 322, http://www.eecs.northwestern.edu/~robby/courses/
+
+* Vassar College, CMPU-101
