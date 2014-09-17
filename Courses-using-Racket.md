@@ -8,4 +8,6 @@
 * Northwestern University, EECS 111, http://eecs.northwestern.edu/eecs-111
 * Northwestern University, EECS 321 and 322, http://www.eecs.northwestern.edu/~robby/courses/
 
-* Vassar College, CMPU-101
+* Vassar College, CS I (CMPU-101) http://www.cs.vassar.edu/courses/top
+* Vassar College, Programming Languages (CMPU-235) http://www.cs.vassar.edu/courses/top
+* Vassar College, Artificial Intelligence (CMPU-365) http://www.cs.vassar.edu/courses/top
