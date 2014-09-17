@@ -1,6 +1,9 @@
 ### This page lists courses, primarily at the college/university level, taught using Racket, Racket tools, and/or curricula based on How to Design Programs.
 
-* C211, Indiana University, http://www.cs.indiana.edu/classes/c211/
+* Indiana University, C211, http://www.cs.indiana.edu/classes/c211/
 
-* EECS 111, Northwestern University http://eecs.northwestern.edu/eecs-111
-* EECS 321 and 322, Northwestern University http://www.eecs.northwestern.edu/~robby/courses/
+* Northeastern University, Fundamentals I, http://www.ccs.neu.edu/course/cs2500f14/
+* Northeastern University, Programming Languages 
+
+* Northwestern University, EECS 111, http://eecs.northwestern.edu/eecs-111
+* Northwestern University, EECS 321 and 322, http://www.eecs.northwestern.edu/~robby/courses/
