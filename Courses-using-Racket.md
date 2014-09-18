@@ -51,7 +51,7 @@
 * CS 136, Elementary Algorithm Design and Data Abstraction (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs146/
 * CS 442, Principles of Programming Languages, https://www.student.cs.uwaterloo.ca/~cs442/
 
-##### University of Waterloo
+##### University of Utah
 
 * CS 1410-20, CS I alternate, http://www.eng.utah.edu/~cs1410-20/
 * CS 1410-20, CS II alternate,  http://www.eng.utah.edu/~cs2420-20/
