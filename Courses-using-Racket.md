@@ -31,6 +31,9 @@
 * Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
 * Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
 
+##### University of New Brunswick 
+
+* Programming Languages http://www.cs.unb.ca/~bremner/teaching/cs3613/
 
 ##### Berry College
 
