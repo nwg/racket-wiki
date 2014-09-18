@@ -50,3 +50,9 @@
 * CS 145, Designing Functional Programs (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs145/
 * CS 136, Elementary Algorithm Design and Data Abstraction (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs146/
 * CS 442, Principles of Programming Languages, https://www.student.cs.uwaterloo.ca/~cs442/
+
+##### University of Waterloo
+
+* CS 1410-20, CS I alternate, http://www.eng.utah.edu/~cs1410-20/
+* CS 1410-20, CS II alternate,  http://www.eng.utah.edu/~cs2420-20/
+* CS 5510, Programming Languages, http://www.eng.utah.edu/~cs5510/
