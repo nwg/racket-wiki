@@ -37,7 +37,7 @@
 
 ##### Berry College
 
-* Designing Programs: Problem-solving and Abstraction (CSC 120), https://cs.berry.edu/moodle/ _(guest access available upon request)_
+* Designing Programs: Problem-solving and Abstraction (CSC 120), http://cs.berry.edu/csc120 _(guest access available upon request)_
 
 ##### Coursera
 
