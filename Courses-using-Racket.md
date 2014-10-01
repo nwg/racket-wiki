@@ -63,3 +63,9 @@
 ##### Middlesex University
 
 * BSc Computer Science, Year 1, http://www.rmnd.net/pubs/els14.pdf
+
+##### Westmont College
+
+* CS 010, Intro to CS I, http://www.westmont.edu/~iba/teaching/CS010/
+* CS 105, Programming Languages, http://www.westmont.edu/~iba/teaching/CS105/
+
