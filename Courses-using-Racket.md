@@ -51,7 +51,7 @@
 * CS 135, Designing Functional Programs, https://www.student.cs.uwaterloo.ca/~cs135/
 * CS 136, Elementary Algorithm Design and Data Abstraction, https://www.student.cs.uwaterloo.ca/~cs136/
 * CS 145, Designing Functional Programs (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs145/
-* CS 136, Elementary Algorithm Design and Data Abstraction (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs146/
+* CS 146, Elementary Algorithm Design and Data Abstraction (Advanced Level), https://www.student.cs.uwaterloo.ca/~cs146/
 * CS 442, Principles of Programming Languages, https://www.student.cs.uwaterloo.ca/~cs442/
 
 ##### University of Utah
