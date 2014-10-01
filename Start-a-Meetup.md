@@ -1,3 +1,4 @@
-TODO: add content here
+TODO:
 
-prior art: http://clojure.org/start_group
+* add content here (prior art: http://clojure.org/start_group)
+* Link back to index of existing [[Racket Meetups]]
