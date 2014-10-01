@@ -59,3 +59,7 @@
 * CS 1410-20, CS I alternate, http://www.eng.utah.edu/~cs1410-20/
 * CS 1410-20, CS II alternate,  http://www.eng.utah.edu/~cs2420-20/
 * CS 5510, Programming Languages, http://www.eng.utah.edu/~cs5510/
+
+##### Middlesex University
+
+* BSc Computer Science, Year 1, http://www.rmnd.net/pubs/els14.pdf
