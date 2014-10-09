@@ -69,11 +69,11 @@
 * CS 010, Intro to CS I, http://www.westmont.edu/~iba/teaching/CS010/
 * CS 105, Programming Languages, http://www.westmont.edu/~iba/teaching/CS105/
 
-#### Cal Poly
+##### Cal Poly
 
 * CPE 123, Introduction to Programming using Music, http://www.brinckerhoff.org/clements/2148-csc123/
 * CPE 430, Programming Languages, http://www.brinckerhoff.org/clements/csc430-sp14/
 
-#### University of Vermont
+##### University of Vermont
 
 * CS 32, Puzzles, Games & Algorithms, http://www.cems.uvm.edu/~rsnapp/teaching/cs32/
