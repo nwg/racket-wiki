@@ -74,3 +74,6 @@
 * CPE 123, Introduction to Programming using Music, http://www.brinckerhoff.org/clements/2148-csc123/
 * CPE 430, Programming Languages, http://www.brinckerhoff.org/clements/csc430-sp14/
 
+#### University of Vermont
+
+* CS 32, Puzzles, Games & Algorithms, http://www.cems.uvm.edu/~rsnapp/teaching/cs32/
