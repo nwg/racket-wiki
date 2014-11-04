@@ -4,7 +4,7 @@ Videos
 Talks
 -----
 
- * RacketCon: [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
+ * RacketCon: [2014](http://con.racket-lang.org), [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
    (see [video] link for each talk)
 
  * [The Racket Way](http://www.infoq.com/presentations/Racket) — StrangeLoop 2012, Matthew Flatt
@@ -12,6 +12,8 @@ Talks
  * [Racket: Metaprogramming Time!](http://www.infoq.com/presentations/racket) — Clojure/west 2013, Matthew Flatt
 
  * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
+
+ * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/) — Matthew Flatt
 
 
 Interviews
@@ -21,6 +23,8 @@ Interviews
    — Matthew Flatt
 
  * [WeScheme](http://vidiowiki.com/watch/cydr9yk/) — Shriram Krishnamurthi
+
+ * [Racket on the Cognicast](http://blog.cognitect.com/cognicast/061-matthew-flatt) — Matthew Flatt
 
 Tutorials and Demos
 -------------------
