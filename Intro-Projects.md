@@ -155,6 +155,7 @@ For the more ambitious Racketeer ...
   (macros & functions), and make it into a language that has shell-like
   syntax
 * Write a blogging framework
+  - There's one, named [frog](https://github.com/greghendershott/frog/).
 * Write a Common Lisp compatibility layer (same functionality, but not
   all the core language features that would make this extremely
   difficult; for example: keep immutable pairs)
