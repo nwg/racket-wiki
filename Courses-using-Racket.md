@@ -44,6 +44,9 @@
 * Introduction to Systematic Program Design, https://www.coursera.org/course/programdesign
 * Programming Languages, https://www.coursera.org/course/proglang
 
+##### University of Washington
+* CSE 341, Programming Languages, https://courses.cs.washington.edu/courses/cse341/
+
 ##### University of Waterloo
 
 * CS 115, Introduction to Computer Science 1, https://www.student.cs.uwaterloo.ca/~cs115/
