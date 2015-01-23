@@ -82,7 +82,8 @@ To see the sequence of commits in master since its common ancestor
 with release, annotated with whether they've been cherry-picked to the
 release branch, use the following command:
 
-    git log --pretty=tformat:"%m %h <%aE> %s" --reverse --cherry release...master
+    git log --pretty=tformat:"%m %h <%aE> %s" --reverse --cherry \
+            release...master
 
 To update the release branch:
 
