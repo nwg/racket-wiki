@@ -77,7 +77,7 @@ and start hacking.  When you have something that works, release it on the
 * Write bindings to the Twitter APIs
 * Write bindings to the Facebook APIs
 * Write bindings to Amazon AWS.
-  - [Eric Hanchrow](https://github.com/offby1/doodles/tree/master/plt-scheme/web/amazon) has some pitiful first steps which might be inspirational.
+  - [Eric Hanchrow](https://github.com/offby1/doodles/tree/master/plt-scheme/web/amazon) has some first steps which might be inspirational.
   - Staying in the pitiful vein, a typed/racket effort by [Ray Racine](https://github.com/RayRacine/knozamalib/tree/master/src/racket/aws) which is actively being developed.
   - Greg Hendershott has untyped Racket code for the S3, SDB, SES, SNS, SQS, CloudWatch, and other services [Github](https://github.com/greghendershott/aws). 
 * Write XMPP bindings
