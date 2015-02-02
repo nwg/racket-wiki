@@ -81,7 +81,7 @@ Lectures
 --------
 
  * [CS 5510: Programming Languages (University of Utah)](http://www.eng.utah.edu/~cs5510/schedule.html)
-   - Matthew Flatt
+   — Matthew Flatt
 
 More
 ----
