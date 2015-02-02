@@ -77,6 +77,12 @@ Education Talks
  * [TeachScheme! – A Checkpoint](http://vimeo.com/16540023)
    — ICFP'10, Matthias Felleisen
 
+Lectures
+--------
+
+ * [CS 5510: Programming Languages (University of Utah)](http://www.eng.utah.edu/~cs5510/schedule.html)
+   - Matthew Flatt
+
 More
 ----
 
