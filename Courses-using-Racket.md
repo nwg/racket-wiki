@@ -80,3 +80,8 @@
 ##### University of Vermont
 
 * CS 32, Puzzles, Games & Algorithms, http://www.cems.uvm.edu/~rsnapp/teaching/cs32/
+
+##### University of Toronto
+
+* CSC 104, Computational Thinking, http://www.cs.toronto.edu/~csc104h
+* CSC 324, Principles of Programming Languages, http://www.cs.toronto.edu/~csc324h
