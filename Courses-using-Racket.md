@@ -46,6 +46,7 @@
 
 ##### University of Washington
 * CSE 341, Programming Languages, https://courses.cs.washington.edu/courses/cse341/
+* CSE 413, Programming Languages and Implementation, https://courses.cs.washington.edu/courses/cse413/
 
 ##### University of Waterloo
 
