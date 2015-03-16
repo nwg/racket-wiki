@@ -15,6 +15,8 @@ Talks
 
  * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/) — Matthew Flatt
 
+ * [Macros, Modules, and Languages in Racket](https://www.youtube.com/watch?v=Z4qn9NFfb9s) — Matthew Flatt at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
+
 
 Interviews
 ----------
