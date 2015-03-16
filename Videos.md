@@ -17,6 +17,8 @@ Talks
 
  * [Macros, Modules, and Languages in Racket](https://www.youtube.com/watch?v=Z4qn9NFfb9s) — Matthew Flatt at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
 
+ * [Introduction to Functional Programming via Racket](https://www.youtube.com/watch?v=K0TItrQNT8Q) — Jay McCarthy at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
+
 
 Interviews
 ----------
