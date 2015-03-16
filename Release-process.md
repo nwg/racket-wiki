@@ -34,6 +34,8 @@ update the TR repo's release branch (eg by cherry-picking commits from
 master), but Sam should be vetting the changes locally and keeping
 things from falling through the cracks.
 
+The current list of pkg repo managers is at [[Release repo managers]].
+
 A pkg repo release branch should be updated only by cherry-picking
 commits from another branch (usually master). 
 In extraordinary situations, the release branch may be updated
@@ -74,6 +76,8 @@ you've pushed it), email the pkg repo manager with the list of SHA1
 hashes of the commits to include. I recommend forwarding the push
 acknowledgement email, since it often contains a summary of the
 changes, which makes the request easier to review.
+
+The current list of pkg repo managers is at [[Release repo managers]].
 
 
 # Instructions for pkg repo managers
