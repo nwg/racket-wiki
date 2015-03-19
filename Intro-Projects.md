@@ -126,7 +126,7 @@ Similar to code improvements (docs are code).
 
 These are improvements to other systems to better support Racket.
 
-* -Racket support for github code highlighting-
+* ~~Racket support for github code highlighting~~
 * Racket support for github code editing
 * Etags support for Racket features
 * Improve Racket support in Ohloh's line counter
