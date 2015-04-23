@@ -1,0 +1,3 @@
+Typed Racket is cool and a lot of us are interested in bringing Racket closer to things like Coq and doing other sorts of theorem proving and advanced verification. Please list your project here, so we can find out about each other, to de-duplicate work and stay in contact.
+
+* Jay McCarthy wants to do to Racket what Agda/Idris did to Haskell relative to Coq, including making awesome macros and extracting to normal (or Typed) Racket with beautiful contracts.
