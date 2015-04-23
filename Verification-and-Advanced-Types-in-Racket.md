@@ -5,3 +5,5 @@ Typed Racket is cool and a lot of us are interested in bringing Racket closer to
 * Andrew Kent (andmkent@indiana.edu) is interested in this topic generally. Thus far he has looked at adding incremental packages/features to Racket that allow users to enforce more guarantees statically. Examples include:
     1. An algebraic datatypes package (only Typed Racket support at the moment). [pkg](http://pkgs.racket-lang.org/#[datatype]) 
     2. Adding refinements and linear constraints to Typed Racket (in-progress). [repo](https://github.com/andmkent/typed-racket)
+
+* Phil Nguyen, David Van Horn, and Sam Tobin-Hochstadt want to verify contracts statically, giving them many of the benefits of refinement type systems, without the shortcomings of all-or-nothing verification methods.  We're currently working on extending our implementation to work on real Racket code after macro expansion.
