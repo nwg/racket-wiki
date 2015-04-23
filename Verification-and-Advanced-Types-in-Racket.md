@@ -7,3 +7,5 @@ Typed Racket is cool and a lot of us are interested in bringing Racket closer to
     2. Adding refinements and linear constraints to Typed Racket (in-progress). [repo](https://github.com/andmkent/typed-racket)
 
 * Phil Nguyen, David Van Horn, and Sam Tobin-Hochstadt want to verify contracts statically, giving them many of the benefits of refinement type systems, without the shortcomings of all-or-nothing verification methods.  We're currently working on extending our implementation to work on real Racket code after macro expansion.
+
+* William J. Bowman is interested in how advanced meta-programming can benefit dependently-typed languages and theorem proving. He has implemented [Cur](https://github.com/bluephoenix47/cur), a dependently-typed language over which Racket macros can operate.
