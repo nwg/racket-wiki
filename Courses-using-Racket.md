@@ -86,3 +86,7 @@
 
 * CSC 104, Computational Thinking, http://www.cs.toronto.edu/~csc104h
 * CSC 324, Principles of Programming Languages, http://www.cs.toronto.edu/~csc324h
+
+##### The Military College of South Carolina
+
+* CSCI 355, Programming Languages, http://macs.citadel.edu/rudolphg/csci355/f14/csci_355_fall_2014_syllabus.pdf
