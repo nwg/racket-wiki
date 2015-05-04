@@ -15,3 +15,7 @@ This page lists [Racket](http://www.racket-lang.org) projects related to applica
 ### Chemistry
 
   - The [MOSAIC](https://github.com/mosaic-data-model/mosaic-racket) data model for molecular simulations
+
+### Numerical
+
+  - NLopt nonlinear optimization wrapper [[docs @ pkgs](http://pkg-build.racket-lang.org/doc/nlopt/index.html)] [[git repo](http://github.com/jkominek/nlopt/)]
