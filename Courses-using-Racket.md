@@ -90,3 +90,7 @@
 ##### The Military College of South Carolina
 
 * CSCI 355, Programming Languages, http://macs.citadel.edu/rudolphg/csci355/f14/csci_355_fall_2014_syllabus.pdf
+
+##### Yale University
+
+* CPSC 201, Introduction to Computer Science, http://zoo.cs.yale.edu/classes/cs201/
