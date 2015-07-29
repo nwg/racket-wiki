@@ -1,4 +1,4 @@
-This is a description of the current (post-split) release process.
+This is a description of the current (post-split) release process. The [Release Calendar](https://github.com/plt/racket/wiki/Release-Calendar) describes when releases happen.
 
 # Goals
 
