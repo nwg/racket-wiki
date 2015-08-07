@@ -74,6 +74,7 @@ and start hacking.  When you have something that works, release it on the
   - Authentication would be useful
   - Other interesting things: docs (esp. around spreadsheets), maps
 * Write bindings to the Github API
+  - Basic binding available [here](https://github.com/eu90h/racket-github-api)
 * Write bindings to the Twitter APIs
 * Write bindings to the Facebook APIs
 * Write bindings to Amazon AWS.
