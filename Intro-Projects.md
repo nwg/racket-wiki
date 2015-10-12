@@ -18,7 +18,7 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Animate a classic looking clock
   - Animate a word clock
 * Wordplay
-  - Find anagrams [Example](https://github.com/sturmer/ana.rkt)
+  - Find anagrams [(example)](https://github.com/sturmer/ana.rkt)
   - Find palindromes
   - Make a scrabble or crossword helper
   - Scan a text for haikus
