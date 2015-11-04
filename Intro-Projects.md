@@ -19,7 +19,7 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Animate a word clock
 * Wordplay
   - Find anagrams ([example](https://github.com/sturmer/ana.rkt))
-  - Find palindromes
+  - Find palindromes ([example](https://github.com/sturmer/palindromes.rkt))
   - Make a scrabble or crossword helper
   - Scan a text for haikus
 * Puzzles
