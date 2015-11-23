@@ -148,8 +148,8 @@ For the more ambitious Racketeer ...
   the programs from http://rosettacode.org/wiki/Category:Racket to get started.
 * Write a markdown parser (important: lots of tests; support at least
   popular variants that are used by stackoverflow and github)
-  - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [on PLaneT](http://planet.racket-lang.org/display.ss?package=squicky.plt&owner=nxg).  It's reasonably clear how to generalise that to cope with markdown, ~~and Norman is working on this as a background project.~~ but, better...
-  - Also available [here](https://github.com/greghendershott/markdown).
+  - Available [here](https://github.com/greghendershott/markdown).
+  - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [in the pkg collection](http://pkgs.racket-lang.org/#[squicky]) ([source](https://bitbucket.org/nxg/squicky)); a plan to extend this to Markdown was abandoned after Greg's package, above, ticked that box very thoroughly.
 * Write a YAML parser
   - Now available [on PLaneT](http://planet.racket-lang.org/display.ss?package=yaml.plt&owner=esilkensen).
 * Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org))
