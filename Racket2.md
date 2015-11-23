@@ -81,7 +81,7 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 
 * Make strings immutable.
 
-* Have `with-output-to-string` and friends take a body, not a thunk. The current form is better named `call-with-output-to-string`, in the general pattern of `with-x` begin syntax and `call-with-x` being a procedure.
+* Have `with-output-to-string` and friends take a body, not a thunk. The current form is better named `call-with-output-to-string`, in the general pattern of `with-x` being syntax and `call-with-x` being a procedure.
 
 * Have `<`, `>` and others take 0 or more arguments (returning `#t` for the 0 and 1 argument cases). This would allow applying them to lists without fear, which would allow patterns like `(define (sorted? l) (apply < l))`
 
