@@ -31,7 +31,6 @@
           racket -l tests/racket/contract/all
           racket -l tests/racket/contract-opt-tests.rkt
           racket -l tests/racket/contract-rand-test.rkt
-          racket -l tests/racket/contract-rand-test.rkt~
           racket -l tests/racket/contract-stress-argmin.rkt
           racket -l tests/racket/contract-stress-take-right.rkt
       - Games Tests: play a bunch of games (not automated)
