@@ -25,13 +25,27 @@
       are no such changes.
 
     * {Robby Findler <robby@eecs.northwestern.edu>}
-      - DrRacket Tests
-      - Framework Tests
-      - Contracts Tests
-      - Games Tests
+      - DrRacket Tests: cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
+      - Framework Tests: racket -l framework/tests/main
+      - Contracts Tests:
+          racket -l tests/racket/contract/all
+          racket -l tests/racket/contract-opt-tests.rkt
+          racket -l tests/racket/contract-rand-test.rkt
+          racket -l tests/racket/contract-rand-test.rkt~
+          racket -l tests/racket/contract-stress-argmin.rkt
+          racket -l tests/racket/contract-stress-take-right.rkt
+      - Games Tests: play a bunch of games (not automated)
       - Teachpacks Tests: image tests
-      - PLaneT Tests
-      - Redex Tests
+          racket -l 2htdp/tests/bitmap-as-image-in-universe.rkt
+          racket -l 2htdp/tests/image-equality-performance-htdp.rkt
+          racket -l 2htdp/tests/image-equality-performance.rkt
+          racket -l 2htdp/tests/image-too-large.rkt
+          racket -l 2htdp/tests/test-image.rkt
+      - PLaneT Tests: (the output of these tests is hard to read)
+          racket -l tests/planet/run-all
+      - Redex Tests:
+          racket -l tests/redex/run-tests
+	  racket -l tests/redex/color-tests  ;; the results of this require interpretation
       Updates:
       - DrRacket Updates: update HISTORY
       - Redex Updates: update HISTORY
