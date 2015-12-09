@@ -1,147 +1,171 @@
-```
-    * {Matthew Flatt <mflatt@cs.utah.edu>}
-      - Racket Tests
-      - Languages Tests
-      - GRacket Tests (Also check that `gracket -z' and `gracket-text' still
-        works in Windows and Mac OS X)
-      - mzc --exe tests
-      - .plt-packing Tests
-      - Games Tests
-      - Unit Tests
-      - Syntax Color Tests
-      - R6RS Tests
-      - PCPS test suite (in "pcps-test" repo)
-      - Create an executable from a BSL program
-      - Run COM tests
-      - Embed-in-c test
-      - Try compiling with -funsigned-char
-      - Try compiling with TEST_ALTERNATE_TARGET_REGISTER
-      - Run the unix installer tests
-      Updates:
-      - Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version)
-      - Update man pages in racket/man/man1: racket.1, gracket.1, raco.1
-      Email me to pick the changes when they're done, or tell me if there
-      are no such changes.
+* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
+  - [ ] Racket Tests
+  - [ ] Languages Tests
+  - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
+        still works in Windows and Mac OS X)
+  - [ ] `mzc --exe` tests
+  - [ ] .plt-packing Tests
+  - [ ] Games Tests
+  - [ ] Unit Tests
+  - [ ] Syntax Color Tests
+  - [ ] R6RS Tests
+  - [ ] PCPS test suite (in "pcps-test" repo)
+  - [ ] Create an executable from a BSL program
+  - [ ] Run COM tests
+  - [ ] Embed-in-c test
+  - [ ] Try compiling with `-funsigned-char`
+  - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
+  - [ ] Run the unix installer tests
 
-    * {Robby Findler <robby@eecs.northwestern.edu>}
-      - DrRacket Tests: cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
-      - Framework Tests: racket -l framework/tests/main
-      - Contracts Tests:
-          racket -l tests/racket/contract/all
-          racket -l tests/racket/contract-opt-tests.rkt
-          racket -l tests/racket/contract-rand-test.rkt
-          racket -l tests/racket/contract-stress-argmin.rkt
-          racket -l tests/racket/contract-stress-take-right.rkt
-      - Games Tests: play a bunch of games (not automated)
-      - Teachpacks Tests: image tests
-          racket -l 2htdp/tests/bitmap-as-image-in-universe.rkt
-          racket -l 2htdp/tests/image-equality-performance-htdp.rkt
-          racket -l 2htdp/tests/image-equality-performance.rkt
-          racket -l 2htdp/tests/image-too-large.rkt
-          racket -l 2htdp/tests/test-image.rkt
-      - PLaneT Tests: (the output of these tests is hard to read)
-          racket -l tests/planet/run-all
-      - Redex Tests:
-          racket -l tests/redex/run-tests
-	  racket -l tests/redex/color-tests  ;; the results of this require interpretation
-      Updates:
-      - DrRacket Updates: update HISTORY
-      - Redex Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version)
-      - Ensure that previous version of DrRacket's preference files still
-        starts up with new DrRacket
-      - Update man pages in racket/man/man1: drracket.1
-      Email me to pick the changes when they're done, or tell me if there
-      are no such changes.
+  - [ ] Updates:
+    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
+    + [ ] Email me to pick the changes when they're done, or tell me if
+          there are no such changes.
 
-    * {John Clements <clements@brinckerhoff.org>}
-      - Stepper Tests
-      Updates:
-      - Stepper Updates: update HISTORY
+* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+  - [ ] DrRacket Tests: 
+   ```
+   cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
+   ```
+   
+  - [ ] Framework Tests:
+   ```
+   racket -l framework/tests/main
+   ```
+
+  - [ ] Contracts Tests:
+   ```
+   racket -l tests/racket/contract/all
+   racket -l tests/racket/contract-opt-tests.rkt
+   racket -l tests/racket/contract-rand-test.rkt
+   racket -l tests/racket/contract-stress-argmin.rkt
+   racket -l tests/racket/contract-stress-take-right.rkt
+   ```
+
+  - [ ] Games Tests: play a bunch of games (not automated)
+  - [ ] Teachpacks Tests: image tests
+    ```
+    racket -l 2htdp/tests/bitmap-as-image-in-universe.rkt
+    racket -l 2htdp/tests/image-equality-performance-htdp.rkt
+    racket -l 2htdp/tests/image-equality-performance.rkt
+    racket -l 2htdp/tests/image-too-large.rkt
+    racket -l 2htdp/tests/test-image.rkt
+   ```
+
+  - [ ] PLaneT Tests: 
+   ```
+   racket -l tests/planet/run-all ;; (the output of these tests is hard to read)
+   ```
+   
+   - [ ] Redex Tests:
+   ```
+   racket -l tests/redex/run-tests
+   racket -l tests/redex/color-tests  ;; the results of this require interpretation
+   ```
+
+   - [ ] Updates:
+     + [ ] DrRacket Updates: update HISTORY
+     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
+     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
+     + [ ] Email me to pick the changes when they're done, or tell me if there are no such changes.
+
+* [ ] {John Clements <clements@brinckerhoff.org>}
+  - [ ] Stepper Tests
+
+  - [ ] Updates:
+    + [ ] Stepper Updates: update HISTORY
+
+      (updates should show `v$RKTNVER` as the most current version; email
+      me to pick the changes when they're done, or tell me if there
+      are no such changes.)
+
+* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
+  - [ ] Match Tests:
+  ```
+  raco test -l tests/match/plt-match-tests
+  ```
+  
+  - [ ] Typed Racket Tests:
+  ```
+  racket -l typed-racket-test/run -- --all
+  ```
+  
+  - [ ] Typed Racket Updates: update HISTORY
       (updates should show v$RKTNVER as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-    * {Sam Tobin-Hochstadt <samth@ccs.neu.edu>,
-       Vincent St-Amour <stamourv@ccs.neu.edu>}
-      - Match Tests: `raco test -l tests/match/plt-match-tests`
-      - Typed Racket Tests: `racket -l typed-racket-test/run -- --all`
-      - Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
+* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
+  - [ ] Teachpacks Tests: check that new teachpacks are addable
+  - [ ] Teachpack Docs: check teachpack docs in the bundles
+  - [ ] Try teaching-languages testing framework (check-expect)
+  - [ ] Updates:
+    + [ ] Teachpack Updates: update HISTORY
+      (updates should show `v$RKTNVER` as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-    * {Matthias Felleisen <matthias@ccs.neu.edu>}
-      - Teachpacks Tests: check that new teachpacks are addable
-      - Teachpack Docs: check teachpack docs in the bundles
-      - Try teaching-languages testing framework (check-expect)
-      Updates:
-      - Teachpack Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
-
-    * {Ryan Culpepper <ryanc@ccs.neu.edu>}
-      - Macro Debugger Tests
-      - syntax-parse Tests
-      - RackUnit GUI Tests
-      - Data Tests
-      - DB Tests
-      - Rackunit Tests
-      - SRFI Tests
-      Release tests for (one of the) linux releases:
-      - Test that the `racket' and `racket-textual' source releases
-        compile fine (note that they're still called `plt' and `mz' at
+* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
+  - [ ] Macro Debugger Tests
+  - [ ] syntax-parse Tests
+  - [ ] RackUnit GUI Tests
+  - [ ] Data Tests
+  - [ ] DB Tests
+  - [ ] Rackunit Tests
+  - [ ] SRFI Tests
+  - [ ] Release tests for (one of the) linux releases:
+    + [ ] Test that the `racket` and `racket-textual` source releases
+        compile fine (note that they're still called `plt` and `mz` at
         this stage).
-      - Test that the binary installers for both work, try each one in
+    + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes. (just ubuntu)
       [Note: get the release candidates from the URL in this email. Use
        the 'static table' link to see a list of all tar files available]
 
-    * {Jay McCarthy <jay.mccarthy@gmail.com>}
-      - Web Server Tests
-      - XML Tests
-      - HTML Tests
-      - PLAI Tests
-      - Racklog tests
-      - Datalog tests
+* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
+  - [ ] Web Server Tests
+  - [ ] XML Tests
+  - [ ] HTML Tests
+  - [ ] PLAI Tests
+  - [ ] Racklog tests
+  - [ ] Datalog tests
 
-    * {Stevie Strickland <sstrickl@ccs.neu.edu>}
-      - Unit Contract Tests
-      - Contract Region Tests
-      - Class Contract Tests
+* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
+  - [ ] Unit Contract Tests
+  - [ ] Contract Region Tests
+  - [ ] Class Contract Tests
 
-    * {Stephen Chang <stchang@ccs.neu.edu>}
-      - Lazy Racket Tests
-      - Lazy stepper tests
+* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
+  - [ ] Lazy Racket Tests
+  - [ ] Lazy stepper tests
 
-    * {Stephen Bloch <sbloch@adelphi.edu>}
-      - Picturing Programs Tests
+* [ ] {Stephen Bloch <sbloch@adelphi.edu>}
+  - [ ] Picturing Programs Tests
 
-    * {Greg Cooper <greg@cs.brown.edu>}
-      - FrTime Tests
+* [ ] {Greg Cooper <greg@cs.brown.edu>}
+  - [ ] FrTime Tests
 
-    * {Mike Sperber <sperber@deinprogramm.de>}
-      - DMdA Tests
-      - Stepper Tests
-      - Signature Tests
+* [ ] {Mike Sperber <sperber@deinprogramm.de>}
+  - [ ] DMdA Tests
+  - [ ] Stepper Tests
+  - [ ] Signature Tests
 
-    * {David Van Horn <dvanhorn@ccs.neu.edu>}
-      - EoPL Tests
+* [ ] {David Van Horn <dvanhorn@ccs.neu.edu>}
+  - [ ] EoPL Tests
 
-    * {Neil Toronto <neil.toronto@gmail.com>}
-      - Plot Tests
-      - Images Tests
-      - Inspect icons
-      - Math tests
+* [ ] {Neil Toronto <neil.toronto@gmail.com>}
+  - [ ] Plot Tests
+  - [ ] Images Tests
+  - [ ] Inspect icons
+  - [ ] Math tests
 
-    * {Doug Williams <m.douglas.williams@gmail.com>}
-      - Additional Plot Tests
+* [ ] {Doug Williams <m.douglas.williams@gmail.com>}
+  - [ ] Additional Plot Tests
 
-    * {Shriram Krishnamurthi <sk@cs.brown.edu>}
-      Tour: check the tour and generate a new one if needed.
-      [Note: Since this is a v$RKTAVER build, you will need to edit your
-        .../collects/framework/private/version.rkt
-      file and change `(version)' to `"$RKTNVER"'.]
-```
+* [ ] {Shriram Krishnamurthi <sk@cs.brown.edu>}
+  - [ ] Tour: check the tour and generate a new one if needed.
+      [Note: Since this is a `v$RKTAVER` build, you will need to edit your
+        `.../collects/framework/private/version.rkt`
+      file and change `(version)` to `"$RKTNVER"`.]
