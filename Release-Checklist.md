@@ -73,6 +73,10 @@
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
+  ```
+  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
+  tests/stepper/manual-tests.txt ;; follow the instructions in this file
+  ```
 
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
