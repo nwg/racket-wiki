@@ -30,6 +30,7 @@ See the Scribble [getting started](http://docs.racket-lang.org/scribble/getting-
   - Writing a GUI application
   - How to write & understand macros (Ryan & Claire)
   - Tutorial on classes, OO (Matthias & Danny)
+	DONE http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html 
   - Development how-to. (using raco, setting up your environment, writing tests, etc.)
   - How to get the most out of Racket tools (e.g., debugger, macro stepper) with screenshots
   - Extended FFI tutorial (Chris, after getting Java FFI working)
