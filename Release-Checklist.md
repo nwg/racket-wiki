@@ -216,6 +216,9 @@
 
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
   - [ ] Unit Contract Tests
+    ```
+    raco test -l tests/units/test-unit-contracts
+    ```
   - [ ] Contract Region Tests
   - [ ] Class Contract Tests
 
