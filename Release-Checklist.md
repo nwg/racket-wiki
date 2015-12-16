@@ -102,6 +102,7 @@
       changes.)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
+test
   - [ ] Teachpacks Tests: check that new teachpacks are addable
   - [ ] Teachpack Docs: check teachpack docs in the bundles
   - [ ] Try teaching-languages testing framework (check-expect)
