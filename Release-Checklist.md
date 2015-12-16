@@ -8,7 +8,7 @@
    racket -l tests/htdp-lang/test-htdp
    ```
   - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
-        still works in Windows and Mac OS X)
+        still work in Windows and Mac OS X)
    ```
    racket -l tests/gracket/test
    gracket -z
