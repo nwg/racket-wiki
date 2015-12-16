@@ -1,21 +1,64 @@
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
+   ```
+   racket -l tetsts/racket/rest
+   ```
   - [ ] Languages Tests
+   ```
+   racket -l tests/htdp-lang/test-htdp
+   ```
   - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
         still works in Windows and Mac OS X)
+   ```
+   racket -l tests/gracket/test
+   gracket -z
+   gracket-text
+   ```
   - [ ] `mzc --exe` tests
+   ```
+   racket -l tests/compiler/embed/test
+   ```
   - [ ] .plt-packing Tests
+   ```
+   cd racket-test-core/tests/racket ; racket -f pack.rktl
+   ```
   - [ ] Games Tests
-  - [ ] Unit Tests
-  - [ ] Syntax Color Tests
+   ```
+   plt-games
+   ```
   - [ ] R6RS Tests
+   ```
+   racket -l tests/r6rs/run.sps   # 3 failures expected
+   ```
   - [ ] PCPS test suite (in "pcps-test" repo)
+   ```
+   racket <file in pcps-test repo>
+   ```
   - [ ] Create an executable from a BSL program
+   ```
+   # make big-bang program with literal image in DrRacket, 
+   # then create executable
+   ```
   - [ ] Run COM tests
+   ```
+   racket -l tests/racket/com
+   ```
   - [ ] Embed-in-c test
+   ```
+   racket -l tests/racket/embed-in-c
+   ```
   - [ ] Try compiling with `-funsigned-char`
+   ```
+   configure CPPFLAGS=-funsigned-char ; make
+   ```
   - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
-  - [ ] Run the unix installer tests
+   ```
+   configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
+   ```
+  - [ ] Run the unix installer tests (in "distro-build-test" package)
+   ```
+   racket -l tests/unix-installer <version>
+   ```
 
   - [ ] Updates:
     + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
