@@ -1,7 +1,7 @@
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
    ```
-   racket -l tetsts/racket/rest
+   racket -l tetsts/racket/test
    ```
   - [ ] Languages Tests
    ```
