@@ -136,7 +136,7 @@
   
   - [ ] Typed Racket Tests:
   ```
-  racket -l typed-racket-test/run -- --all
+  racket -l typed-racket-test -- --all
   ```
   
   - [ ] Typed Racket Updates: update HISTORY
