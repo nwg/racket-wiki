@@ -27,6 +27,8 @@ We create a normal release every three months (currently January, April, July, a
 
 We *do not* create a normal release to push out a new feature. If you need a feature included in the normal release by a particular date, then plan ahead and have it ready before the release date. A reminder will be sent a week prior to the branch creation to allow people to prepare for the release in cases like this.
 
+On occasion, a scheduled release may go out with a particularly bad bug that needs to be fixed before the next normal release. Such intermediate releases will be based on a branch from the most recent normal release, and they may not require performing the entire release checklist.
+
 # Why distinguish normal releases from nightly builds?
 
 As our project has grown, the nightly-builds release has been crucial for getting normal releases out on a human timescale. Since lots of people test the most recent code, things mostly work all the time.
@@ -83,13 +85,20 @@ Otherwise, your help is greatly appreciated in exercising parts of DrRacket that
 
 PLT **management** runs the release. Current management is Matthias, Robby, Jay, Sam, and Ryan.
 
-## Timing and Branches
+## Schedule
 
-There are four releases per year. For each release, a branch is created in the main repository in preparation for the release. The date of branch day for each release is created is fixed: the 7th day of every third month (January, April, etc). One week before each release (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
+There are four normal releases per year, starting in January, April, July, and October.
+
+Each release has the following schedule:
+
+ * 1st: a reminder is sent out
+ * 7th: "branch day" --- the release branch is created
+ * 15th: testing begins
+ * ~30th: the release is announced and made available on the download page
+
+For each release, a branch is created in the main repository in preparation for the release. The date of branch day is the 7th day of the month. One week before branch day (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
 
 A week after the branch creation (on the 15th), testing begins. This time is relatively firm, and will move only in exceptional cases where more work is needed. (Pending management approval of such an extension.)
-
-On occasion, a scheduled release may go out with a particularly bad bug that needs to be fixed before the next normal release. Such intermediate releases will be based on a branch from the most recent normal release, and they may not require performing the entire release checklist.
 
 ## Version Numbers
 
