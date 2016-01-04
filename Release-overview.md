@@ -13,9 +13,9 @@ Once testing starts, the only changes to the branch are merges of emergency bugf
 
 # What is a normal release?
 
-A *normal release* is a bundle whose version number has no fourth sub-number, and one that we intend for all Racket users to download as soon as it becomes available.
+A **normal release** is a bundle whose version number has no fourth sub-number, and one that we intend for all Racket users to download as soon as it becomes available.
 
-We also have *nightly builds*. These builds always have a fourth number in their version, and they are built from git. They are also releases in the sense that we intend for a small (but significant) fraction of Racket users to use daily (more or less).
+We also have **nightly builds**. These builds always have a fourth number in their version, and they are built from git. They are also releases in the sense that we intend for a small (but significant) fraction of Racket users to use daily (more or less). Nightly builds are available from various [snapshot pages](http://pre.racket-lang.org/).
 
 The quality demands for a normal release are much higher than for a nightly build, because the audience is much wider. Nevertheless, a nightly build has quality standards too. Just keep in mind the implication of pushing commits to the repository: it is a signal that someone you don't know should run your code, read your docs, and expect it all to work (but they'll be a little forgiving if it's not quite right today and it's fixed tomorrow).
 
@@ -25,7 +25,7 @@ During periods of major changes, we sometimes have an intermediate level of alph
 
 We create a normal release every three months (currently January, April, July, and October). The three-month schedule is a compromise between allowing improvements to flow into the release continuously versus the effort required for integration and system testing.
 
-We **do not** create a normal release to push out a new feature. If you need a feature included in the normal release by a particular date, then plan ahead and have it ready before the release date. A reminder will be sent a week prior to the branch creation to allow people to prepare for the release in cases like this.
+We *do not* create a normal release to push out a new feature. If you need a feature included in the normal release by a particular date, then plan ahead and have it ready before the release date. A reminder will be sent a week prior to the branch creation to allow people to prepare for the release in cases like this.
 
 # Why distinguish normal releases from nightly builds?
 
@@ -37,9 +37,9 @@ Note that the audience for a normal release can be very wide: it includes school
 
 # What is the relationship between a release and a set of features?
 
-Normal releases are driven by time, not by feature sets. The features of a normal release are frozen once testing begins, shortly after the release branch is created. Adding a feature after the release branch is created and asking for it to be merged to it should be rare: doing so means that you're including a relatively unused and untested piece of code with a release, so you should reconsider it an be sure that there is good reason for doing so. Adding a feature after testing has begun requires unanimous approval from management, and the rules are set up to make such approvals very difficult.
+Normal releases are driven by time, not by feature sets. The features of a normal release are frozen once testing begins, shortly after the release branch is created. Adding a feature after the release branch is created and asking for it to be merged to it should be rare: doing so means that you're including a relatively unused and untested piece of code with a release, so you should reconsider it an be sure that there is good reason for doing so. Adding a feature after testing has begun requires unanimous approval from [management](#management), and the rules are set up to make such approvals very difficult.
 
-A normal release, then, is unrelated to the pressure for adding features or fixing bugs. This pressure derives from external conditions and constraints, regardless of releases or version numbers: a feature that is useful for a class, your advisor requires that a feature is in publishable condition by some date, a company promises to send you a large check if you add a feature, or if you just want the world to experience your wonderful new invention. Whatever the reason is, you need to manage **your own** schedule to make it to **your own** deadline. (In other words, it should not affect the rest of the project's timeline.) In the absence of any other constraints then, you should not plan in terms of “I want to add feature X, and it should be ready for version Y”. Implement feature X, take however long it takes, and deliver the results to nightly build users as soon as possible.
+A normal release, then, is unrelated to the pressure for adding features or fixing bugs. This pressure derives from external conditions and constraints, regardless of releases or version numbers: a feature that is useful for a class, your advisor requires that a feature is in publishable condition by some date, a company promises to send you a large check if you add a feature, or if you just want the world to experience your wonderful new invention. Whatever the reason is, you need to manage *your own* schedule to make it to *your own* deadline. (In other words, it should not affect the rest of the project's timeline.) In the absence of any other constraints then, you should not plan in terms of “I want to add feature X, and it should be ready for version Y”. Implement feature X, take however long it takes, and deliver the results to nightly build users as soon as possible.
 
 The set of features in a release as compared to the previous normal release determines the version number: if a release has only bug fixes and minor feature changes from the previous release, then only the third number in the version changes. Significant incompatibilities change the second number of the version. The first version number changes only with major architectural changes that affect the whole system.
 
@@ -47,7 +47,7 @@ The set of features in a release as compared to the previous normal release dete
 
 Once the release branch is created, there is a week before testing begins. This should be a time of heightened testing and tweaking. Review code that you own which is now included in the release branch and make sure that it's in good shape (you can ask for it to be retracted if you can't make it complete); take some time to go over your bugs; run your tests to avoid last minute surprises; make sure you use a nightly build and keep an eye on anything else that looks suspicious (as an extreme example, if you run some code and get a segfault then don't just ignore and run it again). Other than this, you can go about as usual with new developments on the master branch. (Specifically, if you had a feature that you held off because you didn't want it to be included in the release, then now it can be added without affecting the release.)
 
-Note that testing, tweaking, and documentation polishing are not release-only tasks; they happen all the time for the nightly build.
+Note that testing, tweaking, and documentation polishing are *not* release-only tasks; they happen all the time for the nightly build.
 
 As a release-branch date approaches, it really isn't a time for making up for months of late work and pushing a lot of new material out. If you have a great new idea, you can still work on it and commit your progress to the master branch, but chances are very low that the idea should be in the release. It's better to let the code mature for a while on the master branch — and have it included in the following release (which will happen soon anyway).
 
@@ -69,31 +69,37 @@ Finally, all of this can be summarized as a matter of prioritizing. In general, 
 
 If you're on Ryan's list to receive reminders when the release process starts — congratulations! However, please keep in mind a few things:
 
-  - They're generally reminders to make sure that things don't fall through the cracks, not a request to start working on something. If you're responsible for testing or for some documents, you should be able to quickly respond that everything is fine, because you've been testing or writing all along (and you just checked or proofread one more time for good measure).
+  - They're generally *reminders* to make sure that things don't fall through the cracks, not a request to start working on something. If you're responsible for testing or for some documents, you should be able to quickly respond that everything is fine, because you've been testing or writing all along (and you just checked or proofread one more time for good measure).
   - Ryan needs response relatively quickly. Two days should be normal. In bad cases the release process can take a week when unexpected problems arise. If you can't regularly respond on that time scale, then we need someone else to take over your job. If you know you're going to be especially busy near a release (e.g., due to a paper deadline), then don't wait until you get the reminder to say you can't do it; we set a schedule in advance so you can plan around such problems.
-  - Even if your tests are part of the nightly build (which is a very good idea) and/or checked by drdr (also a good idea) you should still run them. This is because in some cases there are platform-dependent bugs, or the nightly/drdr test suite can miss failures because the tests are not setup correctly (this has happened, many times).
+  - Even if your tests are part of the nightly build (which is a very good idea) and/or checked by drdr (also a good idea) you should still run them. This is because in some cases there are platform-dependent bugs, or the nightly/drdr test suite can miss failures because the tests are not setup correctly (this *has* happened, many times).
   - Keep an eye for any problems, and report anything that looks bad. Don't dismiss potential problems because “they're not your problem”.
-  - If for some reason you really need to merge changes that could potentially interact with other parts of the distribution and the changes are merged to the release, then make sure to notify the list, so we can consider another quick round of tests. Note that this would be a very rare situation, since at this point things tend to roll fast and delays are more problematic. In case of doubts, consult with management.
+  - If for some reason you really need to merge changes that could potentially interact with other parts of the distribution and the changes are merged to the release, then make sure to notify the list, so we can consider another quick round of tests. Note that this would be a very rare situation, since at this point things tend to roll fast and delays are more problematic. In case of doubts, consult with [management](#management).
 
-Otherwise, your help is greatly appreciated in exercising parts of DrRacket that you don't normally use. Note that you should be testing the release branches from the candidate build — don't check out the release branch. The intention is to try things out under the same conditions as end users.
+Otherwise, your help is greatly appreciated in exercising parts of DrRacket that you don't normally use. Note that you should be testing the release branches from the [candidate build](#candidate-builds) — don't check out the release branch. The intention is to try things out under the same conditions as end users.
 
 # Rules for a normal release
 
-## Rules for a normal release: Management
+## Management
 
-PLT *management* runs the release. Current management is Matthias, Robby, Jay, and Ryan.
+PLT **management** runs the release. Current management is Matthias, Robby, Jay, and Ryan.
 
-## Rules for a normal release: Timing and Branches
+## Timing and Branches
 
 There are four releases per year. For each release, a branch is created in the repository in preparation for the release. The date at which the repository branch for each release is created is fixed: the 7th day of every third month (January, April, etc). One week before each release (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
-
-When a release branch is created, the version number is changed in both the master and the release branches. The release branch version number is not the final one, but instead a release candidate version number (with four parts, where the last one is in the 900s).
 
 A week after the branch creation (on the 15th), testing begins. This time is relatively firm, and will move only in exceptional cases where more work is needed. (Pending management approval of such an extension.)
 
 On occasion, a scheduled release may go out with a particularly bad bug that needs to be fixed before the next normal release. Such intermediate releases will be based on a branch from the most recent normal release, and they may not require performing the entire release checklist.
 
-## Rules for a normal release: Changing the Branch
+## Version Numbers
+
+When a release branch is created, the version number is changed in both the master and the release branches. The release branch version number is not the final one, but instead a release candidate version number (with four parts, where the last one is in the 900s). Examples:
+
+  - for release 5.0, a release candidate might be numbered 4.90.90.900.
+  - for release 5.4, a release candidate might numbered be 5.3.90.900.
+  - for release 5.4.3, a release candidate might be numbered 5.4.2.900.
+
+## Changing the Branch
 
 The content of a release is essentially whatever exists in the git master branch at the time that the release branch is created on the 7th, with adjustments done due to merge requests in the following week before testing begins.
 
@@ -103,31 +109,31 @@ Otherwise, changes to the branch for the actual release must be work towards fin
 
 Note that during the time between the branch creation and the testing, the decision on which commits should be merged and which should not is up to you. However, it is expected that you be aware of the situation and commit responsibly as a result: avoid excessively big commits, new features, etc.
 
-Once testing begins, the conceptual cost of additional commits becomes prohibitively steeper, and to get new commits in you have to convince management that it's OK. (For example, it should be considered as possible grounds for a new round of testing.) You and management should agree on which member of mangement is most qualified to read and evaluate your commit; they will decide if it is included or not.
+Once testing begins, the conceptual cost of additional commits becomes prohibitively steeper, and to get new commits in you have to convince management that it's OK. (For example, it should be considered as possible grounds for a new round of testing.) You and management should agree on which member of management is most qualified to read and evaluate your commit; they will decide if it is included or not.
 
 Past experience suggests that management will be picky about new commits. If possible, design your commit to be as simple and focused as possible (even if this means you make a different commit for the fix on master). New features are very unlikely to be approved.
 
-## Rules for a normal release: Candidate Builds
+## Candidate Builds
 
-*Candidate builds* are created from the branch and announced on the dev list. Such builds are available at a location separate from the usual nightly builds (to avoid using it by mistake). Sometimes these builds will also be announced on the general users mailing list, when we want to solicit even wider testing. Candidate builds are triggered manually once the release branch is made, and refreshed once enough commits are merged. A fresh updated build is ready before testing begins.
+**Candidate builds** are created from the branch and announced on the dev list. Such builds are available at a location separate from the usual nightly builds (to avoid using it by mistake). Sometimes these builds will also be announced on the general users mailing list, when we want to solicit even wider testing. Candidate builds are triggered manually once the release branch is made, and refreshed once enough commits are merged. A fresh updated build is ready before testing begins.
 
-## Rules for a normal release: Testing Checklist
+## Testing Checklist
 
 A week after the release branch is created, Ryan sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
 
-Use the candidate build for checklist processing, not your git clone. It's good to try out building the release branch, but for testing, use the provided builds.
+Use the [candidate build](#candidate-builds) for checklist processing, not your git clone. It's good to try out building the release branch, but for testing, use the provided builds.
 
-## Rules for a normal release: From Candidate to Release
+## From Candidate to Release
 
 The time between the testing start date and the release date is used for extra testing, bug fixes, and release-checklist tasks. Checklist tasks will generally require a total of a week (so releases are usually announced around the 23rd), but the actual delay is determined by management for each release.
 
-When the checklist is completed, an announcement message is composed, and the version number in the release branch is changed from the release candidate number to the final number. Finally, the release is made publicly available.
+When the checklist is completed, an announcement message is composed, and the version number in the release branch is changed from the [release candidate number](#version-numbers) to the final number. Finally, the release is made publicly available.
 
 Once testing begins, management is expected to review each failure that occurs in DrDr for the release branch. One member of management will be designated for each failure and is expected to report back to the rest of management what, if anything, should be done.
 
 To facilitate this review process and generally to keep an open channel of communication, management is expected to meet every other day (via Skype or in person) to discuss the release.
 
-## Rules for a normal release: Senior Mangement
+## Senior Mangement
 
 When something goes wrong with the release process (as it inevitably does) and people get too excited (as happens a bit more than we wish it did), it is senior management's job to step in, preferably in consultation with some subset of the management. Senior management should just lay down the law: do this and we get the current release back on track. When this happens, the rest of the management's job is to just do what is said with a minimum of fuss.
 
