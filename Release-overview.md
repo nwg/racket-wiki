@@ -1,15 +1,15 @@
+This page gives an overview of the Racket release process including its schedule, participants' responsibilities, and rationale. Details on the mechanics of releases are on the [[Release process]] page.
+
 # Executive summary
 
 Commit to git when you want the world to use your code. Update tests and documentation every time that you commit code changes.
 
-A normal release process happens once every three months, with the following schedule:
+A normal release process happens once every three months (January, April, July, and October), with the following schedule:
 
  * 1st: a reminder is sent out
- * 7th: the release branch is created
+ * 7th: "branch day" --- the release branch is created
  * 15th: testing begins
  * ~30th: the release is announced and made available on the download page
-
-Once testing starts, the only changes to the branch are merges of emergency bugfixes and release-related materials (like HISTORY files).
 
 # What is a normal release?
 
@@ -37,7 +37,7 @@ Note that the audience for a normal release can be very wide: it includes school
 
 # What is the relationship between a release and a set of features?
 
-Normal releases are driven by time, not by feature sets. The features of a normal release are frozen once testing begins, shortly after the release branch is created. Adding a feature after the release branch is created and asking for it to be merged to it should be rare: doing so means that you're including a relatively unused and untested piece of code with a release, so you should reconsider it an be sure that there is good reason for doing so. Adding a feature after testing has begun requires unanimous approval from [management](#management), and the rules are set up to make such approvals very difficult.
+Normal releases are driven by time, not by feature sets. The features of a normal release are frozen once testing begins, shortly after the release branch is created. Adding a feature after [branch day](#branch-day) and asking for it to be merged to it should be rare: doing so means that you're including a relatively unused and untested piece of code with a release, so you should reconsider it an be sure that there is good reason for doing so. Adding a feature after testing has begun requires unanimous approval from [management](#management), and the rules are set up to make such approvals very difficult.
 
 A normal release, then, is unrelated to the pressure for adding features or fixing bugs. This pressure derives from external conditions and constraints, regardless of releases or version numbers: a feature that is useful for a class, your advisor requires that a feature is in publishable condition by some date, a company promises to send you a large check if you add a feature, or if you just want the world to experience your wonderful new invention. Whatever the reason is, you need to manage *your own* schedule to make it to *your own* deadline. (In other words, it should not affect the rest of the project's timeline.) In the absence of any other constraints then, you should not plan in terms of “I want to add feature X, and it should be ready for version Y”. Implement feature X, take however long it takes, and deliver the results to nightly build users as soon as possible.
 
@@ -45,19 +45,19 @@ The set of features in a release as compared to the previous normal release dete
 
 # How does release time differ from any other time?
 
-Once the release branch is created, there is a week before testing begins. This should be a time of heightened testing and tweaking. Review code that you own which is now included in the release branch and make sure that it's in good shape (you can ask for it to be retracted if you can't make it complete); take some time to go over your bugs; run your tests to avoid last minute surprises; make sure you use a nightly build and keep an eye on anything else that looks suspicious (as an extreme example, if you run some code and get a segfault then don't just ignore and run it again). Other than this, you can go about as usual with new developments on the master branch. (Specifically, if you had a feature that you held off because you didn't want it to be included in the release, then now it can be added without affecting the release.)
+Once the release branch is created ("branch day"), there is a week before testing begins. This should be a time of heightened testing and tweaking. Review code that you own which is now included in the release branch and make sure that it's in good shape (you can ask for it to be retracted if you can't make it complete); take some time to go over your bugs; run your tests to avoid last minute surprises; make sure you use a nightly build and keep an eye on anything else that looks suspicious (as an extreme example, if you run some code and get a segfault then don't just ignore and run it again). Other than this, you can go about as usual with new developments on the master branch. (Specifically, if you had a feature that you held off because you didn't want it to be included in the release, then now it can be added without affecting the release.)
 
 Note that testing, tweaking, and documentation polishing are *not* release-only tasks; they happen all the time for the nightly build.
 
-As a release-branch date approaches, it really isn't a time for making up for months of late work and pushing a lot of new material out. If you have a great new idea, you can still work on it and commit your progress to the master branch, but chances are very low that the idea should be in the release. It's better to let the code mature for a while on the master branch — and have it included in the following release (which will happen soon anyway).
+As a branch day approaches, it really isn't a time for making up for months of late work and pushing a lot of new material out. If you have a great new idea, you can still work on it and commit your progress to the master branch, but chances are very low that the idea should be in the release. It's better to let the code mature for a while on the master branch — and have it included in the following release (which will happen soon anyway).
 
-Note that even minor changes can have surprising consequences for a project of PLT's scale. Therefore, once the realease branch was created, please keep merge requests to finishing touches and bug fixes only. Seriously.
+Note that even minor changes can have surprising consequences for a project of PLT's scale. Therefore, once the release branch was created, please keep merge requests to finishing touches and bug fixes only. Seriously.
 
 Sometimes, an existing piece of code isn't quite in place when the release starts — maybe you didn't get to finalize the work in time for the release branch. If it requires more than “finishing touches”, ask to remove it from the release branch, effectively reversing commits that were included in it, or, if possible, provide a minimal patch to disable the new code. This is likely a better option than fixing everything to work in the last minute. If in doubt, raise your concern on the dev list.
 
 # What should individuals do just before a release?
 
-A week before the testing begins, the release branch is created. This is done early for several reasons. The main reason is a strong signal that the release is starting soon — and that you should start preparing for it: review your code and make sure it's in good shape; see that there's no half-made work that is comitted, and if so either finish it as soon as possible, or ask for it to be retracted; run your tests a few times and ask people if they see any problems.
+A week before the testing begins, the release branch is created ("branch day"). This is done early for several reasons. The main reason is a strong signal that the release is starting soon — and that you should start preparing for it: review your code and make sure it's in good shape; see that there's no half-made work that is comitted, and if so either finish it as soon as possible, or ask for it to be retracted; run your tests a few times and ask people if they see any problems.
 
 Second, it provides some “buffer time” before testing (and the actual release process) starts for such wrap-up work, in other words, it ensures that the release is a logically coherent piece of work rather than a snapshot of some random moment. As the testing period gets closer, the expectation is for merge requests to dwindle down as the release is getting more stable.
 
@@ -75,17 +75,17 @@ If you're on Ryan's list to receive reminders when the release process starts �
   - Keep an eye for any problems, and report anything that looks bad. Don't dismiss potential problems because “they're not your problem”.
   - If for some reason you really need to merge changes that could potentially interact with other parts of the distribution and the changes are merged to the release, then make sure to notify the list, so we can consider another quick round of tests. Note that this would be a very rare situation, since at this point things tend to roll fast and delays are more problematic. In case of doubts, consult with [management](#management).
 
-Otherwise, your help is greatly appreciated in exercising parts of DrRacket that you don't normally use. Note that you should be testing the release branches from the [candidate build](#candidate-builds) — don't check out the release branch. The intention is to try things out under the same conditions as end users.
+Otherwise, your help is greatly appreciated in exercising parts of DrRacket that you don't normally use. Note that you should be testing the release branch from the [candidate build](#candidate-builds) — don't check out the release branch. The intention is to try things out under the same conditions as end users.
 
 # Rules for a normal release
 
 ## Management
 
-PLT **management** runs the release. Current management is Matthias, Robby, Jay, and Ryan.
+PLT **management** runs the release. Current management is Matthias, Robby, Jay, Sam, and Ryan.
 
 ## Timing and Branches
 
-There are four releases per year. For each release, a branch is created in the repository in preparation for the release. The date at which the repository branch for each release is created is fixed: the 7th day of every third month (January, April, etc). One week before each release (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
+There are four releases per year. For each release, a branch is created in the main repository in preparation for the release. The date of branch day for each release is created is fixed: the 7th day of every third month (January, April, etc). One week before each release (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
 
 A week after the branch creation (on the 15th), testing begins. This time is relatively firm, and will move only in exceptional cases where more work is needed. (Pending management approval of such an extension.)
 
@@ -99,19 +99,21 @@ When a release branch is created, the version number is changed in both the mast
   - for release 5.4, a release candidate might numbered be 5.3.90.900.
   - for release 5.4.3, a release candidate might be numbered 5.4.2.900.
 
-## Changing the Branch
+## Changing the Release Content
 
-The content of a release is essentially whatever exists in the git master branch at the time that the release branch is created on the 7th, with adjustments done due to merge requests in the following week before testing begins.
+The content of a release is drawn from the main Racket repository as well as all package repositories reachable from the `main-distribution` package. The release contains whatever exists in their master branches on branch day, with adjustments done due to merge requests in the following week before testing begins.
 
-If you happen to commit some changes just before the release and you don't want them to be included in the branch, e-mail Ryan with the revision numbers to “unmerge” from the branch.
+If you happen to commit some changes just before branch day and you don't want them to be included in the release, e-mail the repository's manager with the revision numbers to “unmerge” from the branch.
 
-Otherwise, changes to the branch for the actual release must be work towards finalizing code and bug fixes. To do such a change, commit to the master branch and indicate in the commit message that you want it to be merged to the release branch. You can also record the commit's SHA1 number and send it to Ryan, but the log message is preferable. When the release branch exists, new release candidate builds will happen from time to time as new commits are merged in.
+Otherwise, changes to the branch for the actual release must work towards finalizing code and bug fixes. To make such a change, commit to the master branch and indicate in the commit message that you want it to be merged to the release branch. The preferred method is to include a line saying "Merge to release branch." at the end of the commit message. Failing that, you can also record the commit's SHA1 number and send it to the repository's manager, but the commit message is preferable. When the release branch exists, new release candidate builds will happen from time to time as new commits are merged in.
 
-Note that during the time between the branch creation and the testing, the decision on which commits should be merged and which should not is up to you. However, it is expected that you be aware of the situation and commit responsibly as a result: avoid excessively big commits, new features, etc.
+Note that during the time between the branch creation and the testing, the decision on which commits should be merged is up to you. However, it is expected that you be aware of the situation and commit responsibly as a result: avoid excessively big commits, new features, etc.
 
 Once testing begins, the conceptual cost of additional commits becomes prohibitively steeper, and to get new commits in you have to convince management that it's OK. (For example, it should be considered as possible grounds for a new round of testing.) You and management should agree on which member of management is most qualified to read and evaluate your commit; they will decide if it is included or not.
 
 Past experience suggests that management will be picky about new commits. If possible, design your commit to be as simple and focused as possible (even if this means you make a different commit for the fix on master). New features are very unlikely to be approved.
+
+Details about working with release branches are at [[Release process]]. Repository managers are listed at [[Release repo managers]].
 
 ## Candidate Builds
 
@@ -119,7 +121,7 @@ Past experience suggests that management will be picky about new commits. If pos
 
 ## Testing Checklist
 
-A week after the release branch is created, Ryan sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
+A week after branch day, Ryan sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
 
 Use the [candidate build](#candidate-builds) for checklist processing, not your git clone. It's good to try out building the release branch, but for testing, use the provided builds.
 
