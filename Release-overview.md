@@ -108,6 +108,8 @@ When a release branch is created, the version number is changed in both the mast
   - for release 5.4, a release candidate might numbered be 5.3.90.900.
   - for release 5.4.3, a release candidate might be numbered 5.4.2.900.
 
+In most cases, a release number will have two digits, such as 5.4. If a release is created to simply add a small change, such as a security fix or a documentation note, then it's given a number like 5.4.1. (Release 6.2.1 is an example of this.) A release number that changes the major number, such as 5.0 or 6.0, is used for major changes with significant potential incompatibility, or to indicate a substantial change in Racket as a whole.
+
 ## Changing the Release Content
 
 The content of a release is drawn from the main Racket repository as well as all package repositories reachable from the `main-distribution` package. The release contains whatever exists in their master branches on branch day, with adjustments done due to merge requests in the following week before testing begins.
