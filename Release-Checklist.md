@@ -236,7 +236,15 @@
 
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
+    
+    ```
+    raco test -l lazy/tests/main.rkt
+    ```
   - [ ] Lazy stepper tests
+
+    ```
+    raco test -l tests/stepper/automatic-tests.rkt
+    ```
 
 * [ ] {Stephen Bloch <sbloch@adelphi.edu>}
   - [ ] Picturing Programs Tests
