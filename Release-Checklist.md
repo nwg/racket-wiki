@@ -222,11 +222,13 @@
     ```
     raco test -l tests/units/test-unit-contracts
     ```
+
   - [ ] Contract Region Tests
     ```
     racket tests/racket/contract/define-contract.rkt
     racket tests/racket/contract/with-contract.rkt
     ```
+
   - [ ] Class Contract Tests
     ```
     racket tests/racket/contract/class.rkt
