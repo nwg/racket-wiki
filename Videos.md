@@ -19,7 +19,6 @@ Talks
 
  * [Introduction to Functional Programming via Racket](https://www.youtube.com/watch?v=K0TItrQNT8Q) — Jay McCarthy at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
 
-
 Interviews
 ----------
 
@@ -69,7 +68,6 @@ Research Talks
  * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/)
    — 2014, Matthew Flatt 
 
-
 Education Talks 
 ---------------
 
@@ -92,3 +90,5 @@ More
 
 See also
 [this blog post](http://blog.racket-lang.org/2010/01/scheme-videos-lectures-and-talks-thanks.html).
+
+The [Inside Racket Seminar] is a video series about Racket internal programming details.
