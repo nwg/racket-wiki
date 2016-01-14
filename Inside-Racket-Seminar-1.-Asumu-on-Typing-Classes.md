@@ -1,12 +1,7 @@
-Questions:
-* Which parts of TR have a run-time dependency on the class type
-checking? A compile-time dependency?
+On January 14th, 2016, [Asumu Takikawa](http://www.ccs.neu.edu/home/asumu/) spoke about [Typed Classes](http://docs.racket-lang.org/ts-reference/Typed_Classes.html) with [Jay McCarthy](http://jeapostrophe.github.io).
 
-* What would be required to add support for `abstract` methods?
+The archived Google Hangouts on Air event is [here](https://plus.google.com/events/chaeqmdp734takcoeel5nnj3las?hl=en). It is available on YouTube [here](https://www.youtube.com/watch?v=XClR0TwN3k4).
 
-* What code exists that has to change because of the `super-new`
-restriction? Does it fall into any simple patterns?
+The seminar is oriented on the details of the implementation and assumes an understanding of the class system generally and type system implementation ideas.
 
-* Does the approach taken for class contracts make the system more
-robust to changes in how `class` from `racket/class` is implemented
-(by comparison to `match`, for example)?
+We used [commit 1f5c514](https://github.com/racket/typed-racket/commit/1f5c5144f91f9f1b3132a28b88a339c0c945e66b) of the Typed Racket package for the walk-through, which was current at the time.
