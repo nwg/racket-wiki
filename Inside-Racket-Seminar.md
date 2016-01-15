@@ -2,4 +2,17 @@ The Inside Racket seminar seeks to expose the internal design and implementation
 
 * 2016/01/14 - [[Asumu Takikawa on Typing Classes|Inside Racket Seminar 1. Asumu on Typing Classes]]
 
-If you have a requested speaker, please contact Jay McCarthy.
+If you have a requested speaker, please contact Jay McCarthy. Previous requests are below:
+
+* Racket VM details - interpreter, JIT, runtime, expander, 3m, GC, compiler
+* racket/contract
+* redex
+* DrRacket's Check Syntax
+* 2htdp/image
+* Macro Stepper
+* Stepper
+* racket/match
+* plot
+* pict3d
+* math/array
+* 2htdp/universe
