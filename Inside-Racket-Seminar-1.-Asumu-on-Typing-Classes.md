@@ -1,4 +1,4 @@
-On January 14th, 2016, [Asumu Takikawa](http://www.ccs.neu.edu/home/asumu/) spoke about [Typed Classes](http://docs.racket-lang.org/ts-reference/Typed_Classes.html) with [Jay McCarthy](http://jeapostrophe.github.io).
+As part of the [[Inside Racket Seminar]] series, on January 14th, 2016, [Asumu Takikawa](http://www.ccs.neu.edu/home/asumu/) spoke about [Typed Classes](http://docs.racket-lang.org/ts-reference/Typed_Classes.html) with [Jay McCarthy](http://jeapostrophe.github.io).
 
 The archived Google Hangouts on Air event is [here](https://plus.google.com/events/chaeqmdp734takcoeel5nnj3las?hl=en). It is available on YouTube [here](https://www.youtube.com/watch?v=XClR0TwN3k4).
 
