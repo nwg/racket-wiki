@@ -34,20 +34,20 @@
    ```
    racket <file in pcps-test repo>
    ```
-  - [ ] Create an executable from a BSL program
+  - [x] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
    # then create executable
    ```
-  - [ ] Run COM tests
+  - [x] Run COM tests
    ```
    racket -l tests/racket/com
    ```
-  - [ ] Embed-in-c test
+  - [x] Embed-in-c test
    ```
    racket -l tests/racket/embed-in-c
    ```
-  - [ ] Try compiling with `-funsigned-char`
+  - [x] Try compiling with `-funsigned-char`
    ```
    configure CPPFLAGS=-funsigned-char ; make
    ```
