@@ -1,4 +1,4 @@
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
+* [x] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [x] Racket Tests
    ```
    racket -l tetsts/racket/test
@@ -51,7 +51,7 @@
    ```
    configure CPPFLAGS=-funsigned-char ; make
    ```
-  - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
+  - [x] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
    ```
    configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
    ```
@@ -60,10 +60,10 @@
    racket -l tests/unix-installer <version>
    ```
 
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-    + [ ] Email me to pick the changes when they're done, or tell me if
+  - [x] Updates:
+    + [x] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [x] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
+    + [x] Email me to pick the changes when they're done, or tell me if
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
