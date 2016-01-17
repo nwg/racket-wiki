@@ -55,7 +55,7 @@
    ```
    configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
    ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
+  - [x] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l tests/unix-installer <version>
    ```
