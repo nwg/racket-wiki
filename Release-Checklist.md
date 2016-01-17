@@ -70,7 +70,7 @@
   - [ ] DrRacket Tests: 
    ```
    # from the top-level directory of the release bundle, run
-   cd $(dirname "$(./bin/racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))')")
+   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))')")"
    ./run.sh
    ```
    
