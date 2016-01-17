@@ -77,13 +77,11 @@
    racket -l framework/tests/main
    ```
 
-  - [ ] Contracts Tests:
+  - [x] Contracts Tests:
    ```
    racket -l tests/racket/contract/all
-   racket -l tests/racket/contract-opt-tests.rkt
-   racket -l tests/racket/contract-rand-test.rkt
-   racket -l tests/racket/contract-stress-argmin.rkt
-   racket -l tests/racket/contract-stress-take-right.rkt
+   racket -l tests/racket/contract-stress-argmin
+   racket -l tests/racket/contract-stress-take-right
    ```
 
   - [ ] Games Tests: play a bunch of games (not automated)
