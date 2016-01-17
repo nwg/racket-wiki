@@ -246,7 +246,7 @@
     raco test -l tests/stepper/automatic-tests.rkt
     ```
 
-* [ ] {Stephen Bloch <sbloch@adelphi.edu>}
+* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
