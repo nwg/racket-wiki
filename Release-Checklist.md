@@ -69,7 +69,8 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
-   cd $(dirname $(racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))'))
+   # from the top-level directory of the release bundle, run
+   cd $(dirname "$(./bin/racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))')")
    ./run.sh
    ```
    
