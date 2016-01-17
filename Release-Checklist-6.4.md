@@ -1,36 +1,36 @@
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Racket Tests
+  - [x] Racket Tests
    ```
    racket -l tetsts/racket/test
    ```
-  - [ ] Languages Tests
+  - [x] Languages Tests
    ```
    racket -l tests/htdp-lang/test-htdp
    ```
-  - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
+  - [x] GRacket Tests (Also check that `gracket -z` and `gracket-text`
         still work in Windows and Mac OS X)
    ```
    racket -l tests/gracket/test
    gracket -z
    gracket-text
    ```
-  - [ ] `mzc --exe` tests
+  - [x] `mzc --exe` tests
    ```
    racket -l tests/compiler/embed/test
    ```
-  - [ ] .plt-packing Tests
+  - [x] .plt-packing Tests
    ```
    cd racket-test-core/tests/racket ; racket -f pack.rktl
    ```
-  - [ ] Games Tests
+  - [x] Games Tests
    ```
    plt-games
    ```
-  - [ ] R6RS Tests
+  - [x] R6RS Tests
    ```
    racket -l tests/r6rs/run.sps   # 3 failures expected
    ```
-  - [ ] PCPS test suite (in "pcps-test" repo)
+  - [x] PCPS test suite (in "pcps-test" repo)
    ```
    racket <file in pcps-test repo>
    ```
