@@ -69,7 +69,8 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
-   cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
+   cd $(dirname $(racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))'))
+   ./run.sh
    ```
    
   - [ ] Framework Tests:
@@ -80,10 +81,8 @@
   - [ ] Contracts Tests:
    ```
    racket -l tests/racket/contract/all
-   racket -l tests/racket/contract-opt-tests.rkt
-   racket -l tests/racket/contract-rand-test.rkt
-   racket -l tests/racket/contract-stress-argmin.rkt
-   racket -l tests/racket/contract-stress-take-right.rkt
+   racket -l tests/racket/contract-stress-argmin
+   racket -l tests/racket/contract-stress-take-right
    ```
 
   - [ ] Games Tests: play a bunch of games (not automated)
