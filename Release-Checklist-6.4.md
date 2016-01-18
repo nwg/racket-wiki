@@ -258,8 +258,8 @@
   - [ ] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
-* [ ] {David Van Horn <dvanhorn@ccs.neu.edu>}
-  - [ ] EoPL Tests
+* [x] {David Van Horn <dvanhorn@ccs.neu.edu>}
+  - [x] EoPL Tests
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
   - [ ] Plot Tests
