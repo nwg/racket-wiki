@@ -90,12 +90,12 @@
 
   - [ ] Games Tests: play a bunch of games (not automated)
   - [ ] Teachpacks Tests: image tests
-    ```
-    racket -l 2htdp/tests/bitmap-as-image-in-universe
-    racket -l 2htdp/tests/image-equality-performance-htdp
-    racket -l 2htdp/tests/image-equality-performance
-    racket -l 2htdp/tests/image-too-large
-    racket -l 2htdp/tests/test-image
+   ```
+   racket -l 2htdp/tests/bitmap-as-image-in-universe
+   racket -l 2htdp/tests/image-equality-performance-htdp
+   racket -l 2htdp/tests/image-equality-performance
+   racket -l 2htdp/tests/image-too-large
+   racket -l 2htdp/tests/test-image
    ```
 
   - [ ] PLaneT Tests: 
