@@ -264,8 +264,11 @@
   - [ ] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
-* [ ] {David Van Horn <dvanhorn@ccs.neu.edu>}
+* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
   - [ ] EoPL Tests
+    ```
+    raco test eopl/tests
+    ```
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
   - [ ] Plot Tests
