@@ -212,12 +212,12 @@
 
   - [ ] Racklog tests
     ```
-    raco test -c tests/racklog
+    raco test -c racklog/tests
     ```
 
   - [ ] Datalog tests
     ```
-    raco test -c tests/datalog
+    raco test -c datalog/tests
     ```
 
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
