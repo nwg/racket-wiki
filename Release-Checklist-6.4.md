@@ -67,7 +67,7 @@
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] DrRacket Tests: 
+  - [X] DrRacket Tests: 
    ```
    cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
    ```
