@@ -116,7 +116,6 @@
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-     + [ ] Email me to pick the changes when they're done, or tell me if there are no such changes.
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
