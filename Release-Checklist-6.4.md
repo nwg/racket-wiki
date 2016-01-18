@@ -72,7 +72,7 @@
    cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
    ```
    
-  - [ ] Framework Tests:
+  - [X] Framework Tests:
    ```
    racket -l framework/tests/main
    ```
