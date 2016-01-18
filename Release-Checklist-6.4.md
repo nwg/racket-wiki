@@ -183,35 +183,35 @@
       [Note: get the release candidates from the URL in this email. Use
        the 'static table' link to see a list of all tar files available]
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
+* [X] {Jay McCarthy <jay.mccarthy@gmail.com>}
+  - [X] Web Server Tests
     ```
     raco test -c tests/web-server
     ```
 
-  - [ ] XML Tests
+  - [X] XML Tests
     ```
     raco test -c tests/xml
     ```
 
-  - [ ] HTML Tests
+  - [X] HTML Tests
     ```
     raco test -c tests/html
     ```
 
-  - [ ] PLAI Tests
+  - [X] PLAI Tests
     ```
     raco test -c plai
     ```
 
-  - [ ] Racklog tests
+  - [X] Racklog tests
     ```
-    raco test -c tests/racklog
+    raco test -c racklog/tests
     ```
 
-  - [ ] Datalog tests
+  - [X] Datalog tests
     ```
-    raco test -c tests/datalog
+    raco test -c datalog/tests
     ```
 
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
