@@ -84,8 +84,8 @@
    racket -l tests/racket/contract-stress-take-right
    ```
 
-  - [ ] Games Tests: play a bunch of games (not automated)
-  - [ ] Teachpacks Tests: image tests
+  - [x] Games Tests: play a bunch of games (not automated)
+  - [x] Teachpacks Tests: image tests
     ```
     racket -l 2htdp/tests/bitmap-as-image-in-universe.rkt
     racket -l 2htdp/tests/image-equality-performance-htdp.rkt
@@ -94,12 +94,12 @@
     racket -l 2htdp/tests/test-image.rkt
    ```
 
-  - [ ] PLaneT Tests: 
+  - [x] PLaneT Tests: 
    ```
    racket -l tests/planet/run-all ;; (the output of these tests is hard to read)
    ```
    
-   - [ ] Redex Tests:
+   - [x] Redex Tests:
    ```
    racket -l tests/redex/run-tests
    racket -l tests/redex/color-tests  ;; the results of this require interpretation
