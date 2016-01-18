@@ -221,18 +221,18 @@
     ```
 
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [x] Unit Contract Tests
+  - [ ] Unit Contract Tests
     ```
     raco test -l tests/units/test-unit-contracts
     ```
 
-  - [x] Contract Region Tests
+  - [ ] Contract Region Tests
     ```
     racket -l tests/racket/contract/define-contract
     racket -l tests/racket/contract/with-contract
     ```
 
-  - [x] Class Contract Tests
+  - [ ] Class Contract Tests
     ```
     racket -l tests/racket/contract/class
     ```
