@@ -106,9 +106,9 @@
    
    - [ ] Redex Tests:
    ```
-   racket -l tests/redex/run-tests
+   racket -l redex/tests/run-tests
    # the results of color-tests require interpretation (and clicking)
-   racket -l tests/redex/color-tests 
+   racket -l redex/tests/color-tests 
    ```
 
    - [ ] Updates:
