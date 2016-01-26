@@ -1,3 +1,7 @@
+This is the master copy of the testing checklist for Racket releases. Edit this version to add testing responsibilities or to include the commands used to run listed tests.
+
+A copy of this checklist for the current release in progress is at [[Release-Checklist-6.4]]. That page is edited when testing items are completed.
+
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
    ```
