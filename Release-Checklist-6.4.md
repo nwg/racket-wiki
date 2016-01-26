@@ -66,7 +66,7 @@
     + [x] Email me to pick the changes when they're done, or tell me if
           there are no such changes.
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+* [x] {Robby Findler <robby@eecs.northwestern.edu>}
   - [X] DrRacket Tests: 
    ```
    cd $(dirname $(raco fc tests/drracket/io)); ./run.sh
@@ -141,8 +141,8 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [ ] Teachpacks Tests: check that new teachpacks are addable
+* [x] {Matthias Felleisen <matthias@ccs.neu.edu>}
+  - [x] Teachpacks Tests: check that new teachpacks are addable
       ```
       1. create foo.rkt: #lang racket (define x 0) (provide x)
       2. create bar.rkt: #lang htdp/bsl (require "foo.rkt") x; RUN and check for 0 to pop out
@@ -150,18 +150,18 @@
       4. delete foo.rkt and bar.rkt
       ```
 
-  - [ ] Teachpack Docs: check teachpack docs in the bundles
+  - [x] Teachpack Docs: check teachpack docs in the bundles
       ```
       type "big-bang" into Definitions area, highlight, use F1; check for manuals 
       ```
 
-  - [ ] Try teaching-languages testing framework (check-expect)
+  - [x] Try teaching-languages testing framework (check-expect)
       ```
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
 
-  - [ ] Updates:
-    + [ ] Teachpack Updates: update HISTORY
+  - [x] Updates:
+    + [x] Teachpack Updates: update HISTORY
       (updates should show `v$RKTNVER` as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
@@ -214,19 +214,19 @@
     raco test -c datalog/tests
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
+* [x] {Stevie Strickland <sstrickl@ccs.neu.edu>}
+  - [x] Unit Contract Tests
     ```
     raco test -l tests/units/test-unit-contracts
     ```
 
-  - [ ] Contract Region Tests
+  - [x] Contract Region Tests
     ```
     racket tests/racket/contract/define-contract.rkt
     racket tests/racket/contract/with-contract.rkt
     ```
 
-  - [ ] Class Contract Tests
+  - [x] Class Contract Tests
     ```
     racket tests/racket/contract/class.rkt
     ```
@@ -249,13 +249,13 @@
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
   - [ ] FrTime Tests
 
-* [ ] {Mike Sperber <sperber@deinprogramm.de>}
-  - [ ] DMdA Tests
+* [x] {Mike Sperber <sperber@deinprogramm.de>}
+  - [x] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
     [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
-  - [ ] Stepper Tests
+  - [x] Stepper Tests
     [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
-  - [ ] Signature Tests
+  - [x] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
 * [x] {David Van Horn <dvanhorn@ccs.neu.edu>}
@@ -269,9 +269,3 @@
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
-
-* [ ] {Shriram Krishnamurthi <sk@cs.brown.edu>}
-  - [ ] Tour: check the tour and generate a new one if needed.
-      [Note: Since this is a `v$RKTAVER` build, you will need to edit your
-        `.../collects/framework/private/version.rkt`
-      file and change `(version)` to `"$RKTNVER"`.]
