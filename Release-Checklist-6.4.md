@@ -1,3 +1,5 @@
+This page shows the state of testing for the 6.4 release. You may edit this page to check off your testing items when they or done, or you may email Ryan and he will update this page.
+
 * [x] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [x] Racket Tests
    ```
