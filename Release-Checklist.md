@@ -283,8 +283,3 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
-* [ ] {Shriram Krishnamurthi <sk@cs.brown.edu>}
-  - [ ] Tour: check the tour and generate a new one if needed.
-      [Note: Since this is a `v$RKTAVER` build, you will need to edit your
-        `.../collects/framework/private/version.rkt`
-      file and change `(version)` to `"$RKTNVER"`.]
