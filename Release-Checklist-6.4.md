@@ -169,13 +169,13 @@ This page shows the state of testing for the 6.4 release. You may edit this page
       changes.)
 
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
-  - [ ] Macro Debugger Tests
-  - [ ] syntax-parse Tests
-  - [ ] RackUnit GUI Tests
-  - [ ] Data Tests
-  - [ ] DB Tests
-  - [ ] Rackunit Tests
-  - [ ] SRFI Tests
+  - [x] Macro Debugger Tests
+  - [x] syntax-parse Tests
+  - [x] RackUnit GUI Tests
+  - [x] Data Tests
+  - [x] DB Tests
+  - [x] Rackunit Tests
+  - [x] SRFI Tests
   - [ ] Release tests for (one of the) linux releases:
     + [ ] Test that the `racket` and `racket-textual` source releases
         compile fine (note that they're still called `plt` and `mz` at
