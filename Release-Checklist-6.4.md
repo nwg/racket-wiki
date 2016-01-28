@@ -233,13 +233,13 @@ This page shows the state of testing for the 6.4 release. You may edit this page
     racket tests/racket/contract/class.rkt
     ```
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
+* [x] {Stephen Chang <stchang@ccs.neu.edu>}
+  - [x] Lazy Racket Tests
     
     ```
     raco test -l lazy/tests/main.rkt
     ```
-  - [ ] Lazy stepper tests
+  - [x] Lazy stepper tests
 
     ```
     raco test -l tests/stepper/automatic-tests.rkt
