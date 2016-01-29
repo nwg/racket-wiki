@@ -264,9 +264,9 @@ This page shows the state of testing for the 6.4 release. You may edit this page
   - [x] EoPL Tests
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
-  - [ ] Plot Tests
-  - [ ] Images Tests
-  - [ ] Inspect icons
+  - [x] Plot Tests
+  - [x] Images Tests
+  - [x] Inspect icons
   - [ ] Math tests
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
