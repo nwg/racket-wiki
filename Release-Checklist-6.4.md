@@ -168,7 +168,7 @@ This page shows the state of testing for the 6.4 release. You may edit this page
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
+* [x] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [x] Macro Debugger Tests
   - [x] syntax-parse Tests
   - [x] RackUnit GUI Tests
@@ -176,11 +176,11 @@ This page shows the state of testing for the 6.4 release. You may edit this page
   - [x] DB Tests
   - [x] Rackunit Tests
   - [x] SRFI Tests
-  - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the `racket` and `racket-textual` source releases
+  - [x] Release tests for (one of the) linux releases:
+    + [x] Test that the `racket` and `racket-textual` source releases
         compile fine (note that they're still called `plt` and `mz` at
         this stage).
-    + [ ] Test that the binary installers for both work, try each one in
+    + [x] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes. (just ubuntu)
       [Note: get the release candidates from the URL in this email. Use
        the 'static table' link to see a list of all tar files available]
