@@ -113,15 +113,15 @@ This page shows the state of testing for the 6.4 release. You may edit this page
      +  Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      +  Update man pages in `racket/man/man1`: `drracket.1`
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
+* [X] {John Clements <clements@brinckerhoff.org>}
+  - [X] Stepper Tests
   ```
   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
   tests/stepper/manual-tests.txt ;; follow the instructions in this file
   ```
 
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
+  - [X] Updates:
+    + [X] Stepper Updates: update HISTORY
 
       (updates should show `v$RKTNVER` as the most current version; email
       me to pick the changes when they're done, or tell me if there
