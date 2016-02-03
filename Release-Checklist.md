@@ -306,9 +306,21 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
   - [ ] Plot Tests
+    ```
+    raco test -c plot/tests
+    ```
   - [ ] Images Tests
+    ```
+    raco test -c images/tests
+    ```
   - [ ] Inspect icons
+    ```
+    raco docs icons # then look at them
+    ```
   - [ ] Math tests
+    ```
+    raco test -c math/tests
+    ```
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
