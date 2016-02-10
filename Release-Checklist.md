@@ -288,6 +288,13 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
   - [ ] FrTime Tests
+    + [ ] Test that expressions with time-varying values (e.g., `seconds`,
+        `(build-list (modulo seconds 10) identity)`) render and update as
+        expected in the FrTime language level. Check that they continue
+        updating even after a garbage collection.
+    + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
+        `tetris.rkt`) work as expected, responding to relevant key and mouse
+        events and interactions with control widgets.
 
 * [ ] {Mike Sperber <sperber@deinprogramm.de>}
   - [ ] DMdA Tests
