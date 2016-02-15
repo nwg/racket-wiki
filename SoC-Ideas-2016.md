@@ -81,7 +81,7 @@ Follow the template below:
 ---
 
 ### Data table/frame library ###
-* Summary: Build a library that provides a data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects) or Python's [panda](http://pandas.pydata.org/pandas-docs/stable/index.html) library.
+* Summary: Build a library that provides data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects) or Python's [panda](http://pandas.pydata.org/pandas-docs/stable/index.html) library.
            Racket comes with a full-featured [plotting](http://docs.racket-lang.org/plot/index.html) library
            but does not have a complementary data manipulation library. A data table package would
            start to fill in that gap.
