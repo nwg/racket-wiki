@@ -13,7 +13,7 @@ For an idea of what project ideas are like for other orgs, see the ideas for [GN
 Follow the template below:
 ### Project template name ###
 * Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
+* Expected results: provide a few reasons why this project would be useful.
 * Requirements: any required experience or knowledge.
 * Difficulty: how hard is the project, beginner, intermediate, expert
 * Possible mentor: each projects needs at least one possible mentor.
@@ -21,10 +21,19 @@ Follow the template below:
 
 ---
 
-### Extend Check Syntax ###
-* Summary: DrRacket has a great built-in online syntax analysis tool. However, it would be even better if it reported more diagnostic information such as unused definitions, unprovided definitions, and some easy static analysis (e.g., arity analysis).
-* Benefits: Makes developers lives easier. Might help students as well.
-* Requirements: Functional programming, GUI programming experience is good. Also experience with programs that process other programs.
+### Better Syntax Analysis for DrRacket ###
+* Summary: DrRacket comes with a built-in online syntax analysis tool
+  called "Check Syntax."
+  This tool macro expands the user's program in the background
+  and reports syntactic errors (e.g., a program with parse errors or
+  with misuses of forms like `if` or `cond`) as they come up.
+  This project aims to augment Check Syntax with more diagnostic information
+  such as warning the user about unused definitions, missing `provide` declarations,
+  or calling a function with the wrong number of arguments. This will require
+  the use of some simple static analyses.
+* Expected results: An expanded Check Syntax in DrRacket that will
+  report more diagnostic information.
+* Requirements: functional programming, GUI programming, knowledge of static analysis would help.
 * Possible mentors: Robby Findler
 * Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
 
