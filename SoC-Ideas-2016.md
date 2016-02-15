@@ -34,24 +34,38 @@ Follow the template below:
 * Expected results: An expanded Check Syntax in DrRacket that will
   report more diagnostic information.
 * Requirements: functional programming, GUI programming, knowledge of static analysis would help.
+* Difficulty: beginner to intermediate, depending on how much analysis is done.
 * Possible mentors: Robby Findler
 * Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
 
 ---
 
-### DrRacket tool for collaborative editing ###
-* Summary: a DrRacket plug-in to enable real-time collaborative editing of a source file, possibly with fine-grained logging as well.  Two or more different programmers each edit the same file simultaneously, and edits one of them make show up immediately on the others' screens.
-* Benefits: Collaborative editing has various benefits to students and developers. The logging functionality could allow an instructor to pinpoint mistakes a student makes.
-* Requirements/Difficulty: Functional programming experience and GUI programming experience. Ideally some experience with networking.
+### Collaborative editing in DrRacket ###
+* Summary: Build a DrRacket plug-in to enable real-time collaborative editing
+           of a source file. Possibly with fine-grained logging.
+           Two or more different programmers each edit the same file
+           simultaneously, and edits one of them make show up immediately
+           on the others' screens. An implementation might use
+           [libinfinity](http://infinote.org/) that is part of the [Gobby](https://gobby.github.io/)
+           project to implement text synchronization.
+* Expected result: a DrRacket plugin that implements collaborative editing.
+* Requirements: functional programming, GUI programming, networking, FFI
+* Difficulty: intermediate
 * Possible mentor: Robby Findler
 * Other:
 
-### Design a graph layout library for Racket ###
-* Summary: DrRacket makes use of graph layout algorithms frequently in many parts of the UI. This project would involve writing a native Racket library that can handle that.
-* Benefits: Would allow more graph-based UIs in DrRacket and other Racket programs.
-* Requirements: Experience with functional programming and GUI programming.
+---
+
+### A graph layout library for Racket ###
+* Summary: Graph layout is frequently needed for visualization
+           and UI programming. The currently solution is to call
+           out to graphviz, but applications could have more
+           flexibility if a native Racket library were available.
+           This project calls for designing such a library.
+* Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications.
+* Requirements: functional programming, GUI programming
 * Possible mentors: Robby Findler
-* Other: Functionality similar to [Graphviz](http://www.graphviz.org/) is desirable. One mode of operation might be to call out to Graphviz via the FFI.
+* Other:
 
 ---
 
