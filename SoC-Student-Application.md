@@ -1,4 +1,4 @@
-This is a student application form for Racket's Google Summer of Code entry. Please see Google's [FAQ](http://socghop.appspot.com/document/show/gsoc_program/google/gsoc2012/faqs#student_eligibility) for information on eligibility. See the [[ideas|Soc Ideas 2012]] page for possible projects you can work on. Feel free to propose your own idea, but you should run it by the relevant mentor or the community through the mailing list.
+This is a student application form for Racket's Google Summer of Code entry. Please see Google's [Getting Started](https://summerofcode.withgoogle.com/get-started/) page for information on eligibility. See the [[ideas|Soc Ideas 2014]] page for possible projects you can work on. Feel free to propose your own idea, but you should run it by the relevant mentor or the community through the mailing list.
 
 For your application, please answer at least the following questions in your application. If you would like to provide a CV or pointer to a relevant blog or website, please link to it in your application.
 
