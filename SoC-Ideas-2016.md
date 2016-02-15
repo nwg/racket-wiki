@@ -60,10 +60,14 @@ Follow the template below:
 * Summary: Graph layout is frequently needed for visualization
            and UI programming. The currently solution is to call
            out to graphviz, but applications could have more
-           flexibility if a native Racket library were available.
+           flexibility if a native Racket library or DSL that
+           translates to graphviz were available.
            This project calls for designing such a library.
+           It should be integrated with the existing [graph](https://github.com/stchang/graph)
+           library for Racket.
 * Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications.
 * Requirements: functional programming, GUI programming
+* Difficulty: beginner to intermediate
 * Possible mentors: Robby Findler
 * Other:
 
