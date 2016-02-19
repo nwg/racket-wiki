@@ -114,6 +114,7 @@ like `raco profile` or as a library call.
 * **Possible mentor:** Leif Andersen
 * **Other:**
   - See Guile's [gcprof](https://www.gnu.org/software/guile/manual/html_node/statprof.html) for inspiration
+  - Also see Go's [profiling tools](http://blog.golang.org/profiling-go-programs) which includes memory profiling
 
 ---
 
