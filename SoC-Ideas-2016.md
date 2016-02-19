@@ -89,7 +89,7 @@ Follow the template below:
 ---
 
 ### Memory profiler for Racket ###
-* **Summary:** This project is for building a memory profiler for Racket programs.
+* **Summary:** This project is for building a [memory profiler](http://valgrind.org/docs/valgrind2007.pdf) for Racket programs.
     Racket comes with several profiling tools, including a
     [statistical runtime profiler](docs.racket-lang.org/profile/). However, it does not
     currently come with any tools for precisely profiling memory use.
