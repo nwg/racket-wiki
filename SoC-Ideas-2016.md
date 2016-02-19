@@ -36,15 +36,6 @@ Follow the template below:
 
 ---
 
-### Git support for DrRacket ###
-* **Summary:** Build a Racket library that allows interaction with git repositories.
-* **Benefits:** Will make it easier to write scripts for development, Racket-based git tools in the future.
-* **Requirements:** familiarity with C (if binding to libgit), functional programming and OO experience.
-* **Possible mentors:** Leif Andersen
-* **Other:** Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
-
----
-
 ### Improve DrRacket vim plugin ###
 * **Summary:** A plugin for DrRacket that provides vim emulation
   (in the spirit of viper-mode or evil-mode) is under
@@ -115,6 +106,25 @@ like `raco profile` or as a library call.
 * **Other:**
   - See Guile's [gcprof](https://www.gnu.org/software/guile/manual/html_node/statprof.html) for inspiration
   - Also see Go's [profiling tools](http://blog.golang.org/profiling-go-programs) which includes memory profiling
+
+---
+
+### Git support for DrRacket ###
+* **Summary:** The goal of this project is to build a DrRacket plugin that supports
+    manipulating git repositories to allow a programmer to version control their Racket
+    programs. There are two possible implementation strategies. One is to implement a
+    a Racket library that allows interaction with git repositories, using either the FFI
+    or through supporting the git object format.
+
+    The other option is to call out to the git executable on the machine.
+* **Expected results:** A DrRacket plugin that allows initializing, adding files, committing,
+    and other basic git operations from the GUI.
+* **Requirements:** familiarity with C (if binding to libgit), functional programming, GUI programming
+* **Possible mentors:** Leif Andersen
+* **Other:**
+   - Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
+   - Racket also comes with a library that supports git checkouts from remote servers. This
+     can be re-used for this project by integrating it into the GUI.
 
 ---
 
