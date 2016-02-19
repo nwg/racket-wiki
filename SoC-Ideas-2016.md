@@ -49,7 +49,8 @@ Follow the template below:
   (in the spirit of viper-mode or evil-mode) is under
   active development: https://github.com/takikawa/drracket-vim-tool.
   The plugin, however, lacks a lot of features that are needed to
-  fully emulate vim. This project would involve 
+  fully emulate vim. This project consists of improving the plugin
+  to cover the most used keybindings and features of vim.
 * Expected results: a more complete implementation of vim emulation.
   Example milestones might include specifying the vim commands using
   a DSL for ease-of-extension. Another one is fleshing out the Ex
@@ -61,6 +62,10 @@ Follow the template below:
          because there is a substantial existing codebase. That means, however, that
          a candidate should be prepared to implement several features in the GSoC
          work period.
+
+         A good starting point for this project is to familiarize yourself with the
+         Racket [GUI](http://docs.racket-lang.org/gui/index.html) library and the
+         DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html).
 
 ---
 
