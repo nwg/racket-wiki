@@ -68,12 +68,20 @@ Follow the template below:
 * Summary: The Racket command-line REPL (read-eval-print-loop) does not
            come with its own debugger. DrRacket comes with a break+step
            GUI debugger, but it cannot be used from the command-line.
-           This project would involve building a new debugger, 
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
+           This project would involve building a new debugger that integrates
+           with the REPL and possibly with XREPL.
+* Expected result: a fully working command-line debugger with break points,
+                   stepping, and the ability to resume from exceptional control flow.
+* Requirements: functional programming, possibly some C knowledge would help for adding
+                debugging support at the VM level.
+* Difficulty: intermediate
 * Possible mentor: Asumu Takikawa, Leif Andersen
-* Other: any other notes. Use this space to outline project details, if any.
+* Other: It would be helpful to look at related projects in Lisp-like languages
+  - [Guile's debugger](https://www.gnu.org/software/guile/docs/docs-1.8/guile-ref/Interactive-Debugger.html#Interactive-Debugger)
+  - [Chez Scheme debugger](http://www.scheme.com/csug7/debug.html)
+  - [Gambit Scheme debugger](http://www.iro.umontreal.ca/~gambit/doc/gambit.html#Debugging)
+  - [Larceny Scheme debugger](http://larceny.ccs.neu.edu/doc/user-manual.html#id2551369)
+  - [SBCL debugger](http://sbcl.org/manual/index.html#Debugger)
 
 ---
 
