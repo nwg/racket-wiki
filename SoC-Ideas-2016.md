@@ -73,11 +73,17 @@ Follow the template below:
 * Summary: The Racket command-line REPL (read-eval-print-loop) does not
            come with its own debugger. DrRacket comes with a break+step
            GUI debugger, but it cannot be used from the command-line.
-           This project would involve building a new debugger that integrates
-           with the REPL and possibly with XREPL.
+           This project involves building a new debugger that integrates
+           with the REPL and possibly with [XREPL](http://docs.racket-lang.org/xrepl/index.html).
+
+           This may also require adding support at the Racket VM level,
+           depending on what features the debugger will have. One possible
+           implementation strategy would be to use [errortrace](http://docs.racket-lang.org/errortrace/index.html),
+           which the GUI debugger also uses. The [GUI debugger codebase](https://github.com/racket/drracket/tree/master/drracket/gui-debugger)
+           is also a good starting point.
 * Expected result: a fully working command-line debugger with break points,
                    stepping, and the ability to resume from exceptional control flow.
-* Requirements: functional programming, possibly some C knowledge would help for adding
+* Requirements: functional programming, possibly some C knowledge for adding
                 debugging support at the VM level.
 * Difficulty: intermediate
 * Possible mentor: Asumu Takikawa, Leif Andersen
