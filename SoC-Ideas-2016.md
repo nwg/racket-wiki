@@ -12,53 +12,54 @@ For an idea of what project ideas are like for other orgs, see the ideas for [GN
 
 Follow the template below:
 ### Project template name ###
-* Summary: provide a one or two sentence summary of the project.
-* Expected results: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
+* **Summary:** provide a one or two sentence summary of the project.
+* **Expected results:** provide a few reasons why this project would be useful.
+* **Requirements:** any required experience or knowledge.
+* **Difficulty:** how hard is the project, beginner, intermediate, expert
+* **Possible mentor:** each projects needs at least one possible mentor.
+* **Other:** any other notes. Use this space to outline project details, if any.
 
 ---
 
 ### Data table/frame library ###
-* Summary: Build a library that provides data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects)/[data tables](https://github.com/Rdatatable/data.table/wiki), Python's [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html) library, or Julia's [DataFrames](http://dataframesjl.readthedocs.org/en/latest/).
-           Racket comes with a full-featured [plotting](http://docs.racket-lang.org/plot/index.html) library
-           but does not have a complementary data manipulation library. A data table package would
-           start to fill in that gap. Beyond basic data tables, the project could also integrate
-           data manipulation techniques like those used in pandas or R's [reshape](http://had.co.nz/reshape/) library.
-* Expected results: A library for data tables that interoperates with [plot](http://docs.racket-lang.org/plot/index.html). It should support missing data, grouping, reshaping, and serialization of data.
-* Requirements: functional programming, numerical/stats/data programming
-* Difficulty: beginner or intermediate (depends on how close to pandas it gets)
-* Possible mentors: Asumu Takikawa
-* Other:
+* **Summary:** Build a library that provides data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects)/[data tables](https://github.com/Rdatatable/data.table/wiki), Python's [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html) library, or Julia's [DataFrames](http://dataframesjl.readthedocs.org/en/latest/).
+
+    Racket comes with a full-featured [plotting](http://docs.racket-lang.org/plot/index.html) library
+    but does not have a complementary data manipulation library. A data table package would
+    start to fill in that gap. Beyond basic data tables, the project could also integrate
+    data manipulation techniques like those used in pandas or R's [reshape](http://had.co.nz/reshape/) library.
+* **Expected results:** A library for data tables that interoperates with [plot](http://docs.racket-lang.org/plot/index.html). It should support missing data, grouping, reshaping, and serialization of data.
+* **Requirements:** functional programming, numerical/stats/data programming, experience with R or similar languages a plus
+* **Difficulty:** beginner or intermediate (depends on how close to pandas it gets)
+* **Possible mentors:** Asumu Takikawa
+* **Other:**
 
 ---
 
 ### Git support for DrRacket ###
-* Summary: Build a Racket library that allows interaction with git repositories.
-* Benefits: Will make it easier to write scripts for development, Racket-based git tools in the future.
-* Requirements: familiarity with C (if binding to libgit), functional programming and OO experience.
-* Possible mentors: Leif Andersen
-* Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
+* **Summary:** Build a Racket library that allows interaction with git repositories.
+* **Benefits:** Will make it easier to write scripts for development, Racket-based git tools in the future.
+* **Requirements:** familiarity with C (if binding to libgit), functional programming and OO experience.
+* **Possible mentors:** Leif Andersen
+* **Other:** Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
 
 ---
 
 ### Improve DrRacket vim plugin ###
-* Summary: A plugin for DrRacket that provides vim emulation
+* **Summary:** A plugin for DrRacket that provides vim emulation
   (in the spirit of viper-mode or evil-mode) is under
   active development: https://github.com/takikawa/drracket-vim-tool.
   The plugin, however, lacks a lot of features that are needed to
   fully emulate vim. This project consists of improving the plugin
   to cover the most used keybindings and features of vim.
-* Expected results: a more complete implementation of vim emulation.
+* **Expected results:** a more complete implementation of vim emulation.
   Example milestones might include specifying the vim commands using
   a DSL for ease-of-extension. Another one is fleshing out the Ex
   command parser to be more general.
-* Requirements: object-oriented programming, GUI programming, knowledge of vim
-* Difficulty: beginner
-* Possible mentor: Asumu Takikawa
-* Other: This project is a relatively easy one that would be suitable for beginners
+* **Requirements:** object-oriented programming, GUI programming, knowledge of vim
+* **Difficulty:** beginner
+* **Possible mentor:** Asumu Takikawa
+* **Other:** This project is a relatively easy one that would be suitable for beginners
    because there is a substantial existing codebase. That means, however, that
    a candidate should be prepared to implement several features in the GSoC
    work period.
@@ -70,7 +71,7 @@ Follow the template below:
 ---
 
 ### Command-line REPL debugger ###
-* Summary: The Racket command-line REPL (read-eval-print-loop) does not
+* **Summary:** The Racket command-line REPL (read-eval-print-loop) does not
            come with its own debugger. DrRacket comes with a break+step
            GUI debugger, but it cannot be used from the command-line.
            This project involves building a new debugger that integrates
@@ -81,13 +82,13 @@ Follow the template below:
     implementation strategy would be to use [errortrace](http://docs.racket-lang.org/errortrace/index.html),
     which the GUI debugger also uses. The [GUI debugger codebase](https://github.com/racket/drracket/tree/master/drracket/gui-debugger)
     is also a good starting point.
-* Expected result: a fully working command-line debugger with break points,
+* **Expected result:** a fully working command-line debugger with break points,
                    stepping, and the ability to resume from exceptional control flow.
-* Requirements: functional programming, possibly some C knowledge for adding
+* **Requirements:** functional programming, possibly some C knowledge for adding
                 debugging support at the VM level.
-* Difficulty: intermediate
-* Possible mentor: Asumu Takikawa, Leif Andersen
-* Other: It would be helpful to look at related projects in Lisp-like languages
+* **Difficulty:** intermediate
+* **Possible mentor:** Asumu Takikawa, Leif Andersen
+* **Other:** It would be helpful to look at related projects in Lisp-like languages
   - [Guile's debugger](https://www.gnu.org/software/guile/docs/docs-1.8/guile-ref/Interactive-Debugger.html#Interactive-Debugger)
   - [Chez Scheme debugger](http://www.scheme.com/csug7/debug.html)
   - [Gambit Scheme debugger](http://www.iro.umontreal.ca/~gambit/doc/gambit.html#Debugging)
@@ -97,11 +98,11 @@ Follow the template below:
 ---
 
 ### Memory profiler for Racket ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements/Difficulty: any required experience or knowledge. Difficulty if applicable.
-* Possible mentor: Leif Andersen
-* Other: any other notes. Use this space to outline project details, if any.
+* **Summary:** provide a one or two sentence summary of the project.
+* **Benefits:** provide a few reasons why this project would be useful.
+* **Requirements/Difficulty:** any required experience or knowledge. Difficulty if applicable.
+* **Possible mentor:** Leif Andersen
+* **Other:** any other notes. Use this space to outline project details, if any.
 
 ---
 
