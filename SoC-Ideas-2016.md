@@ -132,6 +132,7 @@ like `raco profile` or as a library call.
 * **Summary:** Racket has some old bindings for [SDL](https://github.com/cosmez/racket-sdl), as well as [pict3d](https://github.com/ntoronto/pict3d), a functional interface to rendering 3D pictures. However, Racket's support for creating video games could be improved. This could include anything from updating the SDL bindings to work with the latest versions for Racket and SDL, to creating bindings to [SFML](http://www.sfml-dev.org/), or even adding support for using game pad controllers to Racket. Proposals may include building their own game framework, however such projects must contain enough detail to explain how they will make the project complete-able within the time constraints. This will include what libraries they plan to use to reduce their workload.
 * **Expected results:** Tools to help the creation of video games. This does not need to be an entire framework, but could be a port of one. The proposal must specify what the intent is.
 * **Requirements:** Familiarity with game development. Functional programming experience a plus.
+* **Difficulty:** Intermediate to Expert (Depending on scope of project)
 * **Possible mentors:** Sam Caldwell, Leif Andersen
 * **Other:**
 
@@ -187,12 +188,12 @@ like `raco profile` or as a library call.
 ---
 
 ### Video editing DSL ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
+* **Summary:** Create a Domain Specific Language for Editing videos in Racket. To make this project possible, we recommend using [FFmpeg](https://www.ffmpeg.org/) for the actual encoding. The goal of the DSL is to automate many of the repetitive tasks in editing videos. Adding support for DrRacket would be a stretch goal. This project will be implementation heavy, and thus require a lot of the design done ahead of time or very near the beginning of the project.
+* **Expected result:** A DSL that can be used for rendering video. The DSL does not need to have many bells and whistles, but it does need to be complete enough to render video and do simple cuts.
+* **Requirements:** Understanding of DSL design and implementation in the Racket ecosystem, understanding of video editing concepts.
+* **Difficulty:** expert
+* **Possible mentor:** Bryan Lachance, Asumu Takikawa, Leif Andersen
+* **Other:**
 
 ---
 
