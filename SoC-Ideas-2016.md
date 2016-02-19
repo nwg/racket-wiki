@@ -39,27 +39,40 @@ Follow the template below:
 * Summary: Build a Racket library that allows interaction with git repositories.
 * Benefits: Will make it easier to write scripts for development, Racket-based git tools in the future.
 * Requirements: familiarity with C (if binding to libgit), functional programming and OO experience.
-* Possible mentors:
+* Possible mentors: Leif Andersen
 * Other: Some work on git bindings can be found [here](https://github.com/jarnaldich/racket-git).
 
 ---
 
 ### Improve DrRacket vim plugin ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
+* Summary: A plugin for DrRacket that provides vim emulation
+  (in the spirit of viper-mode or evil-mode) is under
+  active development: https://github.com/takikawa/drracket-vim-tool.
+  The plugin, however, lacks a lot of features that are needed to
+  fully emulate vim. This project would involve 
+* Expected results: a more complete implementation of vim emulation.
+  Example milestones might include specifying the vim commands using
+  a DSL for ease-of-extension. Another one is fleshing out the Ex
+  command parser to be more general.
+* Requirements: object-oriented programming, GUI programming, knowledge of vim
+* Difficulty: beginner
+* Possible mentor: Asumu Takikawa
+* Other: This project is a relatively easy one that would be suitable for beginners
+         because there is a substantial existing codebase. That means, however, that
+         a candidate should be prepared to implement several features in the GSoC
+         work period.
 
 ---
 
 ### Command-line REPL debugger ###
-* Summary: provide a one or two sentence summary of the project.
+* Summary: The Racket command-line REPL (read-eval-print-loop) does not
+           come with its own debugger. DrRacket comes with a break+step
+           GUI debugger, but it cannot be used from the command-line.
+           This project would involve building a new debugger, 
 * Benefits: provide a few reasons why this project would be useful.
 * Requirements: any required experience or knowledge.
 * Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
+* Possible mentor: Asumu Takikawa, Leif Andersen
 * Other: any other notes. Use this space to outline project details, if any.
 
 ---
@@ -68,7 +81,7 @@ Follow the template below:
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
 * Requirements/Difficulty: any required experience or knowledge. Difficulty if applicable.
-* Possible mentor: each projects needs at least one possible mentor.
+* Possible mentor: Leif Andersen
 * Other: any other notes. Use this space to outline project details, if any.
 
 ---
