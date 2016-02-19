@@ -198,6 +198,7 @@ like `raco profile` or as a library call.
 
 ### Racket GUI library for Android (DrRacket in Android) ###
 * Summary: Currently minimal Racket can be [compiled for Android](http://www.wedesoft.de/racket-on-android.html), however, this lacks any support for running a Racket based GUI, and thus we cannot run DrRacket on Android. Creating a Racket based GUI library would be the first step to porting DrRacket to Android. This project will be hard to complete in the allotted time, and will require a motivated student who is already deeply familiar with Android, the Racket implementation, and GUI programming. Proposals will need to include both a scope of the GUI interface they would like to build, and mitigation plans if their proposal is too large.
+* Expected Results: A Racket GUI running on Android capable that simple applications can use.
 * Benefits: Brings GUIs to Racket programs on Android, first steps to running DrRacket on Android.
 * Requirements: Experience with Racket GUI interface, GUI programming, and Android Platform.
 * Difficulty: expert
