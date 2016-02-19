@@ -62,7 +62,6 @@ Follow the template below:
          because there is a substantial existing codebase. That means, however, that
          a candidate should be prepared to implement several features in the GSoC
          work period.
-
          A good starting point for this project is to familiarize yourself with the
          Racket [GUI](http://docs.racket-lang.org/gui/index.html) library and the
          DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html).
