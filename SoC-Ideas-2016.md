@@ -196,11 +196,12 @@ like `raco profile` or as a library call.
 
 ---
 
-### GUI for Racket on Android ###
-* Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
-* Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
-* Requirements: Ideally experience with the Universe API and the Android platform.
-* Possible mentors: David Van Horn
+### Racket GUI library for Android (DrRacket in Android) ###
+* Summary: Currently minimal Racket can be [compiled for Android](http://www.wedesoft.de/racket-on-android.html), however, this lacks any support for running a Racket based GUI, and thus we cannot run DrRacket on Android. Creating a Racket based GUI library would be the first step to porting DrRacket to Android. This project will be hard to complete in the allotted time, and will require a motivated student who is already deeply familiar with Android, the Racket implementation, and GUI programming. Proposals will need to include both a scope of the GUI interface they would like to build, and mitigation plans if their proposal is too large.
+* Benefits: Brings GUIs to Racket programs on Android, first steps to running DrRacket on Android.
+* Requirements: Experience with Racket GUI interface, GUI programming, and Android Platform.
+* Difficulty: expert
+* Possible mentors: Leif Andersen
 * Other:
 
 ---
@@ -219,5 +220,5 @@ like `raco profile` or as a library call.
   report more diagnostic information.
 * Requirements: functional programming, GUI programming, knowledge of static analysis would help.
 * Difficulty: beginner to intermediate, depending on how much analysis is done.
-* Possible mentors: Robby Findler
+* Possible mentors: Spencer Florance
 * Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
