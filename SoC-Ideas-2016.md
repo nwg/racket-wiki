@@ -129,11 +129,11 @@ like `raco profile` or as a library call.
 ---
 
 ### Game development support for Racket ###
-* Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
-* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
-* Requirements: Familiarity with game development. Functional programming experience a plus.
-* Possible mentors:
-* Other:
+* **Summary:** Racket has some old bindings for [SDL](https://github.com/cosmez/racket-sdl), as well as [pict3d](https://github.com/ntoronto/pict3d), a functional interface to rendering 3D pictures. However, Racket's support for creating video games could be improved. This could include anything from updating the SDL bindings to work with the latest versions for Racket and SDL, to creating bindings to [SFML](http://www.sfml-dev.org/), or even adding support for using game pad controllers to Racket. Proposals may include building their own game framework, however such projects must contain enough detail to explain how they will make the project complete-able within the time constraints. This will include what libraries they plan to use to reduce their workload.
+* **Expected results:** Tools to help the creation of video games. This does not need to be an entire framework, but could be a port of one. The proposal must specify what the intent is.
+* **Requirements:** Familiarity with game development. Functional programming experience a plus.
+* **Possible mentors:** Sam Caldwell, Leif Andersen
+* **Other:**
 
 ---
 
