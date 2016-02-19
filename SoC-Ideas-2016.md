@@ -171,18 +171,18 @@ like `raco profile` or as a library call.
 ---
 
 ### Collaborative editing in DrRacket ###
-* Summary: Build a DrRacket plug-in to enable real-time collaborative editing
+* **Summary:** Build a DrRacket plug-in to enable real-time collaborative editing
            of a source file. Possibly with fine-grained logging.
            Two or more different programmers each edit the same file
            simultaneously, and edits one of them make show up immediately
            on the others' screens. An implementation might use
            [libinfinity](http://infinote.org/) that is part of the [Gobby](https://gobby.github.io/)
            project to implement text synchronization.
-* Expected result: a DrRacket plugin that implements collaborative editing.
-* Requirements: functional programming, GUI programming, networking, FFI
-* Difficulty: intermediate
-* Possible mentor: Robby Findler
-* Other:
+* **Expected result:** a DrRacket plugin that implements collaborative editing.
+* **Requirements:** functional programming, GUI programming, networking, FFI
+* **Difficulty:** intermediate
+* **Possible mentor:** Andrew Cobb
+* **Other:**
 
 ---
 
