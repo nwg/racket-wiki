@@ -169,14 +169,3 @@ Follow the template below:
 * Difficulty: how hard is the project, beginner, intermediate, expert
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
-
----
-
-Follow the template below:
-### Project template name ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
