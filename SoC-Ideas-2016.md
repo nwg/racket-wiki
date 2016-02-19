@@ -21,25 +21,6 @@ Follow the template below:
 
 ---
 
-### Better Syntax Analysis for DrRacket ###
-* Summary: DrRacket comes with a built-in online syntax analysis tool
-  called "Check Syntax."
-  This tool macro expands the user's program in the background
-  and reports syntactic errors (e.g., a program with parse errors or
-  with misuses of forms like `if` or `cond`) as they come up.
-  This project aims to augment Check Syntax with more diagnostic information
-  such as warning the user about unused definitions, missing `provide` declarations,
-  or calling a function with the wrong number of arguments. This will require
-  the use of some simple static analyses.
-* Expected results: An expanded Check Syntax in DrRacket that will
-  report more diagnostic information.
-* Requirements: functional programming, GUI programming, knowledge of static analysis would help.
-* Difficulty: beginner to intermediate, depending on how much analysis is done.
-* Possible mentors: Robby Findler
-* Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
-
----
-
 ### Collaborative editing in DrRacket ###
 * Summary: Build a DrRacket plug-in to enable real-time collaborative editing
            of a source file. Possibly with fine-grained logging.
@@ -169,3 +150,22 @@ Follow the template below:
 * Difficulty: how hard is the project, beginner, intermediate, expert
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
+
+---
+
+### Better Syntax Analysis for DrRacket ###
+* Summary: DrRacket comes with a built-in online syntax analysis tool
+  called "Check Syntax."
+  This tool macro expands the user's program in the background
+  and reports syntactic errors (e.g., a program with parse errors or
+  with misuses of forms like `if` or `cond`) as they come up.
+  This project aims to augment Check Syntax with more diagnostic information
+  such as warning the user about unused definitions, missing `provide` declarations,
+  or calling a function with the wrong number of arguments. This will require
+  the use of some simple static analyses.
+* Expected results: An expanded Check Syntax in DrRacket that will
+  report more diagnostic information.
+* Requirements: functional programming, GUI programming, knowledge of static analysis would help.
+* Difficulty: beginner to intermediate, depending on how much analysis is done.
+* Possible mentors: Robby Findler
+* Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
