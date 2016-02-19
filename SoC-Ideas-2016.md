@@ -98,11 +98,22 @@ Follow the template below:
 ---
 
 ### Memory profiler for Racket ###
-* **Summary:** provide a one or two sentence summary of the project.
-* **Benefits:** provide a few reasons why this project would be useful.
-* **Requirements/Difficulty:** any required experience or knowledge. Difficulty if applicable.
+* **Summary:** This project is for building a memory profiler for Racket programs.
+    Racket comes with several profiling tools, including a
+    [statistical runtime profiler](docs.racket-lang.org/profile/). However, it does not
+    currently come with any tools for precisely profiling memory use.
+
+    This project would likely involve changes to the Racket runtime system and
+    garbage collector to help track allocations and deallocations in order to
+    determine memory use. A simpler alternative would be to sample after garbage
+    collections in order to just profile memory pressure.
+* **Expected results:** a memory profiling tool that would inform the user what
+parts of their program is allocating memory. It should be usable from the command-line
+like `raco profile` or as a library call.
+* **Requirements/Difficulty:** intermediate to expert depending on the approach
 * **Possible mentor:** Leif Andersen
-* **Other:** any other notes. Use this space to outline project details, if any.
+* **Other:**
+  - See Guile's [gcprof](https://www.gnu.org/software/guile/manual/html_node/statprof.html) for inspiration
 
 ---
 
@@ -125,18 +136,26 @@ Follow the template below:
 * Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications. It should be integrated with the existing [graph](https://github.com/stchang/graph) library for Racket.
 * Requirements: functional programming, GUI programming
 * Difficulty: beginner to intermediate
-* Possible mentors: Robby Findler
+* Possible mentors: Stephen Chang
 * Other:
 
 ---
 
 ### Pure Racket line editing for XREPL with paren-matching and other goodies ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
+* **Summary:** Replace the `readline` library that ships with Racket with an implementation
+    in pure Racket. Currently the library is implemented using an FFI binding to
+    either libedit or to readline. Unfortunately, libedit does not provide some features
+    that are available in readline and readline's license is incompatible with the one
+    that Racket uses for its standard libraries.
+
+    One starting point is to look at the [CharTerm](http://planet.racket-lang.org/display.ss?package=charterm.plt&owner=neil)
+    library in the user-contributed package server.
+* **Expected results:** A full-featured replacement of the `readline` library that
+    is suitable for the Racket REPL's line editing.
+* **Requirements:** functional programming, ideally experience with terminal UI programming
+* **Difficulty:** intermediate
+* **Possible mentor:** Leif Andersen
+* **Other:** See [Haskeline](https://github.com/judah/haskeline) for a similar project for Haskell.
 
 ---
 
