@@ -102,7 +102,7 @@ Follow the template below:
 parts of their program is allocating memory. It should be usable from the command-line
 like `raco profile` or as a library call.
 * **Requirements/Difficulty:** intermediate to expert depending on the approach
-* **Possible mentor:** Leif Andersen
+* **Possible mentor:** Vincent St-Amour
 * **Other:**
   - See Guile's [gcprof](https://www.gnu.org/software/guile/manual/html_node/statprof.html) for inspiration
   - Also see Go's [profiling tools](http://blog.golang.org/profiling-go-programs) which includes memory profiling
