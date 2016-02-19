@@ -197,18 +197,18 @@ like `raco profile` or as a library call.
 ---
 
 ### Racket GUI library for Android (DrRacket in Android) ###
-* Summary: Currently minimal Racket can be [compiled for Android](http://www.wedesoft.de/racket-on-android.html), however, this lacks any support for running a Racket based GUI, and thus we cannot run DrRacket on Android. Creating a Racket based GUI library would be the first step to porting DrRacket to Android. This project will be hard to complete in the allotted time, and will require a motivated student who is already deeply familiar with Android, the Racket implementation, and GUI programming. Proposals will need to include both a scope of the GUI interface they would like to build, and mitigation plans if their proposal is too large.
-* Expected Results: A Racket GUI running on Android capable that simple applications can use.
-* Benefits: Brings GUIs to Racket programs on Android, first steps to running DrRacket on Android.
-* Requirements: Experience with Racket GUI interface, GUI programming, and Android Platform.
-* Difficulty: expert
-* Possible mentors: Leif Andersen
-* Other:
+* **Summary:** Currently minimal Racket can be [compiled for Android](http://www.wedesoft.de/racket-on-android.html), however, this lacks any support for running a Racket based GUI, and thus we cannot run DrRacket on Android. Creating a Racket based GUI library would be the first step to porting DrRacket to Android. This project will be hard to complete in the allotted time, and will require a motivated student who is already deeply familiar with Android, the Racket implementation, and GUI programming. Proposals will need to include both a scope of the GUI interface they would like to build, and mitigation plans if their proposal is too large.
+* **Expected Results:** A Racket GUI running on Android capable that simple applications can use.
+* **Benefits:** Brings GUIs to Racket programs on Android, first steps to running DrRacket on Android.
+* **Requirements:** Experience with Racket GUI interface, GUI programming, and Android Platform.
+* **Difficulty:** expert
+* **Possible mentors:** Leif Andersen
+* **Other:**
 
 ---
 
 ### Better Syntax Analysis for DrRacket ###
-* Summary: DrRacket comes with a built-in online syntax analysis tool
+* **Summary:** DrRacket comes with a built-in online syntax analysis tool
   called "Check Syntax."
   This tool macro expands the user's program in the background
   and reports syntactic errors (e.g., a program with parse errors or
@@ -217,9 +217,9 @@ like `raco profile` or as a library call.
   such as warning the user about unused definitions, missing `provide` declarations,
   or calling a function with the wrong number of arguments. This will require
   the use of some simple static analyses.
-* Expected results: An expanded Check Syntax in DrRacket that will
+* **Expected results:** An expanded Check Syntax in DrRacket that will
   report more diagnostic information.
-* Requirements: functional programming, GUI programming, knowledge of static analysis would help.
-* Difficulty: beginner to intermediate, depending on how much analysis is done.
-* Possible mentors: Spencer Florance
-* Other: John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
+* **Requirements:** functional programming, GUI programming, knowledge of static analysis would help.
+* **Difficulty:** beginner to intermediate, depending on how much analysis is done.
+* **Possible mentors:** Spencer Florance
+* **Other:** John Clement's [No-Brainer](http://planet.racket-lang.org/display.ss?package=no-brainer.plt&owner=clements) tool may be a good starting point.
