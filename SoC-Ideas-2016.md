@@ -59,12 +59,13 @@ Follow the template below:
 * Difficulty: beginner
 * Possible mentor: Asumu Takikawa
 * Other: This project is a relatively easy one that would be suitable for beginners
-         because there is a substantial existing codebase. That means, however, that
-         a candidate should be prepared to implement several features in the GSoC
-         work period.
-         A good starting point for this project is to familiarize yourself with the
-         Racket [GUI](http://docs.racket-lang.org/gui/index.html) library and the
-         DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html).
+   because there is a substantial existing codebase. That means, however, that
+   a candidate should be prepared to implement several features in the GSoC
+   work period.
+
+   A good starting point for this project is to familiarize yourself with the
+   Racket [GUI](http://docs.racket-lang.org/gui/index.html) library and the
+   DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html).
 
 ---
 
@@ -75,11 +76,11 @@ Follow the template below:
            This project involves building a new debugger that integrates
            with the REPL and possibly with [XREPL](http://docs.racket-lang.org/xrepl/index.html).
 
-           This may also require adding support at the Racket VM level,
-           depending on what features the debugger will have. One possible
-           implementation strategy would be to use [errortrace](http://docs.racket-lang.org/errortrace/index.html),
-           which the GUI debugger also uses. The [GUI debugger codebase](https://github.com/racket/drracket/tree/master/drracket/gui-debugger)
-           is also a good starting point.
+    This may also require adding support at the Racket VM level,
+    depending on what features the debugger will have. One possible
+    implementation strategy would be to use [errortrace](http://docs.racket-lang.org/errortrace/index.html),
+    which the GUI debugger also uses. The [GUI debugger codebase](https://github.com/racket/drracket/tree/master/drracket/gui-debugger)
+    is also a good starting point.
 * Expected result: a fully working command-line debugger with break points,
                    stepping, and the ability to resume from exceptional control flow.
 * Requirements: functional programming, possibly some C knowledge for adding
