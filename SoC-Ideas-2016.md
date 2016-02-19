@@ -21,46 +21,6 @@ Follow the template below:
 
 ---
 
-### Collaborative editing in DrRacket ###
-* Summary: Build a DrRacket plug-in to enable real-time collaborative editing
-           of a source file. Possibly with fine-grained logging.
-           Two or more different programmers each edit the same file
-           simultaneously, and edits one of them make show up immediately
-           on the others' screens. An implementation might use
-           [libinfinity](http://infinote.org/) that is part of the [Gobby](https://gobby.github.io/)
-           project to implement text synchronization.
-* Expected result: a DrRacket plugin that implements collaborative editing.
-* Requirements: functional programming, GUI programming, networking, FFI
-* Difficulty: intermediate
-* Possible mentor: Robby Findler
-* Other:
-
----
-
-### A graph layout library for Racket ###
-* Summary: Graph layout is frequently needed for visualization
-           and UI programming. The currently solution is to call
-           out to graphviz, but applications could have more
-           flexibility if a native Racket library or DSL that
-           translates to graphviz were available.
-           This project calls for designing such a library.
-* Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications. It should be integrated with the existing [graph](https://github.com/stchang/graph) library for Racket.
-* Requirements: functional programming, GUI programming
-* Difficulty: beginner to intermediate
-* Possible mentors: Robby Findler
-* Other:
-
----
-
-### Universe programming for Android ###
-* Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
-* Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
-* Requirements: Ideally experience with the Universe API and the Android platform.
-* Possible mentors: David Van Horn
-* Other:
-
----
-
 ### Data table/frame library ###
 * Summary: Build a library that provides data tables, like R's [data frames](http://cran.r-project.org/doc/manuals/R-lang.html#Data-frame-objects)/[data tables](https://github.com/Rdatatable/data.table/wiki), Python's [pandas](http://pandas.pydata.org/pandas-docs/stable/index.html) library, or Julia's [DataFrames](http://dataframesjl.readthedocs.org/en/latest/).
            Racket comes with a full-featured [plotting](http://docs.racket-lang.org/plot/index.html) library
@@ -84,35 +44,6 @@ Follow the template below:
 
 ---
 
-
-### Game development support for Racket ###
-* Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
-* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
-* Requirements: Familiarity with game development. Functional programming experience a plus.
-* Possible mentors:
-* Other:
-
----
-
-### Memory profiler for Racket ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements/Difficulty: any required experience or knowledge. Difficulty if applicable.
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
-
----
-
-### Video editing DSL ###
-* Summary: provide a one or two sentence summary of the project.
-* Benefits: provide a few reasons why this project would be useful.
-* Requirements: any required experience or knowledge.
-* Difficulty: how hard is the project, beginner, intermediate, expert
-* Possible mentor: each projects needs at least one possible mentor.
-* Other: any other notes. Use this space to outline project details, if any.
-
----
-
 ### Improve DrRacket vim plugin ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
@@ -133,6 +64,39 @@ Follow the template below:
 
 ---
 
+### Memory profiler for Racket ###
+* Summary: provide a one or two sentence summary of the project.
+* Benefits: provide a few reasons why this project would be useful.
+* Requirements/Difficulty: any required experience or knowledge. Difficulty if applicable.
+* Possible mentor: each projects needs at least one possible mentor.
+* Other: any other notes. Use this space to outline project details, if any.
+
+---
+
+### Game development support for Racket ###
+* Summary: Build libraries for game development on Racket. One possible first step is to build SDL bindings.
+* Benefits: Fills a niche that people have requested for Racket development. Connects with the HtDP2e curriculum.
+* Requirements: Familiarity with game development. Functional programming experience a plus.
+* Possible mentors:
+* Other:
+
+---
+
+### A graph layout library for Racket ###
+* Summary: Graph layout is frequently needed for visualization
+           and UI programming. The currently solution is to call
+           out to graphviz, but applications could have more
+           flexibility if a native Racket library or DSL that
+           translates to graphviz were available.
+           This project calls for designing such a library.
+* Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications. It should be integrated with the existing [graph](https://github.com/stchang/graph) library for Racket.
+* Requirements: functional programming, GUI programming
+* Difficulty: beginner to intermediate
+* Possible mentors: Robby Findler
+* Other:
+
+---
+
 ### Pure Racket line editing for XREPL with paren-matching and other goodies ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
@@ -143,13 +107,38 @@ Follow the template below:
 
 ---
 
-### RRB-Trees built into the Racket VM as an alternative to immutable vectors ###
+### Collaborative editing in DrRacket ###
+* Summary: Build a DrRacket plug-in to enable real-time collaborative editing
+           of a source file. Possibly with fine-grained logging.
+           Two or more different programmers each edit the same file
+           simultaneously, and edits one of them make show up immediately
+           on the others' screens. An implementation might use
+           [libinfinity](http://infinote.org/) that is part of the [Gobby](https://gobby.github.io/)
+           project to implement text synchronization.
+* Expected result: a DrRacket plugin that implements collaborative editing.
+* Requirements: functional programming, GUI programming, networking, FFI
+* Difficulty: intermediate
+* Possible mentor: Robby Findler
+* Other:
+
+---
+
+### Video editing DSL ###
 * Summary: provide a one or two sentence summary of the project.
 * Benefits: provide a few reasons why this project would be useful.
 * Requirements: any required experience or knowledge.
 * Difficulty: how hard is the project, beginner, intermediate, expert
 * Possible mentor: each projects needs at least one possible mentor.
 * Other: any other notes. Use this space to outline project details, if any.
+
+---
+
+### GUI for Racket on Android ###
+* Summary: Build an Android client for Racket's [Universe](http://docs.racket-lang.org/teachpack/2htdpuniverse.html) protocol for interactive networked programs.
+* Benefits: Brings Universe programming to a larger audience, brings Racket ideas to mobile devices.
+* Requirements: Ideally experience with the Universe API and the Android platform.
+* Possible mentors: David Van Horn
+* Other:
 
 ---
 
