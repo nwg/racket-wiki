@@ -30,9 +30,12 @@ Follow the template below:
     data manipulation techniques like those used in pandas or R's [reshape](http://had.co.nz/reshape/) library.
 * **Expected results:** A library for data tables that interoperates with [plot](http://docs.racket-lang.org/plot/index.html). It should support missing data, grouping, reshaping, and serialization of data.
 * **Requirements:** functional programming, numerical/stats/data programming, experience with R or similar languages a plus
-* **Difficulty:** beginner or intermediate (depends on how close to pandas it gets)
+* **Difficulty:** beginner or intermediate (depending on how sophisticated the feature set is)
 * **Possible mentors:** Asumu Takikawa
-* **Other:**
+* **Other:** This project would be a valuable contribution since it's one of the missing
+    pieces that would help make Racket more useful for data analysis and science disciplines.
+    It would be a good idea to solicit design ideas on the Racket mailing list since there are
+    some scientific Racket users who might have feature requests.
 
 ---
 
@@ -43,21 +46,22 @@ Follow the template below:
   The plugin, however, lacks a lot of features that are needed to
   fully emulate vim. This project consists of improving the plugin
   to cover the most used keybindings and features of vim.
-* **Expected results:** a more complete implementation of vim emulation.
+* **Expected results:** A more complete implementation of vim emulation.
   Example milestones might include specifying the vim commands using
   a DSL for ease-of-extension. Another one is fleshing out the Ex
   command parser to be more general.
-* **Requirements:** object-oriented programming, GUI programming, knowledge of vim
+* **Requirements:** object-oriented programming, GUI programming, knowledge of vi/vim
 * **Difficulty:** beginner
 * **Possible mentor:** Asumu Takikawa
 * **Other:** This project is a relatively easy one that would be suitable for beginners
    because there is a substantial existing codebase. That means, however, that
-   a candidate should be prepared to implement several features in the GSoC
+   a candidate should be prepared to implement several distinct features in the GSoC
    work period.
 
    A good starting point for this project is to familiarize yourself with the
    Racket [GUI](http://docs.racket-lang.org/gui/index.html) library and the
-   DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html).
+   DrRacket [plugin API](http://docs.racket-lang.org/tools/index.html). And of course
+   the actual plugin codebase.
 
 ---
 
