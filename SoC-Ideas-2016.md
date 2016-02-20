@@ -91,6 +91,7 @@ Follow the template below:
   - [Gambit Scheme debugger](http://www.iro.umontreal.ca/~gambit/doc/gambit.html#Debugging)
   - [Larceny Scheme debugger](http://larceny.ccs.neu.edu/doc/user-manual.html#id2551369)
   - [SBCL debugger](http://sbcl.org/manual/index.html#Debugger)
+  - [Bigloo debugger paper](http://www-sop.inria.fr/mimosa/fp/Bugloo/doc/cia03.pdf)
 
 ---
 
