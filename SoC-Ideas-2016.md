@@ -194,7 +194,12 @@ like `raco profile` or as a library call.
 ---
 
 ### Video editing DSL ###
-* **Summary:** Create a Domain Specific Language for Editing videos in Racket. To make this project possible, we recommend using [FFmpeg](https://www.ffmpeg.org/) for the actual encoding. The goal of the DSL is to automate many of the repetitive tasks in editing videos. Adding support for DrRacket would be a stretch goal. This project will be implementation heavy, and thus require a lot of the design done ahead of time or very near the beginning of the project.
+* **Summary:** Create a Domain Specific Language for Editing videos in Racket. To make this project possible, we recommend using [FFmpeg](https://www.ffmpeg.org/) for the actual encoding. The [MLT](https://mltframework.org/) framework is another library that most video editing applications use. The goal of the DSL is to automate many of the repetitive tasks in editing videos. Adding support for DrRacket would be a stretch goal. This project will be implementation heavy, and thus require a lot of the design done ahead of time or very near the beginning of the project.
+
+    The benefit of a DSL-based approach is that the effects and timeline for the video
+    can be specified in text using version-control. And by using the usual abstractions like
+    functions, a programmer could automate certain editing patterns. For example, the user
+    could write a function that adds an intro or outro clip to a series of videos.
 * **Expected result:** A DSL that can be used for rendering video. The DSL does not need to have many bells and whistles, but it does need to be complete enough to render video and do simple cuts.
 * **Requirements:** Understanding of DSL design and implementation in the Racket ecosystem, understanding of video editing concepts.
 * **Difficulty:** expert
