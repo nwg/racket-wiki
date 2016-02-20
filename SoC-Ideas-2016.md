@@ -145,17 +145,17 @@ like `raco profile` or as a library call.
 ---
 
 ### A graph layout library for Racket ###
-* Summary: Graph layout is frequently needed for visualization
+* **Summary:** Graph layout is frequently needed for visualization
            and UI programming. The currently solution is to call
            out to graphviz, but applications could have more
            flexibility if a native Racket library or DSL that
            translates to graphviz were available.
            This project calls for designing such a library.
-* Expected result: a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications. It should be integrated with the existing [graph](https://github.com/stchang/graph) library for Racket.
-* Requirements: functional programming, GUI programming
-* Difficulty: beginner to intermediate
-* Possible mentors: Stephen Chang
-* Other:
+* **Expected result:** a graph layout library that can substitute [Graphviz](http://www.graphviz.org/) in Racket applications. It should be integrated with the existing [graph](https://github.com/stchang/graph) library for Racket.
+* **Requirements:** functional programming, GUI programming
+* **Difficulty:** beginner to intermediate
+* **Possible mentors:** Stephen Chang
+* **Other:**
 
 ---
 
