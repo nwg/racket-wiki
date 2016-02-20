@@ -28,7 +28,9 @@ Follow the template below:
     but does not have a complementary data manipulation library. A data table package would
     start to fill in that gap. Beyond basic data tables, the project could also integrate
     data manipulation techniques like those used in pandas or R's [reshape](http://had.co.nz/reshape/) library.
-* **Expected results:** A library for data tables that interoperates with [plot](http://docs.racket-lang.org/plot/index.html). It should support missing data, grouping, reshaping, and serialization of data.
+    The library should support importing data from standard formats such as CSV.
+    
+* **Expected results:** A library for data tables that interoperates with [plot](http://docs.racket-lang.org/plot/index.html). It should support missing data, grouping, reshaping, and serialization/deserialization of data.
 * **Requirements:** functional programming, numerical/stats/data programming, experience with R or similar languages a plus
 * **Difficulty:** beginner or intermediate (depending on how sophisticated the feature set is)
 * **Possible mentors:** Asumu Takikawa
