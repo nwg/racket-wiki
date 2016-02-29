@@ -146,6 +146,7 @@ For the more ambitious Racketeer ...
 
 * Make a web page (demo.racket-lang ?) that contains Racket snippets. Use 
   the programs from http://rosettacode.org/wiki/Category:Racket to get started.
+* Write a parser for ispell dictionaries. Make DrRacket use it.
 * Write a markdown parser (important: lots of tests; support at least
   popular variants that are used by stackoverflow and github)
   - Available [here](https://github.com/greghendershott/markdown).
