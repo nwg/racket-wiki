@@ -3,6 +3,7 @@
 ##### Indiana University
 
 * C211, http://www.cs.indiana.edu/classes/c211/
+* C311 and B521 http://cgi.soic.indiana.edu/~c311/doku.php?id=home
 
 ##### Northeastern University
 
