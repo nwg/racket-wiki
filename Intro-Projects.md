@@ -43,6 +43,11 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Newton's cradle
 * Math
   - Try some project Euler exercises: http://projecteuler.net
+* Games
+  - Asteroids ([example](https://github.com/ericclack/racket-examples/blob/master/asteroids5.rkt))
+  - PacMan
+  - Boulder Dash ([example](https://github.com/ericclack/racket-examples/blob/master/boulder3.rkt))
+  - Space Invaders
 
 # Small Projects
 
