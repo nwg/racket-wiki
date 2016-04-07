@@ -1,6 +1,6 @@
 This page lists the repository managers for packages included in Racket's main distribution. Repo manager responsibilities are described in [[Release process]].
 
-Repositories not listed below are managed by *ryanc*.
+Repositories not listed below are managed by *stamourv*.
 
 ## Listing by manager
 
@@ -56,6 +56,14 @@ Repositories not listed below are managed by *ryanc*.
  - **racket/string-constants**
  - **racket/unstable-2d**
 
+*ryanc*:
+ - **racket/class-iop**
+ - **racket/data**
+ - **racket/db**
+ - **racket/macro-debugger**
+ - **racket/rackunit**
+ - **racket/unix-socket**
+
 *samth*:
  - **racket/typed-racket**
  - **racket/unstable-debug-lib**
@@ -70,9 +78,12 @@ Repositories not listed below are managed by *ryanc*.
 
  - **racket/algol60** is managed by *mflatt*
  - **racket/cext-lib** is managed by *mflatt*
+ - **racket/class-iop** is managed by *ryanc*
  - **racket/compiler** is managed by *mflatt*
  - **racket/contract-profile** is managed by *stamourv*
  - **racket/datalog** is managed by *jay*
+ - **racket/data** is managed by *ryanc*
+ - **racket/db** is managed by *ryanc*
  - **racket/draw** is managed by *mflatt*
  - **racket/drracket** is managed by *robby*
  - **racket/ds-store** is managed by *mflatt*
@@ -83,6 +94,7 @@ Repositories not listed below are managed by *ryanc*.
  - **racket/htdp** is managed by *robby*
  - **racket/icons** is managed by *ntoronto*
  - **racket/images** is managed by *ntoronto*
+ - **racket/macro-debugger** is managed by *ryanc*
  - **racket/make** is managed by *mflatt*
  - **racket/math** is managed by *ntoronto*
  - **racket/mysterx** is managed by *mflatt*
@@ -100,6 +112,7 @@ Repositories not listed below are managed by *ryanc*.
  - **racket/r5rs** is managed by *mflatt*
  - **racket/r6rs** is managed by *mflatt*
  - **racket/racklog** is managed by *jay*
+ - **racket/rackunit** is managed by *ryanc*
  - **racket/readline** is managed by *mflatt*
  - **racket/redex** is managed by *robby*
  - **racket/scheme-lib** is managed by *mflatt*
@@ -111,6 +124,7 @@ Repositories not listed below are managed by *ryanc*.
  - **racket/syntax-color** is managed by *mflatt*
  - **racket/trace** is managed by *mflatt*
  - **racket/typed-racket** is managed by *samth*
+ - **racket/unix-socket** is managed by *ryanc*
  - **racket/unstable-2d** is managed by *robby*
  - **racket/unstable-debug-lib** is managed by *samth*
  - **racket/unstable-flonum** is managed by *ntoronto*
