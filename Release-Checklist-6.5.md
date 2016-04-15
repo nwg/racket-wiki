@@ -75,14 +75,6 @@ List release-stopping issues here:
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
-  - [ ] Games Tests: play a bunch of games (not automated)
-
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
-
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
