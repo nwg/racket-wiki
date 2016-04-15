@@ -74,7 +74,7 @@ List release-stopping issues here:
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] DrRacket Tests: 
+  - [X] DrRacket Tests: 
    ```
    # from the top-level directory of the release bundle, run
    cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))')")"
@@ -83,7 +83,7 @@ List release-stopping issues here:
    env RACKET=~/Desktop/Racket\ v6.3.90.900/bin/racket ./run.sh
    ```
    
-  - [ ] Framework Tests:
+  - [X] Framework Tests:
    ```
    racket -l framework/tests/main
    ```
