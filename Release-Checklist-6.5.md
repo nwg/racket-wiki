@@ -76,26 +76,11 @@ List release-stopping issues here:
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Games Tests: play a bunch of games (not automated)
-  - [ ] Teachpacks Tests: image tests
-   ```
-   racket -l 2htdp/tests/bitmap-as-image-in-universe
-   racket -l 2htdp/tests/image-equality-performance-htdp
-   racket -l 2htdp/tests/image-equality-performance
-   racket -l 2htdp/tests/image-too-large
-   racket -l 2htdp/tests/test-image
-   ```
 
   - [ ] PLaneT Tests: 
    ```
    # (the output of these tests is hard to read)
    raco test -l tests/planet/run-all
-   ```
-   
-   - [ ] Redex Tests:
-   ```
-   racket -l redex/tests/run-tests
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
    ```
 
    - [ ] Updates:
