@@ -139,10 +139,6 @@ List release-stopping issues here:
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
   
   - [ ] Typed Racket Tests:
   ```
