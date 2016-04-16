@@ -171,23 +171,6 @@ List release-stopping issues here:
     raco test -c datalog/tests
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
