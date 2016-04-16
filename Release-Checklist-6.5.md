@@ -92,18 +92,6 @@ List release-stopping issues here:
     raco test -c datalog/tests
     ```
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
