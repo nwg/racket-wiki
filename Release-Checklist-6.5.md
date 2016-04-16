@@ -11,10 +11,6 @@ List release-stopping issues here:
    ```
    racket -l tests/gracket/test
    ```
-  - [ ] `mzc --exe` tests
-   ```
-   racket -l tests/compiler/embed/test
-   ```
   - [ ] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
@@ -35,10 +31,6 @@ List release-stopping issues here:
   - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
    ```
    configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l tests/unix-installer <version>
    ```
 
   - [ ] Updates:
