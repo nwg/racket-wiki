@@ -61,37 +61,6 @@ List release-stopping issues here:
       [Note: get the release candidates from the URL in this email. Use
        the 'static table' link to see a list of all tar files available]
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
-    ```
-    raco test -c tests/web-server
-    ```
-
-  - [ ] XML Tests
-    ```
-    raco test -c tests/xml
-    ```
-
-  - [ ] HTML Tests
-    ```
-    raco test -c tests/html
-    ```
-
-  - [ ] PLAI Tests
-    ```
-    raco test -c plai
-    ```
-
-  - [ ] Racklog tests
-    ```
-    raco test -c racklog/tests
-    ```
-
-  - [ ] Datalog tests
-    ```
-    raco test -c datalog/tests
-    ```
-
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
