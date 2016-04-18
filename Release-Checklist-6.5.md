@@ -60,12 +60,6 @@ List release-stopping issues here:
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
 
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
-    ```
-    raco test eopl/tests
-    ```
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
