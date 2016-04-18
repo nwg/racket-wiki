@@ -59,7 +59,3 @@ List release-stopping issues here:
     + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
-
-* [ ] {Doug Williams <m.douglas.williams@gmail.com>}
-  - [ ] Additional Plot Tests
-
