@@ -215,13 +215,10 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     ```
 
   - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the `racket` and `racket-textual` source releases
-        compile fine (note that they're still called `plt` and `mz` at
-        this stage).
+    + [ ] Test that the `racket` and `racket-minimal` source releases
+        compile fine.
     + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes. (just ubuntu)
-      [Note: get the release candidates from the URL in this email. Use
-       the 'static table' link to see a list of all tar files available]
+        both normal and unix-style installation modes.
 
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
   - [ ] Web Server Tests
