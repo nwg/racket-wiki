@@ -37,16 +37,6 @@ List release-stopping issues here:
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
-  - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the `racket` and `racket-textual` source releases
-        compile fine (note that they're still called `plt` and `mz` at
-        this stage).
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes. (just ubuntu)
-      [Note: get the release candidates from the URL in this email. Use
-       the 'static table' link to see a list of all tar files available]
-
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
