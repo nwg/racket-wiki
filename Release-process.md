@@ -65,10 +65,8 @@ repo release branch is automatically incorporated into future release
 builds without additional intervention or review.
 
 At the end of the release process, I create a "v$VERSION" tag in all
-pkg repos with release branches (to prevent the commits from being
-GC'd) pointing to the current release branch state and then delete all
-pkg repo release branches. Pkg repos still pointing to their
-branch-day master commits do not get tags.
+pkg repos pointing to the commit listed in the release catalog and then
+delete all pkg repo release branches.
 
 
 # Instructions for developers
