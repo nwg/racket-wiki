@@ -29,6 +29,3 @@ List release-stopping issues here:
       (updates should show `v$RKTNVER` as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
-
-* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
-  - [ ] Picturing Programs Tests
