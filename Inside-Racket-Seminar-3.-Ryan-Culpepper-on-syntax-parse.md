@@ -5,3 +5,7 @@ The archived Google Hangouts on Air event is [here](https://plus.google.com/u/0/
 The seminar is oriented on the details of the implementation and is not an introduction to syntax/parse itself.
 
 We used [commit caebbc65](https://github.com/racket/racket/commit/caebbc65b67fbd9965d54e1201459279e5962208) of the Racket package for the walk-through, which was current at the time.
+
+--
+
+During the presentation, Ryan mentioned a blog post about `lazy-require`. It is available on [his blog](http://macrologist.blogspot.com/2011/10/lazy-module-loading.html).
