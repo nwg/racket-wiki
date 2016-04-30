@@ -83,7 +83,7 @@ Otherwise, your help is greatly appreciated in exercising parts of DrRacket that
 
 ## Management
 
-PLT **management** runs the release. Current management is Matthias, Robby, Jay, Sam, Ryan, and Vincent.
+PLT **management** runs the release. Current management is Matthias, Robby, Jay, Sam, Ryan, Vincent, and Matthew.
 
 ## Schedule
 
