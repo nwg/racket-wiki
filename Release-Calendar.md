@@ -8,7 +8,7 @@ Future Racket releases will be on the following schedule (these are times when t
 
 * July 2015 (6.2.1)
 * October 2015 (6.3)
-* January 2016
-* April 2016
-* July 2016
-* October 2016
+* January 2016 (6.4)
+* April 2016 (6.5)
+* July 2016 (6.6)
+* October 2016 (6.7)
