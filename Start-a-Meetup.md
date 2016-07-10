@@ -13,13 +13,13 @@ A user group needs the following elements:
 
 ## Tools
 
-Google Calendar - http://www.google.com/calendar
-Wordpress - http://wordpress.com - free blog and web site
-Meetup - http://meetup.com - meeting discovery, calendar, user network
-Google Groups - http://groups.google.com - free mailing list
-Yahoo Groups - http://groups.yahoo.com - free mailing list
-Wikispaces - http://wikispaces.com - free wiki
-YouTube - http://youtube.com - video hosting
+* Google Calendar - http://www.google.com/calendar
+* Wordpress - http://wordpress.com - free blog and web site
+* Meetup - http://meetup.com - meeting discovery, calendar, user network
+* Google Groups - http://groups.google.com - free mailing list
+* Yahoo Groups - http://groups.yahoo.com - free mailing list
+* Wikispaces - http://wikispaces.com - free wiki
+* YouTube - http://youtube.com - video hosting
 
 ## Common problems
 
