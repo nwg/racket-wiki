@@ -13,3 +13,12 @@ This page aims to provide a canonical index of local meetup groups for Racket us
 #### Midwest
 
 [STL Racket](http://www.meetup.com/STL-Racket/)
+
+
+## Europe
+
+### United Kingdom
+
+#### England
+
+London (not yet organised)
