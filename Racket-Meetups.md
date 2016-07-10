@@ -20,5 +20,4 @@ This page aims to provide a canonical index of local meetup groups for Racket us
 ### United Kingdom
 
 #### England
-
-London (not yet organised)
+[London Racket](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
