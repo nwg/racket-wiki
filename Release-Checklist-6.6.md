@@ -181,34 +181,34 @@ Release blockers:
     racket -l tests/macro-debugger/all-tests.rkt -- --gui
     ```
 
-  - [ ] syntax-parse Tests
+  - [x] syntax-parse Tests
     ```
     raco test -c tests/stxparse
     ```
 
-  - [ ] RackUnit GUI Tests
+  - [x] RackUnit GUI Tests
     ```
     # not automated
     ```
 
-  - [ ] Data Tests
+  - [x] Data Tests
     ```
     raco test -c tests/data
     ```
 
-  - [ ] DB Tests
+  - [x] DB Tests
     ```
     # basic tests with sqlite3; other tests require local software & configuration
     racket -l tests/db/all-tests
     ```
 
-  - [ ] Rackunit Tests
+  - [x] Rackunit Tests
     ```
     # note: some tests are intended to fail
     racket -l tests/rackunit/run-tests
     ```
 
-  - [ ] SRFI Tests
+  - [x] SRFI Tests
     ```
     racket -l tests/srfi/run-tests
     ```
