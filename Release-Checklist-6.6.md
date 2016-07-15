@@ -1,5 +1,5 @@
 Release blockers:
-* resolve the TR `any/c` issue
+* [ ] resolve the TR `any/c` issue
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
