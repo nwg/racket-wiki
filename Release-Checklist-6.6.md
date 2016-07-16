@@ -219,33 +219,33 @@ Release blockers:
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
+* [x] {Jay McCarthy <jay.mccarthy@gmail.com>}
+  - [x] Web Server Tests
     ```
     raco test -c tests/web-server
     ```
 
-  - [ ] XML Tests
+  - [x] XML Tests
     ```
     raco test -c tests/xml
     ```
 
-  - [ ] HTML Tests
+  - [x] HTML Tests
     ```
     raco test -c tests/html
     ```
 
-  - [ ] PLAI Tests
+  - [x] PLAI Tests
     ```
     raco test -c plai
     ```
 
-  - [ ] Racklog tests
+  - [x] Racklog tests
     ```
     raco test -c racklog/tests
     ```
 
-  - [ ] Datalog tests
+  - [x] Datalog tests
     ```
     raco test -c datalog/tests
     ```
