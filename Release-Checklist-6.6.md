@@ -247,19 +247,19 @@
     raco test -c datalog/tests
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
+* [x] {Stevie Strickland <sstrickl@ccs.neu.edu>}
+  - [x] Unit Contract Tests
     ```
     raco test -l tests/units/test-unit-contracts
     ```
 
-  - [ ] Contract Region Tests
+  - [x] Contract Region Tests
     ```
     racket -l tests/racket/contract/define-contract
     racket -l tests/racket/contract/with-contract
     ```
 
-  - [ ] Class Contract Tests
+  - [x] Class Contract Tests
     ```
     racket -l tests/racket/contract/class
     ```
