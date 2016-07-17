@@ -1,23 +1,4 @@
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
-        still work in Windows and Mac OS X)
-   ```
-   racket -l tests/gracket/test
-   gracket -z
-   gracket-text
-   ```
-  - [ ] Games Tests
-   ```
-   plt-games
-   ```
-  - [ ] R6RS Tests
-   ```
-   racket -l tests/r6rs/run.sps   # 3 failures expected
-   ```
-  - [ ] PCPS test suite (in "pcps-test" repo)
-   ```
-   racket <file in pcps-test repo>
-   ```
   - [ ] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
@@ -27,20 +8,10 @@
    ```
    racket -l tests/racket/com
    ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l tests/unix-installer <version>
    ```
-
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-    + [ ] Email me to pick the changes when they're done, or tell me if
-          there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
