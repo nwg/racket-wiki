@@ -6,12 +6,6 @@
   
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
-
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
