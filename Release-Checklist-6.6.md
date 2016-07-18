@@ -170,8 +170,8 @@
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
 
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
+* [x] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
+  - [x] EoPL Tests
     ```
     raco test eopl/tests
     ```
