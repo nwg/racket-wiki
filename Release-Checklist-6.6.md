@@ -145,13 +145,13 @@
     racket -l tests/racket/contract/class
     ```
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
+* [x] {Stephen Chang <stchang@ccs.neu.edu>}
+  - [x] Lazy Racket Tests
     
     ```
     raco test -l lazy/tests/main.rkt
     ```
-  - [ ] Lazy stepper tests
+  - [x] Lazy stepper tests
 
     ```
     raco test -l tests/stepper/automatic-tests.rkt
