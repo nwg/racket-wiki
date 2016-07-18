@@ -1,3 +1,5 @@
+* [ ] Decide whether to include macro-debugger commit 96ac3a
+
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
