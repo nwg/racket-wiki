@@ -1,9 +1,3 @@
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
