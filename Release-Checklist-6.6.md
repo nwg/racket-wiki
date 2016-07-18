@@ -13,12 +13,12 @@
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
-  - [ ] Match Tests:
+  - [x] Match Tests:
   ```
   raco test -l tests/match/main
   ```
   
-  - [ ] Typed Racket Tests:
+  - [x] Typed Racket Tests:
   ```
   racket -l typed-racket-test -- --all
   ```
