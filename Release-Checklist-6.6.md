@@ -12,7 +12,7 @@
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
+* [x] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
   - [x] Match Tests:
   ```
   raco test -l tests/match/main
@@ -23,7 +23,7 @@
   racket -l typed-racket-test -- --all
   ```
   
-  - [ ] Typed Racket Updates: update HISTORY
+  - [x] Typed Racket Updates: update HISTORY
       (updates should show v$RKTNVER as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
