@@ -176,20 +176,20 @@
     raco test eopl/tests
     ```
 
-* [ ] {Neil Toronto <neil.toronto@gmail.com>}
-  - [ ] Plot Tests
+* [x] {Neil Toronto <neil.toronto@gmail.com>}
+  - [x] Plot Tests
     ```
     raco test -c plot/tests
     ```
-  - [ ] Images Tests
+  - [x] Images Tests
     ```
     raco test -c images/tests
     ```
-  - [ ] Inspect icons
+  - [x] Inspect icons
     ```
     raco docs icons # then look at them
     ```
-  - [ ] Math tests
+  - [x] Math tests
     ```
     raco test -c math/tests
     ```
