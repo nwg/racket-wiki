@@ -132,4 +132,4 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/wxme** is managed by *mflatt*
  - **stamourv/optimization-coach** is managed by *stamourv*
 
-All repositories not listed above are managed by *ryanc*
+All repositories not listed above are managed by *stamourv*
