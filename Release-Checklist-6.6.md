@@ -1,5 +1,3 @@
-* [ ] pr15330 TR regression
-
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
     ```
