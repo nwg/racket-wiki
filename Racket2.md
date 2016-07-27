@@ -98,3 +98,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * [tonyg] The .zo and .dep files should be invisible to the user. They should be created, deleted, invalidated, and processed generally without needing to form part of the user's mental model or workflow. Look at how python does this. It'd be lovely to make explicit calls to `raco make` (or even `raco setup`??) unnecessary.
 
 * [jackfirth] Use syntax parameters in `for` loops for `break` and `continue` instead of keywords
+
+* [alexis king] Make all of `match`’s patterns properly hygienic, rather than inspecting datums for the primitive pattern-matching constructs.
