@@ -7,7 +7,13 @@ Talks
  * RacketCon: [2015](http://con.racket-lang.org/), [2014](http://con.racket-lang.org/2014), [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
    (see [video] link for each talk)
 
- * [The Racket Way](http://www.infoq.com/presentations/Racket) — StrangeLoop 2012, Matthew Flatt
+ * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) — Strange Loop 2016, Matthew Flatt
+
+ * [big-bang: The World, Universe, and Network in the Programming Language](https://www.youtube.com/watch?v=ayoofXuKqMY) - Strange Loop 2015, Matthias Felleisen
+
+* [Continuations on the Web and in your OS](https://www.infoq.com/presentations/continuations-web-os) - Strange Loop 2014, Jay McCarthy
+
+ * [The Racket Way](http://www.infoq.com/presentations/Racket) — Strange Loop 2012, Matthew Flatt
 
  * [Racket: Metaprogramming Time!](http://www.infoq.com/presentations/racket) — Clojure/west 2013, Matthew Flatt
 
@@ -22,12 +28,16 @@ Talks
 Interviews
 ----------
 
+ * [Racket on the Cognicast (2016)](http://blog.cognitect.com/cognicast/108) - Sam Tobin-Hochstadt
+
+ * [Racket on the Cognicast (2015)](http://blog.cognitect.com/cognicast/084) - Matthew Flatt
+
  * [Racket on FLOSS Weekly](http://blog.racket-lang.org/2011/05/racket-on-floss-weekly.html)
    — Matthew Flatt
 
  * [WeScheme](http://vidiowiki.com/watch/cydr9yk/) — Shriram Krishnamurthi
 
- * [Racket on the Cognicast](http://blog.cognitect.com/cognicast/061-matthew-flatt) — Matthew Flatt
+ * [Racket on the Cognicast (2014)](http://blog.cognitect.com/cognicast/061-matthew-flatt) — Matthew Flatt
 
 Tutorials and Demos
 -------------------
