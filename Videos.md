@@ -11,7 +11,7 @@ Talks
 
  * [big-bang: The World, Universe, and Network in the Programming Language](https://www.youtube.com/watch?v=ayoofXuKqMY) - Strange Loop 2015, Matthias Felleisen
 
-* [Continuations on the Web and in your OS](https://www.infoq.com/presentations/continuations-web-os) - Strange Loop 2014, Jay McCarthy
+ * [Continuations on the Web and in your OS](https://www.infoq.com/presentations/continuations-web-os) - Strange Loop 2014, Jay McCarthy
 
  * [The Racket Way](http://www.infoq.com/presentations/Racket) — Strange Loop 2012, Matthew Flatt
 
