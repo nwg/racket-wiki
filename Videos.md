@@ -13,21 +13,23 @@ Talks
 
  * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) - Clojure/west 2016 - Matthias Felleisen
 
+ * [Racket & Typed Racket: the power of extensibility](https://www.youtube.com/watch?v=vnKCuPVERqY) - Polyconf 2015 - Sam Tobin-Hochstadt
+
  * [big-bang: The World, Universe, and Network in the Programming Language](https://www.youtube.com/watch?v=ayoofXuKqMY) - Strange Loop 2015, Matthias Felleisen
 
  * [Continuations on the Web and in your OS](https://www.infoq.com/presentations/continuations-web-os) - Strange Loop 2014, Jay McCarthy
 
- * [The Racket Way](http://www.infoq.com/presentations/Racket) — Strange Loop 2012, Matthew Flatt
+ * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/) — Air Mozilla 2014, Matthew Flatt
+
+ * [Macros, Modules, and Languages in Racket](https://www.youtube.com/watch?v=Z4qn9NFfb9s) — Matthew Flatt at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/) 2014
+
+ * [Introduction to Functional Programming via Racket](https://www.youtube.com/watch?v=K0TItrQNT8Q) — Jay McCarthy at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/) 2014
 
  * [Racket: Metaprogramming Time!](http://www.infoq.com/presentations/racket) — Clojure/west 2013, Matthew Flatt
 
- * [Macros Matter](http://www.mefeedia.com/video/26348171) — Robby Findler
+ * [The Racket Way](http://www.infoq.com/presentations/Racket) — Strange Loop 2012, Matthew Flatt
 
- * [Incremental Parallelization of Dynamic Languages](https://air.mozilla.org/incremental-parallelization-of-dynamic-languages/) — Matthew Flatt
-
- * [Macros, Modules, and Languages in Racket](https://www.youtube.com/watch?v=Z4qn9NFfb9s) — Matthew Flatt at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
-
- * [Introduction to Functional Programming via Racket](https://www.youtube.com/watch?v=K0TItrQNT8Q) — Jay McCarthy at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/)
+ * [Macros Matter](http://www.mefeedia.com/video/26348171) — Northwestern University 2009, Robby Findler
 
 Interviews
 ----------
