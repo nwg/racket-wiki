@@ -9,6 +9,8 @@ Talks
 
  * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) — Strange Loop 2016, Matthew Flatt
 
+ * [The Racket Manifesto](https://www.youtube.com/watch?v=-cLI3GHvLOM) - CurryOn 2016, Matthias Felleisen
+
  * [Types are like the Weather, Type Systems are like Weathermen](https://www.youtube.com/watch?v=XTl7Jn_kmio) - Clojure/west 2016 - Matthias Felleisen
 
  * [big-bang: The World, Universe, and Network in the Programming Language](https://www.youtube.com/watch?v=ayoofXuKqMY) - Strange Loop 2015, Matthias Felleisen
