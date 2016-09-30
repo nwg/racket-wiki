@@ -5,9 +5,9 @@ _Here are some low risk examples and suggestions for people to get stuff done wi
 
 Use Racket (& DrRacket) ...
  1.  ... to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset
- 1.  ... for [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/): 
+ 1.  ... for [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/) or as a preprocessor for [building](http://docs.racket-lang.org/scribble-pp/html.html) web pages [(example)](https://github.com/nuprl/gtp/tree/gh-pages)
  1.  ... for [Parsing CSV](http://www.neilvandyke.org/racket/csv-reading/)
- 1.  ... for making cool [Presentations](http://docs.racket-lang.org/slideshow/index.html)
+ 1.  ... for making cool [Presentations](http://docs.racket-lang.org/slideshow/index.html) [(example)](https://github.com/rfindler/icfp-2014-contracts-talk/tree/master)
  1.  ... to make GUI apps (I made one to share the NHS number checker - see below)
  1.  ... to play with web services...(must provide example)
  1.  ... for diagramming and visualization
@@ -15,7 +15,7 @@ Use Racket (& DrRacket) ...
  1.  (Please add more)
 
 
-PS You can also user Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and making pretty pictures.
+PS You can also user Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and [making pretty pictures](https://github.com/rodrigosetti/stamps).
 
 ***
 
