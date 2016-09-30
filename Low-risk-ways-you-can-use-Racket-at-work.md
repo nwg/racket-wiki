@@ -12,7 +12,7 @@ Use Racket (& DrRacket) ...
  1.  ... to play with web services...(must provide example)
  1.  ... for diagramming and visualization
  1.  ... for accessing web-based data stores 
-(Please add more)
+ 1.  (Please add more)
 
 
 PS You can also user Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and making pretty pictures.
