@@ -1,4 +1,4 @@
-Wow! Racket has so many features, a powerful **functional **and **[object-oriented](http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html)** language with powerful [macro](http://www.greghendershott.com/fear-of-macros/) facilities, gradual typing and a static type checker. (Safe and fun!)
+Wow! Racket has so many features, a full-featured **functional** and **[object-oriented](http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html)** language with powerful [macro](http://www.greghendershott.com/fear-of-macros/) facilities, gradual typing and a static type checker. (It is safe and fun!)
 
 # But how can you use Racket a work?
 
@@ -13,8 +13,10 @@ Use Racket (& DrRacket) ...
  1.  ... to play with web services...(must provide example)
  1.  ... for diagramming and visualization
  1.  ... for accessing web-based data stores 
+(Please add more)
 
-Please add more...
+
+PS you can also user Racket for creating languages, rocket surgery, games, livecoding, ZeroMQ and making pretty pictures.
 
 ***
 
