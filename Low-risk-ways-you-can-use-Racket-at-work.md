@@ -24,8 +24,9 @@ All credit due to 'scottw' at https://fsharpforfunandprofit.com/posts/low-risk-w
 
 ***
 ## NHS Number checker
-Use DrRacket. Click Racket>Create Executable
-<script src="https://gist.github.com/spdegabrielle/6e4d554276b4d17b8ad5a78a547eafca.js"></script>
+https://gist.github.com/spdegabrielle/6e4d554276b4d17b8ad5a78a547eafca 
+Use DrRacket. Click menu 'Racket' -> 'Create Executable'.
+
 
 
 
