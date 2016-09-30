@@ -4,7 +4,8 @@ But how can you use racket a work in a that is low risk?
 
 Here are some ways; 
 
-1. data validation: I used racket to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset
+1. I used racket to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset
 1. [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/): 
 1. [Parsing CSV](http://www.neilvandyke.org/racket/csv-reading/)
-1. ...
+1. [Presentations](http://docs.racket-lang.org/slideshow/index.html)
+1. 
