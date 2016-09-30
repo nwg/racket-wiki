@@ -1,6 +1,8 @@
-Wow! Racket has so many features, with powerful functional and [object-oriented](http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html) language with powerful [macro](http://www.greghendershott.com/fear-of-macros/) facilities with gradual typing and a static type checker. 
+Wow! Racket has so many features, a powerful **functional **and **[object-oriented](http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html)** language with powerful [macro](http://www.greghendershott.com/fear-of-macros/) facilities, gradual typing and a static type checker. (Safe and fun!)
 
-But how can you use racket a work in a that is low risk?
+# But how can you use Racket a work?
+
+_Here are some low risk examples and suggestions for people to get stuff done with racket._
 
 Use Racket (& DrRacket) ...
  1.  ... to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset
