@@ -1,0 +1,1 @@
+Wow! Racket has so many features, with powerful functional and [object-oriented](http://www.ccs.neu.edu/home/matthias/Thoughts/Programming_with_Class_in_Racket.html) language with powerful [macro](http://www.greghendershott.com/fear-of-macros/) facilities with gradual typing and a static type checker. 
