@@ -5,6 +5,7 @@ We plan to replace this eventually with a wiki written in Racket, to which we wi
 Need a project idea?
   * [[Intro Projects]] 
   * [Ideas from the Hackathon](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012)
+  * [[Low risk ways you can use Racket at work]] you can start right now
 
 Want to contribute?
   * [http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
