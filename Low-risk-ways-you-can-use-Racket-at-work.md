@@ -4,7 +4,7 @@ _Here are some low risk examples and suggestions for people to get stuff done wi
 **You can start right now.**
 
 Use Racket (& DrRacket) ...
- 1.  ... to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset
+ 1.  ... to validate data (e.g. I used it to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset )
  1.  ... for [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/) or as a preprocessor for [building](http://docs.racket-lang.org/scribble-pp/html.html) web pages [(example)](https://github.com/nuprl/gtp/tree/gh-pages)
  1.  ... for [Parsing CSV](http://www.neilvandyke.org/racket/csv-reading/)
  1.  ... for making cool [Presentations](http://docs.racket-lang.org/slideshow/index.html) [(example)](https://github.com/rfindler/icfp-2014-contracts-talk/tree/master)
