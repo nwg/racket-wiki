@@ -12,6 +12,7 @@ Use Racket (& DrRacket) ...
  1.  ... to play with web services...(must provide example)
  1.  ... for diagramming and visualization
  1.  ... for accessing web-based data stores 
+ 1.  ... for making a DSL to solve a task at work - see [Creating Languages](https://docs.racket-lang.org/guide/languages.html) or [Beautiful Racket](http://beautifulracket.com)
  1.  (Please add more)
 
 
@@ -25,7 +26,6 @@ All credit due to 'scottw' at https://fsharpforfunandprofit.com/posts/low-risk-w
 ## NHS Number checker
 https://gist.github.com/spdegabrielle/6e4d554276b4d17b8ad5a78a547eafca 
 Use DrRacket. Click menu 'Racket' -> 'Create Executable'.
-
 
 
 
