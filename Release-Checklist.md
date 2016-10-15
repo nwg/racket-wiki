@@ -5,7 +5,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
    ```
-   racket -l tetsts/racket/test
+   racket -l tests/racket/test
    ```
   - [ ] Languages Tests
    ```
