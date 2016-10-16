@@ -1,15 +1,5 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    
-
-  - [ ] Games Tests: play a bunch of games (not automated)
-   
-   - [ ] Redex Tests:
-   ```
-   racket -l redex/tests/run-tests
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
-   ```
-
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
