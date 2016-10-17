@@ -61,13 +61,6 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
-  - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
   - [ ] Web Server Tests
     ```
