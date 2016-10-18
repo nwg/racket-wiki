@@ -61,37 +61,6 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
-    ```
-    raco test -c tests/web-server
-    ```
-
-  - [ ] XML Tests
-    ```
-    raco test -c tests/xml
-    ```
-
-  - [ ] HTML Tests
-    ```
-    raco test -c tests/html
-    ```
-
-  - [ ] PLAI Tests
-    ```
-    raco test -c plai
-    ```
-
-  - [ ] Racklog tests
-    ```
-    raco test -c racklog/tests
-    ```
-
-  - [ ] Datalog tests
-    ```
-    raco test -c datalog/tests
-    ```
-
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
   - [ ] Unit Contract Tests
     ```
