@@ -51,23 +51,6 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
