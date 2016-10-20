@@ -72,21 +72,3 @@
     [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
   - [ ] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
-* [ ] {Neil Toronto <neil.toronto@gmail.com>}
-  - [ ] Plot Tests
-    ```
-    raco test -c plot/tests
-    ```
-  - [ ] Images Tests
-    ```
-    raco test -c images/tests
-    ```
-  - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
-  - [ ] Math tests
-    ```
-    raco test -c math/tests
-    ```
