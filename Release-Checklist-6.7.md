@@ -26,9 +26,6 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
-  - [ ] Picturing Programs Tests
-
 * [ ] {Mike Sperber <sperber@deinprogramm.de>}
   - [ ] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
