@@ -1,7 +1,3 @@
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-   
-   - [ ] Updates:
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
