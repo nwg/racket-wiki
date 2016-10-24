@@ -137,7 +137,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>, Vincent St-Amour <stamourv@ccs.neu.edu>}
+* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
   ```
   raco test -l tests/match/main
