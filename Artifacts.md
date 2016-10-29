@@ -668,4 +668,17 @@ Uses the on-error-resume-next macro from above in the postlude. Also uses an ana
 (file-position (open-output-file (make-temporary-file)) (* 1024 1024)) ;; 1MB zero-filled file
 ```
 
+##### More convenient printing of multiple values
 
+```
+(define-syntax (say stx)
+  (syntax-case stx ()
+    [(_ a b ...)
+     #'(displayln (~a a b ...))]))
+```
+
+Use as follows:
+
+```  
+(say "The value of x is: " x)
+```
