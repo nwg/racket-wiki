@@ -4,4 +4,4 @@ The Google Hangouts on Air event is [here](https://plus.google.com/events/ca6nh5
 
 The seminar is oriented on the details of the implementation and is not an introduction to Racket contracts.
 
-We used [commit 94dbcb1](https://github.com/racket/typed-racket/commit/94dbcb12dc5bb33f78f749f4277d1a9e9f17af4b) of Racket for the walk-through.
+We used [commit 94dbcb1](https://github.com/racket/racket/commit/94dbcb12dc5bb33f78f749f4277d1a9e9f17af4b) of Racket for the walk-through.
