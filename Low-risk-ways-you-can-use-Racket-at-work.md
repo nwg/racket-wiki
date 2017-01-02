@@ -16,7 +16,7 @@ Use Racket (& DrRacket) ...
  1.  (Please add more)
 
 
-PS You can also user Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and [making pretty pictures](https://github.com/rodrigosetti/stamps).
+PS You can also use Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and [making pretty pictures](https://github.com/rodrigosetti/stamps).
 
 ***
 
