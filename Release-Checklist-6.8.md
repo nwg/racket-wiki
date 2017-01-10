@@ -63,7 +63,7 @@
    ```
 
   - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [ ] Racket Updates: update HISTORY (updates should show v6.8 as the most current version)
     + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
     + [ ] Email me to pick the changes when they're done, or tell me if
           there are no such changes.
@@ -117,7 +117,7 @@
 
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+     + [ ] Redex Updates: update HISTORY (updates should show v6.8 as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
@@ -131,7 +131,7 @@
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
 
-      (updates should show `v$RKTNVER` as the most current version; email
+      (updates should show `v6.8` as the most current version; email
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
@@ -147,7 +147,7 @@
   ```
   
   - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
+      (updates should show v6.8 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
@@ -172,7 +172,7 @@
 
   - [ ] Updates:
     + [ ] Teachpack Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email me
+      (updates should show `v6.8` as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
