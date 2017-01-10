@@ -1,4 +1,7 @@
 * [ ] {Blockers}
+  - [ ] `drracket-vim-tool` regression.
+        Status: Robby is talking with Asumu
+  - [ ] Segfault in `multi-id`, `delay-pure`, `remember`, `phc-adt`, `phc-adt-test`, `phc-adt-lib`, `phc-toolkit`, `xlist`, `aful`, `typed-struct-props`, `extensible-parser-specifications`, and `type-expander`.
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
