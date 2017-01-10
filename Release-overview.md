@@ -69,10 +69,10 @@ Finally, all of this can be summarized as a matter of prioritizing. In general, 
 
 # What should individuals do during release time?
 
-If you're on Ryan's list to receive reminders when the release process starts — congratulations! However, please keep in mind a few things:
+If you're on Vincent's list to receive reminders when the release process starts — congratulations! However, please keep in mind a few things:
 
   - They're generally *reminders* to make sure that things don't fall through the cracks, not a request to start working on something. If you're responsible for testing or for some documents, you should be able to quickly respond that everything is fine, because you've been testing or writing all along (and you just checked or proofread one more time for good measure).
-  - Ryan needs response relatively quickly. Two days should be normal. In bad cases the release process can take a week when unexpected problems arise. If you can't regularly respond on that time scale, then we need someone else to take over your job. If you know you're going to be especially busy near a release (e.g., due to a paper deadline), then don't wait until you get the reminder to say you can't do it; we set a schedule in advance so you can plan around such problems.
+  - Vincent needs response relatively quickly. Two days should be normal. In bad cases the release process can take a week when unexpected problems arise. If you can't regularly respond on that time scale, then we need someone else to take over your job. If you know you're going to be especially busy near a release (e.g., due to a paper deadline), then don't wait until you get the reminder to say you can't do it; we set a schedule in advance so you can plan around such problems.
   - Even if your tests are checked by drdr or the pkg-build service (which is a very good idea) you should still run them. This is because in some cases there are platform-dependent bugs, or the drdr/pkg-build test suite can miss failures because the tests are not setup correctly (this *has* happened, many times).
   - Keep an eye for any problems, and report anything that looks bad. Don't dismiss potential problems because “they're not your problem”.
   - If for some reason you really need to merge changes that could potentially interact with other parts of the distribution and the changes are merged to the release, then make sure to notify the list, so we can consider another quick round of tests. Note that this would be a very rare situation, since at this point things tend to roll fast and delays are more problematic. In case of doubts, consult with [management](#management).
@@ -96,7 +96,7 @@ Each release has the following schedule:
  * 15th: testing begins
  * ~30th: the release is announced and made available on the download page
 
-For each release, a branch is created in the main repository in preparation for the release. The date of branch day is the 7th day of the month. One week before branch day (i.e., on the 1st), Ryan will normally send a courtesy reminder of the upcoming branch.
+For each release, a branch is created in the main repository in preparation for the release. The date of branch day is the 7th day of the month. One week before branch day (i.e., on the 1st), Vincent will normally send a courtesy reminder of the upcoming branch.
 
 A week after the branch creation (on the 15th), testing begins. This time is relatively firm, and will move only in exceptional cases where more work is needed. (Pending management approval of such an extension.)
 
@@ -132,7 +132,7 @@ Details about working with release branches are at [[Release process]]. Reposito
 
 ## Testing Checklist
 
-A week after branch day, Ryan sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
+A week after branch day, Vincent sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
 
 Use the [candidate build](#candidate-builds) for checklist processing, not your git clone. It's good to try out building the release branch, but for testing, use the provided builds.
 
