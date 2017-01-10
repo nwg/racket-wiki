@@ -2,6 +2,8 @@ This is the master copy of the testing checklist for Racket releases. Edit this 
 
 A copy of this checklist for the current release in progress is at [[Release-Checklist-6.7]]. That page is edited when testing items are completed.
 
+* [ ]{Blockers}
+
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
    ```
