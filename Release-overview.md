@@ -132,9 +132,11 @@ Details about working with release branches are at [[Release process]]. Reposito
 
 ## Testing Checklist
 
-A week after branch day, Vincent sends out the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
+A week after branch day, Vincent sends out a link to the testing checklist. Each checklist item has a specific person attached to it, and that person is responsible for completing the task within a few days that the checklist goes out (usually 2-3 days, at most a week).
 
 Use the [candidate build](#candidate-builds) for checklist processing, not your git clone. It's good to try out building the release branch, but for testing, use the provided builds.
+
+Any issues that are found (in testing or otherwise) are added to the checklist, and block the release; the release cannot proceed unless all tests are done, and all blocker issues are resolved.
 
 ## From Candidate to Release
 
