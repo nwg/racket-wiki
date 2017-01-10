@@ -43,7 +43,7 @@ Normal releases are driven by time, not by feature sets. The features of a norma
 
 A normal release, then, is unrelated to the pressure for adding features or fixing bugs. This pressure derives from external conditions and constraints, regardless of releases or version numbers: a feature that is useful for a class, your advisor requires that a feature is in publishable condition by some date, a company promises to send you a large check if you add a feature, or if you just want the world to experience your wonderful new invention. Whatever the reason is, you need to manage *your own* schedule to make it to *your own* deadline. (In other words, it should not affect the rest of the project's timeline.) In the absence of any other constraints then, you should not plan in terms of “I want to add feature X, and it should be ready for version Y”. Implement feature X, take however long it takes, and deliver the results to snapshot users as soon as possible.
 
-The set of features in a release as compared to the previous normal release determines the version number: if a release has only bug fixes and minor feature changes from the previous release, then only the third number in the version changes. Significant incompatibilities change the second number of the version. The first version number changes only with major architectural changes that affect the whole system.
+The set of features in a release as compared to the previous normal release determines the version number: most releases change only the second number of the version. The first version number changes only with major architectural changes that affect the whole system.
 
 # How does release time differ from any other time?
 
