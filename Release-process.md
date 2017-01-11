@@ -55,11 +55,12 @@ commits) to pkg repo release branches.
 
 I create a release catalog like the standard catalog, trimmed to
 main-distribution, but pointing to either the branch-day master commit
-or the release branche for each pkg repo. I commit the release catalog
+or the release branch for each pkg repo. I commit the release catalog
 to [the racket/release-catalog
 repo](https://github.com/racket/release-catalog).
 
-I periodically update the release catalog by polling for new or
+Building a pre-release build (done automatically every night)
+updates the release catalog by polling for new or
 updated pkg repo release branches. Consequently, an update to a pkg
 repo release branch is automatically incorporated into future release
 builds without additional intervention or review.
