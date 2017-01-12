@@ -1,8 +1,8 @@
 * [ ] {Blockers}
-  - [ ] `drracket-vim-tool` regression.
-        Status: Robby is talking with Asumu
-  - [ ] Segfault in `multi-id`, `delay-pure`, `remember`, `phc-adt`, `phc-adt-test`, `phc-adt-lib`, `phc-toolkit`, `xlist`, `aful`, `typed-struct-props`, `extensible-parser-specifications`, and `type-expander`. Type errors in a subset of those.
-        Status: Matthew fixed the segfault. Confirm once the next pre-release build is out. Andrew is looking into the type errors.
+  - [X] `drracket-vim-tool` regression.
+        Status: Resolved
+  - [X] Segfault in `multi-id`, `delay-pure`, `remember`, `phc-adt`, `phc-adt-test`, `phc-adt-lib`, `phc-toolkit`, `xlist`, `aful`, `typed-struct-props`, `extensible-parser-specifications`, and `type-expander`. Type errors in a subset of those.
+        Status: Resolved
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
