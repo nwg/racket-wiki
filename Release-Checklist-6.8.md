@@ -75,7 +75,7 @@
       4. delete foo.rkt and bar.rkt
       ```
 
-  - [ ] Teachpack Docs: check teachpack docs in the bundles
+  - [X] Teachpack Docs: check teachpack docs in the bundles
       ```
       type "big-bang" into Definitions area, highlight, use F1; check for manuals 
       ```
