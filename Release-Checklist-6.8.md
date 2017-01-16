@@ -38,12 +38,8 @@
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] DrRacket tests (run them again)
-
   - [ ] Games Tests: play a bunch of games (not automated)
-   
-
-   - [ ] Updates:
+     - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v6.8 as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
