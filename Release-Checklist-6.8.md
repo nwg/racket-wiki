@@ -80,13 +80,13 @@
       type "big-bang" into Definitions area, highlight, use F1; check for manuals 
       ```
 
-  - [ ] Try teaching-languages testing framework (check-expect)
+  - [X] Try teaching-languages testing framework (check-expect)
       ```
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
 
-  - [ ] Updates:
-    + [ ] Teachpack Updates: update HISTORY
+  - [X] Updates:
+    + [X] Teachpack Updates: update HISTORY
       (updates should show `v6.8` as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
