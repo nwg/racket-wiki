@@ -76,7 +76,7 @@
       changes.)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [ ] Teachpacks Tests: check that new teachpacks are addable
+  - [X] Teachpacks Tests: check that new teachpacks are addable
       ```
       1. create foo.rkt: #lang racket (define x 0) (provide x)
       2. create bar.rkt: #lang htdp/bsl (require "foo.rkt") x; RUN and check for 0 to pop out
