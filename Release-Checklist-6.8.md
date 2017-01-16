@@ -73,17 +73,6 @@
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] Framework Tests:
-   ```
-   racket -l framework/tests/main
-   ```
-
-  - [ ] Contracts Tests:
-   ```
-   racket -l tests/racket/contract/all
-   racket -l tests/racket/contract-stress-argmin
-   racket -l tests/racket/contract-stress-take-right
-   ```
 
   - [ ] Games Tests: play a bunch of games (not automated)
   - [ ] Teachpacks Tests: image tests
