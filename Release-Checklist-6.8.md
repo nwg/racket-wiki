@@ -73,6 +73,7 @@
           there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+  - [ ] DrRacket tests (run them again)
 
   - [ ] Games Tests: play a bunch of games (not automated)
   - [ ] Teachpacks Tests: image tests
@@ -90,13 +91,6 @@
    raco test -l tests/planet/run-all
    ```
    
-   - [ ] Redex Tests:
-   ```
-   racket -l redex/tests/run-tests
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
-   ```
-
    - [ ] Report pkg-build regressions found using the pre-release runs of the NWU pkg-build server
 
    - [ ] Updates:
