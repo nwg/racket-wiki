@@ -117,8 +117,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    racket -l redex/tests/color-tests 
    ```
 
-   - [ ] Report pkg-build regressions found using the pre-release runs of the NWU pkg-build server
-
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
