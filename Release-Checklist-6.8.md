@@ -76,14 +76,7 @@
   - [ ] DrRacket tests (run them again)
 
   - [ ] Games Tests: play a bunch of games (not automated)
-
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
    
-   - [ ] Report pkg-build regressions found using the pre-release runs of the NWU pkg-build server
 
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
