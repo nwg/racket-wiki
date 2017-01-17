@@ -106,7 +106,7 @@
   - [ ] Release tests for (one of the) linux releases:
     + [ ] Test that the `racket` and `racket-minimal` source releases
         compile fine.
-    + [ ] Test that the binary installers for both work, try each one in
+    + [x] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
 * [X] {Stevie Strickland <sstrickl@ccs.neu.edu>}
