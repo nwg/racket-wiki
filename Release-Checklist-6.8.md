@@ -13,20 +13,10 @@
    ```
    racket -l tests/racket/embed-in-c
    ```
-  - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
-   ```
-   configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
-   ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l tests/unix-installer <version>
    ```
-
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v6.8 as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-    + [ ] Email me to pick the changes when they're done, or tell me if
-          there are no such changes.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] Games Tests: play a bunch of games (not automated)
