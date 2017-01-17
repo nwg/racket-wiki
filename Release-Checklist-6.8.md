@@ -40,22 +40,6 @@
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [x] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [X] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
-  
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v6.8 as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
-
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [X] Teachpacks Tests: check that new teachpacks are addable
       ```
@@ -125,19 +109,19 @@
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
+* [X] {Stevie Strickland <sstrickl@ccs.neu.edu>}
+  - [X] Unit Contract Tests
     ```
     raco test -l tests/units/test-unit-contracts
     ```
 
-  - [ ] Contract Region Tests
+  - [X] Contract Region Tests
     ```
     racket -l tests/racket/contract/define-contract
     racket -l tests/racket/contract/with-contract
     ```
 
-  - [ ] Class Contract Tests
+  - [X] Class Contract Tests
     ```
     racket -l tests/racket/contract/class
     ```
@@ -177,17 +161,17 @@
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
 * [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
+  - [X] EoPL Tests
     ```
     raco test eopl/tests
     ```
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
-  - [ ] Plot Tests
+  - [x] Plot Tests
     ```
     raco test -c plot/tests
     ```
-  - [ ] Images Tests
+  - [x] Images Tests
     ```
     raco test -c images/tests
     ```
@@ -195,7 +179,7 @@
     ```
     raco docs icons # then look at them
     ```
-  - [ ] Math tests
+  - [x] Math tests
     ```
     raco test -c math/tests
     ```
