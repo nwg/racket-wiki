@@ -46,7 +46,7 @@
   raco test -l tests/match/main
   ```
   
-  - [ ] Typed Racket Tests:
+  - [X] Typed Racket Tests:
   ```
   racket -l typed-racket-test -- --all
   ```
