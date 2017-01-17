@@ -160,13 +160,13 @@
   - [ ] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
+* [x] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
   - [X] EoPL Tests
     ```
     raco test eopl/tests
     ```
 
-* [ ] {Neil Toronto <neil.toronto@gmail.com>}
+* [x] {Neil Toronto <neil.toronto@gmail.com>}
   - [x] Plot Tests
     ```
     raco test -c plot/tests
@@ -175,7 +175,7 @@
     ```
     raco test -c images/tests
     ```
-  - [ ] Inspect icons
+  - [x] Inspect icons
     ```
     raco docs icons # then look at them
     ```
