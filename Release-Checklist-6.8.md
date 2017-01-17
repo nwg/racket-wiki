@@ -4,23 +4,9 @@
   - [X] Segfault in `multi-id`, `delay-pure`, `remember`, `phc-adt`, `phc-adt-test`, `phc-adt-lib`, `phc-toolkit`, `xlist`, `aful`, `typed-struct-props`, `extensible-parser-specifications`, and `type-expander`. Type errors in a subset of those.
         Status: Resolved
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l tests/unix-installer <version>
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] Games Tests: play a bunch of games (not automated)
-     - [ ] Updates:
+  - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v6.8 as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
