@@ -125,37 +125,6 @@
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
-    ```
-    raco test -c tests/web-server
-    ```
-
-  - [ ] XML Tests
-    ```
-    raco test -c tests/xml
-    ```
-
-  - [ ] HTML Tests
-    ```
-    raco test -c tests/html
-    ```
-
-  - [ ] PLAI Tests
-    ```
-    raco test -c plai
-    ```
-
-  - [ ] Racklog tests
-    ```
-    raco test -c racklog/tests
-    ```
-
-  - [ ] Datalog tests
-    ```
-    raco test -c datalog/tests
-    ```
-
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
   - [ ] Unit Contract Tests
     ```
