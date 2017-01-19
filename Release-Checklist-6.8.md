@@ -27,31 +27,6 @@
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
-* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [X] Teachpacks Tests: check that new teachpacks are addable
-      ```
-      1. create foo.rkt: #lang racket (define x 0) (provide x)
-      2. create bar.rkt: #lang htdp/bsl (require "foo.rkt") x; RUN and check for 0 to pop out
-      3. delete require line, use teach pack menu to add foo.rkt; RUN and check for 0 to pop out
-      4. delete foo.rkt and bar.rkt
-      ```
-
-  - [X] Teachpack Docs: check teachpack docs in the bundles
-      ```
-      type "big-bang" into Definitions area, highlight, use F1; check for manuals 
-      ```
-
-  - [X] Try teaching-languages testing framework (check-expect)
-      ```
-      run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
-      ```
-
-  - [X] Updates:
-    + [X] Teachpack Updates: update HISTORY
-      (updates should show `v6.8` as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
-
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
     ```
@@ -96,23 +71,6 @@
     + [x] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-* [X] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [X] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [X] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [X] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
@@ -137,39 +95,6 @@
     + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
-
-* [X] {Mike Sperber <sperber@deinprogramm.de>}
-  - [X] DMdA Tests
-    [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
-    [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
-  - [X] Stepper Tests
-    [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
-  - [X] Signature Tests
-    [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
-* [x] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [X] EoPL Tests
-    ```
-    raco test eopl/tests
-    ```
-
-* [x] {Neil Toronto <neil.toronto@gmail.com>}
-  - [x] Plot Tests
-    ```
-    raco test -c plot/tests
-    ```
-  - [x] Images Tests
-    ```
-    raco test -c images/tests
-    ```
-  - [x] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
-  - [x] Math tests
-    ```
-    raco test -c math/tests
-    ```
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
