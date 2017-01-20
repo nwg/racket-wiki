@@ -6,7 +6,6 @@
   - [ ] DrRacket documentation lookup bug reported by Matthias.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] Games Tests: play a bunch of games (not automated)
   - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v6.8 as the most current version)
