@@ -91,7 +91,10 @@ The current list of pkg repo managers is at [[Release repo managers]].
 
 ## Determining a pkg repo's current release state
 
-Use the following command to determine whether a pkg repo has a
+The [repo status web app](http://pre-release.racket-lang.org/status/)
+shows the state of all repos, grouped by repo manager.
+
+Alternatively, use the following command to determine whether a pkg repo has a
 release branch or, if not, to find the the branch-day master commit:
 
     raco pkg catalog-show --catalog https://raw.github.com/racket/release-catalog/master/release-catalog/ <pkg-name>
