@@ -7,7 +7,6 @@
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v6.8 as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
