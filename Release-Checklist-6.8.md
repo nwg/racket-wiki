@@ -5,11 +5,6 @@
         Status: Resolved
   - [ ] DrRacket documentation lookup bug reported by Matthias.
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] Updates:
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
     ```
