@@ -62,9 +62,6 @@
     raco test -l tests/stepper/automatic-tests.rkt
     ```
 
-* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
-  - [ ] Picturing Programs Tests
-
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
