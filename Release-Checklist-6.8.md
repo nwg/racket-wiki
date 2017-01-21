@@ -4,7 +4,7 @@
         Status: Resolved
   - [X] Segfault in `multi-id`, `delay-pure`, `remember`, `phc-adt`, `phc-adt-test`, `phc-adt-lib`, `phc-toolkit`, `xlist`, `aful`, `typed-struct-props`, `extensible-parser-specifications`, and `type-expander`. Type errors in a subset of those.
         Status: Resolved
-  - [ ] DrRacket documentation lookup bug reported by Matthias.
+  - [X] DrRacket documentation lookup bug reported by Matthias. (Not fixed, but not blocking the release.)
 
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
