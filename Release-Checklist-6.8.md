@@ -6,13 +6,6 @@
         Status: Resolved
   - [X] DrRacket documentation lookup bug reported by Matthias. (Not fixed, but not blocking the release.)
 
-* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
-  - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
-    + [x] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
