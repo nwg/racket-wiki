@@ -6,18 +6,6 @@
         Status: Resolved
   - [X] DrRacket documentation lookup bug reported by Matthias. (Not fixed, but not blocking the release.)
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
