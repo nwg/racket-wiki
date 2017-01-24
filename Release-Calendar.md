@@ -13,3 +13,4 @@ Future Racket releases will be on the following schedule (these are times when t
 * July 2016 (6.6)
 * October 2016 (6.7)
 * January 2017 (6.8)
+* April 2017 (6.9)
