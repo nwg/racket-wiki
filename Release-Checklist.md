@@ -84,7 +84,9 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    
   - [ ] Framework Tests:
    ```
-   racket -l framework/tests/main
+   # from the top-level directory of the release bundle, run
+   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "main.rkt" "framework" "tests"))')")"
+   raco test .
    ```
 
   - [ ] Contracts Tests:
