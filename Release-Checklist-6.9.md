@@ -92,12 +92,6 @@
    raco test -l tests/planet/run-all
    ```
    
-   - [ ] Redex Tests:
-   ```
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
-   ```
-
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v6.9 as the most current version)
