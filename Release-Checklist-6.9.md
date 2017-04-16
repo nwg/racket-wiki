@@ -1,4 +1,5 @@
 * [ ] {Blockers}
+  - [ ] `gracket` and `gracket-text` are broken on Mac OS
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
