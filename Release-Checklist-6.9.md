@@ -1,6 +1,6 @@
 * [ ] {Blockers}
   - [ ] `gracket` and `gracket-text` are broken on Mac OS
-  - [ ] possible TR doc movement for refinements
+  - [X] TR doc movement for refinements
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
