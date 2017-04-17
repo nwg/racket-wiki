@@ -1,23 +1,8 @@
 * [ ] {Blockers}
-  - [ ] `gracket` and `gracket-text` are broken on Mac OS
+  - [X] `gracket` and `gracket-text` are broken on Mac OS
   - [X] TR doc movement for refinements
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
-        still work in Windows and Mac OS X)
-   ```
-   gracket -z
-   gracket-text
-   ```
-  - [ ] `mzc --exe` tests
-   ```
-   racket -l tests/compiler/embed/test
-   ```
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l tests/unix-installer <version>
