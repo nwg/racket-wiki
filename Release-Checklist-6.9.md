@@ -13,22 +13,6 @@
    ```
    racket -l tests/compiler/embed/test
    ```
-  - [ ] .plt-packing Tests
-   ```
-   cd racket-test-core/tests/racket ; racket -f pack.rktl
-   ```
-  - [ ] Games Tests
-   ```
-   plt-games
-   ```
-  - [ ] R6RS Tests
-   ```
-   racket -l tests/r6rs/run.sps   # 3 failures expected
-   ```
-  - [ ] PCPS test suite (in "pcps-test" repo)
-   ```
-   racket <file in pcps-test repo>
-   ```
   - [ ] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
