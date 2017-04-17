@@ -2,12 +2,6 @@
   - [X] `gracket` and `gracket-text` are broken on Mac OS
   - [X] TR doc movement for refinements
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l tests/unix-installer <version>
-   ```
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
