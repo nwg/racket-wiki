@@ -18,14 +18,6 @@
    # make big-bang program with literal image in DrRacket, 
    # then create executable
    ```
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l tests/unix-installer <version>
