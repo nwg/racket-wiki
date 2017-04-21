@@ -17,18 +17,18 @@
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
+* [X] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [X] Match Tests:
   ```
   raco test -l tests/match/main
   ```
   
-  - [ ] Typed Racket Tests:
+  - [X] Typed Racket Tests:
   ```
   racket -l typed-racket-test -- --all
   ```
   
-  - [ ] Typed Racket Updates: update HISTORY
+  - [X] Typed Racket Updates: update HISTORY
       (updates should show v6.9 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
