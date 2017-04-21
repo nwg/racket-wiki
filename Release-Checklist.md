@@ -309,7 +309,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
   - [ ] EoPL Tests
     ```
-    raco test eopl/tests
+    raco test -c eopl/tests
     ```
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
