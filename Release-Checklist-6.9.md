@@ -18,7 +18,7 @@
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
+  - [X] Match Tests:
   ```
   raco test -l tests/match/main
   ```
