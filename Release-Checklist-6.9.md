@@ -1,6 +1,7 @@
 * [ ] {Blockers}
   - [X] `gracket` and `gracket-text` are broken on Mac OS
   - [X] TR doc movement for refinements
+  - [ ] workaround for Windows 10 Creators Update (OS bug)
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
