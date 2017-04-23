@@ -218,6 +218,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     racket -l tests/srfi/run-tests
     ```
 
+* [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases:
     + [ ] Test that the `racket` and `racket-minimal` source releases
         compile fine.
