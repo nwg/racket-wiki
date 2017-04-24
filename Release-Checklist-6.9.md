@@ -3,9 +3,6 @@
   - [X] TR doc movement for refinements
   - [ ] workaround for Windows 10 Creators Update (OS bug)
 
-* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
-  - [ ] Picturing Programs Tests
-
 * [ ] {Greg Cooper <greg@cs.brown.edu>}
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
