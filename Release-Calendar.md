@@ -6,11 +6,7 @@ Past Racket releases are [here](http://download.racket-lang.org/all-versions.htm
 
 Future Racket releases will be on the following schedule (these are times when the release process begins):
 
-* July 2015 (6.2.1)
-* October 2015 (6.3)
-* January 2016 (6.4)
-* April 2016 (6.5)
-* July 2016 (6.6)
-* October 2016 (6.7)
-* January 2017 (6.8)
-* April 2017 (6.9)
+* July 2017 (6.10)
+* October 2017 (6.11)
+* January 2018 (6.12)
+* April 2018 (6.13)
