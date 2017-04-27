@@ -34,6 +34,10 @@ Talks
 Interviews
 ----------
 
+ * [Functional Geekery episode 91 (2017)](https://www.functionalgeekery.com/episode-91-jay-mccarthy/) - Jay McCarthy
+
+ * [Functional Geekery episode 48 (2016)](https://www.functionalgeekery.com/episode-48-matthias-felleisen/) - Matthias Felleisen
+
  * [Racket on the Cognicast (2016)](http://blog.cognitect.com/cognicast/108) - Sam Tobin-Hochstadt
 
  * [Racket on the Cognicast (2015)](http://blog.cognitect.com/cognicast/084) - Matthew Flatt
