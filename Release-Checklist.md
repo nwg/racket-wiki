@@ -119,6 +119,12 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    racket -l redex/tests/color-tests 
    ```
 
+  - [ ] Release tests for the Windows release:
+    + [ ] Test that the `racket` and `racket-minimal` source releases
+        compile fine.
+    + [ ] Test that the binary installers for both work, try each one in
+        both normal and unix-style installation modes.
+
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
@@ -219,7 +225,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     ```
 
 * [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases:
+  - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
         compile fine.
     + [ ] Test that the binary installers for both work, try each one in
