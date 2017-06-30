@@ -31,8 +31,8 @@ Talks
 
  * [Macros Matter](http://www.mefeedia.com/video/26348171) — Northwestern University 2009, Robby Findler
 
-Interviews
-----------
+Interviews / Podcasts
+---------------------
 
  * [Functional Geekery episode 91 (2017)](https://www.functionalgeekery.com/episode-91-jay-mccarthy/) - Jay McCarthy
 
