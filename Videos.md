@@ -46,12 +46,14 @@ Interviews / Podcasts
 
  * [Racket on the Cognicast (2015)](http://blog.cognitect.com/cognicast/084) - Matthew Flatt
 
- * [Racket on FLOSS Weekly](http://blog.racket-lang.org/2011/05/racket-on-floss-weekly.html)
+ * [Racket on FLOSS Weekly (2011)](http://blog.racket-lang.org/2011/05/racket-on-floss-weekly.html)
    — Matthew Flatt
 
  * [WeScheme](http://vidiowiki.com/watch/cydr9yk/) — Shriram Krishnamurthi
 
  * [Racket on the Cognicast (2014)](http://blog.cognitect.com/cognicast/061-matthew-flatt) — Matthew Flatt
+
+ * [Racket on Software Engineering Daily](https://softwareengineeringdaily.com/2015/11/04/racket-with-matthew-flatt/) - Matthew Flatt
 
 Tutorials and Demos
 -------------------
