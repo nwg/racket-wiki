@@ -2,25 +2,9 @@
   - Regressions: css, turnstile
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] .plt-packing Tests
-   ```
-   cd racket-test-core/tests/racket ; racket -f pack.rktl
-   ```
   - [ ] Run COM tests
    ```
    racket -l tests/racket/com
-   ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
-  - [ ] Try compiling with `-funsigned-char`
-   ```
-   configure CPPFLAGS=-funsigned-char ; make
-   ```
-  - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
-   ```
-   configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
    ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
