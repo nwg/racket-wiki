@@ -1,7 +1,3 @@
-This is the master copy of the testing checklist for Racket releases. Edit this version to add testing responsibilities or to include the commands used to run listed tests.
-
-A copy of this checklist for the current release in progress is at [[Release-Checklist-6.9]]. That page is edited when testing items are completed.
-
 * [ ] {Blockers}
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
@@ -67,7 +63,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    ```
 
   - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [ ] Racket Updates: update HISTORY (updates should show v6.10 as the most current version)
     + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
     + [ ] Email me to pick the changes when they're done, or tell me if
           there are no such changes.
@@ -127,7 +123,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+     + [ ] Redex Updates: update HISTORY (updates should show v6.10 as the most current version)
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
@@ -141,7 +137,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
 
-      (updates should show `v$RKTNVER` as the most current version; email
+      (updates should show 6.10 as the most current version; email
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
@@ -157,7 +153,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   ```
   
   - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
+      (updates should show v6.10 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
@@ -182,7 +178,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
   - [ ] Updates:
     + [ ] Teachpack Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email me
+      (updates should show v6.10 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
