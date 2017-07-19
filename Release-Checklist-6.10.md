@@ -1,5 +1,5 @@
 * [ ] {Blockers}
-  - Regressions: css
+  - Regressions: dssl2 (probably fixed, wait for next pre-release pkg-build)
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
