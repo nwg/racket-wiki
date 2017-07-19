@@ -1,5 +1,5 @@
 * [ ] {Blockers}
-  - Regressions: css, turnstile
+  - Regressions: css
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
@@ -138,35 +138,6 @@
     raco test -c datalog/tests
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
@@ -189,11 +160,6 @@
   - [x] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
 
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
-    ```
 
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
   - [ ] Plot Tests
