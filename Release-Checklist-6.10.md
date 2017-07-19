@@ -1,22 +1,6 @@
 * [ ] {Blockers}
   - Regressions: css, turnstile
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l tests/unix-installer <version>
-   ```
-
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v6.10 as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-    + [ ] Email me to pick the changes when they're done, or tell me if
-          there are no such changes.
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Contracts Tests:
