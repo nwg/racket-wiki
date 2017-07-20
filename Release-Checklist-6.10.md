@@ -9,9 +9,7 @@
         both normal and unix-style installation modes.
 
    - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
