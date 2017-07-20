@@ -2,8 +2,6 @@
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
-  - [ ] Games Tests: play a bunch of games (not automated)
-
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
         compile fine.
