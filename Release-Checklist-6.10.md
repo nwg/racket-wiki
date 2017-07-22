@@ -70,12 +70,6 @@
     racket -l tests/srfi/run-tests
     ```
 
-* [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases and the Mac OS release:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
 * [ ] {Stephen Bloch <sbloch1964@gmail.com>}
   - [ ] Picturing Programs Tests
 
@@ -89,22 +83,8 @@
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
 
-* [x] {Mike Sperber <sperber@deinprogramm.de>}
-  - [x] DMdA Tests
-    [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
-    [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
-  - [x] Stepper Tests
-    [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
-  - [x] Signature Tests
-    [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
-
 * [ ] {Neil Toronto <neil.toronto@gmail.com>}
   - [ ] Inspect icons
     ```
     raco docs icons # then look at them
     ```
-
-* [ ] {Doug Williams <m.douglas.williams@gmail.com>}
-  - [ ] Additional Plot Tests
-
