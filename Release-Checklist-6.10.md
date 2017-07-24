@@ -1,5 +1,4 @@
 * [ ] {Blockers}
-  - Decide what to do about typed-racket #588
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
