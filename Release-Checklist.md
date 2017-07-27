@@ -161,7 +161,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
+* [x] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [x] Teachpacks Tests: check that new teachpacks are addable
       ```
       1. create foo.rkt: #lang racket (define x 0) (provide x)
