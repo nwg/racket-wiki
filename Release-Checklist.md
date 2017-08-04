@@ -230,6 +230,18 @@ A copy of this checklist for the current release in progress is at [[Release-Che
         compile fine.
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
+  - [ ] FrTime Tests
+    + [ ] Test that expressions with time-varying values (e.g., `seconds`,
+        `(build-list (modulo seconds 10) identity)`) render and update as
+        expected in the FrTime language level. Check that they continue
+        updating even after a garbage collection.
+    + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
+        `tetris.rkt`) work as expected, responding to relevant key and mouse
+        events and interactions with control widgets.
+  - [ ] Inspect icons
+    ```
+    raco docs icons # then look at them
+    ```
 
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
   - [ ] Web Server Tests
@@ -291,19 +303,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     raco test -l tests/stepper/automatic-tests.rkt
     ```
 
-* [ ] {Stephen Bloch <sbloch1964@gmail.com>}
-  - [ ] Picturing Programs Tests
-
-* [ ] {Greg Cooper <greg@cs.brown.edu>}
-  - [ ] FrTime Tests
-    + [ ] Test that expressions with time-varying values (e.g., `seconds`,
-        `(build-list (modulo seconds 10) identity)`) render and update as
-        expected in the FrTime language level. Check that they continue
-        updating even after a garbage collection.
-    + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
-        `tetris.rkt`) work as expected, responding to relevant key and mouse
-        events and interactions with control widgets.
-
 * [ ] {Mike Sperber <sperber@deinprogramm.de>}
   - [ ] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
@@ -317,24 +316,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   - [ ] EoPL Tests
     ```
     raco test -c eopl/tests
-    ```
-
-* [ ] {Neil Toronto <neil.toronto@gmail.com>}
-  - [ ] Plot Tests
-    ```
-    raco test -c plot/tests
-    ```
-  - [ ] Images Tests
-    ```
-    raco test -c images/tests
-    ```
-  - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
-  - [ ] Math tests
-    ```
-    raco test -c math/tests
     ```
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
