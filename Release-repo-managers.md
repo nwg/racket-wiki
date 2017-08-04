@@ -37,14 +37,8 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/trace**
  - **racket/wxme**
 
-*ntoronto*:
- - **racket/icons**
- - **racket/images**
- - **racket/math**
- - **racket/plot**
- - **racket/unstable-flonum**
-
 *robby*:
+ - **racket/2d**
  - **racket/drracket**
  - **racket/games**
  - **racket/htdp**
@@ -54,7 +48,6 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/planet**
  - **racket/redex**
  - **racket/string-constants**
- - **racket/unstable-2d**
 
 *ryanc*:
  - **racket/class-iop**
@@ -76,6 +69,7 @@ Repositories not listed below are managed by *stamourv*.
 
 ## Listing by repository
 
+ - **racket/2d** is managed by *robby*
  - **racket/algol60** is managed by *mflatt*
  - **racket/cext-lib** is managed by *mflatt*
  - **racket/class-iop** is managed by *ryanc*
@@ -92,8 +86,6 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/gui** is managed by *mflatt*
  - **racket/gui-pkg-manager** is managed by *mflatt*
  - **racket/htdp** is managed by *robby*
- - **racket/icons** is managed by *ntoronto*
- - **racket/images** is managed by *ntoronto*
  - **racket/macro-debugger** is managed by *ryanc*
  - **racket/make** is managed by *mflatt*
  - **racket/math** is managed by *ntoronto*
@@ -107,7 +99,6 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/pict-snip** is managed by *robby*
  - **racket/plai** is managed by *jay*
  - **racket/planet** is managed by *robby*
- - **racket/plot** is managed by *ntoronto*
  - **racket/profile** is managed by *stamourv*
  - **racket/r5rs** is managed by *mflatt*
  - **racket/r6rs** is managed by *mflatt*
@@ -125,9 +116,7 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/trace** is managed by *mflatt*
  - **racket/typed-racket** is managed by *samth*
  - **racket/unix-socket** is managed by *ryanc*
- - **racket/unstable-2d** is managed by *robby*
  - **racket/unstable-debug-lib** is managed by *samth*
- - **racket/unstable-flonum** is managed by *ntoronto*
  - **racket/web-server** is managed by *jay*
  - **racket/wxme** is managed by *mflatt*
  - **stamourv/optimization-coach** is managed by *stamourv*
