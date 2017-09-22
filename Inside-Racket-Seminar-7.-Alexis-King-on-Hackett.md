@@ -9,6 +9,6 @@ The seminar is oriented on the details of the implementation and is not an intro
 * [The Hackett Manual](http://docs.racket-lang.org/hackett/index.html), including a guide.
 * [Type Systems as Macros](http://www.ccs.neu.edu/home/stchang/pubs/ckg-popl2017.pdf), by 
 Stephen Chang, Alex Knauth, and Ben Greenman. The core implementation technique used by Hackett.
-* [Complete and easy bidirectional typechecking for higher-rank polymorphism](http://www.cs.cmu.edu/~joshuad/papers/bidir/), by Joshua Dunfield and Neelakantan R. Krishnaswami, which describes the basis of the typechecking algorithm used by Hackett.
+* [Complete and easy bidirectional typechecking for higher-rank polymorphism](http://www.cs.cmu.edu/~joshuad/papers/bidir/), by Joshua Dunfield and Neelakantan R. Krishnaswami, which provides the basis of the typechecking algorithm used by Hackett.
 * [Realizing Hackett, a metaprogrammable Haskell](https://lexi-lambda.github.io/blog/2017/05/27/realizing-hackett-a-metaprogrammable-haskell/), a blog post by Alexis.
 * [Hackett progress report](https://lexi-lambda.github.io/blog/2017/08/28/hackett-progress-report-documentation-quality-of-life-and-snake/), a blog post by Alexis.
