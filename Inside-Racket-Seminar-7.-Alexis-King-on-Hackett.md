@@ -1,6 +1,6 @@
-As part of the [[Inside Racket Seminar]] series, on September 22nd, 2017, [Alexis King](https://lexi-lambda.github.io) will speak about the [Hackett](https://github.com/lexi-lambda/hackett) language with [Jay McCarthy](http://jeapostrophe.github.io).
+As part of the [[Inside Racket Seminar]] series, on September 22nd, 2017, [Alexis King](https://lexi-lambda.github.io) spoke about the [Hackett](https://github.com/lexi-lambda/hackett) language with [Jay McCarthy](http://jeapostrophe.github.io).
 
-The YouTube live event is [here](https://www.youtube.com/watch?v=3xFWcNarb3Q).
+The archived YouTube live event is [here](https://www.youtube.com/watch?v=3xFWcNarb3Q).
 
 The seminar is oriented on the details of the implementation and is not an introduction to the language, although we expect to introduce it briefly.
 
