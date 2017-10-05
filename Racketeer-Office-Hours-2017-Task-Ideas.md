@@ -77,6 +77,12 @@ If you decide to work on one of these tasks, please edit this page to mark it as
 - [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
 - [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
 
+# Automate more of the release tests
+
+Using Docker for this, perhaps.
+
+# Write a Slack bot in Racket
+
 # Write new Typed Racket adapter modules
 
 Some of these should go in `typed-racket-more`, some in their own packages.
@@ -92,3 +98,7 @@ Some of these should go in `typed-racket-more`, some in their own packages.
 * `aws/*`
 
 There are lots of other possibilities here.
+
+# Try out Typed Racket with refinement types
+ - see the `succeed/safe-vector.rkt` tests for some examples
+
