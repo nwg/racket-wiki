@@ -76,3 +76,19 @@ If you decide to work on one of these tasks, please edit this page to mark it as
 - [https://github.com/racket/drracket/issues/99](https://github.com/racket/drracket/issues/99)
 - [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
 - [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
+
+# Write new Typed Racket adapter modules
+
+Some of these should go in `typed-racket-more`, some in their own packages.
+
+* Write a checker for ensuring completeness of the TR docs on this
+* `version/check`
+* `version/patchlevel`
+* `version/utils`
+* `gregor`
+* `data/ring-buffer`
+* `tzinfo`
+* `data/ddict` & `data/dset`
+* `aws/*`
+
+There are lots of other possibilities here.
