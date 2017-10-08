@@ -85,7 +85,7 @@ Using Docker for this, perhaps.
 
 # Write new Typed Racket adapter modules
 
-Some of these should go in `typed-racket-more`, some in their own packages.
+Some of these should go in `typed-racket-more`, some in their own packages. See http://docs.racket-lang.org/ts-reference/Libraries_Provided_With_Typed_Racket.html#%28part._.Porting_.Untyped_.Modules_to_.Typed_.Racket%29 for info about creating these.
 
 * Write a checker for ensuring completeness of the TR docs on this
 * `version/check`
