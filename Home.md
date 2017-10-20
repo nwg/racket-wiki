@@ -3,7 +3,8 @@ Welcome to the Racket wiki!  Racket documentation is [here](http://docs.racket-l
 We plan to replace this eventually with a wiki written in Racket, to which we will migrate the existing content.
 
 Need a project idea?
-  * [[Intro Projects]] 
+  * [[Racketeer Office Hours 2017 Task Ideas]]
+  * [[Intro Projects]]
   * [Ideas from the Hackathon](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012)
   * [[Low risk ways you can use Racket at work]] you can start right now
 
