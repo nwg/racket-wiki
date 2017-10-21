@@ -1,11 +1,5 @@
 * [ ] {Blockers}
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l tests/unix-installer <version>
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Framework Tests:
