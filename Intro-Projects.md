@@ -38,7 +38,7 @@ These are intended to be a collection of fun topics to explore, intended as exer
   - Reimplement some of the standard Unix tools
 * Classical mechanics
   - Animate a bouncing ball, then balls
-  - Simulate planets in orbit
+  - Simulate planets in orbit (e.g. [solar.rkt](https://gist.github.com/spdegabrielle/ce60f0a4188f58663d108f10e8b389ec)
   - Pendulum
   - Newton's cradle
 * Math
