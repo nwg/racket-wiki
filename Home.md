@@ -4,13 +4,13 @@ We plan to replace this eventually with a wiki written in Racket, to which we wi
 
 Need a project idea?
   * [[Racketeer Office Hours 2017 Task Ideas]]
-  * [[Intro Projects]] if you are just getting started
-      - [[Recreational Programming]] ideas and examples
-  * [[Larger Projects]] for the more ambitious Racketeer ...
   * [Ideas from the Hackathon](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012)
   * [[Low risk ways you can use Racket at work]] you can start right now (yes, here, click this one!)
-
-Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is your friend for solving problems, [DrRacket is a powerful IDE](http://docs.racket-lang.org/drracket/interface-essentials.html) that can help write and debug your code (and [macros](http://docs.racket-lang.org/macro-debugger/index.html#%28part._.Using_the_.Macro_.Stepper%29)), and don't forget to check the [Racket Package Repository](https://pkgs.racket-lang.org/) for packages that can help you complete your project.
+  * [[Intro Projects]] if you are just getting started (These are self-contained projects)
+      - [[Recreational Programming]] ideas (and examples)
+  * [[Larger Projects]] for the more ambitious Racketeer ...
+  * [[Documentation Improvements]]; ideas where you can help improve the documentation
+  * This wiki; this wiki needs wiki-gardening
 
 Want to contribute?
   * To contribute code see [Tutorial: Contributing to Racket by Joe Gibbs Politz](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
