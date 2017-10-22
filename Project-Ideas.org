@@ -1,0 +1,32 @@
+In Racket you have a lot of options; you can 
+1. Create an executable
+1. create a command line app
+1. create a GUI app
+1. create a web app
+1. create a mobile app
+1. single-page web app 
+
+you can also
+1. create a library
+1. create a language
+
+
+
+
+
+
+
+
+
+
+
+
+Confused table: (ignore or remove this)
+
+|executable|library|language|
+|executable|dll/dylib?|compiler|
+|command line app|utility|REPL|
+|GUI app|component|IDE|
+|web app|web service|platform?|
+|mobile app|component|?/NA|
+|single-page web app|node lib|urlang/racketscript?|
