@@ -12,6 +12,10 @@ and then submit a pull request. For detailed guidance see [[Contributing to Rack
 * Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
   - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
 
+## Other ways to contribute
+ * [[Integration Projects]] These are improvements to other systems to better support Racket.
+ * [[Documentation Improvements]] has ideas where you can help improve the documentation
+
 ## Completed Code Improvements
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
 * ~~Port code that uses `class100` to the current class system~~ _(Completed by Asumu)_
