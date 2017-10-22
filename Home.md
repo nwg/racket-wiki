@@ -9,6 +9,8 @@ Need a project idea?
   * [Ideas from the Hackathon](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012)
   * [[Low risk ways you can use Racket at work]] you can start right now (yes, here, click this one!)
 
+Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is your friend for solving problems, [DrRacket](http://docs.racket-lang.org/drracket/interface-essentials.html) is a powerful IDE that can help write and debug your code (and [macros](http://docs.racket-lang.org/macro-debugger/index.html#%28part._.Using_the_.Macro_.Stepper%29)), and don't forget to check the [Racket Package Repository](https://pkgs.racket-lang.org/) for packages that can help you complete your project.
+
 Want to contribute?
   * [http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
   * [http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html](http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html)
