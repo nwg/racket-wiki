@@ -1,5 +1,21 @@
-In Racket you have a lot of options; you can 
-1. Create an executable
+*Need a project idea?*
+
+Try these pages...
+
+ * [[Racketeer Office Hours 2017 Task Ideas]]
+ * [[RacketCon Hackathon 2012][Ideas from the Hackathon]] (RacketCon Hackathon 2012)
+ * [[Low risk ways you can use Racket at work]] you can start right now (yes, here, click this one!)
+ * [[Intro Projects]] if you are just getting started (These are self-contained projects)
+   - [[Recreational Programming]] ideas (and examples)
+ * [[Larger Projects]] for the more ambitious Racketeer ...
+ * [[Integration Projects]] These are improvements to other systems to better support Racket.
+ * [[Documentation Improvements]] has ideas where you can help improve the documentation
+ * [[Code Improvements]] These are improvements to the Racket source.
+ * This wiki; this wiki needs wiki-gardening
+
+
+If you want to make something new in Racket, you have a lot of options;
+1. Create an executable (add example)
 1. create a command line app
 1. create a GUI app
 1. create a web app
@@ -21,12 +37,12 @@ you can also
 
 
 
-Confused table: (ignore or remove this)
+Misguided attempt to create a *table* of options : (ignore or remove this)
 
-|executable|library|language|
-|executable|dll/dylib?|compiler|
+| *app* | *library* | *language* |
+|executable(example?)|dll/dylib?|compiler|
 |command line app|utility|REPL|
-|GUI app|component|IDE|
-|web app|web service|platform?|
-|mobile app|component|?/NA|
-|single-page web app|node lib|urlang/racketscript?|
+|GUI app(example?)|component|IDE(DrRacket)|
+|web app(example?)|web service(example?)|platform?|
+|mobile app(example?)|component|?/NA|
+|single-page web app(racket compiled to js)|node lib|urlang/racketscript?|
