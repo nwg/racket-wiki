@@ -10,7 +10,12 @@ What's here
 * [[Easy bugs to fix]] a curated list that should be fairly easy for volunteers to fix
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 * [[Math-Library-Features]] to suggest features for the math library.
+* [[Courses using Racket]] 
+* [[Generics Plans]] planned features for Racket's generic functions library
+* [[Racket2]] A wishlist of backwards incompatible things for a future Racket2.
 * [[Project Ideas]] if you are looking for a project idea?
+* [[Start a Meetup]] tips on Starting a Racket User Group
+  - [[Racket Meetups]] local meetup groups for Racket users
 
 [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
 a map to some cities where some Racket users are located.
