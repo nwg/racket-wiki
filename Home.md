@@ -1,9 +1,16 @@
-Welcome to the Racket wiki! 
+## Welcome to the Racket wiki! 
 * The [Racket website](http://racket-lang.org) is the best place to get started if you are new to Racket.
 * if you are looking for documentation go to [Racket documentation](http://docs.racket-lang.org).
 * The [mailing list](https://lists.racket-lang.org) is the best place to get help  
 
-What's here
+## Racket Release process pages
+* [[Release overview]]
+* [[Release process]]
+* [[Release repo managers]]
+* [[Release Calendar]]
+* [[Release Checklist]]
+
+## What's here
 * [[Videos]] includes Racket-related videos.
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
 * [[Contributing to Racket]] has suggestions and guidance for making contributions
@@ -16,6 +23,10 @@ What's here
 * [[Project Ideas]] if you are looking for a project idea?
 * [[Start a Meetup]] tips on Starting a Racket User Group
   - [[Racket Meetups]] local meetup groups for Racket users
+* [[Verification and Advanced Types in Racket]]
+* [[Typed Racket plans]] (last edited in 2014 - this needs updating)
+* [[Redex Features]] (last edited in 2013)
+* [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 
 [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
 a map to some cities where some Racket users are located.
