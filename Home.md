@@ -9,7 +9,8 @@ Need a project idea?
   * [[Intro Projects]] if you are just getting started (These are self-contained projects)
       - [[Recreational Programming]] ideas (and examples)
   * [[Larger Projects]] for the more ambitious Racketeer ...
-  * [[Documentation Improvements]]; ideas where you can help improve the documentation
+  * [[Integration Projects]] These are improvements to other systems to better support Racket.
+  * [[Documentation Improvements]] has ideas where you can help improve the documentation
   * This wiki; this wiki needs wiki-gardening
 
 Want to contribute?
