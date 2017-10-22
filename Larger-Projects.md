@@ -18,7 +18,7 @@ For the more ambitious Racketeer ...
   (macros & functions), and make it into a language that has shell-like
   syntax
 * Write a blogging framework
-  - Write a static web site generator (DONE)- There's one, named [frog](https://github.com/greghendershott/frog/).
+  - Write a static web site generator (DONE) - [frog](https://github.com/greghendershott/frog/).
   - write a blog app - [Continue](https://docs.racket-lang.org/continue/index.html) is the beginning, needs user accounts (authentication & authorisation) added and [hosting](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/) options
 * Write a Common Lisp compatibility layer (same functionality, but not
   all the core language features that would make this extremely
@@ -33,5 +33,7 @@ For the more ambitious Racketeer ...
 
 # Done
 
+* Write a blogging framework
+  - Static web site generator [frog](https://github.com/greghendershott/frog/).
 * Write a YAML parser
   - Now available [on PLaneT](http://planet.racket-lang.org/display.ss?package=yaml.plt&owner=esilkensen).
