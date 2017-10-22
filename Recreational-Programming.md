@@ -1,5 +1,3 @@
-# Recreational Programming
-
 These are intended to be a collection of fun topics to explore, intended as exercises or mini-projects, but also interesting in their own right.  If you implement one, then leave a link: different solutions can lead to comparisons of style and constructive suggestions.  Finally, don't be afraid to add more ideas ...
 
 > Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is your friend for solving problems, [DrRacket is a powerful IDE](http://docs.racket-lang.org/drracket/interface-essentials.html) that can help write and debug your code (and [macros](http://docs.racket-lang.org/macro-debugger/index.html#%28part._.Using_the_.Macro_.Stepper%29)), and don't forget to check the [Racket Package Repository](https://pkgs.racket-lang.org/) for packages that can help you complete your project.
