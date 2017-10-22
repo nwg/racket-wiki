@@ -7,6 +7,8 @@ some help fix or clean up some aspect of the existing Racket code base.
 The best place to ask for help with any of these is on the [users
 mailing list](http://racket-lang.org/community.html).
 
+Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is your friend for solving problems, [DrRacket is a powerful IDE](http://docs.racket-lang.org/drracket/interface-essentials.html) that can help write and debug your code (and [macros](http://docs.racket-lang.org/macro-debugger/index.html#%28part._.Using_the_.Macro_.Stepper%29)), and don't forget to check the [Racket Package Repository](https://pkgs.racket-lang.org/) for packages that can help you complete your project.
+
 Don't forget to take a peek at [[Recreational Programming]] for more ideas.
 
 # Small Projects
@@ -78,15 +80,7 @@ and then submit a pull request.
 * Fix Swindle to have `call-next-method` available without `#lang swindle`
 * Find uses of log-xxx (using the global logger), and use 5.3.2's new `define-logger` form to change them to use their own logger. That way, users can filter the log messages. Examples might include "optimizer" and "file dependency" categories of messages.
 
-# Documentation Improvements
 
-Similar to code improvements (docs are code).
-
-* Revise the FFI docs: better docs, lots of examples, guide-like text
-* Add a detailed example to the profiler manual.
-* Documentation clarifications and/or small examples
-* Write tutorials for building small applications and using major features, e.g., the class system or macros.
-* Convert Eli's Swindle documentation to Scribble.
 
 # Integration
 
