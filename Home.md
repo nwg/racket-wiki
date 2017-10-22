@@ -5,7 +5,7 @@ We plan to replace this eventually with a wiki written in Racket, to which we wi
 Need a project idea?
   * [[Racketeer Office Hours 2017 Task Ideas]]
   * [[Intro Projects]] if you are just getting started
-  * [[Larger Projects]] gor the more ambitious Racketeer ...
+  * [[Larger Projects]] for the more ambitious Racketeer ...
   * [Ideas from the Hackathon](https://github.com/plt/racket/wiki/RacketCon-Hackathon-2012)
   * [[Low risk ways you can use Racket at work]] you can start right now (yes, here, click this one!)
 
