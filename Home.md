@@ -1,6 +1,7 @@
 Welcome to the Racket wiki! 
 * The [Racket website](http://racket-lang.org) is the best place to get started if you are new to Racket.
 * if you are looking for documentation go to [Racket documentation](http://docs.racket-lang.org).
+* The [mailing list](https://lists.racket-lang.org) is the best place to get help  
 
 We plan to replace this wiki (eventually) with a wiki written in Racket, to which we will migrate the existing content.
 
