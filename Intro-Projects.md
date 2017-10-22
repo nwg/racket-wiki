@@ -145,32 +145,3 @@ These are improvements to other systems to better support Racket.
 * [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
 * Racket support for CodeMirror.org (see http://codemirror.org/mode/index.html)
 
-# Larger Projects
-
-For the more ambitious Racketeer ...
-
-* Make a web page (demo.racket-lang ?) that contains Racket snippets. Use 
-  the programs from http://rosettacode.org/wiki/Category:Racket to get started.
-* Write a parser for ispell dictionaries. Make DrRacket use it.
-* Write a markdown parser (important: lots of tests; support at least
-  popular variants that are used by stackoverflow and github)
-  - Available [here](https://github.com/greghendershott/markdown).
-  - [Norman Gray](http://nxg.me.uk) has a WikiCreole parser [in the pkg collection](http://pkgs.racket-lang.org/#[squicky]) ([source](https://bitbucket.org/nxg/squicky)); a plan to extend this to Markdown was abandoned after Greg's package, above, ticked that box very thoroughly.
-* Write a YAML parser
-  - Now available [on PLaneT](http://planet.racket-lang.org/display.ss?package=yaml.plt&owner=esilkensen).
-* Write a gitolite replacement in Racket (contact [Eli](mailto:eli@barzilay.org))
-* `#lang scsh` -- or better: write just a library for similar bindings
-  (macros & functions), and make it into a language that has shell-like
-  syntax
-* Write a blogging framework
-  - There's one, named [frog](https://github.com/greghendershott/frog/).
-* Write a Common Lisp compatibility layer (same functionality, but not
-  all the core language features that would make this extremely
-  difficult; for example: keep immutable pairs)
-* Write a Clojure compatibility layer
-  - Started on one [here](https://github.com/takikawa/racket-clojure) but it needs a lot more work.
-* Write bindings to SDL (note that there are Allegro bindings on planet).
-  - Work started [here](http://planet.racket-lang.org/display.ss?package=sdl4racket.plt&owner=pb82)
-* Integrate the existing parser-tools [SRE](http://www.ccs.neu.edu/home/shivers/papers/sre.txt) with Racket regexps.
-* Write some code metrics tools (number of functions, number of lines, etc) and integrate them with DrRacket's module browser.
-* Write image filters [example](http://reference.wolfram.com/mathematica/guide/ImageFilteringAndNeighborhoodProcessing.html)
