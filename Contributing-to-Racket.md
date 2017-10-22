@@ -5,3 +5,7 @@
 Note: some things have changed since these blog posts were written, but they remain mostly accurate; ask on the racket mailing list if you have any questions. (it is a very friendly community)
 
 ## Other ways to contribute
+ * [[Integration Projects]] These are improvements to other systems to better support Racket.
+ * [[Documentation Improvements]] has ideas where you can help improve the documentation
+ * [[Code Improvements]] These are improvements to the Racket source.
+ * This wiki; this wiki needs wiki-gardening
