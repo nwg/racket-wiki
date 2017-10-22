@@ -1,6 +1,8 @@
-Welcome to the Racket wiki!  Racket documentation is [here](http://docs.racket-lang.org).
+Welcome to the Racket wiki! 
+* The [Racket website](http://racket-lang.org) is the best place to get started if you are new to Racket.
+* if you are looking for documentation go to [Racket documentation](http://docs.racket-lang.org).
 
-We plan to replace this eventually with a wiki written in Racket, to which we will migrate the existing content.
+We plan to replace this wiki (eventually) with a wiki written in Racket, to which we will migrate the existing content.
 
 * See the [[Artifacts]] page for Racket snippets for specific small tasks.  Contribute your own!
 * See [[Math-Library-Features]] to suggest features for the math library.
