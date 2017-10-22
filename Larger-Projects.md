@@ -4,6 +4,7 @@ For the more ambitious Racketeer ...
 
 (Try [[Intro Projects]] if you are not ready for these)
 
+* a wiki written in Racket to replace this [GitHub racket/racket wiki](https://github.com/racket/racket/wiki)
 * Make a web page (demo.racket-lang ?) that contains Racket snippets. Use 
   the programs from http://rosettacode.org/wiki/Category:Racket to get started.
 * Write a parser for ispell dictionaries. Make DrRacket use it.
