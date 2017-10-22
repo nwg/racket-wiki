@@ -58,23 +58,3 @@ and start hacking.  When you have something that works, release it on the
 * Write a better s-exp diff tool
 * Write bindings to gobject introspection
 * Use the Racket examples on Rosetta Code and the snippets on the http://racket-lang.org home page to make `demo.racket-lang.org` that show cases programs and snippets written in Racket.  There's a start of explanations of the home page snippets here: https://github.com/samth/racket-examples
-
-# Code Improvements
-
-These are improvements to the Racket source.  Fork the GitHub repository
-and then submit a pull request.
-
-* ~~Port code that uses `class100` to the current class system~~ _(Completed by Asumu)_
-* ~~Get rid of units in the net collect~~ _(Done by Jon Zeppieri)_
-* Fix warnings in C code  _(Forked to pmatos/racket to sort this one out. Will issue pull request when completed.)_
-  - Refer to the nightly build [logs](http://pre.racket-lang.org/build-log.txt) for our distributed platforms
-* Find uses of alists and replace them with hash tables where
-  appropriate (note that short alists, below ~40 items, can be faster than hashes)
-  - Search for uses of `assq` and friends to find
-* Find things that use lists for sets, replace them with `racket/set`
-  - Search for uses of `member` and friends to find
-* Find uses of `srfi/1`, replace them with `racket/list` stuff
-* ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
-* Fix Swindle to have `call-next-method` available without `#lang swindle`
-* Find uses of log-xxx (using the global logger), and use 5.3.2's new `define-logger` form to change them to use their own logger. That way, users can filter the log messages. Examples might include "optimizer" and "file dependency" categories of messages.
-
