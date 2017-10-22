@@ -11,8 +11,6 @@ Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is 
 
 Don't forget to take a peek at [[Recreational Programming]] for more ideas.
 
-# Small Projects
-
 These are self-contained projects.  Just create a new github repository,
 and start hacking.  When you have something that works, release it on the
 [package catalog](http://pkgs.racket-lang.org/). To get started with packages, take a look at its [documentation](http://www.cs.utah.edu/plt/snapshots/current/doc/pkg/index.html).
@@ -80,21 +78,3 @@ and then submit a pull request.
 * Fix Swindle to have `call-next-method` available without `#lang swindle`
 * Find uses of log-xxx (using the global logger), and use 5.3.2's new `define-logger` form to change them to use their own logger. That way, users can filter the log messages. Examples might include "optimizer" and "file dependency" categories of messages.
 
-
-
-# Integration
-
-These are improvements to other systems to better support Racket.
-
-* ~~Racket support for github code highlighting~~
-* Racket support for github code editing
-* Etags support for Racket features
-* Improve Racket support in Ohloh's line counter
-* Racket support in MediaWiki's GeSHi highligher
-  - Awaiting Integration into GeSHi source: [Tim Brown](mailto:tim@timb.net) has written [racket.php](https://github.com/tim-brown/geshi-racket/blob/master/racket.php), it is scheduled for the next iteration of GeSHi, but the next iteration of GeSHi might be a little while.
-* Extend the gabot IRC bot to deliver messages to offline people
-  (contact [Eli](mailto:eli@barzilay.org) for more info)
-  - Optionally, extend it to do more cool stuffs
-  - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
-* [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
-* Racket support for CodeMirror.org (see http://codemirror.org/mode/index.html)
