@@ -1,6 +1,5 @@
 These are improvements to other systems to better support Racket.
 
-* ~~Racket support for github code highlighting~~
 * Racket support for github code editing
 * Etags support for Racket features
 * Improve Racket support in Ohloh's line counter
@@ -12,3 +11,7 @@ These are improvements to other systems to better support Racket.
   - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
 * [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
 * Racket support for CodeMirror.org (see http://codemirror.org/mode/index.html)
+
+## Completed Integration Projects
+
+* ~~Racket support for github code highlighting~~
