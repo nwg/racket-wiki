@@ -13,9 +13,9 @@ Need a project idea?
 Remember the [Racket Documentation](https://docs.racket-lang.org/index.html) is your friend for solving problems, [DrRacket is a powerful IDE](http://docs.racket-lang.org/drracket/interface-essentials.html) that can help write and debug your code (and [macros](http://docs.racket-lang.org/macro-debugger/index.html#%28part._.Using_the_.Macro_.Stepper%29)), and don't forget to check the [Racket Package Repository](https://pkgs.racket-lang.org/) for packages that can help you complete your project.
 
 Want to contribute?
-  * [http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
-  * [http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html](http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html)
-  * Note: some things have changed since these blog posts were written, but they remain mostly accurate
+  * To contribute code see [Tutorial: Contributing to Racket by Joe Gibbs Politz](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
+  * [A guide for infrequent contributors to Racket](http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html)
+  * Note: some things have changed since these blog posts were written, but they remain mostly accurate; ask on the racket mailing list if you have any questions. (it is a very friendly community)
 
 See the [[Artifacts]] page for Racket snippets for specific small tasks.  Contribute your own!
 
