@@ -7,7 +7,7 @@ Starting a user group is a great way to improve your Racket skills and find othe
 A user group needs the following elements:
 
 1. **A place to meet.** Finding a regular meeting place is sometimes the biggest hurdle a group faces when getting off the ground. Often the ideal option is finding a company that can host a group after-hours. If that’s not an option, some other choices include universities, colleges, libraries, or coffee shops. (Try to avoid pubs as not everyone is comfortable with alcohol)
-1. **What to do?** Some meetups consist of short talks and a chance to chat, others are 'Hackathon' type events where coding can provide a valuable way of meeting without the stress of both giving and arranging presentations. 
+1. **What to do?** Some meetups consist of short talks and a chance to chat, others are 'Hackathon' type events where coding can provide a valuable way of meeting without the stress of both giving and arranging presentations. Hackathons can be people working on a single project or on on individual projects. They can be followed by presentations, or not. Try different things out and see what works. 
 1. **Agree on a time.** It’s important to establish a rhythm to keep a group going. Pick a night (like the 2nd Tuesday of the month) and try as much as possible to have your meeting on that same night every month.
 1. **A web presence.** It’s important to have an address on the web that can be found by a search engine. See below for some tools you can use.
 1. **Racketeers!!** You can’t have a meeting without people. Ask around on the racket mailing lists for people that might be interested.
