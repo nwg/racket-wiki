@@ -60,15 +60,6 @@
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
   
   - [ ] Typed Racket Updates: update HISTORY
       (updates should show v$RKTNVER as the most current version; email me
@@ -157,29 +148,9 @@
     raco docs icons # then look at them
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
 
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
 
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
   - [ ] Lazy stepper tests
 
     ```
