@@ -4,13 +4,6 @@
 
   - [ ] Games Tests: play a bunch of games (not automated)
     
-   - [ ] Redex Tests:
-   ```
-   racket -l redex/tests/run-tests
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
-   ```
-
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
         compile fine.
