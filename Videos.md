@@ -7,6 +7,8 @@ Talks
  * RacketCon: [2016](http://con.racket-lang.org/), [2015](http://con.racket-lang.org/2015), [2014](http://con.racket-lang.org/2014), [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
    (see [video] link for each talk)
 
+ * The [[Inside Racket Seminar]] is a video series about Racket internal programming details.
+
  * [Let's Build a Hygienic Macro Expander](https://www.youtube.com/watch?v=Or_yKiI3Ha4) — Strange Loop 2016, Matthew Flatt
 
  * [The Racket Manifesto](https://www.youtube.com/watch?v=-cLI3GHvLOM) - CurryOn 2016, Matthias Felleisen
@@ -115,6 +117,4 @@ More
 ----
 
 See also
-* [Scheme Videos](https://blog.racket-lang.org/2010/01/scheme-videos-lectures-and-talks.html) (Lectures and Talks) posted on the Racket Blog by John Clements. (02 Jan 2010)
-
-* The [[Inside Racket Seminar]] is a video series about Racket internal programming details.
+* [Scheme Videos (Lectures and Talks)](https://blog.racket-lang.org/2010/01/scheme-videos-lectures-and-talks.html) by John Clements. (posted on the Racket Blog 02 Jan 2010)
