@@ -2,12 +2,6 @@
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
-  - [ ] Framework Tests:
-   ```
-   # from the top-level directory of the release bundle, run
-   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "main.rkt" "framework" "tests"))')")"
-   raco test .
-   ```
 
   - [ ] Contracts Tests:
    ```
