@@ -3,13 +3,7 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Games Tests: play a bunch of games (not automated)
- 
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
-   
+    
    - [ ] Redex Tests:
    ```
    racket -l redex/tests/run-tests
