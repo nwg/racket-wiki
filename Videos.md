@@ -115,6 +115,6 @@ More
 ----
 
 See also
-* Racket Blog: [Scheme Videos](https://blog.racket-lang.org/2010/01/scheme-videos-lectures-and-talks.html).
+* [Scheme Videos](https://blog.racket-lang.org/2010/01/scheme-videos-lectures-and-talks.html) (Lectures and Talks) posted on the Racket Blog by John Clements. (02 Jan 2010)
 
 * The [[Inside Racket Seminar]] is a video series about Racket internal programming details.
