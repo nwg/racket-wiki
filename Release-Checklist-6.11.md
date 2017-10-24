@@ -8,12 +8,6 @@
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-   - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
