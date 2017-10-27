@@ -1,12 +1,6 @@
 * [ ] {Blockers}
   - https://github.com/racket/racket/commit/22e8af32f318dd1361ee58c34baae9f3e2fdb93f
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-
-  - [ ] Release tests for the Windows release:
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
