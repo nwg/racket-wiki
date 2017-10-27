@@ -105,7 +105,3 @@
     ```
     raco test -l tests/stepper/automatic-tests.rkt
     ```
-
-* [ ] {Doug Williams <m.douglas.williams@gmail.com>}
-  - [ ] Additional Plot Tests
-
