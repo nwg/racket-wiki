@@ -63,7 +63,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
-   racket -l tests/unix-installer <version>
+   racket -l distro-build/tests/unix-installer <version>
    ```
 
   - [ ] Updates:
