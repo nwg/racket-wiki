@@ -95,3 +95,7 @@
 ##### Yale University
 
 * CPSC 201, Introduction to Computer Science, http://zoo.cs.yale.edu/classes/cs201/
+
+#### Radford University
+
+* ITEC 380, Organization of Programming Languages, http://www.radford.edu/itec380/
