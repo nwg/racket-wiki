@@ -6,3 +6,4 @@
  * [Hacker News](http://news.ycombinator.com/item?id=2201964) runs on Arc, which is developed in Racket
  * [Naughty Dog](https://www.youtube.com/watch?v=oSmqbnhHp1c)
  * [Digital Ricœur](https://digitalricoeur.org/)
+ * [ActivityLog2](https://github.com/alex-hhh/ActivityLog2)
