@@ -1,6 +1,3 @@
-* [ ] {Blockers}
-  - https://github.com/racket/racket/commit/22e8af32f318dd1361ee58c34baae9f3e2fdb93f
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
