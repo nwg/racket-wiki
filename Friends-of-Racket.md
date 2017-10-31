@@ -7,4 +7,4 @@
  * [Naughty Dog](https://www.youtube.com/watch?v=oSmqbnhHp1c)
  * [Digital Ricœur](https://digitalricoeur.org/)
  * [ActivityLog2](https://github.com/alex-hhh/ActivityLog2)
- * Racket is the used at the [Institute of Applied Astronomy](https://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
+ * Racket is the used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
