@@ -7,8 +7,8 @@ documentation obscure, treat it as a documentation bug and report it.
 Maybe, when you become an expert and your supply of ignorance has run
 out, you can even propose patches to improve that documentation!  
 
-### How? 
-* Send an email to the mailing list
+### ...and how to contribute? 
+* Send an email to the mailing list (Racket has a friendly community that welcomes feedback)
 * Submit (documentation) bug report via DrRacket
 * Submit a patch via GitHub (need to provide guidance because identifying the right file in GitHub is hard if you are new to Racket & Scribble)
 
