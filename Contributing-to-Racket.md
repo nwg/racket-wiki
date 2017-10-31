@@ -1,3 +1,12 @@
+> While Racket is much better documented than most free software, it
+could be improved.  Debugging documentation requires a supply of
+ignorance, which is repidly used up as documentation testers
+learn what the documentation means.  So when you find the
+documentation obscure, treat it as a documentation bug and report it.
+Maybe, when you become an expert and your supply of ignorance has run
+out, you can even propose patches to improve that documentation!
+
+
 See [[Code Improvements]] for a list of tasks. These are improvements to the Racket source.
 
 ## Guides to contributing to Racket
