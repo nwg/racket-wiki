@@ -4,7 +4,7 @@
 * The [mailing list](https://lists.racket-lang.org) is the best place to get help  
 
 ## (New!) [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
-## (New!) [Trending on GitHub](https://github.com/trending/racket?since=monthly) !!
+## (New!) [Trending on GitHub](https://github.com/trending/racket?since=monthly)
 
 ## Racket Release process pages
 * [[Release overview]]
