@@ -18,6 +18,7 @@ For the more ambitious Racketeer ...
 * `#lang scsh` -- or better: write just a library for similar bindings
   (macros & functions), and make it into a language that has shell-like
   syntax
+  - [rash](https://github.com/willghatch/racket-rash) is like this
 * Write a **blogging framework**
   - write a **blog _web app_** - [Continue](https://docs.racket-lang.org/continue/index.html) is the beginning, needs user accounts (authentication & authorisation) added and [hosting](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/) options
   - ~Write a static web site generator (DONE) - [frog](https://github.com/greghendershott/frog/)~
