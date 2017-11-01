@@ -7,7 +7,7 @@ Similar to code improvements (docs are code).
 * Convert Eli's Swindle documentation to Scribble.
 * Document the [Macro Stepper]() in the DrRacket Guide
 
-### The following has been taken from [[Racketeer Office Hours 2017 Task Ideas]]:
+_**The following has been taken from [[Racketeer Office Hours 2017 Task Ideas]]:**_
 
 ### General Tasks
 - Tag packages on pkgs.racket-lang.org, and/or add missing descriptions.
