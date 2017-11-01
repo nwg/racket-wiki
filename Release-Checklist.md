@@ -26,7 +26,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    ```
   - [ ] .plt-packing Tests
    ```
-   cd racket-test-core/tests/racket ; racket -f pack.rktl
+   racket -l tests/racket/test-pack
    ```
   - [ ] Games Tests
    ```
