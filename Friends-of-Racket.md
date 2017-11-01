@@ -8,4 +8,4 @@
  * [Digital Ricœur](https://digitalricoeur.org/) - digital archive and tools built with Racket Web Server.
  * [ActivityLog2](https://github.com/alex-hhh/ActivityLog2) - app to analyze data from swim, bike and run activities
  * Racket is used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
- * [John Carmack](https://en.wikipedia.org/wiki/John_Carmack) (Oculus CTO) wrote [_'I just dumped the C++ server I wrote last year for a new one in Racket. May not scale, but it is winning for development even as a newbie.'_](https://twitter.com/ID_AA_Carmack/status/577877590070919168) (2015)
+
