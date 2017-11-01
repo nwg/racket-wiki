@@ -5,7 +5,7 @@
 
 ## (New!) [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
 ## (New!) [Trending on GitHub](https://github.com/trending/racket?since=monthly)
-
+![Mars](http://www.ece.northwestern.edu/~robby/logos/PLT-206-mars.jpg)
 ## Racket Release process pages
 * [[Release overview]]
 * [[Release process]]
