@@ -1,6 +1,6 @@
 This page should include a curated set of bugs in the [Racket bug tracker](http://bugs.racket-lang.org/) that should be fairly easy to fix.  This is meant to help guide volunteers who'd like to contribute back to the Racket source tree.
 
-See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+![Bug?](http://www.ece.northwestern.edu/~robby/logos/PLT-206-larval.png)See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
 
 ## NEW: Bugs from [[Racketeer Office Hours 2017 Task Ideas]]
 ***
