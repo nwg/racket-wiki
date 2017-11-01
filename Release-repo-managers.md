@@ -88,7 +88,6 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/htdp** is managed by *robby*
  - **racket/macro-debugger** is managed by *ryanc*
  - **racket/make** is managed by *mflatt*
- - **racket/math** is managed by *ntoronto*
  - **racket/mysterx** is managed by *mflatt*
  - **racket/mzcom** is managed by *mflatt*
  - **racket/mzscheme** is managed by *mflatt*
