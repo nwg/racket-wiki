@@ -17,7 +17,7 @@ and start hacking.  When you have something that works, release it on the
 
 * One other relatively easy project would be to add sha256 to the [openssl library](https://docs.racket-lang.org/openssl/index.html).  
     There is a version of sha256 implemented in https://github.com/RayRacine/grommet but it's for Typed Racket only. I know that it's possible to use TR from untyped code, but it would be nice to have it all in one place.
-
+    (There's also this: https://pkgs.racket-lang.org/package/sha)
 
 * Implement a Rosetta code task: http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket
   - You could also re-implement or improve an existing Racket solution
