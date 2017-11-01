@@ -7,11 +7,12 @@ Similar to code improvements (docs are code).
 * Convert Eli's Swindle documentation to Scribble.
 * Document the [Macro Stepper]() in the DrRacket Guide
 
+(the following has been taken from [[Racketeer Office Hours 2017 Task Ideas]])
+
 # General Tasks
 - Tag packages on pkgs.racket-lang.org, and/or add missing descriptions.
   And if feeling bold, add docs, or convert docs in other formats, if they exist.
 - Add a localization for a language you know.
-- Try to reproduce old bugs on gnats or github, close if they're not relevant anymore.
 
 # Docs that could use examples
 - Racket reference (claim one section at a time. 4 has a number of functions with examples missing, but others probably do too)
