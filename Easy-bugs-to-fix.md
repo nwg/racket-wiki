@@ -7,8 +7,7 @@ This page should include a curated set of bugs in the [Racket bug tracker](http:
 [PR-12977](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=12977): Typo on `combo-field%` docs.
 
 ## NEW: Bugs from [[Racketeer Office Hours 2017 Task Ideas]]
-***
-# Potential "Good first bugs"
+_Potential "Good first bugs"_
 - [https://github.com/racket/racket/issues/1740](https://github.com/racket/racket/issues/1740)
 - [https://github.com/racket/racket/issues/1699](https://github.com/racket/racket/issues/1699)
 - [https://github.com/racket/racket/issues/1690](https://github.com/racket/racket/issues/1690) (most of the way there, mostly integration remains)
@@ -59,4 +58,3 @@ This page should include a curated set of bugs in the [Racket bug tracker](http:
 - [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
 - [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
 
-***
