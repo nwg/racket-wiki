@@ -1,10 +1,9 @@
 This page should include a curated set of bugs in the [Racket bug tracker](http://bugs.racket-lang.org/) that should be fairly easy to fix.  This is meant to help guide volunteers who'd like to contribute back to the Racket source tree.
 
-![Bug?](http://www.ece.northwestern.edu/~robby/logos/PLT-206-larval.png)See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
 
-[PR-9312](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=9312&return_url=http%3A%2F%2Fbugs.racket-lang.org%2Fquery%2F%3Fdatabase%3Ddefault%3Bdebug%3D%3BState%3Dany%3Bignoreclosed%3DIgnore%2520Closed%3BSynopsis%3D%3Bmultitext%3D%3Bcolumns%3DState%3Bcolumns%3DSynopsis%3Bcolumns%3DCategory%3Bcolumns%3DLast-Modified%3Bcolumns%3DRelease%3Bcmd%3Dsubmit%2520query%3Bsortby%3DNumber)  Modify the content of the [string-constants](http://git.racket-lang.org/plt/tree/HEAD:/collects/string-constants/private) associated to portuguese.
-
-[PR-12977](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=12977): Typo on `combo-field%` docs.
+* [PR-9312](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=9312&return_url=http%3A%2F%2Fbugs.racket-lang.org%2Fquery%2F%3Fdatabase%3Ddefault%3Bdebug%3D%3BState%3Dany%3Bignoreclosed%3DIgnore%2520Closed%3BSynopsis%3D%3Bmultitext%3D%3Bcolumns%3DState%3Bcolumns%3DSynopsis%3Bcolumns%3DCategory%3Bcolumns%3DLast-Modified%3Bcolumns%3DRelease%3Bcmd%3Dsubmit%2520query%3Bsortby%3DNumber)  Modify the content of the [string-constants](http://git.racket-lang.org/plt/tree/HEAD:/collects/string-constants/private) associated to portuguese.
+* [PR-12977](http://bugs.racket-lang.org/query/?cmd=view%20audit-trail&database=default&pr=12977): Typo on `combo-field%` docs.
 
 ## NEW: Bugs from [[Racketeer Office Hours 2017 Task Ideas]]
 _Potential "Good first bugs"_
@@ -58,3 +57,4 @@ _Potential "Good first bugs"_
 - [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
 - [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
 
+![Bug?](http://www.ece.northwestern.edu/~robby/logos/PLT-206-larval.png)
