@@ -1,7 +1,7 @@
-## New: [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) by Ben Greenman
+### New: [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) by Ben Greenman
 
-# Beginners start here:
-## An important way you can contribute even if you are very new to Racket;
+## Beginners start here:
+### An important way you can contribute even if you are very new to Racket;
 > While Racket is much better documented than most free software, it
 could be improved.  Debugging documentation requires a supply of
 ignorance, which is rapidly used up as documentation testers
