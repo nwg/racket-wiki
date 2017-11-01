@@ -8,6 +8,8 @@
 
 ***
 
+![Practical Typography](https://practicaltypography.com/images/index-a.svg)
+
  * _Practical Typography_ & _Typography for Lawyers_ are built with the [Pollen](https://github.com/mbutterick/pollen) publishing system
 
 ***
@@ -42,4 +44,3 @@
  * Racket is used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
 
 ***
-
