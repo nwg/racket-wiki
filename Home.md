@@ -34,4 +34,5 @@
 a map to some cities where some Racket users are located.
 
 We plan to replace this wiki (eventually) with a wiki written in Racket, to which we will migrate the existing content.
+
 ![Mars](http://www.ece.northwestern.edu/~robby/logos/PLT-206-mars.jpg)
