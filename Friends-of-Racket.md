@@ -30,13 +30,16 @@
 
  * [Digital Ricœur](https://digitalricoeur.org/) - digital archive and tools built with Racket Web Server.
 
+***
 
+![ActivityLog2](https://camo.githubusercontent.com/8f5bde4d438bc63a85cd79c4c0153371a5bc7f2f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3042356834584f646b696d3732566d784f4f57685965564e35544773)
+ 
 
  * [ActivityLog2](https://github.com/alex-hhh/ActivityLog2) - app to analyze data from swim, bike and run activities
 
-
+***
 
  * Racket is used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
 
-
+***
 
