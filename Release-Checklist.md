@@ -1,6 +1,42 @@
-This is the master copy of the testing checklist for Racket releases. Edit this version to add testing responsibilities or to include the commands used to run listed tests.
+This is the master copy of the history updates and testing checklist for Racket releases. Edit this version to add testing responsibilities or to include the commands used to run listed tests.
 
 A copy of this checklist for the current release in progress is at [[Release-Checklist-6.11]]. That page is edited when testing items are completed.
+
+# History Updates
+
+* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
+  - [ ] Updates:
+    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
+
+* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+   - [ ] Updates:
+     + [ ] DrRacket Updates: update HISTORY
+     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
+     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
+
+* [ ] {John Clements <clements@brinckerhoff.org>}
+  - [ ] Updates:
+    + [ ] Stepper Updates: update HISTORY
+      (updates should show `v$RKTNVER` as the most current version; email
+      me to pick the changes when they're done, or tell me if there
+      are no such changes.)
+
+* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
+  - [ ] Typed Racket Updates: update HISTORY
+      (updates should show v$RKTNVER as the most current version; email me
+      to pick the changes when they're done, or tell me if there are no such
+      changes.)
+
+* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
+  - [ ] Updates:
+    + [ ] Teachpack Updates: update HISTORY
+      (updates should show `v$RKTNVER` as the most current version; email me
+      to pick the changes when they're done, or tell me if there are no such
+      changes.)
+
+# Testing
 
 * [ ] {Blockers}
 
@@ -66,12 +102,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    racket -l distro-build/tests/unix-installer <version>
    ```
 
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-    + [ ] Email me to pick the changes when they're done, or tell me if
-          there are no such changes.
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
@@ -124,25 +154,12 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
 
-   - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
   tests/stepper/manual-tests.txt ;; follow the instructions in this file
   ```
-
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
-
-      (updates should show `v$RKTNVER` as the most current version; email
-      me to pick the changes when they're done, or tell me if there
-      are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
@@ -154,11 +171,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   ```
   racket -l typed-racket-test -- --all
   ```
-  
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
@@ -178,12 +190,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
       ```
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
-
-  - [ ] Updates:
-    + [ ] Teachpack Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
 
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
