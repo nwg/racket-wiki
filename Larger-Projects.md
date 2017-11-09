@@ -9,6 +9,7 @@ For the more ambitious Racketeer ...
   the programs from http://rosettacode.org/wiki/Category:Racket to get started.
 * **auto-completion of filenames in DrRacket**, probably using a pop-up. That is: I type a string containing a path fragment, and then I hit, say, C-c C-r or some other unused combination (ha!), and I get a dialog that will allow me with a small number of keystrokes to auto-complete to the filename that I’m looking for.
 * Write **a parser for ispell dictionaries**. Make DrRacket use it.
+* Make a ['rename identifier to synonym' #160](https://github.com/racket/drracket/issues/160) tool for DrRacket 
 * Write **a markdown parser** (important: lots of tests; support at least
   popular variants that are used by stackoverflow and github)
   - Available [here](https://github.com/greghendershott/markdown).
