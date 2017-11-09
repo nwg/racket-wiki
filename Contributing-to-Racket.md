@@ -24,7 +24,8 @@ out, you can even propose patches to improve that documentation!
   * If you make an app you can use DrRacket [to create an executable you can distribute](https://docs.racket-lang.org/drracket/create-exe.html) or use [Raco to create Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
 * Fix a bug: [Easy bugs to fix](https://github.com/racket/racket/wiki/Easy-bugs-to-fix)
 * [Extend DrRacket](https://docs.racket-lang.org/drracket/extending-drracket.html) with a [Teachpack](https://docs.racket-lang.org/drracket/extending-drracket.html#%28part._teachpacks%29) or a [Plugin](https://docs.racket-lang.org/tools/index.html)
-* [make your own language](https://docs.racket-lang.org/guide/languages.html)
+* [make your own language](https://docs.racket-lang.org/guide/languages.html) (documentation)
+  * [beau­ti­ful racket](https://beautifulracket.com) is the best place to start
 * [[Integration Projects]] These are improvements to other systems to better support Racket.
 
 ## Contribute to the documentation
