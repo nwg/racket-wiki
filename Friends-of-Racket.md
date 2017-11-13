@@ -44,3 +44,9 @@
  * Racket is used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
 
 ***
+
+![Linki Tools Logo](http://linki.tools/wp-content/uploads/2016/10/LT_logo-150x120.png)
+
+[Linki Tools](http://linki.tools) uses Racket for development of devtools utilities related to Compiler Engineering.
+
+***
