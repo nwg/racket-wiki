@@ -32,9 +32,14 @@
 * Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
 * Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
 
+##### EdX (University of British Columbia)
+
+* How to Code: Simple Data, https://www.edx.org/course/how-code-simple-data-ubcx-htc1x
+* How to Code: Complex Data, https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
+
 ##### University of New Brunswick 
 
-* Programming Languages http://www.cs.unb.ca/~bremner/teaching/cs3613/
+* Programming Languages, http://www.cs.unb.ca/~bremner/teaching/cs3613/
 
 ##### Berry College
 
@@ -42,7 +47,6 @@
 
 ##### Coursera
 
-* Introduction to Systematic Program Design, https://www.coursera.org/course/programdesign
 * Programming Languages, https://www.coursera.org/course/proglang
 
 ##### University of Washington
