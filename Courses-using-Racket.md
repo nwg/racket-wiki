@@ -108,5 +108,5 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 
 #### University of Maryland
 
-* CMSC430, Introduction to Compilers, 2017 Fall, http://www.cs.umd.edu/class/fall2017/cmsc430/ 
+* CMSC 430, Introduction to Compilers, 2017 Fall, http://www.cs.umd.edu/class/fall2017/cmsc430/ 
 
