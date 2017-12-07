@@ -10,7 +10,7 @@ Racket uses Cloudflare's DNS for `racket-lang.org`. Racket infrastructure also i
 
 ## Build systems
 
-Racket releases are built ...
+Racket releases are built on a number of machines (some virtual) at Northeastern University.
 
 Racket snapshots are built at two sites, University of Utah and Northwestern University.
 
