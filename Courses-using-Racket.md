@@ -110,3 +110,6 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 
 * CMSC 430, Introduction to Compilers, 2017 Fall, http://www.cs.umd.edu/class/fall2017/cmsc430/ 
 
+#### New College of Florida
+
+* CSCI 2600, Functional Problem Solving with Scheme, 2018 Spring, https://banner.ncf.edu/pls/ncpo/bwckctlg.p_display_courses?term_in=201802&one_subj=CSCI&sel_crse_strt=2600&sel_crse_end=2600&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=
