@@ -117,3 +117,7 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 #### Rose-Hulman Institute of Technology
 
 * CSSE 404: Compiler Construction, 2017 Fall, https://www.rose-hulman.edu/class/csse/csse404/syllabus.html
+
+#### Wellesley College
+
+* CS 251, Principles of Programming Languages, 2017 Fall, https://cs.wellesley.edu/~cs251/fall17/
