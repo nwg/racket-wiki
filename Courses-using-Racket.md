@@ -113,3 +113,7 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 #### New College of Florida
 
 * CSCI 2600, Functional Problem Solving with Scheme, 2018 Spring, https://banner.ncf.edu/pls/ncpo/bwckctlg.p_display_courses?term_in=201802&one_subj=CSCI&sel_crse_strt=2600&sel_crse_end=2600&sel_subj=&sel_levl=&sel_schd=&sel_coll=&sel_divs=&sel_dept=&sel_attr=
+
+#### Rose-Hulman Institute of Technology
+
+* CSSE 404: Compiler Construction, 2017 Fall, https://www.rose-hulman.edu/class/csse/csse404/syllabus.html
