@@ -13,7 +13,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
@@ -111,7 +110,8 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    # adjust the RACKET environment variable to point to the right binary, eg:
    env RACKET=~/Desktop/Racket\ v6.3.90.900/bin/racket ./run.sh
    ```
-   
+   + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
+     
   - [ ] Framework Tests:
    ```
    # from the top-level directory of the release bundle, run
