@@ -94,15 +94,6 @@
    # adjust the RACKET environment variable to point to the right binary, eg:
    env RACKET=~/Desktop/Racket\ v6.3.90.900/bin/racket ./run.sh
    ```
-   
- 
-  - [ ] Games Tests: play a bunch of games (not automated)
-
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
 
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket-minimal` source release compiles fine.
