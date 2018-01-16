@@ -138,17 +138,6 @@
         both normal and unix-style installation modes.
 
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
-
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
       ```
