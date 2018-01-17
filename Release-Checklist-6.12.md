@@ -109,11 +109,6 @@
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
 
-* [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases:
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-
 * [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
   - [ ] Unit Contract Tests
     ```
