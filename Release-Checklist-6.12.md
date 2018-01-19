@@ -100,7 +100,3 @@
     ```
     raco test -c eopl/tests
     ```
-
-* [ ] {Doug Williams <m.douglas.williams@gmail.com>}
-  - [ ] Additional Plot Tests
-
