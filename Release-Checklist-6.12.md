@@ -1,10 +1,5 @@
 # History Updates
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    - [ ] Updates:
      + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
@@ -21,41 +16,6 @@
 * [ ] {Blockers}
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Racket Tests
-   ```
-   racket -l tests/racket/test
-   ```
-  - [ ] Languages Tests
-   ```
-   racket -l tests/htdp-lang/test-htdp
-   ```
-  - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
-        still work in Windows and Mac OS X)
-   ```
-   racket -l tests/gracket/test
-   gracket -z
-   gracket-text
-   ```
-  - [ ] `mzc --exe` tests
-   ```
-   racket -l tests/compiler/embed/test
-   ```
-  - [ ] .plt-packing Tests
-   ```
-   racket -l tests/racket/test-pack
-   ```
-  - [ ] Games Tests
-   ```
-   plt-games
-   ```
-  - [ ] R6RS Tests
-   ```
-   racket -l tests/r6rs/run.sps   # 3 failures expected
-   ```
-  - [ ] PCPS test suite (in "pcps-test" repo)
-   ```
-   racket <file in pcps-test repo>
-   ```
   - [ ] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
