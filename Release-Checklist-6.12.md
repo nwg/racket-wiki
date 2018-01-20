@@ -1,9 +1,5 @@
 # History Updates
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-   - [ ] Updates:
-     + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Updates:
     + [ ] Teachpack Updates: update HISTORY
