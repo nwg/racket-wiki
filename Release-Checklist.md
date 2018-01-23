@@ -151,8 +151,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket-minimal` source release compiles fine.
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
+    + [ ] Test that the binary installers for both work.
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
