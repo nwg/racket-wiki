@@ -7,7 +7,7 @@
 
 ##### Northeastern University
 
-* Fundamentals I, http://www.ccs.neu.edu/course/cs2500f14/
+* Fundamentals I, https://course.ccs.neu.edu/cs2500/
 * Programming Languages, http://pl.barzilay.org/
 * Program Design Paradigms (Masters), http://www.ccs.neu.edu/course/cs5010f14/
 * Intensive Principles of Programming Languages (PhD), http://www.ccs.neu.edu/home/matthias/7400-s14/index.html
