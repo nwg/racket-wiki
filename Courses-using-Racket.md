@@ -91,9 +91,9 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 * CS 32, Puzzles, Games & Algorithms, http://www.cems.uvm.edu/~rsnapp/teaching/cs32/
 
 ##### University of Toronto
-
 * CSC 104, Computational Thinking, http://www.cs.toronto.edu/~csc104h
 * CSC 324, Principles of Programming Languages, http://www.cs.toronto.edu/~csc324h
+* CSC 488, Compilers and Interpreters, 2018 Winter, http://www.cs.toronto.edu/~csc488h
 
 ##### The Military College of South Carolina
 
