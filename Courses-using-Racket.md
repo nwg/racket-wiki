@@ -124,4 +124,9 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 * CS 251, Principles of Programming Languages, 2017 Fall, https://cs.wellesley.edu/~cs251/fall17/
 
 #### Grinnell College
+
 * CSC 151, Functional Problem Solving, 2018 Spring, http://www.cs.grinnell.edu/~rebelsky/Courses/CSC151/2018S/home/
+
+#### San Diego Mesa College
+
+* CISC 106, Introduction to Computer Science, 2018 Spring, http://schedule.sdccd.edu/detail/popupdetails.cfm?crn=67651&trm=20181&detail=1
