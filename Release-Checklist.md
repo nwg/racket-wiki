@@ -1,6 +1,6 @@
 This is the master copy of the history updates and testing checklist for Racket releases. Edit this version to add testing responsibilities or to include the commands used to run listed tests.
 
-A copy of this checklist for the current release in progress is at [[Release-Checklist-6.12]]. That page is edited when testing items are completed.
+A copy of this checklist for the current release in progress is at [[Release-Checklist-7.0]]. That page is edited when testing items are completed.
 
 # History Updates
 
