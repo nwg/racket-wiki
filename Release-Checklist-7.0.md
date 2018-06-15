@@ -2,32 +2,32 @@
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+    + [ ] Racket Updates: update HISTORY (updates should show v7.0 as the most current version)
     + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
+     + [ ] Redex Updates: update HISTORY (updates should show v7.0 as the most current version)
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email
+      (updates should show v7.0 as the most current version; email
       me to pick the changes when they're done, or tell me if there
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
+      (updates should show v7.0 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Updates:
     + [ ] Teachpack Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email me
+      (updates should show v7.0 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
