@@ -45,18 +45,6 @@
    ```
    racket -l tests/racket/embed-in-c
    ```
-  - [ ] Try compiling with `-funsigned-char`
-   ```
-   configure CPPFLAGS=-funsigned-char ; make
-   ```
-  - [ ] Try compiling with `TEST_ALTERNATE_TARGET_REGISTER`
-   ```
-   configure CPPFLAGS=-DTEST_ALTERNATE_TARGET_REGISTER=1 ; make
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l distro-build/tests/unix-installer <version>
-   ```
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
