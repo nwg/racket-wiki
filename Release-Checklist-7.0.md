@@ -1,10 +1,5 @@
 # History Updates
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v7.0 as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
