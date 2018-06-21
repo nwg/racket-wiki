@@ -30,13 +30,6 @@
 
 * [ ] {Blockers}
   - https://github.com/racket/racket/issues/2099
-
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
  
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
