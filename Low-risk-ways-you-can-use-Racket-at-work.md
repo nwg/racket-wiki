@@ -4,6 +4,7 @@ _Here are some low risk examples and suggestions for people to get stuff done wi
 **You can start right now.**
 
 Use Racket (& DrRacket) ...
+ 1.  ... to build your next proof-of-concept, do it in [typed/racket](http://docs.racket-lang.org/ts-guide/index.html)
  1.  ... to validate data (e.g. I used it to [validate NHS numbers](https://github.com/spdegabrielle/check-nhs-number) in a dataset )
  1.  ... to **write a paper** (see [How To Use Scribble to Write your Academic Papers: A Reference Tutorial'](https://dustycloud.org/misc/digital-humanities/HowTo.html) by Morgan Lemmer-Webber)
  1.  ... for [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/) or as a preprocessor for [building](http://docs.racket-lang.org/scribble-pp/html.html) web pages [(example)](https://github.com/nuprl/gtp/tree/gh-pages)
@@ -16,16 +17,10 @@ Use Racket (& DrRacket) ...
  1.  ... for making a DSL to solve a task at work - see [Creating Languages](https://docs.racket-lang.org/guide/languages.html) or [Beautiful Racket](http://beautifulracket.com)
  1.  (Please add more)
 
-
 PS You can also use Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and [making pretty pictures](https://github.com/rodrigosetti/stamps).
-
-***
-
-All credit due to 'scottw' at https://fsharpforfunandprofit.com/posts/low-risk-ways-to-use-fsharp-at-work-5/
 
 ***
 ## NHS Number checker
 https://gist.github.com/spdegabrielle/6e4d554276b4d17b8ad5a78a547eafca 
 Use DrRacket. Click menu 'Racket' -> 'Create Executable'.
-
 
