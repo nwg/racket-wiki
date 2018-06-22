@@ -4,7 +4,7 @@ Firstly, you have to check out the extensive [documentation](https://docs.racket
 
 ## Now for some hidden gems
 
-* [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/index.html) (a flânerie by [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde))
+* [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/index.html) a flânerie by [Prabhakar Ragde](https://cs.uwaterloo.ca/~plragde))
 * [At-expressions](https://www.greghendershott.com/2015/08/at-expressions.html) by [Greg Hendershott](https://www.greghendershott.com)
 * [Racket workflow](https://www.greghendershott.com/2014/11/racket-workflow.html) by [Greg Hendershott](https://www.greghendershott.com)
 * [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/) by [Alexis King](https://lexi-lambda.github.io/resume.html)
