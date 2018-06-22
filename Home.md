@@ -11,7 +11,8 @@
 * [Racket Books](https://racket-lang.org/books.html)
 * Other [[Racket resources]] on the web
 * [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
-* [Trending on GitHub](https://github.com/trending/racket?since=monthly)
+* [Trending (this month)](https://github.com/trending/racket?since=monthly) and [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) Racket repositories on GitHub
+
 
 ## Racket Release process pages
 * [[Release overview]]
