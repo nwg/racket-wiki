@@ -10,10 +10,7 @@ Use Racket (& DrRacket) ...
  1.  ... for [parsing html pages](http://www.neilvandyke.org/racket/html-parsing/) or as a preprocessor for [building](http://docs.racket-lang.org/scribble-pp/html.html) web pages [(example)](https://github.com/nuprl/gtp/tree/gh-pages)
  1.  ... for [Parsing CSV](http://www.neilvandyke.org/racket/csv-reading/)
  1.  ... for making cool [Presentations](http://docs.racket-lang.org/slideshow/index.html) [(example)](https://github.com/rfindler/icfp-2014-contracts-talk/tree/master)
- 1.  ... to make GUI apps (I made one to share the NHS number checker - see below)
- 1.  ... to play with web services...(must provide example)
- 1.  ... for diagramming and visualization
- 1.  ... for accessing web-based data stores 
+ 1.  ... to make [GUI apps](http://docs.racket-lang.org/gui/index.html) for Windows, MacOS or Linux
  1.  ... for making a DSL to solve a task at work - see [Creating Languages](https://docs.racket-lang.org/guide/languages.html) or [Beautiful Racket](http://beautifulracket.com)
  1.  (Please add more)
 
@@ -23,4 +20,3 @@ PS You can also use Racket for creating languages, web applications, deep learni
 ## NHS Number checker
 https://gist.github.com/spdegabrielle/6e4d554276b4d17b8ad5a78a547eafca 
 Use DrRacket. Click menu 'Racket' -> 'Create Executable'.
-
