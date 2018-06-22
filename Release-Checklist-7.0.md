@@ -30,11 +30,6 @@
      
   - [ ] Games Tests: play a bunch of games (not automated)
 
-
-  - [ ] Release tests for the Windows release:
-    + [ ] Test that the `racket-minimal` source release compiles fine.
-    + [ ] Test that the binary installers for both work.
-
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
       ```
