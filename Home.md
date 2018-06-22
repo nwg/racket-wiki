@@ -10,9 +10,9 @@
 * [[Low risk ways you can use Racket at work]]  
 * [Racket Books](https://racket-lang.org/books.html)
 * Other [[Racket resources]] on the web
+* [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
+* [Trending on GitHub](https://github.com/trending/racket?since=monthly)
 
-## [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
-## (New!) [Trending on GitHub](https://github.com/trending/racket?since=monthly)
 ## Racket Release process pages
 * [[Release overview]]
 * [[Release process]]
