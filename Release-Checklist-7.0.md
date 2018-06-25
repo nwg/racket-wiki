@@ -28,7 +28,6 @@
 
    + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      
-  - [ ] Games Tests: play a bunch of games (not automated)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
