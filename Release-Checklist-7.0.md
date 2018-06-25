@@ -22,12 +22,7 @@
 # Testing
 
 * [ ] {Blockers}
-  - https://github.com/racket/racket/issues/2099
- 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-
-   + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-     
+  - https://github.com/racket/racket/issues/2099     
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
