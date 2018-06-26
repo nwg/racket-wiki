@@ -37,13 +37,6 @@
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
 
-* [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
-  - [ ] DB Tests
-    ```
-    # basic tests with sqlite3; other tests require local software & configuration
-    racket -l tests/db/all-tests
-    ```
-
 * [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
