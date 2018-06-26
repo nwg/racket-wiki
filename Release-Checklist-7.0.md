@@ -36,15 +36,3 @@
       ```
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
-
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
