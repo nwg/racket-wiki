@@ -15,7 +15,7 @@ Use Racket (& DrRacket) ...
  1.  ... to [write a book](http://docs.racket-lang.org/pollen/index.html)
  1.  ... for [parallel computing](http://docs.racket-lang.org/opencl/index.html)
 
-PS You can also use Racket for (creating languages/DSL's](https://beautifulracket.com), [web applications](http://docs.racket-lang.org/continue/index.html), deep learning, rocket surgery, [3D](http://docs.racket-lang.org/sgl/index.html), [games](https://www.realmofracket.com), livecoding, [distributed/concurrent  messaging with ZeroMQ](https://docs.racket-lang.org/zmq/index.html) and [making op-art](https://github.com/rodrigosetti/stamps).
+PS You can also use Racket for [creating languages/DSL's](https://beautifulracket.com), [web applications](http://docs.racket-lang.org/continue/index.html), deep learning, rocket surgery, [3D](http://docs.racket-lang.org/sgl/index.html), [games](https://www.realmofracket.com), livecoding, [distributed/concurrent  messaging with ZeroMQ](https://docs.racket-lang.org/zmq/index.html) and [making op-art](https://github.com/rodrigosetti/stamps).
 
 ***
 ## NHS Number checker
