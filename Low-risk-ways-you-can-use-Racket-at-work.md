@@ -12,9 +12,10 @@ Use Racket (& DrRacket) ...
  1.  ... for making cool [Presentations](http://docs.racket-lang.org/slideshow/index.html) [(example)](https://github.com/rfindler/icfp-2014-contracts-talk/tree/master)
  1.  ... to make [GUI apps](http://docs.racket-lang.org/gui/index.html) for Windows, MacOS or Linux
  1.  ... for making a DSL to solve a task at work - see [Creating Languages](https://docs.racket-lang.org/guide/languages.html) or [Beautiful Racket](http://beautifulracket.com)
- 1.  (Please add more)
+ 1.  ... to [write a book](http://docs.racket-lang.org/pollen/index.html)
+ 1.  ... for [parallel computing](http://docs.racket-lang.org/opencl/index.html)
 
-PS You can also use Racket for creating languages, web applications, deep learning, rocket surgery, 3D, games, livecoding, ZeroMQ and [making pretty pictures](https://github.com/rodrigosetti/stamps).
+PS You can also use Racket for creating languages, [web applications](http://docs.racket-lang.org/continue/index.html), deep learning, rocket surgery, [3D](http://docs.racket-lang.org/sgl/index.html), [games](https://www.realmofracket.com), livecoding, [distributed/concurrent  messaging with ZeroMQ](https://docs.racket-lang.org/zmq/index.html) and [making op-art](https://github.com/rodrigosetti/stamps).
 
 ***
 ## NHS Number checker
