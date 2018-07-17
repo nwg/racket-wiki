@@ -69,6 +69,7 @@
    ```
    racket -l distro-build/tests/unix-installer <version>
    ```
+  - [ ] Test the recent `raco ctool` fix.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
