@@ -8,28 +8,6 @@
 
 # Testing
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] .plt-packing Tests
-   ```
-   racket -l tests/racket/test-pack
-   ```
-  - [ ] Games Tests
-   ```
-   plt-games
-   ```
-  - [ ] R6RS Tests
-   ```
-   racket -l tests/r6rs/run.sps   # 3 failures expected
-   ```
-  - [ ] PCPS test suite (in "pcps-test" repo)
-   ```
-   racket <file in pcps-test repo>
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l distro-build/tests/unix-installer <version>
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
