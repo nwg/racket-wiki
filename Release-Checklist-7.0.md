@@ -25,24 +25,10 @@
    ```
    racket <file in pcps-test repo>
    ```
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
   - [ ] Run the unix installer tests (in "distro-build-test" package)
    ```
    racket -l distro-build/tests/unix-installer <version>
    ```
-  - [ ] Test the recent `raco ctool` fix.
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
