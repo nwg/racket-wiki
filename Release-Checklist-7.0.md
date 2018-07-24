@@ -1,10 +1,3 @@
-# History Updates
-
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v7.0 as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
 
 # Testing
 
@@ -27,12 +20,6 @@
   tests/stepper/manual-tests.txt ;; follow the instructions in this file
   ```
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
 
 
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
