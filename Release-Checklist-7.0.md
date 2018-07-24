@@ -13,14 +13,6 @@
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
-
-
 
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
