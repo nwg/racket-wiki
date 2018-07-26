@@ -9,11 +9,6 @@
    raco test .
    ```
 
-  - [ ] Release tests for the Windows release:
-    + [ ] Test that the `racket-minimal` source release compiles fine.
-    + [ ] Test that the binary installers for both work.
-
-
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
     ```
