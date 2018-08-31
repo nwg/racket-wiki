@@ -15,6 +15,9 @@ Coordination of teams and workshops will take place on this Wiki page.
 * Sam Tobin-Hochstadt on building typed interfaces
 * Jesse Alama on building HTTP APIs
 * Leif Andersen on `#lang video` hacking
+* a la carte
 
 # Session 3 (Before Dinner)
 ## Teams
+* Jay McCarthy on issue & pull request review
+* a la carte
