@@ -2,7 +2,7 @@ A wishlist of backwards incompatible things for a future Racket2.
 
 **Note**: This is a wishlist. There's no guarantee any of these will be in a Racket2.
 
-* Drop more guarantees about new object allocations: for example, allow `(append l '())` to return `l`,
+* Drop more guarantees about new object allocations: for example, allow `(append lst '())` to return `lst`,
   and the same for other list, string, bytes, vector functions (drop 0 items from the end of a list,
   `substring` and `regexp-replace` that don't change a string, etc).
 
