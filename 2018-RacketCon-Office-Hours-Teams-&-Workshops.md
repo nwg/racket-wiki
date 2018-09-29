@@ -10,6 +10,7 @@ Coordination of teams and workshops will take place on this Wiki page.
 # Session 2 (After Lunch)
 ## Workshops
 * Ryan Culpepper on `syntax/parse` advanced parsing features
+* David Thrane Christiansen on implementing type theory
 
 ## Teams
 * Sam Tobin-Hochstadt on building typed interfaces
