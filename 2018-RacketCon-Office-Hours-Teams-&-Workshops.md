@@ -21,4 +21,5 @@ Coordination of teams and workshops will take place on this Wiki page.
 # Session 3 (Before Dinner)
 ## Teams
 * Jay McCarthy on issue & pull request review
+* Christopher Lemmer Webber on distributed network programming (and distributed games)
 * a la carte
