@@ -5,12 +5,6 @@
     + [ ] Racket Updates: update HISTORY (updates should show v7.1 as the most current version)
     + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-   - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show v7.1 as the most current version)
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
