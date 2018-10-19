@@ -1,10 +1,5 @@
 # History Updates
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show v7.1 as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
@@ -30,24 +25,12 @@
 * [ ] {Blockers}
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Racket Tests
-   ```
-   racket -l tests/racket/test
-   ```
-  - [ ] Languages Tests
-   ```
-   racket -l tests/htdp-lang/test-htdp
-   ```
   - [ ] GRacket Tests (Also check that `gracket -z` and `gracket-text`
         still work in Windows and Mac OS X)
    ```
    racket -l tests/gracket/test
    gracket -z
    gracket-text
-   ```
-  - [ ] `mzc --exe` tests
-   ```
-   racket -l tests/compiler/embed/test
    ```
   - [ ] .plt-packing Tests
    ```
