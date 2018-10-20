@@ -13,16 +13,10 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [X] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [X] Updates:
-    + [X] Teachpack Updates: update HISTORY
-      (updates should show v7.1 as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
-
 # Testing
 
 * [ ] {Blockers}
+  - [ ] Regressions discussion
 
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
