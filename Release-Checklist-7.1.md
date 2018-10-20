@@ -13,9 +13,9 @@
       to pick the changes when they're done, or tell me if there are no such
       changes.)
 
-* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [ ] Updates:
-    + [ ] Teachpack Updates: update HISTORY
+* [X] {Matthias Felleisen <matthias@ccs.neu.edu>}
+  - [X] Updates:
+    + [X] Teachpack Updates: update HISTORY
       (updates should show v7.1 as the most current version; email me
       to pick the changes when they're done, or tell me if there are no such
       changes.)
@@ -42,8 +42,8 @@
   racket -l typed-racket-test -- --all
   ```
 
-* [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [ ] Teachpacks Tests: check that new teachpacks are addable
+* [X] {Matthias Felleisen <matthias@ccs.neu.edu>}
+  - [X] Teachpacks Tests: check that new teachpacks are addable
       ```
       1. create foo.rkt: #lang racket (define x 0) (provide x)
       2. create bar.rkt: #lang htdp/bsl (require "foo.rkt") x; RUN and check for 0 to pop out
@@ -51,12 +51,12 @@
       4. delete foo.rkt and bar.rkt
       ```
 
-  - [ ] Teachpack Docs: check teachpack docs in the bundles
+  - [X] Teachpack Docs: check teachpack docs in the bundles
       ```
       type "big-bang" into Definitions area, highlight, use F1; check for manuals 
       ```
 
-  - [ ] Try teaching-languages testing framework (check-expect)
+  - [ X Try teaching-languages testing framework (check-expect)
       ```
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
