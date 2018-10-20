@@ -36,25 +36,6 @@
   racket -l typed-racket-test -- --all
   ```
 
-* [X] {Matthias Felleisen <matthias@ccs.neu.edu>}
-  - [X] Teachpacks Tests: check that new teachpacks are addable
-      ```
-      1. create foo.rkt: #lang racket (define x 0) (provide x)
-      2. create bar.rkt: #lang htdp/bsl (require "foo.rkt") x; RUN and check for 0 to pop out
-      3. delete require line, use teach pack menu to add foo.rkt; RUN and check for 0 to pop out
-      4. delete foo.rkt and bar.rkt
-      ```
-
-  - [X] Teachpack Docs: check teachpack docs in the bundles
-      ```
-      type "big-bang" into Definitions area, highlight, use F1; check for manuals 
-      ```
-
-  - [ X Try teaching-languages testing framework (check-expect)
-      ```
-      run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
-      ```
-
 * [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
