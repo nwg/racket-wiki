@@ -18,13 +18,6 @@
 * [ ] {Blockers}
   - [ ] Regressions discussion
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
   ```
