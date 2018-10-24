@@ -11,17 +11,6 @@
 * [ ] {Blockers}
   - [ ] Regressions discussion
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
-
 * [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
@@ -39,39 +28,4 @@
   - [ ] Inspect icons
     ```
     raco docs icons # then look at them
-    ```
-
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
     ```
