@@ -1,8 +1,5 @@
 # Testing
 
-* [ ] {Blockers}
-  - [ ] Regressions discussion
-
 * [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
