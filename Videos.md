@@ -27,7 +27,7 @@ Talks
 
  * [Introduction to Functional Programming via Racket](https://www.youtube.com/watch?v=K0TItrQNT8Q) — Jay McCarthy at [Lambda Lounge Utah](http://www.meetup.com/Lambda-Lounge-Utah/) 2014
 
- * [Racket: Metaprogramming Time!](http://www.infoq.com/presentations/racket) — Clojure/west 2013, Matthew Flatt
+ * [Racket: Metaprogramming Time!](https://www.infoq.com/presentations/racket-metaprogramming) — Clojure/west 2013, Matthew Flatt
 
  * [The Racket Way](http://www.infoq.com/presentations/Racket) — Strange Loop 2012, Matthew Flatt
 
