@@ -10,13 +10,6 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 * **Racket** Github topic: [racket](https://github.com/topics/racket)
 * **DrRacket** Github topic: [drracket](https://github.com/topics/drracket)
 
-## Racket Release process pages
-* [[Release overview]]
-* [[Release process]]
-* [[Release repo managers]]
-* [[Release Calendar]]
-* [[Release Checklist]]
-
 ## What's here
 * [[Videos]] includes Racket-related videos.
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
