@@ -15,35 +15,6 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[How to Build a Context-Free Grammar with Racket's unique Recursive Contract System]]  
 
 
-#### On Error Resume Next using Pattern Matching Macros
-
-Allows us to sequentially execute error-throwing statements without causing control flow to branch
-
-```racket
-
-(define-syntax-rule (on-error-resume-next f ...)
-   (let ((out #f))
-     (with-handlers ([exn:fail? (lambda (exn) (printf "~A\n" (exn-message exn)) (out))])
-       (let/cc k (set! out k) f) ...)))
-                            
-       
-#| usage
-(define (my-error val) (error (format "my-error ~A\n" val)))
-
-(on-error-resume-next (my-error 1) (my-error 2) (my-error 3))
-;RETURNS
-my-error 1
-
-my-error 2
-
-my-error 3
-
-#|
-
-```
-
-
-
 #### How to generate a rotating key-value, which changes at some arbitrary interval.
 
 Here the daily-key is a simple random number, available at module level. You can plug in a better Artifact from above to create a more useful n-bit key.
