@@ -5,10 +5,11 @@
 [#Slack](https://racket.slack.com/) channel ([sign up](http://racket-slack.herokuapp.com/))  
 [#racket IRC on freenode.net](https://botbot.me/freenode/racket/)  
 [@racketlang on Twitter](https://twitter.com/racketlang)  
+Racket [Books](https://racket-lang.org/books.html) & [[resources]]  
 [Recognized Contributors](http://www.racket-lang.org/team.html)  
 ## Racket Release process
-* [[Release overview]]
-* [[Release process]]
-* [[Release repo managers]]
-* [[Release Calendar]]
-* [[Release Checklist]]
+[[Release overview]]  
+[[Release process]]  
+[[Release repo managers]]  
+[[Release Calendar]]  
+[[Release Checklist]]  
