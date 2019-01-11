@@ -1,5 +1,15 @@
 This page captures useful code snippets that are too small to be a Planet package. 
 
+[[Artifact:Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
+[[Split a string into lines]]  
+[[Fetch the contents of a URL]]  
+[[generate a n-byte key for use in MAC authentication]] 
+[[How to generate a Message Authentication Code (MAC) and authenticate a signed message|generate a MAC and authenticate a signed message]]
+[[Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets]]
+[[Parsing libpcap files]]
+[[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]
+
+
 ##### Specifying a HMAC-SHA1 stuffer for the stateless web-server
 
 ```racket
