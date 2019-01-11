@@ -7,8 +7,7 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 * [[Contributing to Racket]] has suggestions and guidance for making contributions
 * [[Low risk ways you can use Racket at work]]  
 
-**GitHub**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories)  
-Github topics: [racket](https://github.com/topics/racket) | [drracket](https://github.com/topics/drracket)
+**GitHub**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | Github topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
 
 ## What's here
 * [[Videos]] includes Racket-related videos.
