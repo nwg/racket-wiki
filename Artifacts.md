@@ -16,6 +16,7 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[How to transform a Tree (see above) into an x-expression]]  
 [[Web Server: Creating an Interface Definition Language (IDL) between an HTTP-request and Racket code, Part I|Creating an Interface Definition Language]]  
 [[Cookies and the Web Server]]  
+[[AJAX and the Web Server]]  
 [[Generating a GUID using the Win32 API]]  
 
 
