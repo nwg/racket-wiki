@@ -8,23 +8,11 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets]]  
 [[Parsing libpcap files]]  
 [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]  
-[[OpenSSL on Amazon Linux]]
+[[OpenSSL on Amazon Linux]]  
 [[On Error Resume Next using Pattern Matching Macros]]  
 [[How to generate a rotating key-value, which changes at some arbitrary interval|generate a rotating key-value]]  
 [[AJAX: How to build a response to an HTTPXmlRequest]]  
 [[How to Build a Context-Free Grammar with Racket's unique Recursive Contract System]]  
-
-
-
-#### OpenSSL on Amazon Linux ####
-
-When installing Racket on the Amazon Linux AMI, choose the Fedora build. For example use the `racket-5.2.1-bin-x86_64-linux-f14.sh` installer for Racket 5.2.1 with the 64-bit Amazon Linux AMI.
-
-You may find that `openssl` module calls give a runtime error. This includes procedures like `ssl-connect`, and procedures that use it indirectly such as `get-pure-port` with an `https` scheme in the URI.
-
-To fix, install the `openssl-devel` package:
-
-`$ sudo yum install openssl-devel`
 
 
 #### On Error Resume Next using Pattern Matching Macros
