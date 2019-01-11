@@ -3,20 +3,13 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
 [[Split a string into lines]]  
 [[Fetch the contents of a URL]]  
-[[generate a n-byte key for use in MAC authentication]] 
-[[How to generate a Message Authentication Code (MAC) and authenticate a signed message|generate a MAC and authenticate a signed message]]
+[[generate a n-byte key for use in MAC authentication]]  
+[[How to generate a Message Authentication Code (MAC) and authenticate a signed message|generate a MAC and authenticate a signed message]]  
 [[Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets]]
 [[Parsing libpcap files]]
 [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]
 
 
-##### generate a n-byte key for use in MAC authentication (like HMAC-SHA1)
-```racket
-;usage (generate-authenticator-key 32) -> returns 256-bit key
-(define/contract (generate-authenticator-key key-len)
-  (-> exact-positive-integer? bytes?)
-  (list->bytes (build-list key-len (λ _ (random 255)))))
-```
 
 ##### How to generate a Message Authentication Code (MAC) and authenticate a signed message.
 
