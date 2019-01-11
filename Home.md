@@ -24,7 +24,7 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 
 Events & Meetups 
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
-* [Racket Week 2019(=RacketCon+RacketSchool)](https://con.racket-lang.org/2019/) Salt Lake City, 8–14 July 2019.
+* [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 * [[Racket Meetups]] and tips on how to [[Start a Meetup]] 
 * <https://con.racket-lang.org/>
 * [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
