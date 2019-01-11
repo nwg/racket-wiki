@@ -1,15 +1,12 @@
 # Welcome to the Racket wiki! 
-* The [Racket website](http://racket-lang.org) is the best place to get started if you are new to Racket.
-* if you are looking for documentation go to [Racket documentation](http://docs.racket-lang.org).
-* The [mailing list](https://lists.racket-lang.org) is the best place to get help  
+* If you are new to [Racket](http://racket-lang.org) the <http://racket-lang.org> is is a good starting place with examples, documentation and way to find support and engage with the Racket community.  
 
 ## Highlights
 
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
 * [[Contributing to Racket]] has suggestions and guidance for making contributions
 * [[Low risk ways you can use Racket at work]]  
-* [Racket Books](https://racket-lang.org/books.html)
-* Other [[Racket resources]] on the web
+* [Books](https://racket-lang.org/books.html) & [[resources|Racket resources]] on the web
 * [Contributing to Racket](https://github.com/racket/racket/wiki/Contributing-to-Racket)
 * [Trending (this month)](https://github.com/trending/racket?since=monthly) 
 * [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) Racket repositories on GitHub
