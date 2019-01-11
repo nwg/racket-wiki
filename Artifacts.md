@@ -1,4 +1,6 @@
-This page captures useful code snippets that are too small to be a Planet package. 
+This page captures useful code snippets that are too small to be a package. 
+
+_Please contribute your own!_
 
 [[Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
 [[Split a string into lines]]  
@@ -23,17 +25,3 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[More convenient printing of multiple values]]  
 
 
-##### More convenient printing of multiple values
-
-```
-(define-syntax (say stx)
-  (syntax-case stx ()
-    [(_ a b ...)
-     #'(displayln (~a a b ...))]))
-```
-
-Use as follows:
-
-```  
-(say "The value of x is: " x)
-```
