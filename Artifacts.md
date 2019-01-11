@@ -8,6 +8,11 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets]]  
 [[Parsing libpcap files]]  
 [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]  
+[[OpenSSL on Amazon Linux]]
+[[On Error Resume Next using Pattern Matching Macros]]  
+[[How to generate a rotating key-value, which changes at some arbitrary interval|generate a rotating key-value]]  
+[[AJAX: How to build a response to an HTTPXmlRequest]]  
+[[How to Build a Context-Free Grammar with Racket's unique Recursive Contract System]]  
 
 
 
