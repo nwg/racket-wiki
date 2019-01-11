@@ -13,9 +13,10 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[How to generate a rotating key-value, which changes at some arbitrary interval|How to generate a rotating key value]]  
 [[AJAX: How to build a response to an HTTPXmlRequest]]  
 [[How to Build a Context-Free Grammar with Racket's unique Recursive Contract System]]  
-
-
-
+[[How to transform a Tree (see above) into an x-expression]]
+[[Web Server: Creating an Interface Definition Language (IDL) between an HTTP-request and Racket code, Part I|Creating an Interface Definition Language]]  
+[[Cookies and the Web Server]]  
+[[Generating a GUID using the Win32 API]]  
 
 #### How to transform a Tree (see above) into an x-expression
 
