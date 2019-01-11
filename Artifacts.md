@@ -1,6 +1,6 @@
 This page captures useful code snippets that are too small to be a Planet package. 
 
-[[Artifact:Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
+[[Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
 [[Split a string into lines]]  
 [[Fetch the contents of a URL]]  
 [[generate a n-byte key for use in MAC authentication]] 
@@ -10,14 +10,6 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]
 
 
-##### Specifying a HMAC-SHA1 stuffer for the stateless web-server
-
-```racket
-#:stuffer (stuffer-chain
-            serialize-stuffer
-            (stuffer-compose base64-stuffer
-                             (HMAC-SHA1-stuffer #"mysupersecretkey")))
-```
 
 ##### Split a string into lines
 
