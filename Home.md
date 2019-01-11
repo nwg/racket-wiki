@@ -5,7 +5,7 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
 * [[Contributing to Racket]] has suggestions and guidance for making contributions including [[Easy bugs to fix]] 
-* [[Low risk ways you can use Racket at work]]  
+* [[Low risk ways you can use Racket at work]], [[Project Ideas]], 
 
 **GitHub**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
 
@@ -16,7 +16,6 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 * [[Courses using Racket]] 
 * [[Generics Plans]] planned features for Racket's generic functions library
 * [[Racket2]] A wishlist of backwards incompatible things for a future Racket2.
-* [[Project Ideas]] if you are looking for a project idea?
 * [[Verification and Advanced Types in Racket]]
 * [[Typed Racket plans]] (last edited in 2014 - this needs updating)
 * [[Redex Features]] (last edited in 2013)
