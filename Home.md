@@ -6,10 +6,9 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
 * [[Contributing to Racket]] has suggestions and guidance for making contributions
 * [[Low risk ways you can use Racket at work]]  
-* [Trending (this month)](https://github.com/trending/racket?since=monthly) 
-* [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) Racket repositories on GitHub
-* **Racket** Github topic: [racket](https://github.com/topics/racket)
-* **DrRacket** Github topic: [drracket](https://github.com/topics/drracket)
+
+**GitHub**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories)  
+Github topics: [racket](https://github.com/topics/racket) | [drracket](https://github.com/topics/drracket)
 
 ## What's here
 * [[Videos]] includes Racket-related videos.
