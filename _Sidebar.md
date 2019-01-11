@@ -6,7 +6,7 @@
 [#racket IRC on freenode.net](https://botbot.me/freenode/racket/)  
 [@racketlang on Twitter](https://twitter.com/racketlang)  
 [Recognized Contributors](http://www.racket-lang.org/team.html)  
-## Racket Release process pages
+## Racket Release process
 * [[Release overview]]
 * [[Release process]]
 * [[Release repo managers]]
