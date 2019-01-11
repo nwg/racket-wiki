@@ -10,13 +10,6 @@ This page captures useful code snippets that are too small to be a Planet packag
 [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]
 
 
-
-##### Split a string into lines
-
-```racket
-(regexp-split "\n+" str)
-```
-
 ##### Fetch the contents of a URL
 
 ```racket
