@@ -1,5 +1,5 @@
 # Welcome to the Racket wiki! 
-* If you are new to [Racket](http://racket-lang.org) the <http://racket-lang.org> is is a good starting place with examples, documentation and way to find support and engage with the Racket community.  
+If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community. <http://racket-lang.org>
 
 ## Highlights
 
