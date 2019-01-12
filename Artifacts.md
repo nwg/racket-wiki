@@ -7,6 +7,7 @@ _Please contribute your own!_
 [[Split a string into lines]]  
 [[Fetch the contents of a URL]]  
 [[On Error Resume Next using Pattern Matching Macros]]  
+[[Call raco scribble]]
 
 [[How to generate a rotating key-value, which changes at some arbitrary interval|How to generate a rotating key value]]  
 
@@ -33,5 +34,4 @@ Web Server:
 
 [[Generating a GUID using the Win32 API]]  
 [[Sending a file to the Windows Print Spool using the Win32 API]]  
-
 
