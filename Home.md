@@ -4,9 +4,9 @@
 
 [[IDE's and text editors]] 
 
-**["racket-android"](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
+**[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 
-The [[Inside Racket Seminar]] seminars expose the **internal design and implementation of Racket**.
+The [[Inside Racket Seminar]] seminars expose the ___internal design and implementation of Racket___.
 
 ## Events
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
