@@ -9,6 +9,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 **Events**  
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
+* [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
 
 **Highlights**   
 * **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
