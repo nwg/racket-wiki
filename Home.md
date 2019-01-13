@@ -13,7 +13,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 
 **Highlights**   
 * [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
-* [[Low risk ways you can use Racket at work]] 
+* [[Ways you can use Racket at work]] 
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 * [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 * [[Math-Library-Features]] to suggest features for the math library.
