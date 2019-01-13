@@ -8,11 +8,11 @@
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
-## Events  
+**Events**  
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 
-## Highlights  
+**Highlights**   
 * [[Contributing to Racket]], [[Easy bugs to fix]]  
 * [[Low risk ways you can use Racket at work]], [[Project Ideas]]  
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
@@ -25,7 +25,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Redex Features]] (last edited in 2013)
 * [[Courses using Racket]]  
 
-**GitHub**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
+**[[GitHub]]**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
 
 ## Meetups?
 * [[Racket Meetups]] and tips on how to [[Start a Meetup]] 
