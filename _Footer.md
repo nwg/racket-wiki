@@ -1,2 +1,2 @@
-[[Home]]  
+[[Wiki-Home|Home]]  |  [racket-lang.org](http://racket-lang.org)  |  [Documentation](https://docs.racket-lang.org)  |  [packages](https://pkgs.racket-lang.org)  
 _We plan to replace this wiki (eventually) with a wiki written in Racket, to which we will migrate the existing content._
