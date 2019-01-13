@@ -5,9 +5,14 @@
 **How to get started**  
 The **[getting-started](https://docs.racket-lang.org/getting-started/index.html)** guide covers installation, and supplies resources for both beginners and experienced programmers wanting to learn. (See [A Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
-See also [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html), the [Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) and **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
+See also 
+* [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html) and [Racket Cheat Sheet|Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) 
+* **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
+* [Racket dev workflow](https://www.greghendershott.com/2014/11/racket-workflow.html) by [Greg Hendershott](https://www.greghendershott.com/index.html)
 
 [[IDE's and text editors]] 
+
+**["racket-android"](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 
 The [[Inside Racket Seminar]] seminars expose the **internal design and implementation of Racket**.
 
