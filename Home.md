@@ -6,7 +6,7 @@
 
 **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 
-The [[Inside Racket Seminar]] seminars expose the ___internal design and implementation of Racket___.
+The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 ## Events
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
