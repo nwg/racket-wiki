@@ -4,6 +4,7 @@
   - [racket](https://github.com/topics/racket)
   - [drracket](https://github.com/topics/drracket)
 * GitHub search
-  - [language:racket](https://github.com/search?q=language%3Aracket)
-  - [language:racket pushed:>2019-01-01 ](https://github.com/search?q=language%3Aracket+pushed%3A%3E2019-01-01)
+  - by language: [language:racket](https://github.com/search?q=language%3Aracket)
+  - recent: [language:racket pushed:>2019-01-01 ](https://github.com/search?q=language%3Aracket+pushed%3A%3E2019-01-01)
+
 
