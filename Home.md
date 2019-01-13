@@ -2,7 +2,7 @@
 
 **[[How to get started]]**: The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and supplies resources for both beginners and experienced programmers wanting to learn. ([Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
-[[IDE's and text editors]] 
+[[IDE's and text editors]]
 
 **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 
