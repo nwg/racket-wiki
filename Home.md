@@ -1,9 +1,11 @@
 ## Welcome  
 
-Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also the world’s first ecosystem for developing and deploying new languages.  
+Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also the world’s first ecosystem for developing and deploying new languages[[Creating Languages]].  
+
  (see also: **[A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext)** by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, Eli Barzilay, Jay McCarthy, Sam Tobin-Hochstadt, Communications of the ACM, March 2018, Vol. 61 No. 3, Pages 62-71, 10.1145/3127323 )  
 
-If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) <<http://racket-lang.org>> is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community.  The [getting-started](https://docs.racket-lang.org/getting-started/index.html) covers installation, 
+If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) <<http://racket-lang.org>> is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community.  The [getting-started](https://docs.racket-lang.org/getting-started/index.html) covers installation, and pathways to learning Racket for both beginners and experienced programmers. 
+See also [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html) and [Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html)
 
 **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers. 
 [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
