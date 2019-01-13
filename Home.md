@@ -2,9 +2,6 @@
 
 **[[How to get started]]**: The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers. ([Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
-
-**[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
-
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 **Events**  
@@ -12,6 +9,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 
 **Highlights**   
+* **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 * [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
 * [[Ways you can use Racket at work]] 
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
