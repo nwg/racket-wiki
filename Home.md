@@ -4,7 +4,7 @@ If you are new to [Racket](http://racket-lang.org) the [website](http://racket-l
 ## Highlights
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
 * [[Contributing to Racket]], [[Easy bugs to fix]] 
-* [[Low risk ways you can use Racket at work]], [[Project Ideas]], 
+* [[Low risk ways you can use Racket at work]], [[Project Ideas]]
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 * [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 * [[Math-Library-Features]] to suggest features for the math library.
