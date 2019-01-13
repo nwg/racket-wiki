@@ -2,6 +2,8 @@
 
 **[[How to get started]]**: The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers. ([Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
+**[[How to get help]]**: 
+
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 **Events**  
