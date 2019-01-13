@@ -80,6 +80,11 @@ A copy of this checklist for the current release in progress is at [[Release-Che
    # make big-bang program with literal image in DrRacket, 
    # then create executable
    ```
+  - [ ] Try creating a BSL sandbox in DrRacket
+   ```
+   (require racket/sandbox)
+   (define e (make-evaluator 'lang/htdp-beginner))
+   ```
   - [ ] Run COM tests
    ```
    racket -l tests/racket/com
