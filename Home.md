@@ -7,6 +7,8 @@ The **[getting-started](https://docs.racket-lang.org/getting-started/index.html)
 
 See also [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html), the [Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) and **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
 
+[[IDE's and text editors]] 
+
 The [[Inside Racket Seminar]] seminars expose the **internal design and implementation of Racket**.
 
 ## Events
