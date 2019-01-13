@@ -1,10 +1,12 @@
 **Welcome**  
-If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community. <http://racket-lang.org>
+If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) <<http://racket-lang.org>> is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community.  
+**[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers. 
 
 ## Highlights
 * [[Inside Racket Seminar]] seminars that expose the internal design and implementation of Racket
-* [[Contributing to Racket]], [[Easy bugs to fix]] 
-* [[Low risk ways you can use Racket at work]], [[Project Ideas]]
+
+* [[Contributing to Racket]], [[Easy bugs to fix]]  
+* [[Low risk ways you can use Racket at work]], [[Project Ideas]]  
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 * [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 * [[Math-Library-Features]] to suggest features for the math library.
