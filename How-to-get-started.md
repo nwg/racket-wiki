@@ -1,4 +1,4 @@
-[How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html) and [Racket Cheat Sheet|Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) 
+[How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html) and [Racket Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) 
 
 Other: 
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
