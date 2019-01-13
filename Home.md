@@ -3,7 +3,7 @@
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also the world’s first ecosystem for [[developing and deploying new languages|Creating Languages]]. See the [The Racket Manifesto](http://felleisen.org/matthias/manifesto/).
 
 **How to get started**  
-The **[getting-started](https://docs.racket-lang.org/getting-started/index.html)** guide covers installation, and supplies resources for both beginners and experienced programmers wanting to learn.
+The **[getting-started](https://docs.racket-lang.org/getting-started/index.html)** guide covers installation, and supplies resources for both beginners and experienced programmers wanting to learn. (See [A Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
 See also [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html), the [Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) and **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
 
