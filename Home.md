@@ -2,7 +2,7 @@
 
 **[[How to get started]]**: The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers. ([Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
 
-**[[How to get help]]**: 
+**[[How to get help]]**: The Email list [racket-users](https://groups.google.com/forum/#!forum/racket-users/), [#Slack](https://racket.slack.com/) channel ([sign up](http://racket-slack.herokuapp.com/)) or [#racket IRC on freenode.net](https://botbot.me/freenode/racket/) are all good places to ask for help.
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
