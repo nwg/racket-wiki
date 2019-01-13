@@ -1,5 +1,3 @@
-## Welcome  
-
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also the world’s first ecosystem for [[developing and deploying new languages|Creating Languages]]. See the [The Racket Manifesto](http://felleisen.org/matthias/manifesto/).
 
 **[[How to get started]]**  
