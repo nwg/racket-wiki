@@ -8,11 +8,11 @@
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
-## Events
+## Events  
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 
-## Highlights
+## Highlights  
 * [[Contributing to Racket]], [[Easy bugs to fix]]  
 * [[Low risk ways you can use Racket at work]], [[Project Ideas]]  
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
