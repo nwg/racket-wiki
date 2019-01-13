@@ -8,8 +8,8 @@ _Please contribute your own!_
 [[Fetch the contents of a URL]]  
 [[On Error Resume Next using Pattern Matching Macros]]  
 [[Call raco scribble]]  
-[[multi-threaded port scanner demo]]
-[[Solar system simulation]]
+[[multi-threaded port scanner demo]]  
+[[Solar system simulation]]  
 [[How to generate a rotating key-value, which changes at some arbitrary interval|How to generate a rotating key value]]  
 
 OpenSSL   
