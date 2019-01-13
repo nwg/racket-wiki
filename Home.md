@@ -2,13 +2,12 @@
 
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also the world’s first ecosystem for [[developing and deploying new languages|Creating Languages]]. See the [The Racket Manifesto](http://felleisen.org/matthias/manifesto/).
 
-**How to get started** If you are new to [Racket](http://racket-lang.org) the [website](http://racket-lang.org) <<http://racket-lang.org>> is is a good starting point with examples, [documentation](https://docs.racket-lang.org/) and ways to find support and engage with the Racket community.  
-
+**How to get started**  
 The **[getting-started](https://docs.racket-lang.org/getting-started/index.html)** guide covers installation, and supplies resources for both beginners and experienced programmers wanting to learn.
 
 See also [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html), the [Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) and **[Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)**(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
 
-The [[Inside Racket Seminar]] seminars expose the internal design and implementation of Racket
+The [[Inside Racket Seminar]] seminars expose the **internal design and implementation of Racket**.
 
 ## Events
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
