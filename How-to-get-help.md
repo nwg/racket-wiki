@@ -1,6 +1,6 @@
 ![Racket Logo](https://racket-lang.org/logo-and-text-1-2.png)   
 
-**Some good places to ask questions are listed below. **
+**Some good places to ask questions are listed below.**
 
 > "The Racket community aims to improve the world through programming. It started with the goal of introducing everyone to the wonderful world of program design, with a spirit of full inclusion and no emphasis on any specific group. Over time it has grown into a full-fledged professional community with a well-known reputation for helpfulness and openness on its on-line communication channels." 
 -- [`(eighth RacketCon)`](https://con.racket-lang.org)
