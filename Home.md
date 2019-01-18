@@ -12,6 +12,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
 
 **Highlights**   
+* [[Organizations using Racket]]
 * **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 * [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
 * [[Ways you can use Racket at work]] 
