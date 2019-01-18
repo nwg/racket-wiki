@@ -2,10 +2,16 @@
 
 ***
 
-![Fractalide](https://fractalide.com/img/logo-blue-min.png)
 
-> # Node mode
->
+## Biomantica
+
+![Biomantica](http://www.biomantica.com/img/logos/logo.png)  
+Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
+* [Racket and Business](https://youtu.be/bOUgXd9XlJ4)(YouTube) / [(slides)](https://tinyurl.com/David-Storrs-7th-RacketCon) presentation by * David Storrs at [(seventh RacketCon)](http://con.racket-lang.org/2017/)
+
+## Fractalide
+
+![Fractalide](https://fractalide.com/img/logo-blue-min.png)  
 > Node mode is for programmers. It allows them to build reusable, reproducible and composable software agents, or nodes. These are “black box” processes that do one and only one thing. They have unique names, enforced by the nix language.
 >
 > _**Racket is the glue language. It provides the programmer with plenty of languages to use within agents**_[...]    
@@ -13,17 +19,6 @@
 (Emphasis added)  
 
  * [Fractalide](https://fractalide.com/hyperflow/) 
-
-
-***
-
-![Biomantica](http://www.biomantica.com/img/logos/logo.png)
-
- * [Racket for Deep Learning](https://youtu.be/ijS4hrtMTAc)(YouTube) / [(slides)](http://con.racket-lang.org/2017/earl.pdf) presentation by Charles Earl at [(seventh RacketCon)](http://con.racket-lang.org/2017/)
-
-Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
-
-See also [[Racket, AI, Neural networks and Deep Learning|AI]]   
 
 ***
 
