@@ -2,12 +2,13 @@
 
 ***
 
-
 ## Biomantica
 
 ![Biomantica](http://www.biomantica.com/img/logos/logo.png)  
 Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
 * [Racket and Business](https://youtu.be/bOUgXd9XlJ4)(YouTube) / [(slides)](https://tinyurl.com/David-Storrs-7th-RacketCon) presentation by * David Storrs at [(seventh RacketCon)](http://con.racket-lang.org/2017/)
+
+***
 
 ## Fractalide
 
@@ -22,11 +23,17 @@ Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
 
 ***
 
+## Pollen
+
+book-publishing system in Racket <http://pollenpub.com>
+
 ![Practical Typography](https://practicaltypography.com/images/index-a.svg)
 
  * _Practical Typography_ & _Typography for Lawyers_ are built with the [Pollen](https://github.com/mbutterick/pollen) publishing system
 
 ***
+
+## YouPatch
 
 ![YouPatch](https://www.youpatch.com/static/v201610111122/youpatch/img/marilyn-cutting-design.png)
 
@@ -47,6 +54,12 @@ Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
  * [Digital Ricœur](https://digitalricoeur.org/) - digital archive and tools built with Racket Web Server.
 
 ***
+
+## ActivityLog2
+
+_Analyze data from swim, bike and run activities_
+
+> ActivityLog2 is a program that can analyze data recorded by fitness devices such as swim, bike and run sessions. It can be used as a training log and to gain insights about your training using reports and trend charts.
 
 ![ActivityLog2](https://camo.githubusercontent.com/8f5bde4d438bc63a85cd79c4c0153371a5bc7f2f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3042356834584f646b696d3732566d784f4f57685965564e35544773)
  
