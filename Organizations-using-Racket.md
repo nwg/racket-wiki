@@ -50,8 +50,8 @@ book-publishing system in Racket <http://pollenpub.com>
 ## Naughty Dog  
  * [Naughty Dog](https://www.youtube.com/watch?v=oSmqbnhHp1c) - Racket in games!
 
-*** 
-
+***  
+## Digital Ricœur  
 ![Digital Ricœur](https://digitalricoeur.org/style/photo.png)
 
  * [Digital Ricœur](https://digitalricoeur.org/) - digital archive and tools built with Racket Web Server.
