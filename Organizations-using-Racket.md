@@ -64,6 +64,8 @@ _Analyze data from swim, bike and run activities_
 
 > ActivityLog2 is a program that can analyze data recorded by fitness devices such as swim, bike and run sessions. It can be used as a training log and to gain insights about your training using reports and trend charts.
 
+[Introducing ActivityLog2](https://alex-hhh.github.io/2017/09/introducing-activitylog2.html)
+
 ![ActivityLog2](https://camo.githubusercontent.com/8f5bde4d438bc63a85cd79c4c0153371a5bc7f2f/68747470733a2f2f64726976652e676f6f676c652e636f6d2f75633f6578706f72743d646f776e6c6f61642669643d3042356834584f646b696d3732566d784f4f57685965564e35544773)
  
 
