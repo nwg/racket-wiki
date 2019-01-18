@@ -1,1 +1,0 @@
-# Racket, AI,  Neural networks and Deep Learning
