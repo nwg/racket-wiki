@@ -19,7 +19,11 @@
 
 ![Biomantica](http://www.biomantica.com/img/logos/logo.png)
 
- * [Racket is the official language](http://con.racket-lang.org/2017/earl.pdf) (slides) at [Biomantica Inc](http://www.biomantica.com)
+ * [Racket for Deep Learning](http://con.racket-lang.org/2017/earl.pdf) (slides)
+
+Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
+
+See also [[Racket, AI,  Neural networks and Deep Learning|Racket & AI]]   
 
 ***
 
