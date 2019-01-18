@@ -41,10 +41,13 @@ book-publishing system in Racket <http://pollenpub.com>
 
 ***
 
+## Hacker News 
+
  * [Hacker News](http://news.ycombinator.com/item?id=2201964) runs on Arc, which is developed in Racket
 
 ***
 
+## Naughty Dog  
  * [Naughty Dog](https://www.youtube.com/watch?v=oSmqbnhHp1c) - Racket in games!
 
 *** 
@@ -68,15 +71,20 @@ _Analyze data from swim, bike and run activities_
 
 ***
 
+## Institute of Applied Astronomy  
+
  * Racket is used at the [Institute of Applied Astronomy](http://iaaras.ru/en) as the primary platform to develop numerical planetary ephemeris. The [online ephemeris service](http://iaaras.ru/en/dept/ephemeris/online/) provided by the IAA is also written in Racket.
 
 ***
 
+## Linki Tools  
 ![Linki Tools Logo](https://linki.tools/images/logo.svg)
 
 [Linki Tools](http://linki.tools) uses Racket for development of devtools utilities related to Compiler Engineering.
 
 ***
+
+## Extramaze
 
 ![Extramaze LLC](https://deals.extramaze.com/favicon-32x32.png/39c6013e24f5eebb8dff42887fc4cb136afa8c56)
 
