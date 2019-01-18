@@ -23,7 +23,7 @@
 
 Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
 
-See also [[Racket, AI,  Neural networks and Deep Learning|Racket-&-AI]]   
+See also [[Racket, AI,  Neural networks and Deep Learning|AI]]   
 
 ***
 
