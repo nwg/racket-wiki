@@ -1,5 +1,17 @@
 ## Organizations using Racket (or a language built on Racket)
 
+* Biomantica
+* Fractalide
+* Pollen
+* YouPatch
+* Hacker News 
+* ActivityLog2
+* Digital Ricœur 
+* Naughty Dog 
+* Institute of Applied Astronomy  
+* Linki Tools  
+* Extramaze
+
 ***
 
 ## Biomantica
