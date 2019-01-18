@@ -1,4 +1,4 @@
-## Organizations using Racket or a language built on Racket
+## Organizations using Racket (or a language built on Racket)
 
 ***
 
