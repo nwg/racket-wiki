@@ -2,6 +2,21 @@
 
 ***
 
+![Fractalide](https://fractalide.com/img/logo-blue-min.png)
+
+> # Node mode
+>
+> Node mode is for programmers. It allows them to build reusable, reproducible and composable software agents, or nodes. These are “black box” processes that do one and only one thing. They have unique names, enforced by the nix language.
+>
+> _**Racket is the glue language. It provides the programmer with plenty of languages to use within agents**_[...]    
+
+(Emphasis added)  
+
+ * [Fractalide](https://fractalide.com/hyperflow/) 
+
+
+***
+
 ![Biomantica](http://www.biomantica.com/img/logos/logo.png)
 
  * [Racket is the official language](http://con.racket-lang.org/2017/earl.pdf) (slides) at [Biomantica Inc](http://www.biomantica.com)
