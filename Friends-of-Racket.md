@@ -45,7 +45,7 @@
 
 ***
 
-![Linki Tools Logo](http://linki.tools/wp-content/uploads/2016/10/LT_logo-150x120.png)
+![Linki Tools Logo](https://linki.tools/images/logo.svg)
 
 [Linki Tools](http://linki.tools) uses Racket for development of devtools utilities related to Compiler Engineering.
 
