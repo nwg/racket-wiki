@@ -19,7 +19,7 @@
 
 ![Biomantica](http://www.biomantica.com/img/logos/logo.png)
 
- * [Racket for Deep Learning](https://youtu.be/ijS4hrtMTAc) (YouTube)  [(slides)](http://con.racket-lang.org/2017/earl.pdf) presentation by Charles Earl
+ * [Racket for Deep Learning](https://youtu.be/ijS4hrtMTAc)(YouTube) / [(slides)](http://con.racket-lang.org/2017/earl.pdf) presentation by Charles Earl at [(seventh RacketCon)](http://con.racket-lang.org/2017/)
 
 Racket is the official language at [Biomantica Inc](http://www.biomantica.com)
 
