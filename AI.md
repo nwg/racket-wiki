@@ -1,7 +1,7 @@
 # Racket, AI,  Neural networks, Deep Learning & Machine Learning
 
 **DeepRacket**  
-* _This package provides a set of interfaces for doing deep learning in the Racket._
+* _The DeepRacket package provides a set of interfaces for doing deep learning in the Racket._
 * [Racket for Deep Learning](https://youtu.be/ijS4hrtMTAc)(YouTube) / [(slides)](http://con.racket-lang.org/2017/earl.pdf) presentation by Charles Earl at [(seventh RacketCon)](http://con.racket-lang.org/2017/)
 * [github.com/charlescearl/DeepRacket](https://github.com/charlescearl/DeepRacket)
 
@@ -12,5 +12,5 @@ _This project ports a subset of the OpenCV library to Racket by using the Racket
 * [Tutorials folder](https://github.com/oetr/racket-opencv/tree/master/tutorials)
 
 **Other** 
-* [Linear Regression](https://gist.github.com/spdegabrielle/f28cd93ffca4e3086d2ab0bd66bd802d) courtesy of <https://github.com/Metaxal/bazaar/blob/master/math.rkt>
+* [Linear Regression](https://gist.github.com/spdegabrielle/f28cd93ffca4e3086d2ab0bd66bd802d) courtesy of @Metaxal  <https://github.com/Metaxal/bazaar/blob/master/math.rkt>
 * 
