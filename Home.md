@@ -13,6 +13,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 
 **Highlights**   
 * [[Organizations using Racket]]  
+* [[RacketScript]] - Racket in the browser!  
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
 * **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 * [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
