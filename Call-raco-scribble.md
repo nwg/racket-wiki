@@ -1,4 +1,5 @@
-## call raco scribble --html 
+### call `raco scribble --html` programmatically
+|[[Artifacts]]|
 
 A function that invokes `raco scribble` using [`(require raco/all-tools)`](http://docs.racket-lang.org/raco/command.html#%28def._%28%28lib._raco%2Fall-tools..rkt%29._all-tools%29%29)
 
