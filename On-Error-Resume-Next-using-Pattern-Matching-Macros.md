@@ -1,4 +1,5 @@
-#### On Error Resume Next using Pattern Matching Macros
+### On Error Resume Next using Pattern Matching Macros
+|[[Artifacts]]|   
 
 Allows us to sequentially execute error-throwing statements without causing control flow to branch
 
