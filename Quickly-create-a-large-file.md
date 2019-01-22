@@ -1,4 +1,4 @@
-##### Quickly create a large file (e.g. for testing, or to reserve disk space for later use)
+### Quickly create a large file (e.g. for testing, or to reserve disk space for later use)
 |[[Artifacts]]|
 
 ```
