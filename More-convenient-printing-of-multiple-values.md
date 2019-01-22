@@ -1,4 +1,4 @@
-##### More convenient printing of multiple values   
+### More convenient printing of multiple values   
 |[[Artifacts]]|
 
 ```
