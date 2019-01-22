@@ -1,4 +1,4 @@
-##### Fetch the contents of a URL
+### Fetch the contents of a URL
 
 ```racket
 ;; Get a URL's entity, being sure to close the port.
