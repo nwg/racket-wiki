@@ -1,5 +1,5 @@
 ### Fetch the contents of a URL
-
+|[[Artifacts]]|
 ```racket
 ;; Get a URL's entity, being sure to close the port.
 (require net/url)
