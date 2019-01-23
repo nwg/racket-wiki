@@ -28,7 +28,6 @@
 
 * [ ] {Blockers}
   - [ ] hackett not building on 7.2
-  - [ ] j failure
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
