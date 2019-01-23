@@ -27,7 +27,6 @@
 # Testing
 
 * [ ] {Blockers}
-  - [ ] missing type for check-logger-or-false
   - [ ] hackett not building on 7.2
   - [ ] j failure
 
