@@ -2,6 +2,6 @@ A curated list of languages:
 
 |Language|Description|package|documentation|source|
 | asi64 |6502 assembler|[[https://pkgs.racket-lang.org/package/asi64][package/asi64]]|[[http://docs.racket-lang.org/asi64/index.html][docs]]|[[https://github.com/pezipink/asi64][github.com/pezipink/asi64]]|
-| teachlog |Description|package|documentation|source|
-| forth |Description|package|documentation|[[https://github.com/bennn/forth]]|
+| teachlog |Description|package|documentation|[[https://github.com/jeapostrophe/teachlog][github.com/jeapostrophe/teachlog]]|
+| forth |Description|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html]]|[[https://github.com/bennn/forth]]|
 |Language|Description|package|documentation|source|
