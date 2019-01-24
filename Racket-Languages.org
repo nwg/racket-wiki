@@ -9,7 +9,6 @@ A curated list of languages:
 | *[[https://lexi-lambda.github.io/hackett/][Hackett]]* |Description|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
 | *miniKanren* |logic programming language|package|[docs]|[[https://github.com/miniKanren/Racket-miniKanren][GitHub]]|
 | *Rosette* |solver-aided programming language|package|[docs]|[[https://github.com/emina/rosette][GitHub]]|
-|Language|Description|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
+| *nand-lang* |Description|package|[docs]|[[https://github.com/rain-1/nand-lang][GitHub]]|
 |Language|Description|package|[docs]|source|
-
 
