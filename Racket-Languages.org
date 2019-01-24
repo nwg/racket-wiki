@@ -1,0 +1,7 @@
+A curated list of languages:
+
+|Language|Description|package|documentation|source|
+|Language|Description|package|documentation|source|
+|Language|Description|package|documentation|source|
+|Language|Description|package|documentation|source|
+|Language|Description|package|documentation|source|
