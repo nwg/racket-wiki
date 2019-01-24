@@ -6,7 +6,7 @@ A curated list of languages:
 | *forth* |Forth, as a Racket #lang|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html][docs]]|[[https://github.com/bennn/forth][GitHub]]|
 | *lindenmayer* |language for L-Systems|package|[[http://docs.racket-lang.org/lindenmayer/index.html][docs]]|[[https://github.com/rfindler/lindenmayer][GitHub]]|
 | *Pie* | dependent types |package|[docs]|[[https://github.com/spdegabrielle/pie][GitHub]]|
-| *[[https://lexi-lambda.github.io/hackett/][Hackett]]* |Description|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
+| *[[https://lexi-lambda.github.io/hackett/][Hackett]]* |combines features from both Haskell and Racket|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
 | *miniKanren* |logic programming language|package|[docs]|[[https://github.com/miniKanren/Racket-miniKanren][GitHub]]|
 | *Rosette* |solver-aided programming language|package|[docs]|[[https://github.com/emina/rosette][GitHub]]|
 | *nand-lang* |Description|package|[docs]|[[https://github.com/rain-1/nand-lang][GitHub]]|
