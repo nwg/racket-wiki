@@ -1,6 +1,6 @@
 A curated list of languages:
 
-| *Language* | *Description* | *package* | *documentation* | *source* |
+| *#lang* | *Description* | *package* | *documentation* | *source* |
 | *asi64* |6502 assembler|[[https://pkgs.racket-lang.org/package/asi64][package/asi64]]|[[http://docs.racket-lang.org/asi64/index.html][docs]]|[[https://github.com/pezipink/asi64][GitHub]]|
 | *teachlog* |Description|package|[docs]|[[https://github.com/jeapostrophe/teachlog][GitHub]]|
 | *forth* |Description|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html][docs]]|[[https://github.com/bennn/forth][GitHub]]|
@@ -10,5 +10,4 @@ A curated list of languages:
 | *miniKanren* |logic programming language|package|[docs]|[[https://github.com/miniKanren/Racket-miniKanren][GitHub]]|
 | *Rosette* |solver-aided programming language|package|[docs]|[[https://github.com/emina/rosette][GitHub]]|
 | *nand-lang* |Description|package|[docs]|[[https://github.com/rain-1/nand-lang][GitHub]]|
-|Language|Description|package|[docs]|source|
-
+| *peg* |PEG parser generator|[[https://pkgs.racket-lang.org/package/peg][package]]|[[http://docs.racket-lang.org/peg/index.html][docs]]|source|
