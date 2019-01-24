@@ -35,10 +35,6 @@
    ```
    racket -l tests/racket/embed-in-c
    ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l distro-build/tests/unix-installer <version>
-   ```
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
