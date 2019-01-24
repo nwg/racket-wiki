@@ -1,7 +1,15 @@
 A curated list of languages:
 
 | *Language* | *Description* | *package* | *documentation* | *source* |
-| *asi64* |6502 assembler|[[https://pkgs.racket-lang.org/package/asi64][package/asi64]]|[[http://docs.racket-lang.org/asi64/index.html][docs]]|[[https://github.com/pezipink/asi64][github.com/pezipink/asi64]]|
-| *teachlog* |Description|package|documentation|[[https://github.com/jeapostrophe/teachlog][github.com/jeapostrophe/teachlog]]|
-| *forth* |Description|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html]]|[[https://github.com/bennn/forth]]|
-|Language|Description|package|documentation|source|
+| *asi64* |6502 assembler|[[https://pkgs.racket-lang.org/package/asi64][package/asi64]]|[[http://docs.racket-lang.org/asi64/index.html][docs]]|[[https://github.com/pezipink/asi64][GitHub]]|
+| *teachlog* |Description|package|[docs]|[[https://github.com/jeapostrophe/teachlog][GitHub]]|
+| *forth* |Description|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html][docs]]|[[https://github.com/bennn/forth][GitHub]]|
+|Language|Description|package|[docs]|[[https://github.com/rfindler/lindenmayer][GitHub]]|
+| *Pie* | dependent types |package|[docs]|[[https://github.com/spdegabrielle/pie][GitHub]]|
+| *[[https://lexi-lambda.github.io/hackett/][Hackett]]* |Description|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
+| *miniKanren* |logic programming language|package|[docs]|[[https://github.com/miniKanren/Racket-miniKanren][GitHub]]|
+| *Rosette* |solver-aided programming language|package|[docs]|[[https://github.com/emina/rosette][GitHub]]|
+|Language|Description|package|[docs]|[[https://github.com/pezipink/asi64][GitHub]]|
+|Language|Description|package|[docs]|source|
+
+
