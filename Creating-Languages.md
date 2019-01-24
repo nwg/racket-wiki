@@ -4,7 +4,9 @@ Racket includes a powerful macro system to extend the language or make new langu
 * [Racket syntax model](https://docs.racket-lang.org/reference/syntax-model.html)
 * [Making new languages](https://docs.racket-lang.org/guide/hash-languages.html)
 
-There are [currently 170 `#lang` language](http://docs.racket-lang.org/search/index.html?q=H%3A) documents in the combined core & packages documentation.
+There are [currently 171 `#lang` language](http://docs.racket-lang.org/search/index.html?q=H%3A) documents in the combined core & packages documentation.
+
+[[Racket-Languages]]
 
 Other resources:
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
