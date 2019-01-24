@@ -21,17 +21,6 @@
 
 # Testing
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
