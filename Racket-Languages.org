@@ -10,4 +10,4 @@ A curated list of languages:
 | *miniKanren* |logic programming language|package|[docs]|[[https://github.com/miniKanren/Racket-miniKanren][GitHub]]|
 | *Rosette* |solver-aided programming language|package|[docs]|[[https://github.com/emina/rosette][GitHub]]|
 | *nand-lang* |Description|package|[docs]|[[https://github.com/rain-1/nand-lang][GitHub]]|
-| *peg* |PEG parser generator|[[https://pkgs.racket-lang.org/package/peg][package]]|[[http://docs.racket-lang.org/peg/index.html][docs]]|source|
+| *peg* |PEG parser generator|[[https://pkgs.racket-lang.org/package/peg][package]]|[[http://docs.racket-lang.org/peg/index.html][docs]]|[[https://github.com/rain-1/racket-peg][GitHub]]|
