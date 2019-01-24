@@ -31,10 +31,6 @@
    ```
    racket -l tests/racket/com
    ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
