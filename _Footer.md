@@ -1,3 +1,3 @@
-[[Wiki-Home|Home]]  |  [racket-lang.org](http://racket-lang.org)  |  [Documentation](https://docs.racket-lang.org)  |  [packages](https://pkgs.racket-lang.org)  |  [[help|How to get help]]  
+[[Wiki-Home|Home]]  |  [racket-lang.org](http://racket-lang.org)  |  [Documentation](https://docs.racket-lang.org)  |  [packages](https://pkgs.racket-lang.org)  |  [[Racket-Languages]]  |  [[help|How to get help]]  
 _We plan to replace this wiki (eventually) with a wiki written in Racket, to which we will migrate the existing content._  
 ![Racket Logo](https://racket-lang.org/logo-and-text-1-2.png)   
