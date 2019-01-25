@@ -176,6 +176,27 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   racket -l typed-racket-test -- --all
   ```
 
+  - [ ] Unit Contract Tests
+    ```
+    raco test -l tests/units/test-unit-contracts
+    ```
+
+  - [ ] Contract Region Tests
+    ```
+    racket -l tests/racket/contract/define-contract
+    racket -l tests/racket/contract/with-contract
+    ```
+
+  - [ ] Class Contract Tests
+    ```
+    racket -l tests/racket/contract/class
+    ```
+
+  - [ ] EoPL Tests
+    ```
+    raco test -c eopl/tests
+    ```
+
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
       ```
@@ -283,23 +304,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     raco test -c datalog/tests
     ```
 
-* [ ] {Stevie Strickland <sstrickl@ccs.neu.edu>}
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
@@ -320,12 +324,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
   - [ ] Signature Tests
     [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
-* [ ] {David Van Horn <dvanhorn@cs.umd.edu>, Sam Tobin-Hochstadt <samth@indiana.edu>}
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
-    ```
 
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
