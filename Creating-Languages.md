@@ -25,8 +25,8 @@ _DRAFT_ (What you need)
 
 3. build _forms_ (using macros)
 
-4. build parser (`racket reader` or `peg`) or generate parser w/ [parser tools](http://docs.racket-lang.org/br-parser-tools/index.html)
-5. Profit?
+4. build parser with `racket reader` or `peg` or generate parser with `[parser tools](http://docs.racket-lang.org/br-parser-tools/index.html)`
+5. ??
 
 
 ## Documentation
