@@ -22,14 +22,6 @@
 # Testing
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] DrRacket Tests: 
-   ```
-   # from the top-level directory of the release bundle, run
-   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "io.rkt" "tests" "drracket"))')")"
-   chmod +x ./run.sh
-   # adjust the RACKET environment variable to point to the right binary, eg:
-   env RACKET=~/Desktop/Racket\ v6.3.90.900/bin/racket ./run.sh
-   ```
    + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      
   - [ ] Framework Tests:
