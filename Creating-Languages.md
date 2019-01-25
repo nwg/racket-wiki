@@ -2,8 +2,9 @@ Racket includes a powerful macro system to extend the language or make new langu
 
 ## Videos
 
-*   
-* 
+* [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
+* [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
+
 
 ## Toolchain   
 _DRAFT_ (What you need)
