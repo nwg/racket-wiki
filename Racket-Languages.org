@@ -2,6 +2,7 @@ A curated list of languages:
 
 | *#lang* | *Description* | *package* | *documentation* | *source* |
 | *overscan* | a live coding environment for live streaming video.| [[https://pkgs.racket-lang.org/package/overscan][package]] | [[https://docs.racket-lang.org/overscan/index.html][docs]] | [[https://github.com/mwunsch/overscan][GitHub]] |
+| *video* | a language for making movies. It combines the power of a traditional video editor with the capabilities of a full programming language.| [[https://pkgs.racket-lang.org/package/video][package]] | [[http://docs.racket-lang.org/video@video/index.html][docs]] | [[https://github.com/videolang/video][GitHub]] |
 | *asi64* |6502 assembler|[[https://pkgs.racket-lang.org/package/asi64][package]]|[[http://docs.racket-lang.org/asi64/index.html][docs]]|[[https://github.com/pezipink/asi64][GitHub]]|
 | *teachlog* |A logic language for teaching language creation|package|[docs]|[[https://github.com/jeapostrophe/teachlog][GitHub]]|
 | *forth* |Forth, as a Racket #lang|[[https://pkgs.racket-lang.org/package/forth][package/forth]]|[[https://docs.racket-lang.org/forth/index.html][docs]]|[[https://github.com/bennn/forth][GitHub]]|
