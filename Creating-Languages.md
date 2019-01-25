@@ -17,10 +17,13 @@ _DRAFT_ (What you need)
 
 
 ## Documentation
-
-* [Intro to macros](https://docs.racket-lang.org/guide/macros.html) and [Macros in depth](https://docs.racket-lang.org/reference/Macros.html)  
-* [Racket syntax model](https://docs.racket-lang.org/reference/syntax-model.html)
-* [Making new languages](https://docs.racket-lang.org/guide/hash-languages.html)
+* Macros 
+  * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/))  
+  * [Macros in depth](https://docs.racket-lang.org/reference/Macros.html)  
+  * [introduction to writing robust macros with syntax-parse and syntax classes](https://docs.racket-lang.org/syntax/stxparse.html)
+  * [Syntax Parse Examples](http://docs.racket-lang.org/syntax-parse-example/index.html)
+  * [Racket syntax model](https://docs.racket-lang.org/reference/syntax-model.html)
+  * [Making new languages](https://docs.racket-lang.org/guide/hash-languages.html)
 
 ## examples
 
