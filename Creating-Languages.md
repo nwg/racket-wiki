@@ -1,6 +1,6 @@
 Racket includes a powerful macro system to extend the language or make new languages:
 
-DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT 
+DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT 
 
 
 ## Videos
@@ -12,17 +12,21 @@ DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DR
 ## Toolchain   
 _DRAFT_ (What you need)
 
-* Racket
-* install BNF or PEG packages as required (to build new syntax)
-* 
+* Install Racket  
+* (anything else?)
 
 ## Workflow
 
 1. Define language 
   * what does it do
   * what syntax will it use
-  * (optional) define and validate language with Redex
-2. 
+  * (define and validate language with Redex ?)
+2. build functions/data specific to the language
+
+3. build _forms_ (using macros)
+
+4. build parser (`racket reader` or `peg`) or generate parser w/ [parser tools](http://docs.racket-lang.org/br-parser-tools/index.html)
+5. Profit?
 
 
 ## Documentation
