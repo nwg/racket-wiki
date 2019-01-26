@@ -27,19 +27,6 @@
 
   - [ ] Games Tests: play a bunch of games (not automated)
 
-  - [ ] PLaneT Tests: 
-   ```
-   # (the output of these tests is hard to read)
-   raco test -l tests/planet/run-all
-   ```
-   
-   - [ ] Redex Tests:
-   ```
-   racket -l redex/tests/run-tests
-   # the results of color-tests require interpretation (and clicking)
-   racket -l redex/tests/color-tests 
-   ```
-
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
