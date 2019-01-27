@@ -11,11 +11,11 @@ _This project ports a subset of the OpenCV library to Racket by using the Racket
 * [github.com/oetr/racket-opencv](https://github.com/oetr/racket-opencv)
 * [Tutorials folder](https://github.com/oetr/racket-opencv/tree/master/tutorials)
 
-**Racket Machine Learing**
+**Racket Machine Learning**
  _Set of machine learning libraries by Simon Johnston._  
-* [Racket Machine Learing - Core](https://github.com/johnstonskj/rml-core)
-* [Racket Machine Learing - k-Nearest Neighbor](https://github.com/johnstonskj/rml-knn)
-* [Racket Machine Learing - Decision Trees](https://github.com/johnstonskj/rml-decisiontrees)
+* [Racket Machine Learning - Core](https://github.com/johnstonskj/rml-core)
+* [Racket Machine Learning - k-Nearest Neighbor](https://github.com/johnstonskj/rml-knn)
+* [Racket Machine Learning - Decision Trees](https://github.com/johnstonskj/rml-decisiontrees)
 
 **Other** 
 * [Linear Regression](https://gist.github.com/spdegabrielle/f28cd93ffca4e3086d2ab0bd66bd802d) courtesy of @Metaxal  <https://github.com/Metaxal/bazaar/blob/master/math.rkt>
