@@ -22,11 +22,13 @@ _DRAFT_
   * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns.
     * [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html)
   * [Typed Racket]() with static type checking, type classes, and gradual typing to grow large stable systems. 
-* lexers and parsers
+  * [RackUnit](https://docs.racket-lang.org/rackunit/index.html)) unit-testing framework, [Clover: test coverage tool]
+(https://docs.racket-lang.org/cover/index.html) & [Overeasy: Racket Language Test Engine](https://docs.racket-lang.org/overeasy/index.html)
+* Lexers and parsers
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) including 
     * [Lexers](https://docs.racket-lang.org/br-parser-tools/Lexers.html)
     * [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html)
-      * [Converting `yacc` or `bison` Grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
+      * [Converting _`C-language`_ `yacc` or `bison` Grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
     * [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html)
   * [recursive descent parser](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] 
@@ -37,9 +39,7 @@ _DRAFT_
   * [Installation Management](https://docs.racket-lang.org/raco/setup.html) 
   * [Working with C Code](https://docs.racket-lang.org/raco/ctool.html) including **[embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
   * [Run tests](https://docs.racket-lang.org/raco/test.html) (using [`test` submodule](https://docs.racket-lang.org/guide/Module_Syntax.html?#%28part._main-and-test%29) and [RackUnit](https://docs.racket-lang.org/rackunit/index.html))
-  * Documentation Search 
   * Macro Expansion 
-  * Reading and Pretty-Printing 
   * Building Documentation
 
 Converting yacc or bison Grammars
