@@ -41,7 +41,7 @@ _DRAFT_
 [compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
 * IDE (DrRacket), including 
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
-  * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html)
+  * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * macro [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 
 ## Workflow
