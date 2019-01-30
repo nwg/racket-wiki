@@ -8,6 +8,7 @@ The Racket _language development toolchain_ includes the racket language(s), [re
 
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
 * [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
+* Building Languages in Racket  [video](https://youtu.be/y1rOWZkALto) [code](http://www.cs.utah.edu/plt/scratchy/)  (tutorial at Racket-Con 2012)
 
 ## Toolchain   
 _DRAFT_ 
@@ -44,7 +45,7 @@ _DRAFT_
 
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
 
-Options for building yuor language
+Options for building your language
 * extend Racket via libraries (not a language)
 * extend Racket via macros (extending the language)
 * provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket)
