@@ -14,7 +14,7 @@ Racket includes a powerful macro system to extend the language or make new langu
 ## Toolchain   
 _DRAFT_ 
 
-* Racket language, including 
+* **Racket language** and libraries, including 
   * Full Scheme-style Hygenic macros
   * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns.
     * [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html)
@@ -37,9 +37,7 @@ _DRAFT_
   * [Working with C Code](https://docs.racket-lang.org/raco/ctool.html) including **[embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
   * [Run tests](https://docs.racket-lang.org/raco/test.html) (using [`test` submodule](https://docs.racket-lang.org/guide/Module_Syntax.html?#%28part._main-and-test%29) and [RackUnit](https://docs.racket-lang.org/rackunit/index.html))
   * [Building Documentation](https://docs.racket-lang.org/raco/scribble.html) created with [scribble/manual](https://docs.racket-lang.org/scribble/plt-manuals.html)
-
-[compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
-* IDE (DrRacket), including 
+* **IDE (DrRacket)**, including 
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * macro [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
