@@ -19,13 +19,14 @@ _DRAFT_
 
 * Racket language, including 
   * Full Scheme-style Hygenic macros
-  * Syntax Parse to support developign more sophisticated macros and intergated error support.
-  * Typed Racket with static type checking, type classes, and gradual typing to grow large stable systems. 
+  * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns.
+    * [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html)
+  * [Typed Racket]() with static type checking, type classes, and gradual typing to grow large stable systems. 
 * lexers and parsers
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) including 
     * [Lexers](https://docs.racket-lang.org/br-parser-tools/Lexers.html)
     * [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html)
-      * [C yacc/bison grammar](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
+      * [Converting `yacc` or `bison` Grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
     * [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html)
   * [recursive descent parser](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] 
@@ -34,14 +35,16 @@ _DRAFT_
   * [Creating](https://docs.racket-lang.org/raco/exe.html) & [Sharing Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
   * [Package Management](https://docs.racket-lang.org/pkg/index.html) 
   * [Installation Management](https://docs.racket-lang.org/raco/setup.html) 
-  * Working with C Code 
-  * Run tests 
+  * [Working with C Code](https://docs.racket-lang.org/raco/ctool.html) including **[embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
+  * [Run tests](https://docs.racket-lang.org/raco/test.html) (using [`test` submodule](https://docs.racket-lang.org/guide/Module_Syntax.html?#%28part._main-and-test%29) and [RackUnit](https://docs.racket-lang.org/rackunit/index.html))
   * Documentation Search 
   * Macro Expansion 
   * Reading and Pretty-Printing 
   * Building Documentation
 
-[`[raco](https://docs.racket-lang.org/raco/index.html)`] to [test])(https://docs.racket-lang.org/raco/test.html), [compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
+Converting yacc or bison Grammars
+
+[compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
 * IDE (DrRacket), including 
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion 
 
