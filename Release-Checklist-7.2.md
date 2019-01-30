@@ -15,14 +15,6 @@
   tests/stepper/manual-tests.txt ;; follow the instructions in this file
   ```
 
-
-* [ ] {Vincent St-Amour <stamourv@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases and the Mac OS release:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-
 * [ ] {Mike Sperber <sperber@deinprogramm.de>}
   - [ ] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
