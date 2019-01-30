@@ -39,10 +39,7 @@ _DRAFT_
   * [Installation Management](https://docs.racket-lang.org/raco/setup.html) 
   * [Working with C Code](https://docs.racket-lang.org/raco/ctool.html) including **[embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
   * [Run tests](https://docs.racket-lang.org/raco/test.html) (using [`test` submodule](https://docs.racket-lang.org/guide/Module_Syntax.html?#%28part._main-and-test%29) and [RackUnit](https://docs.racket-lang.org/rackunit/index.html))
-  * Macro Expansion 
-  * Building Documentation
-
-Converting yacc or bison Grammars
+  * [Building Documentation](https://docs.racket-lang.org/raco/scribble.html) created with [scribble/manual](https://docs.racket-lang.org/scribble/plt-manuals.html)
 
 [compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
 * IDE (DrRacket), including 
