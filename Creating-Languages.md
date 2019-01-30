@@ -1,9 +1,6 @@
 The Racket _language development toolchain_ includes the racket language(s), [recursive descent parser](https://docs.racket-lang.org/reference/reader.html), [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) and [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] command line tools and IDE.
 
-
 Racket includes a powerful macro system to extend the language or make new languages:
-
-DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT 
 
 ## Examples
 [Example languages built on or with the racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
@@ -43,17 +40,29 @@ _DRAFT_
 
 [compile](https://docs.racket-lang.org/raco/make.html)/[decompile](https://docs.racket-lang.org/raco/decompile.html), package, deploy, document, and distribute languages. 
 * IDE (DrRacket), including 
-  * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion 
+  * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
+  *
+  * macro `[Todo List](https://docs.racket-lang.org/todo-list/index.html)` plugin intended for use with cooperating languages, especially statically typed languages and proof assistants.
 
 ## Workflow
+
+DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
+
+Options for building yuor language
+* extend Racket via libraries (not a language)
+* extend Racket via macros (extending the language)
+* provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket)
+* provide a combination of library and/or macro language extensions, removing racket language forms and functions (a new language)
+
+
+
 
 1. Define language 
   * what does it do
   * what syntax will it use
   * (define and validate language with Redex ?)
-2. build functions/data specific to the language
 
-3. build _forms_ (using macros)
+2. build _forms_ (using macros)
 
 4. build parser with `racket reader` or `peg` or generate parser with `[parser tools](http://docs.racket-lang.org/br-parser-tools/index.html)`
 5. ??
