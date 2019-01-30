@@ -1,11 +1,9 @@
 The Racket _language development toolchain_ includes the racket language(s), [recursive descent parser](https://docs.racket-lang.org/reference/reader.html), [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) and [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] command line tools and IDE.
 
-
 ## Examples
 [Example languages built on or with the racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
 
 ## Videos
-
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
 * [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
 * Building Languages in Racket  [video](https://youtu.be/y1rOWZkALto) [code](http://www.cs.utah.edu/plt/scratchy/)  (tutorial at Racket-Con 2012)
