@@ -26,7 +26,7 @@ The Racket _language development toolchain_ includes the racket language(s), [re
     * [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html)
   * [recursive descent parser](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] 
-* [extensible] [**command line tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
+* [**Command-Line Tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
   * [Compiling Source to Bytecode](https://docs.racket-lang.org/raco/make.html)
   * [Creating](https://docs.racket-lang.org/raco/exe.html) & [Sharing Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
   * [Package Management](https://docs.racket-lang.org/pkg/index.html) 
