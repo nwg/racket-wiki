@@ -28,7 +28,7 @@ The Racket _language development toolchain_ includes the racket language(s), [re
     * [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html)
       * [Converting _`C-language`_ `yacc` or `bison` Grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
     * [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html)
-  * [recursive descent parser](https://docs.racket-lang.org/reference/reader.html)
+  * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
 * [**Command-Line Tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
   * [Compiling Source to Bytecode](https://docs.racket-lang.org/raco/make.html)
