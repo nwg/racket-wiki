@@ -18,7 +18,7 @@ The Racket _language development toolchain_ includes the racket language(s), [re
   * [Typed Racket]() with static type checking, type classes, and gradual typing to support grwign MVP's into large stable systems. 
   * [RackUnit](https://docs.racket-lang.org/rackunit/index.html)) unit-testing framework, [Clover: test coverage tool]
 (https://docs.racket-lang.org/cover/index.html) & [Overeasy: Racket Language Test Engine](https://docs.racket-lang.org/overeasy/index.html)
-* Lexers and parsers
+* **Lexers and parsers**
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) including 
     * [Lexers](https://docs.racket-lang.org/br-parser-tools/Lexers.html)
     * [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html)
