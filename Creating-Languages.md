@@ -7,7 +7,7 @@ The following page attempts to bring together resources for language developers.
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 
 ## Examples
-[Example languages built on or with the racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
+[Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
 
 ## Videos
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
