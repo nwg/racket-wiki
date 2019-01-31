@@ -1,4 +1,6 @@
-The Racket _language development toolchain_ includes the racket language(s), [recursive descent parser](https://docs.racket-lang.org/reference/reader.html), [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) and [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] command line tools and IDE.
+The Racket _language development toolchain_ includes the Racket language(s), command line tools, IDE and a range of packages to support developing languages.
+
+The following page attempts to bring together resources for language developers.
 
 ## Learning 
 * _'[Beautiful Racket](https://beautifulracket.com): Make your own programming languages with Racket'_ by Matthew But­t­er­ick (book)
