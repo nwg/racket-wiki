@@ -1,5 +1,8 @@
 The Racket _language development toolchain_ includes the racket language(s), [recursive descent parser](https://docs.racket-lang.org/reference/reader.html), [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) and [PEG parser generator](https://docs.racket-lang.org/peg/index.html)] command line tools and IDE.
 
+## Learning 
+In addition to the Racket Guide and Reference manuals, the best starting point is [Beautiful Racket](https://beautifulracket.com) 'Make your own programming languages with Racket.' by Matthew But­t­er­ick (book)
+
 ## Examples
 [Example languages built on or with the racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
 
@@ -66,7 +69,6 @@ Options for building your language
 ## Other resources
 
 * [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
-* [Beautiful Racket](https://beautifulracket.com) 'Make your own programming languages with Racket.' by Matthew But­t­er­ick (book)
 
 ## Papers
 [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, Eli Barzilay, Jay McCarthy, Sam Tobin-Hochstadt. Communications of the ACM, March 2018, Vol. 61 No. 3, Pages 62-71. DOI 10.1145/3127323
