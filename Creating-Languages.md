@@ -20,7 +20,7 @@ The Racket _language development toolchain_ includes the racket language(s), [re
 * **Racket language** and libraries, including 
   * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
   * [Typed Racket](https://docs.racket-lang.org/ts-guide/index.html) with static type checking, type classes, and gradual typing to support grwign MVP's into large stable systems. (not specifically required for building languages - but should be considered when moving from prototype to production systems)
-  * [RackUnit](https://docs.racket-lang.org/rackunit/index.html)) unit-testing framework, [Clover: test coverage tool]
+  * **Testing support**: [RackUnit](https://docs.racket-lang.org/rackunit/index.html) unit-testing framework, [Clover: test coverage tool]
 (https://docs.racket-lang.org/cover/index.html) & [Overeasy: Racket Language Test Engine](https://docs.racket-lang.org/overeasy/index.html)
 * **Lexers and parsers**
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) including 
