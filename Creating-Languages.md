@@ -44,10 +44,10 @@ The Racket _language development toolchain_ includes the racket language(s), [re
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
 
 Options for building your language
-* provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket)
+* provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket - no parser required)
 * provide a combination of library and/or macro language extensions, removing racket language forms and functions (a new language) 
-* new syntax with racket backend  e.g. Datalog, Algol, Forth 
-* new syntax targeting other backend e.g.
+* new syntax (parser required) with racket backend  e.g. [Datalog](http://docs.racket-lang.org/datalog/datalog.html), Algol, Forth 
+* new syntax targeting other backend e.g. [asi64](http://docs.racket-lang.org/asi64/index.html)
 
 ## Documentation
 * Macros 
