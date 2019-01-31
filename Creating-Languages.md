@@ -44,24 +44,10 @@ The Racket _language development toolchain_ includes the racket language(s), [re
 DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
 
 Options for building your language
-* extend Racket via libraries (not a language)
-* extend Racket via macros (extending the language)
 * provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket)
-* provide a combination of library and/or macro language extensions, removing racket language forms and functions (a new language)
-
-
-
-
-1. Define language 
-  * what does it do
-  * what syntax will it use
-  * (define and validate language with Redex ?)
-
-2. build _forms_ (using macros)
-
-4. build parser with `racket reader` or `peg` or generate parser with `[parser tools](http://docs.racket-lang.org/br-parser-tools/index.html)`
-5. ??
-
+* provide a combination of library and/or macro language extensions, removing racket language forms and functions (a new language) 
+* new syntax with racket backend  e.g. Datalog, Algol, Forth 
+* new syntax targeting other backend e.g.
 
 ## Documentation
 * Macros 
