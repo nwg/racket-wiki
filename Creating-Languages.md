@@ -24,11 +24,7 @@ The following page attempts to bring together resources for language developers.
   * [Typed Racket](https://docs.racket-lang.org/ts-guide/index.html) with static type checking, type classes, and gradual typing to support grwign MVP's into large stable systems. (not specifically required for building languages - but should be considered when moving from prototype to production systems)
   * **Testing support**: [RackUnit](https://docs.racket-lang.org/rackunit/index.html) unit-testing framework, [Clover: test coverage tool](https://docs.racket-lang.org/cover/index.html) & [Overeasy: Racket Language Test Engine](https://docs.racket-lang.org/overeasy/index.html)
 * **Lexers and parsers**
-  * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) including 
-    * [Lexers](https://docs.racket-lang.org/br-parser-tools/Lexers.html)
-    * [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html)
-      * [Converting _`C-language`_ `yacc` or `bison` Grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
-    * [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html)
+  * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
 * [**Command-Line Tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
