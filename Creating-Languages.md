@@ -40,21 +40,9 @@ The following page attempts to bring together resources for language developers.
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 
-## (DRAFT) Workflow
-
-DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT 
-
-Options for building your language
-* provide a combination of library and/or macro language extensions and a subset of Racket (a new language closely related to Racket - no parser required)
-* provide a combination of library and/or macro language extensions, removing racket language forms and functions (a new language) 
-* new syntax (parser required) with racket backend  e.g. [Datalog](http://docs.racket-lang.org/datalog/datalog.html), Algol, Forth 
-* new syntax targeting other backend e.g. [asi64](http://docs.racket-lang.org/asi64/index.html)
-
-approach: see _'[Beautiful Racket](https://beautifulracket.com): Make your own programming languages with Racket'_ by Matthew But­t­er­ick (book)
-
-DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT DRAFT
-
 ## Documentation
+* Parsing
+  *
 * Macros 
   * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/))  
   * [Macros in depth](https://docs.racket-lang.org/reference/Macros.html)  
