@@ -13,7 +13,7 @@ The following page attempts to bring together resources for language developers.
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
 * [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
 * Building Languages in Racket  [video](https://youtu.be/y1rOWZkALto) [code](http://www.cs.utah.edu/plt/scratchy/)  (tutorial at Racket-Con 2012)
-* <http://cs.brown.edu/courses/cs173/2012/Videos/>
+* <https://youtu.be/3N__tvmZrzc?t=2412> <http://cs.brown.edu/courses/cs173/2012/Videos/>
 
 ## Toolchain   
 > I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.
