@@ -1,6 +1,6 @@
 This page lists [Racket](http://www.racket-lang.org) projects related to applications in science and engineering. Each section also has a wish list where you can add things that you would like to see developed.
 
-Racket supports a wide variety of applied mathematics, including simulation, statistical inference, signal processing, and combinatorics. The Mathematical visualisation (Plot) library provides a flexible interface for interactive scatter plots, line plots, contour plots, histograms, and 3D surfaces and isosurfaces. You can take advantage of the applied mathematics features of Racket to accomplish artificial intelligence (AI) tasks.
+Racket supports a wide variety of applied mathematics, including simulation, statistical inference, signal processing, and combinatorics. The Mathematical visualisation (Plot) library provides a flexible interface for interactive scatter plots, line plots, contour plots, histograms, and 3D surfaces and isosurfaces.
 
 ### File formats, basic data processing
 
