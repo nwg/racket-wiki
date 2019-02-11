@@ -5,6 +5,8 @@ The following page attempts to bring together resources for language developers.
 ## Learning 
 * _'[Beautiful Racket](https://beautifulracket.com): Make your own programming languages with Racket'_ by Matthew But­t­er­ick (book)
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
+* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) and the  
+[PLAI Typed Language](https://docs.racket-lang.org/plai-typed/index.html)
 
 ## Examples
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
