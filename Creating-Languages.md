@@ -18,7 +18,7 @@ The following page attempts to bring together resources for language developers.
 ## Specialist tools
 
 * [The `turnstile` language](https://docs.racket-lang.org/turnstile/): 
-  * _"Turnstile aims to help Racket programmers create typed languages. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_
+  * _"Turnstile aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_
 
 
 ## Toolchain   
