@@ -27,14 +27,8 @@ The following page attempts to bring together resources for language developers.
   * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
   * [The `turnstile` language](https://docs.racket-lang.org/turnstile/): 
     * _"Turnstile aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
-* [**Command-Line Tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
-  * [Compiling Source to Bytecode](https://docs.racket-lang.org/raco/make.html)
-  * [Creating](https://docs.racket-lang.org/raco/exe.html) & [Sharing Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
-  * [Package Management](https://docs.racket-lang.org/pkg/index.html) 
-  * [Installation Management](https://docs.racket-lang.org/raco/setup.html) 
-  * [Working with C Code](https://docs.racket-lang.org/raco/ctool.html) including **[embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
-  * [Run tests](https://docs.racket-lang.org/raco/test.html) (using [`test` submodule](https://docs.racket-lang.org/guide/Module_Syntax.html?#%28part._main-and-test%29) and [RackUnit](https://docs.racket-lang.org/rackunit/index.html))
-  * [Building Documentation](https://docs.racket-lang.org/raco/scribble.html) created with [scribble/manual](https://docs.racket-lang.org/scribble/plt-manuals.html)
+ * **[Embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
+
 * **Lexers and parsers**
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
