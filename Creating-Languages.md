@@ -27,7 +27,7 @@ The following page attempts to bring together resources for language developers.
     * _"Turnstile aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
  * [The Racket Foreign Interface](https://docs.racket-lang.org/foreign/index.html)
    * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
- * **[Embedding the Racket run-time system in larger programs and extending Racket directly with C-implemented libraries](https://docs.racket-lang.org/inside/index.html)**
+ * [Embedding the Racket run-time system in larger programs](https://docs.racket-lang.org/inside/embedding.html)
 
 * **Lexers and parsers**
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
