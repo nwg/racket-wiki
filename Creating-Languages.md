@@ -21,13 +21,12 @@ The following page attempts to bring together resources for language developers.
 ## Toolchain   
 > I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.
 
-> I have not included functionality of Racket as a General Purpose Multi-Paradigm language, or the broad range of Racket libraries. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
+> I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
 
 * **Racket language** and libraries, including 
   * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
   * [The `turnstile` language](https://docs.racket-lang.org/turnstile/): 
     * _"Turnstile aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
-  * **Testing support**: [RackUnit](https://docs.racket-lang.org/rackunit/index.html) unit-testing framework, [Clover: test coverage tool](https://docs.racket-lang.org/cover/index.html) & [Overeasy: Racket Language Test Engine](https://docs.racket-lang.org/overeasy/index.html)
 * [**Command-Line Tools**](https://docs.racket-lang.org/raco/index.html), including, but not limited to; 
   * [Compiling Source to Bytecode](https://docs.racket-lang.org/raco/make.html)
   * [Creating](https://docs.racket-lang.org/raco/exe.html) & [Sharing Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
