@@ -25,6 +25,5 @@ _optionally also show the more native Racket idiom_
 
 ## References
 
-[[Choosing a data-structure]]
-
-[draft notes on data structures in Racket(gist)](https://gist.github.com/alex-hhh/3cc5690a7f9c74543dab6c11344e6202), with some performance considerations. by [Alex Harsányi](https://alex-hhh.github.io/) 
+* [[Choosing a data-structure]]
+* [draft notes on data structures in Racket(gist)](https://gist.github.com/alex-hhh/3cc5690a7f9c74543dab6c11344e6202), with some performance considerations. by [Alex Harsányi](https://alex-hhh.github.io/) 
