@@ -1,5 +1,10 @@
 # **DRAFT** Migrating from Python to Racket 
 
+** Contents **
+* [Idioms](https://github.com/racket/racket/wiki/Python/#idioms)
+* [Performance pitfalls ](https://github.com/racket/racket/wiki/Python/#performance-pitfalls)
+* [References](https://github.com/racket/racket/wiki/Python/#references)
+
 ## Idioms 
 
 * A Python "list" is an extensible vector of pointers
