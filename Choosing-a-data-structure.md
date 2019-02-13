@@ -9,4 +9,4 @@
     Splay:           random       Variable   non-integer, total order
 
 Credit: Jens Axel Søgaard   
-[Source:https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146](https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146)
+Source: [https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146](https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146)
