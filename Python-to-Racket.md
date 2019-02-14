@@ -26,4 +26,4 @@ _optionally also show the more native Racket idiom_
 ## References
 
 * [[Choosing a data-structure]]
-* [Notes on data structures in Racket](https://alex-hhh.github.io/2019/02/racket-data-structures.html), with some performance considerations. by [Alex Harsányi](https://alex-hhh.github.io/) 
+* [Notes on data structures in Racket](https://alex-hhh.github.io/2019/02/racket-data-structures.html), with some performance considerations.
