@@ -13,4 +13,4 @@ Source: [https://stackoverflow.com/questions/27584416/in-racket-what-is-the-adva
 
 ## See also
 
-* [draft notes on data structures in Racket(gist)](https://gist.github.com/alex-hhh/3cc5690a7f9c74543dab6c11344e6202), with some performance considerations. by [Alex Harsányi](https://alex-hhh.github.io/) 
+* [Notes on data structures in Racket](https://alex-hhh.github.io/2019/02/racket-data-structures.html), with some performance considerations.
