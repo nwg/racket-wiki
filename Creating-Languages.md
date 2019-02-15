@@ -30,7 +30,7 @@ The following page attempts to bring together resources for language developers.
    * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
  * [Embedding the Racket run-time system in larger programs](https://docs.racket-lang.org/inside/embedding.html)
 
-* **Lexers and parsers**
+* **Lexers and parsers** _(easily provide a syntax suitable to the task or audience)_
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
@@ -41,7 +41,8 @@ The following page attempts to bring together resources for language developers.
 
 ## Documentation
 * Macros 
-  * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/))  
+  * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
+)  
   * [Macros in depth](https://docs.racket-lang.org/reference/Macros.html)  
   * [introduction to writing robust macros with syntax-parse and syntax classes](https://docs.racket-lang.org/syntax/stxparse.html)
   * [Syntax Parse Examples](http://docs.racket-lang.org/syntax-parse-example/index.html)
@@ -52,11 +53,7 @@ The following page attempts to bring together resources for language developers.
 
 * [[Racket-Languages]] (a list curated for learning purposes)
 * [`#lang` in the documentation](http://docs.racket-lang.org/search/index.html?q=H%3A) 
-
-## Other resources
-
-* [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
-
+ 
 ## Papers
 [A Programmable Programming Language](https://cacm.acm.org/magazines/2018/3/225475-a-programmable-programming-language/fulltext) by Matthias Felleisen, Robert Bruce Findler, Matthew Flatt, Shriram Krishnamurthi, Eli Barzilay, Jay McCarthy, Sam Tobin-Hochstadt. Communications of the ACM, March 2018, Vol. 61 No. 3, Pages 62-71. DOI 10.1145/3127323
 
