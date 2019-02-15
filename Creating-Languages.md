@@ -23,8 +23,7 @@ The following page attempts to bring together resources for language developers.
 ## Toolchain   
 > I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.
 
-> I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
- * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
+* [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
 * [Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html): Rosette is a solver-aided programming system with two components:  
   * A programming language that extends a subset of Racket with constructs for accessing a constraint solver. With the solver’s help, Rosette can answer interesting questions about programs—such as, whether they are buggy and if so, how to repair them.  
   * A symbolic virtual machine (SVM) that executes Rosette programs and compiles them to logical constraints. The SVM enables Rosette to use the solver to automatically reason about program behaviors.
@@ -42,13 +41,15 @@ The following page attempts to bring together resources for language developers.
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
+> I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
+
 
 ## Documentation
 * Macros 
   * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
 )  
   * [Macros in depth](https://docs.racket-lang.org/reference/Macros.html)  
-  * [introduction to writing robust macros with syntax-parse and syntax classes](https://docs.racket-lang.org/syntax/stxparse.html)
+  * [Syntax-Parse](https://docs.racket-lang.org/syntax/stxparse.html): introduction to writing robust macros with syntax-parse and syntax classes
   * [Syntax Parse Examples](http://docs.racket-lang.org/syntax-parse-example/index.html)
   * [Racket syntax model](https://docs.racket-lang.org/reference/syntax-model.html)
   * [Making new languages](https://docs.racket-lang.org/guide/hash-languages.html)
