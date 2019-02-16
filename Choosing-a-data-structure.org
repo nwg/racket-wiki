@@ -9,7 +9,6 @@
 |[[https://docs.racket-lang.org/data/Splay_Trees.html][Splay]]|random|Variable|non-integer, total order|
 
 
-Credit: Jens Axel Søgaard   
-Source: [[https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146][https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146]]
+Credit: /Jens Axel Søgaard/ at [[https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146][https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146]]
 
 *See also* [[https://alex-hhh.github.io/2019/02/racket-data-structures.html][Notes on data structures in Racket]], with some performance considerations.
