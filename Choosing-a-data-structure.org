@@ -3,7 +3,7 @@
 |DATA STRUCTURE|ACCESS|NUMBER|INDICES|
 |[[https://docs.racket-lang.org/guide/pairs.html][List]]:|sequential|Variable|not used|
 |[[https://docs.racket-lang.org/guide/define-struct.html][Struct]]:||random|Fixed|names|
-|[https://docs.racket-lang.org/guide/vectors.html[][Vector]]:|random|Fixed|integer|
+|[[https://docs.racket-lang.org/guide/vectors.html][Vector]]:|random|Fixed|integer|
 |[[https://docs.racket-lang.org/data/gvector.html][Growable vector]]:|random|Variable|integer|
 |[[https://docs.racket-lang.org/guide/hash-tables.html][Hash]]:|random|Variable|hashable|
 |[[https://docs.racket-lang.org/data/Splay_Trees.html][Splay]]:|random|Variable|non-integer, total order|
