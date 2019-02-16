@@ -15,7 +15,7 @@
 * Python Lists aren’t Racket Lists 
   * use either Growable Vectors or RaList
     * [Growable Vectors](https://docs.racket-lang.org/data/gvector.html)
-    * [RaList: Purely Functional Random-Access Lists](https://docs.racket-lang.org/ralist/main.html)
+    * [RaList: Purely Functional Random-Access Lists](https://docs.racket-lang.org/ralist/index.html)
 
 ### How to transliterate the loop/append example from python to Racket:
 
