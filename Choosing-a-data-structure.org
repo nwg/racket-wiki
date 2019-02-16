@@ -14,4 +14,4 @@ Source: [[https://stackoverflow.com/questions/27584416/in-racket-what-is-the-adv
 
 ** See also
 
-* [[https://alex-hhh.github.io/2019/02/racket-data-structures.html][Notes on data structures in Racket]], with some performance considerations.
+[[https://alex-hhh.github.io/2019/02/racket-data-structures.html][Notes on data structures in Racket]], with some performance considerations.
