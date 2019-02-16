@@ -11,6 +11,10 @@ These can in turn be used to build other, more elaborate data structures.
 |[[https://docs.racket-lang.org/guide/hash-tables.html][Hash]]|random|Variable|hashable|
 |[[https://docs.racket-lang.org/data/Splay_Trees.html][Splay]]|random|Variable|non-integer, total order|
 
+Important takeaways:
+  - `(list-ref   xs n)` takes time proportional to O(n) 
+  - `(vector-ref xs n)` takes constant time
+
 Notes: 
   - A Racket `list` is a single-linked list. [[https://en.wikipedia.org/wiki/Linked_list]Wikipedia]
   - A Racket `vector` is often called an [[https://en.wikipedia.org/wiki/Array_data_structure]Array] in other languages
