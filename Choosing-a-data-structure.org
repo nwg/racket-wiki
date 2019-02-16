@@ -1,5 +1,8 @@
 * Choosing a data structure
 
+The most fundamental data structures in Rackets are lists, vectors and structs.
+These can in turn be used to build other, more elaborate data structures.
+
 |DATA STRUCTURE|ACCESS|NUMBER|INDICES|
 |[[https://docs.racket-lang.org/guide/pairs.html][List]]|sequential|Variable|not used|
 |[[https://docs.racket-lang.org/guide/define-struct.html][Struct]]|random|Fixed|names|
@@ -8,7 +11,12 @@
 |[[https://docs.racket-lang.org/guide/hash-tables.html][Hash]]|random|Variable|hashable|
 |[[https://docs.racket-lang.org/data/Splay_Trees.html][Splay]]|random|Variable|non-integer, total order|
 
+Notes: 
+  - A Racket `list` is a single-linked list. [[https://en.wikipedia.org/wiki/Linked_list]Wikipedia]
+  - A Racket `vector` is often called an [[https://en.wikipedia.org/wiki/Array_data_structure]Array] in other languages
+  - A `splay` tree is a self-adjusting binary tree
 
-Credit: /Jens Axel Søgaard/ at [[https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146][https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146]]
+Original table of data structures:
+ [[https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146][https://stackoverflow.com/questions/27584416/in-racket-what-is-the-advantage-of-lists-over-vectors/27589146#27589146]]
 
 *See also* [[https://alex-hhh.github.io/2019/02/racket-data-structures.html][Notes on data structures in Racket]], with some performance considerations.
