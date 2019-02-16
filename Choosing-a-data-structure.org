@@ -16,8 +16,8 @@ Important takeaways:
   - `(vector-ref xs n)` takes constant time
 
 Notes: 
-  - A Racket `list` is a single-linked list. [[https://en.wikipedia.org/wiki/Linked_list]Wikipedia]
-  - A Racket `vector` is often called an [[https://en.wikipedia.org/wiki/Array_data_structure]Array] in other languages
+  - A Racket `list` is a single-linked list. [[https://en.wikipedia.org/wiki/Linked_list][Wikipedia]]
+  - A Racket `vector` is often called an [[https://en.wikipedia.org/wiki/Array_data_structure][Array]] in other languages
   - A `splay` tree is a self-adjusting binary tree
 
 Original table of data structures:
