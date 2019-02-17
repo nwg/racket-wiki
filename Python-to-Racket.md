@@ -20,13 +20,9 @@
   * Python's `append` adds a single element to the back of the List in amortized O(1) time.
   * Racket's append returns the concatenation of two or more Lists in O(n) time. 
     * This makes it more similar to Python's `extend` method (or the `+` operator for Lists).
-  * Use the `cons` operator to add single elements to a Racket List. 
-    * Adding to the front of a Racket List is a O(1) operation.
-  * While building a List from the front may results in elements being in reverse order relative to the desired
-    output, it is faster and more idiomatic to build call `reverse` after building the List than it is to try
-    building the list from the back.
-    * This may seem counter-intuitive -- you're looping over the List twice! -- but it doesn't change the time
-      complexity of O(n) or worse operations, and `reverse` is relatively fast.
+  * Use the `cons` operator to add single elements to a Racket List (adding to the front of a Racket List is a O(1) operation).
+  * Building a List from the front may result in elements being in reverse order, but it is faster and more
+    idiomatic to build a List from the front and then correct the order by calling `reverse`. While this may seem counter-intuitive, `reverse` is relatively fast and won't change the time complexity of any operation O(n) or worse operations.
 
 ### How to transliterate the loop/append example from python to Racket:
 
