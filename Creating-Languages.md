@@ -19,17 +19,17 @@ The following page attempts to bring together resources for language developers.
 
 
 ## Toolchain   
-> I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.  
+
 * **IDE (DrRacket)**, including 
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 
 * [The C Foreign Function Interface](https://docs.racket-lang.org/foreign/index.html)
-  * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
+  * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._  (e.g. The C FFI is how `#lang video` calls the `ffmpeg`.)
 * [Embedding](https://docs.racket-lang.org/inside/embedding.html) Racket in C larger programs
 
-* [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html): _"syntax/parse helps you robust embedded DSLs in minutes"_([Building languages in an afternoon](https://youtu.be/TfehOLha-18)) (See also [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
+* [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html): _"syntax/parse helps you build robust embedded DSLs in minutes"_(quote from [slides](https://con.racket-lang.org/2016/king.pdf) for [Building languages in an afternoon](https://youtu.be/TfehOLha-18)) (See also [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
 
 ## languages 
 * [`lang #` Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a _solver-aided domain-specific language_
