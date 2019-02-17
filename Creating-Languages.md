@@ -29,18 +29,17 @@ The following page attempts to bring together resources for language developers.
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 > I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
 
+* [The Racket Foreign Interface](https://docs.racket-lang.org/foreign/index.html)
+  * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
+* [Embedding](https://docs.racket-lang.org/inside/embedding.html) Racket in C larger programs
 
 * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
-
 
 * [Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html): Rosette is a solver-aided programming system with two components:  
   * A programming language that extends a subset of Racket with constructs for accessing a constraint solver. With the solver’s help, Rosette can answer interesting questions about programs—such as, whether they are buggy and if so, how to repair them.  
   * A symbolic virtual machine (SVM) that executes Rosette programs and compiles them to logical constraints. The SVM enables Rosette to use the solver to automatically reason about program behaviors.
 
  * [The `turnstile` language](https://docs.racket-lang.org/turnstile/) _"[...]aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
- * [The Racket Foreign Interface](https://docs.racket-lang.org/foreign/index.html)
-   * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
- * [Embedding the Racket run-time system in larger programs](https://docs.racket-lang.org/inside/embedding.html)
 
 * **Lexers and parsers** _(easily provide a syntax suitable to the task or audience)_
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
