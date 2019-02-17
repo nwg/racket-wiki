@@ -29,7 +29,7 @@ The following page attempts to bring together resources for language developers.
   * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
 * [Embedding](https://docs.racket-lang.org/inside/embedding.html) Racket in C larger programs
 
-* [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
+* [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html): _"syntax/parse helps you robust embedded DSLs in minutes"_([Building languages in an afternoon](https://youtu.be/TfehOLha-18)) (See also [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
 
 ## languages 
 * [`lang #` Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a _solver-aided domain-specific language_
