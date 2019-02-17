@@ -21,13 +21,11 @@ The following page attempts to bring together resources for language developers.
 
 
 ## Toolchain   
-> I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.
-
+> I've tried to include the parts of the Racket language development toolchain specific or important to language development. e.g. The C FFI is a key part of how `#lang video` works with the `ffmpeg` library.  
 * **IDE (DrRacket)**, including 
   * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
-> I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
 
 * [The Racket Foreign Interface](https://docs.racket-lang.org/foreign/index.html)
   * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
@@ -46,6 +44,7 @@ The following page attempts to bring together resources for language developers.
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
 
+> I have not included functionality of Racket as a General Purpose language. Please see the [Racket Guide](https://docs.racket-lang.org/guide/index.html), [Racket Reference Manual](https://docs.racket-lang.org/reference/index.html), the [Documentation](https://docs.racket-lang.org/index.html) and [Packages respository](https://pkgs.racket-lang.org/) 
 
 ## Documentation
 * Macros 
