@@ -32,7 +32,7 @@ The following page attempts to bring together resources for language developers.
 * [Syntax Parse](https://docs.racket-lang.org/syntax/stxparse.html) to support developing more sophisticated macros with integrated error support: Macros that use syntax-parse automatically generate error messages based on descriptions and messages embedded in the macro’s syntax patterns. (See [Syntax Parse Examples](https://docs.racket-lang.org/syntax-parse-example/index.html))
 
 ## languages 
-* [`lang #' Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a _solver-aided domain-specific language_
+* [`lang #` Rosette](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a _solver-aided domain-specific language_
 * [The `turnstile` language](https://docs.racket-lang.org/turnstile/) _"[...]aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
 
 * **Lexers and parsers** _(easily provide a syntax suitable to the task or audience)_
