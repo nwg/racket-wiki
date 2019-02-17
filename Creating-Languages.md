@@ -25,7 +25,7 @@ The following page attempts to bring together resources for language developers.
   * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
   * **[Macro]** [`Todo List`](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 
-* [The Racket Foreign Interface](https://docs.racket-lang.org/foreign/index.html)
+* [The C Foreign Function Interface](https://docs.racket-lang.org/foreign/index.html)
   * _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._
 * [Embedding](https://docs.racket-lang.org/inside/embedding.html) Racket in C larger programs
 
