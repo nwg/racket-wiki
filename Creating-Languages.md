@@ -26,7 +26,7 @@ _"syntax/parse helps you build robust embedded DSLs in minutes"
 
 ### Meta-DSL's _(languages that can be used to create languages)_ 
 * [The `turnstile` language](https://docs.racket-lang.org/turnstile/) _"[...]aims to help Racket programmers create **typed languages**. It does so with extensions of Racket’s macro-definition forms that facilitate implementation of type rules alongside normal macro code."_ 
-* [`#lang rosette`](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a **solver-aided domain-specific languages**.
+* [`#lang rosette`](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a solver-aided domain-specific languages. See [_Growing Solver-Aided Languages with ROSETTE_ by Emina Torlak & Rastislav Bodik](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf)
 
 ### **Lexers and parsers** _(easily provide a syntax suitable to the task or audience)_
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
