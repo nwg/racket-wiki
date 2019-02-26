@@ -102,3 +102,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * [alexis king] Make all of `match`’s patterns properly hygienic, rather than inspecting datums for the primitive pattern-matching constructs.
 
 * [gus-massa] The values returned by `make-custom-hash-types` and `make-custom-set-types` have a different order. Change one of them to improve consistency.
+
+* [sorawee] Mutable vector should be growable.
