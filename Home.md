@@ -1,10 +1,11 @@
-**What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also an [ecosystem](http://felleisen.org/matthias/manifesto/) for [[developing and deploying new languages|Creating Languages]].
+**What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also an ecosystem for developing and deploying new languages. See [The Racket Manifesto](http://felleisen.org/matthias/manifesto/) for the origin, purpose and future direction of Racket from its creators.
+
+Interested?
+
+* **[[How to get started]]**  
+* **[[How to get help]]**
 
 The **_[[Racket language development toolchain|Creating Languages]]_** includes the Racket language(s), command line tools, IDE and a range of packages to support developing languages.
-
-**[[How to get started]]**: The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers. ([Lisp/Scheme Experience?](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29))
-
-**[[How to get help]]**: The Email list [racket-users](https://groups.google.com/forum/#!forum/racket-users/), [#Slack](https://racket.slack.com/) channel ([sign up](http://racket-slack.herokuapp.com/)) or [#racket IRC on freenode.net](https://botbot.me/freenode/racket/) are all good places to ask for help.
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
