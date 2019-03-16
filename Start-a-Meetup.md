@@ -33,7 +33,7 @@ Not every meeting has to have a speaker that gives a prepared talk. Think creati
 * **Code review** - bring some code and walk through it. Explain the code, take comments on style, performance, etc. Rewrite parts of it to make it better.
 * **Contribute** - pick a bug from the Clojure bug tracker and work on it together. Or review the documentation and figure out some improvements. Even providing a list of things confusing to newcomers is useful.
 * **Review a paper** - there are tons of great books and papers on **Racket**, Lisp, Clojure, functional programming, persistent data structures, etc. Pick one and lead a discussion about the merits or flaws of the paper.
-* **Book study group** - review a classic book like HTDP or some other classic
+* **Book study group** - review a book like HTDP or some other classic
 * **Competition** - have everyone bring a solution to the same problem in Clojure or other languages and compare the result.
 * **Games Night** - have everyone make a simple game with the _Universe_ library and just have some fun.
 
