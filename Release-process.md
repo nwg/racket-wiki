@@ -2,11 +2,11 @@ This is a description of the current (post-split) release process. The [Release 
 
 # Goals
 
- - I (Ryan) can build the release.
+ - I (Release Manager) can build the release.
 
- - Everyone else can build the release too (eg for testing).
+ - Everyone else can build the release too (e.g. for testing).
 
- - Anyone can retrieve old release sources (eg, "recreate release 5.2").
+ - Anyone can retrieve old release sources (e.g., "recreate release 5.2").
 
 The first two are important. We could live without the third, but it
 would be nice to have, and if we don't support it now it becomes
