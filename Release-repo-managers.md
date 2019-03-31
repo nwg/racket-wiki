@@ -1,6 +1,6 @@
 This page lists the repository managers for packages included in Racket's main distribution. Repo manager responsibilities are described in [[Release process]].
 
-Repositories not listed below are managed by *stamourv*.
+Repositories not listed below are managed by *clements*.
 
 ## Listing by manager
 
@@ -120,4 +120,4 @@ Repositories not listed below are managed by *stamourv*.
  - **racket/wxme** is managed by *mflatt*
  - **stamourv/optimization-coach** is managed by *stamourv*
 
-All repositories not listed above are managed by *stamourv*
+All repositories not listed above are managed by *clements*
