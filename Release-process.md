@@ -2,7 +2,7 @@ This is a description of the current (post-split) release process. The [Release 
 
 # Goals
 
- - I (Release Manager) can build the release.
+ - I (Ryan) can build the release.
 
  - Everyone else can build the release too (e.g. for testing).
 
