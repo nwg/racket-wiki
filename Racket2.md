@@ -104,3 +104,5 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 * [gus-massa] The values returned by `make-custom-hash-types` and `make-custom-set-types` have a different order. Change one of them to improve consistency.
 
 * [sorawee] Mutable vector should be growable.
+
+* [sdegabrielle] make regexes not need double escaping 
