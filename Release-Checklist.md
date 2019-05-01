@@ -18,21 +18,21 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email
-      me to pick the changes when they're done, or tell me if there
+      (updates should show `v$RKTNVER` as the most current version; include
+      the text "merge" in the commit message, or tell me if there
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
-      changes.)
+      (updates should show v$RKTNVER as the most current version; include
+      the text "merge" in the commit message, or tell me if there 
+      are no such changes.)
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Updates:
     + [ ] Teachpack Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; email me
-      to pick the changes when they're done, or tell me if there are no such
+      (updates should show `v$RKTNVER` as the most current version; include
+      the text "merge" in the commit message, or tell me if there are no such
       changes.)
 
 # Testing
