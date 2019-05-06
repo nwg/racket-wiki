@@ -196,11 +196,6 @@
     ```
 
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
   - [ ] Lazy stepper tests
 
     ```
