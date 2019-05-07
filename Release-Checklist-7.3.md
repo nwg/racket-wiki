@@ -195,13 +195,6 @@
     raco docs icons # then look at them
     ```
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
 * [X] {Mike Sperber <sperber@deinprogramm.de>}
   - [X] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
