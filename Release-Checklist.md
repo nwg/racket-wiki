@@ -34,22 +34,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 
 * [ ] {Blockers}
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
-  - [ ] Try creating a BSL sandbox in DrRacket
-   ```
-   (require racket/sandbox)
-   (define e (make-evaluator 'lang/htdp-beginner))
-   ```
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
