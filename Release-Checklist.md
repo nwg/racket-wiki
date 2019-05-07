@@ -35,10 +35,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {Blockers}
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] PCPS test suite (in "pcps-test" repo)
-   ```
-   racket <file in pcps-test repo>
-   ```
   - [ ] Create an executable from a BSL program
    ```
    # make big-bang program with literal image in DrRacket, 
@@ -52,14 +48,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
   - [ ] Run COM tests
    ```
    racket -l tests/racket/com
-   ```
-  - [ ] Embed-in-c test
-   ```
-   racket -l tests/racket/embed-in-c
-   ```
-  - [ ] Run the unix installer tests (in "distro-build-test" package)
-   ```
-   racket -l distro-build/tests/unix-installer <version>
    ```
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
