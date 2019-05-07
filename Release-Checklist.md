@@ -35,18 +35,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {Blockers}
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] `mzc --exe` tests
-   ```
-   racket -l tests/compiler/embed/test
-   ```
-  - [ ] Games Tests
-   ```
-   plt-games
-   ```
-  - [ ] R6RS Tests
-   ```
-   racket -l tests/r6rs/run.sps   # 3 failures expected
-   ```
   - [ ] PCPS test suite (in "pcps-test" repo)
    ```
    racket <file in pcps-test repo>
