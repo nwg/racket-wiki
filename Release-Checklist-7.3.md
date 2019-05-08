@@ -106,8 +106,6 @@
   - [ ] DrRacket Tests: 
    + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      
-  - [ ] Games Tests: play a bunch of games (not automated)
-
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
