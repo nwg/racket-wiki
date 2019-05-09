@@ -6,13 +6,6 @@
      + [ ] Redex Updates: update HISTORY (updates should show v`7.3` as the most current version)
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
-      (updates should show `v7.3` as the most current version; email
-      me to pick the changes when they're done, or tell me if there
-      are no such changes.)
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
       (updates should show v7.3 as the most current version; email me
@@ -32,13 +25,6 @@
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
-
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
@@ -99,8 +85,6 @@
 
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
     + [ ] Test that the binary installers for both work, try each one in
         both normal and unix-style installation modes.
   - [ ] FrTime Tests
