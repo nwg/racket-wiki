@@ -3,7 +3,6 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    - [ ] Updates:
      + [ ] Redex Updates: update HISTORY (updates should show v`7.3` as the most current version)
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
