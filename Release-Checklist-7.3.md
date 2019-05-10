@@ -83,11 +83,5 @@
     racket -l tests/srfi/run-tests
     ```
 
-* [ ] {John Clements <clements@racket-lang.org>}
-   - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
