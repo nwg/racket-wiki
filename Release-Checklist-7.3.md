@@ -84,10 +84,7 @@
     ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases and the Mac OS release:
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
-  - [ ] Inspect icons
+   - [ ] Inspect icons
     ```
     raco docs icons # then look at them
     ```
