@@ -8,6 +8,7 @@ The following page attempts to bring together resources for language developers.
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
 
 ## Videos
+* [https://lang.video/blog/2018/04/17/video-at-bob-2018/](((#lang) Video at BOB 2018)
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
 * [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
 * Building Languages in Racket  [video](https://youtu.be/y1rOWZkALto) [code](http://www.cs.utah.edu/plt/scratchy/)  (tutorial at Racket-Con 2012)
