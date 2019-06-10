@@ -1,5 +1,20 @@
 # Racket web development tools
 
+## paper/talks/tutorials
+
+* [Continue: Web Applications in Racket](https://docs.racket-lang.org/continue) tutorial on creating a database backed web application
+
+* [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/)
+
+## Examples: 
+Both these working example are on glitch.com. Racket is installed via the `install.sh` script.
+You can click the 'Remix to Edit🎤' button to make yourself a copy you can experiment with. 
+
+* [Rantstack](https://glitch.com/~rantstack): a simple web app in Racket (glitch.com)
+* [elm-on-racket](https://glitch.com~elm-on-racket): a simple hello-world app, with an Elm frontend hosted by a simple Racket/Spin backend.
+
+
+
 ## Front-end dev
 * [Urlang](https://github.com/soegaard/urlang) 'Urlang is JavaScript with a sane syntax'
 * [RacketScript](https://github.com/vishesh/racketscript) Racket to JavaScript Compiler
@@ -15,6 +30,3 @@
 * [JSON](https://docs.racket-lang.org/json/) utilities for parsing and producing data in the JSON data exchange format to/from Racket values.
 * [JSONSourcery](https://docs.racket-lang.org/json-sourcery/) A library built on top of the json package for improving JSON serialization and adding clearer syntax macros.
 
-## paper/talks
-
-* 
