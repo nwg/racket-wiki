@@ -29,14 +29,19 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [JSONSourcery](https://docs.racket-lang.org/json-sourcery/) A library built on top of the json package for improving JSON serialization and adding clearer syntax macros.
 
 ### Database tools
-[DB: Database Connectivity](https://docs.racket-lang.org/db/index.html) A database interface for functional programmers.
-[SQL: A Structured Notation for SQL Statements](https://docs.racket-lang.org/sql/index.html) provides an S-expression notation for a subset of SQL. It provides forms that produce statements (as opaque values rather than strings) that can be used directly with Racket’s db library. 
-[Racquel: An Object/Relational Mapper for Racket](https://docs.racket-lang.org/racquel/index.html)
-[sql-sourcery](https://github.com/adjkant/sql-sourcery)Database backed structs for functional programmers. An ORM for mapping structures in Racket to database entries in a SQL database. All versions 0.1.X are unstable Alpha releases. Current version 0.1.0
+* [DB: Database Connectivity](https://docs.racket-lang.org/db/index.html) A database interface for functional programmers.
+* [SQL: A Structured Notation for SQL Statements](https://docs.racket-lang.org/sql/index.html) provides an S-expression notation for a subset of SQL. It provides forms that produce statements (as opaque values rather than strings) that can be used directly with Racket’s db library. 
+* [Racquel: An Object/Relational Mapper for Racket](https://docs.racket-lang.org/racquel/index.html)
+* [sql-sourcery](https://github.com/adjkant/sql-sourcery)Database backed structs for functional programmers. An ORM for mapping structures in Racket to database entries in a SQL database. All versions 0.1.X are unstable Alpha releases. Current version 0.1.0
 
 ## testing 
-
-[**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
+* [**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
 
 ## background 
-[Web Server: HTTP Server](https://docs.racket-lang.org/web-server-internal/index.html) manual describes the internals of the Racket Web Server.
+* [Web Server: HTTP Server](https://docs.racket-lang.org/web-server-internal/index.html) manual describes the internals of the Racket Web Server.
+
+## related
+* [RFC 6455 WebSockets for Racket](https://docs.racket-lang.org/rfc6455/index.html) This package, rfc6455, provides RFC 6455 compatible WebSockets server and client interfaces for Racket, building on Racket’s web-server collection.
+* [OpenSSL: Secure Communication](https://docs.racket-lang.org/openssl/index.html)
+* [memcached](https://docs.racket-lang.org/memcached/index.html) an interface to memcached.
+
