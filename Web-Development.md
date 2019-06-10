@@ -3,7 +3,6 @@
 ## paper/talks/tutorials
 
 * [Continue: Web Applications in Racket](https://docs.racket-lang.org/continue) tutorial on creating a database backed web application
-
 * [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/)
 
 ## Examples: 
