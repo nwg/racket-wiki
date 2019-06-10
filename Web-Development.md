@@ -12,8 +12,6 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [Rantstack](https://glitch.com/~rantstack): a simple web app in Racket (glitch.com)
 * [elm-on-racket](https://glitch.com~elm-on-racket): a simple hello-world app, with an Elm frontend hosted by a simple Racket/Spin backend.
 
-
-
 ## Front-end dev
 * [Urlang](https://github.com/soegaard/urlang) 'Urlang is JavaScript with a sane syntax'
 * [RacketScript](https://github.com/vishesh/racketscript) Racket to JavaScript Compiler
@@ -32,3 +30,6 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 ## testing 
 
 [**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
+
+## background 
+[Web Server: HTTP Server](https://docs.racket-lang.org/web-server-internal/index.html) manual describes the internals of the Racket Web Server.
