@@ -10,7 +10,7 @@
 * [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
 * [Requests](https://github.com/jackfirth/racket-request)
 * [Scripting language for testing JSON-based HTTP APIs](https://github.com/vicampo/riposte)
-* [Racket implementation of a JSON Pointer evaluator (RFC 6901)](https://github.com/jessealama/json-pointer): JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document.
+* [json-pointer: Referring to bits of JSON](https://github.com/jessealama/json-pointer): JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document. (Racket implementation of a JSON Pointer evaluator (RFC 6901))
 * [URI Template (RFC 6570) for Racket](https://github.com/jessealama/uri-template)
 
 ## paper/talks
