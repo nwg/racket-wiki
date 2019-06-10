@@ -41,6 +41,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [Web Server: HTTP Server](https://docs.racket-lang.org/web-server-internal/index.html) manual describes the internals of the Racket Web Server.
 
 ## related
+* [html5](https://github.com/jessealama/rhtml5) Racket implementation of the HTML5 parsing algorithm.
 * [RFC 6455 WebSockets for Racket](https://docs.racket-lang.org/rfc6455/index.html) This package, rfc6455, provides RFC 6455 compatible WebSockets server and client interfaces for Racket, building on Racket’s web-server collection.
 * [OpenSSL: Secure Communication](https://docs.racket-lang.org/openssl/index.html)
 * [Amazon Web Services](https://docs.racket-lang.org/aws/index.html) provides support for many of the Amazon Web Services.
