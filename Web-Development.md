@@ -1,8 +1,8 @@
 # Racket web development tools
 
 ## Front-end dev
-* [Urlang](https://github.com/soegaard/urlang)
-* [RacketScript](https://github.com/vishesh/racketscript)
+* [Urlang](https://github.com/soegaard/urlang) 'Urlang is JavaScript with a sane syntax'
+* [RacketScript](https://github.com/vishesh/racketscript) ' '
   * [RacketScript Playground](http://rapture.twistedplane.com:8080/)
 * 
 ## Back-End dev
