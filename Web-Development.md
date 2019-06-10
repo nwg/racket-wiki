@@ -2,7 +2,7 @@
 
 ## Front-end dev
 * [Urlang](https://github.com/soegaard/urlang) 'Urlang is JavaScript with a sane syntax'
-* [RacketScript](https://github.com/vishesh/racketscript) ' '
+* [RacketScript](https://github.com/vishesh/racketscript) Racket to JavaScript Compiler
   * [RacketScript Playground](http://rapture.twistedplane.com:8080/)
 * 
 ## Back-End dev
