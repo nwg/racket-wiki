@@ -17,7 +17,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [Urlang](https://github.com/soegaard/urlang) 'Urlang is JavaScript with a sane syntax'
 * [RacketScript](https://github.com/vishesh/racketscript) Racket to JavaScript Compiler
   * [RacketScript Playground](http://rapture.twistedplane.com:8080/)
-* 
+
 ## Back-End dev
 
 * [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
