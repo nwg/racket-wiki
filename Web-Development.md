@@ -43,5 +43,6 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 ## related
 * [RFC 6455 WebSockets for Racket](https://docs.racket-lang.org/rfc6455/index.html) This package, rfc6455, provides RFC 6455 compatible WebSockets server and client interfaces for Racket, building on Racket’s web-server collection.
 * [OpenSSL: Secure Communication](https://docs.racket-lang.org/openssl/index.html)
+* [Amazon Web Services](https://docs.racket-lang.org/aws/index.html) provides support for many of the Amazon Web Services.
 * [memcached](https://docs.racket-lang.org/memcached/index.html) an interface to memcached.
 
