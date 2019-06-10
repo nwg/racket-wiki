@@ -29,3 +29,6 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [JSON](https://docs.racket-lang.org/json/) utilities for parsing and producing data in the JSON data exchange format to/from Racket values.
 * [JSONSourcery](https://docs.racket-lang.org/json-sourcery/) A library built on top of the json package for improving JSON serialization and adding clearer syntax macros.
 
+## testing 
+
+**marionette**: A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
