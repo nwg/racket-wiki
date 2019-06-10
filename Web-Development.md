@@ -3,6 +3,7 @@
 ## paper/talks/tutorials
 
 * [Continue: Web Applications in Racket](https://docs.racket-lang.org/continue) tutorial on creating a database backed web application
+* [Web Applications in Racket](https://docs.racket-lang.org/web-server/) describes the Racket libraries for building Web applications.
 * [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/)
 
 ## Examples: 
@@ -18,7 +19,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
   * [RacketScript Playground](http://rapture.twistedplane.com:8080/)
 * 
 ## Back-End dev
-* [Web Applications in Racket](https://docs.racket-lang.org/web-server/)
+
 * [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
 * [Requests](https://github.com/jackfirth/racket-request) Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
 * [Riposte—Scripting Language for JSON-based HTTP APIs](https://github.com/vicampo/riposte)
