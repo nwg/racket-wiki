@@ -31,4 +31,4 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 
 ## testing 
 
-**marionette**: A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
+[**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
