@@ -32,6 +32,7 @@ _languages that can be used to create languages_
 * [`#lang rosette`](https://docs.racket-lang.org/rosette-guide/ch_getting-started.html) to make a solver-aided domain-specific languages. See [_Growing Solver-Aided Languages with ROSETTE_ by Emina Torlak & Rastislav Bodik](https://homes.cs.washington.edu/~emina/pubs/rosette.onward13.pdf)
 
 ### Lexers and Parsers
+  * [brag: a better Racket AST generator](https://docs.racket-lang.org/brag/)
   * [lex- and yacc-style lexer and parser generators](https://docs.racket-lang.org/br-parser-tools/index.html) supporting generating both [LALR(1) Parsers](https://docs.racket-lang.org/br-parser-tools/LALR_1__Parsers.html) and [Context-Free Parsers](https://docs.racket-lang.org/br-parser-tools/Context-Free_Parsers.html) with functionality to [convert _`C-language`_ `yacc` or `bison` grammars](https://docs.racket-lang.org/br-parser-tools/Converting_yacc_or_bison_Grammars.html)
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
