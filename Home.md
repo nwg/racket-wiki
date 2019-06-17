@@ -20,7 +20,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 * [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
 
-**Highlights**   
+## Highlights 
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
 * [[RacketScript]] - Racket in the browser!  
@@ -36,7 +36,15 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Redex Features]] (last edited in 2013)
 * [[Courses using Racket]]  
 
-**[[GitHub]]**: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
+## Racket on the web
+* [[GitHub]]: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
+* [YouTube](https://www.youtube.com/user/racketlang)
+* [StackOverflow](https://stackoverflow.com/questions/tagged/racket)
+* [Reddit](https://www.reddit.com/r/Racket/)
+* [Facebook](https://www.facebook.com/groups/436305706723234/)
+* [Linkedin](https://www.linkedin.com/groups/119028/)
+* [Twitter](https://twitter.com/racketlang)
+_at this stage I am not aware of a presence on instagram or twitch_
 
 ## Meetups?
 * [[Racket Meetups]] and tips on how to [[Start a Meetup]] 
