@@ -9,7 +9,13 @@ The **_[[Racket language development toolchain|Creating Languages]]_** includes 
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
-**Events**  
+## Collections
+* [[Racket language development toolchain|Creating Languages]]
+* [[Racket Web Development|Web Development]]
+* [[Racket, AI, Neural networks and Deep Learning|AI]]   
+* Mobile Apps: [racket-android](https://github.com/jeapostrophe/racket-android) lets you write an Android app in Racket.
+
+## Events  
 * [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
 * [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
@@ -18,9 +24,6 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
 * [[RacketScript]] - Racket in the browser!  
-* [[Racket, AI, Neural networks and Deep Learning|AI]]   
-* [[Racket Web Development|Web Development]]
-* **[racket-android](https://github.com/jeapostrophe/racket-android)** lets you write an Android app in Racket.
 * [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
 * [[Ways you can use Racket at work]] 
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
