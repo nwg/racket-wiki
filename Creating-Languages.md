@@ -27,8 +27,8 @@ _The ffi/unsafe library enables the direct use of C-based APIs within Racket pro
 
 
 ### [Syntax Parse macros](https://docs.racket-lang.org/syntax/stxparse.html)  
-_"[syntax/parse](https://docs.racket-lang.org/syntax/stxparse.html) helps you build robust embedded DSLs in minutes"_
-
+* _"[syntax/parse](https://docs.racket-lang.org/syntax/stxparse.html) helps you build robust embedded DSLs in minutes"_
+* [syntax-parse-example](https://github.com/bennn/syntax-parse-example) Example macros, written using syntax/parse.
 ### Meta-DSL's 
 _languages that can be used to create languages_ 
 * [Rebellion](http://docs.racket-lang.org/rebellion@rebellion/index.html) "Rebellion is a set of infrastructure libraries for Racketeers to build new languages, new frameworks, and new tools with."
