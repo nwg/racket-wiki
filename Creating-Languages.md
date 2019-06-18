@@ -21,9 +21,13 @@ The following page attempts to bring together resources for language developers.
   * [`Todo List`(for macros)](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
 ### [The C Foreign Function Interface](https://docs.racket-lang.org/foreign/index.html)  
 _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._  (e.g. The C FFI is how `#lang video` calls the `ffmpeg`.) (see also [Embedding Racket](https://docs.racket-lang.org/inside/embedding.html) in larger programs.)
-### [Syntax Parse macros](https://docs.racket-lang.org/syntax/stxparse.html)  
-_"syntax/parse helps you build robust embedded DSLs in minutes"
+* [Tutorial: Using Racket’s FFI](http://prl.ccs.neu.edu/blog/2016/06/27/tutorial-using-racket-s-ffi/)
+* [Foreign Interface for PLT Scheme by Eli Barzilay & Dmitry Orlovsky](https://www2.ccs.neu.edu/racket/pubs/scheme04-bo.pdf) (pdf)
+* [FFI examples](https://github.com/dyoo/ffi-tutorial/tree/master/ffi/tutorial/examples)
 
+
+### [Syntax Parse macros](https://docs.racket-lang.org/syntax/stxparse.html)  
+_"[syntax/parse](https://docs.racket-lang.org/syntax/stxparse.html) helps you build robust embedded DSLs in minutes"_
 
 ### Meta-DSL's 
 _languages that can be used to create languages_ 
