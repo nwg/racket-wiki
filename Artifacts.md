@@ -29,11 +29,9 @@ _Please contribute your own!_
 * [[Specifying a HMAC-SHA1 stuffer for the stateless web-server]]  
 * [[generate a n-byte key for use in MAC authentication]]  
 * [[How to generate a Message Authentication Code (MAC) and authenticate a signed message|generate a MAC and authenticate a signed message]]  
-
-### networking
-[[Parsing libpcap files]]  
+* [[Parsing libpcap files]]  
 
 ## FFI 
-[[Generating a GUID using the Win32 API]]  
-[[Sending a file to the Windows Print Spool using the Win32 API]]  
-
+* [[Generating a GUID using the Win32 API]]  
+* [[Sending a file to the Windows Print Spool using the Win32 API]]  
+* [FFI Examples](https://github.com/dyoo/ffi-tutorial/tree/master/ffi/tutorial/examples)
