@@ -32,8 +32,8 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Generics Plans]] planned features for Racket's generic functions library
 * [[Racket2]] A wishlist of backwards incompatible things for a future Racket2.
 * [[Verification and Advanced Types in Racket]]
-* [[Typed Racket plans]] (last edited in 2014 - this needs updating)
-* [[Redex Features]] (last edited in 2013)
+* [[Typed Racket plans]] 
+* [[Redex Features]]
 * [[Courses using Racket]]  
 
 ## Racket on the web
