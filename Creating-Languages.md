@@ -8,6 +8,7 @@ The following page attempts to bring together resources for language developers.
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
 
 ## Videos
+* [Make your own language with Racket](https://fosdem.org/2019/schedule/event/makeownlangracket/) by Jérôme Martin at FOSDEM2019
 * [(#lang) Video at BOB 2018](https://lang.video/blog/2018/04/17/video-at-bob-2018/)
 * [Building languages in an afternoon](https://youtu.be/TfehOLha-18)
 * [#lang overscan: Transform live video streams with code and a REPL!!](https://youtu.be/2aOqaE6oByA)
