@@ -42,9 +42,7 @@ _languages that can be used to create languages_
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
 
 See also;
-
   * [Packages tagged ‘parser’](https://pkgd.racket-lang.org/pkgn/search?tags=parser)
-
   * [Packages tagged ‘parsing’](https://pkgd.racket-lang.org/pkgn/search?tags=parsing)
 
 
