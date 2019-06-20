@@ -41,6 +41,13 @@ _languages that can be used to create languages_
   * [recursive descent parser 'The [Racket] Reader'](https://docs.racket-lang.org/reference/reader.html)
   * [PEG parser generator](https://docs.racket-lang.org/peg/index.html) 
 
+See also;
+
+  * [Packages tagged ‘parser’](https://pkgd.racket-lang.org/pkgn/search?tags=parser)
+
+  * [Packages tagged ‘parsing’](https://pkgd.racket-lang.org/pkgn/search?tags=parsing)
+
+
 ### Documentation
 * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
 )  
