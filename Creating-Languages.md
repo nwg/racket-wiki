@@ -5,7 +5,7 @@ The following page attempts to bring together resources for language developers.
 * [The programming language of your dreams (part 1)](http://rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
-* (Implement a programming language in 7 lines of Scheme)[http://matt.might.net/articles/implementing-a-programming-language/] by Matt Might
+* [Implement a programming language in 7 lines of Scheme](http://matt.might.net/articles/implementing-a-programming-language/) by Matt Might
 
 ## Examples
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
