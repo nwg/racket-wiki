@@ -5,7 +5,7 @@ The following page attempts to bring together resources for language developers.
 * [The programming language of your dreams (part 1)](http://rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
-* (Implement a programming language in 7 lines of Scheme)[http://matt.might.net/articles/implementing-a-programming-language/) by Matt Might
+* (Implement a programming language in 7 lines of Scheme)[http://matt.might.net/articles/implementing-a-programming-language/] by Matt Might
 
 ## Examples
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
@@ -76,8 +76,7 @@ See also;
 
 ## Books
 
-* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) with the  
-[PLAI Typed Language](https://docs.racket-lang.org/plai-typed/index.html)
+* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) by Shriram Krishnamurthi (see the [PLAI Typed Language `#lang plai-typed`](https://docs.racket-lang.org/plai-typed/index.html))
 * [Essentials of Programming Languages](http://www.eopl3.com) by Daniel P. Friedman and Mitchell Wand ([Publisher](https://mitpress.mit.edu/books/essentials-programming-languages-third-edition))
 * [Design Concepts in Programming Languages](https://mitpress.mit.edu/books/design-concepts-programming-languages) by Franklyn Turbak, David Gifford and Mark Sheldon
 * Programming Language Pragmatics by Michael L. Scott
