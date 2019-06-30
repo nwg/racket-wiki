@@ -85,3 +85,22 @@ See also;
 * [Advanced Programming Language Design](https://www.cs.uky.edu/~raphael/courses/CS655/Advanced_programming_language_design.pdf) by Raphael Finkel
 * [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html) by Christian Queinnec and covers _'semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects. It describes 11 interpreters and 2 compilers'_
 * Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters. (see also the Racket [`#lang sicp` designed to go with the book](https://docs.racket-lang.org/sicp-manual/))
+
+## Other
+
+I don't know whether these fit the bill:
+
+"Growing a Language" by Guy Steele
+<https://www.youtube.com/watch?v=_ahvzDzKdB0>
+The remarks on language design begins at the 40 minute mark.
+(If you haven't seen it before, don't skip the beginning of the talk)
+
+Brian Kernighan on Language Design:
+<https://www.youtube.com/watch?v=Sg4U4r_AgJU>
+
+Also interesting, but not on language design:
+Anders Hejlsberg on the gap between how compilers are taught and how modern compilers work.
+<https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction>
+
+ACM Programming Usability SIG meeting
+<http://www.cs.cmu.edu/~NatProg/programminglanguageusability/>
