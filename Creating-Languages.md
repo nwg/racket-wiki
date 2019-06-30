@@ -5,6 +5,7 @@ The following page attempts to bring together resources for language developers.
 * [The programming language of your dreams (part 1)](http://rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
+* (Implement a programming language in 7 lines of Scheme)[http://matt.might.net/articles/implementing-a-programming-language/) by Matt Might
 
 ## Examples
 [Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
@@ -81,4 +82,7 @@ See also;
 * [Design Concepts in Programming Languages](https://mitpress.mit.edu/books/design-concepts-programming-languages) by Franklyn Turbak, David Gifford and Mark Sheldon
 * Programming Language Pragmatics by Michael L. Scott
 * Practical Foundations for Programming Languages by Professor Robert Harper
-
+* Principles of Programming Languages: Design, Evaluation, and Implementation by Bruce J. MacLennan
+* [Advanced Programming Language Design](https://www.cs.uky.edu/~raphael/courses/CS655/Advanced_programming_language_design.pdf) by Raphael Finkel
+* [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html) by Christian Queinnec and covers _'semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects. It describes 11 interpreters and 2 compilers'_
+* Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters.
