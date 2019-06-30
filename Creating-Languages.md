@@ -102,5 +102,10 @@ Also interesting, but not on language design:
 Anders Hejlsberg on the gap between how compilers are taught and how modern compilers work.
 <https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction>
 
-ACM Programming Usability SIG meeting
+ACM Programming Usability SIG meeting 2016
 <http://www.cs.cmu.edu/~NatProg/programminglanguageusability/>
+2016 meeting notes: <http://tinyurl.com/ProgLangUsabilitySig> (Google docs)
+
+Special Interest Group on Programming Languages
+The ACM Special Interest Group on Programming Languages (SIGPLAN) explores programming language concepts and tools, focusing on design, implementation, practice, and theory. Its members are programming language developers, educators, implementers, researchers, theoreticians, and users.
+<https://www.acm.org/special-interest-groups/sigs/sigplan>
