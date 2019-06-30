@@ -72,7 +72,12 @@ See also;
 
 [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt. Communications of the ACM, January 2012, Vol. 55 No. 1, Pages 48-56. DOI 10.1145/2063176.2063195
 
-## Other resources
+## Books
 
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) with the  
 [PLAI Typed Language](https://docs.racket-lang.org/plai-typed/index.html)
+* [Essentials of Programming Languages](http://www.eopl3.com) by Daniel P. Friedman and Mitchell Wand ([Publisher](https://mitpress.mit.edu/books/essentials-programming-languages-third-edition))
+* [Design Concepts in Programming Languages](https://mitpress.mit.edu/books/design-concepts-programming-languages) by Franklyn Turbak, David Gifford and Mark Sheldon
+* Programming Language Pragmatics by Michael L. Scott
+* Practical Foundations for Programming Languages by Professor Robert Harper
+
