@@ -102,6 +102,8 @@ Also interesting, but not on language design:
 Anders Hejlsberg on the gap between how compilers are taught and how modern compilers work.
 <https://channel9.msdn.com/Blogs/Seth-Juarez/Anders-Hejlsberg-on-Modern-Compiler-Construction>
 
+Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy
+
 ACM Programming Usability SIG meeting 2016
 <http://www.cs.cmu.edu/~NatProg/programminglanguageusability/>
 2016 meeting notes: <http://tinyurl.com/ProgLangUsabilitySig> (Google docs)
