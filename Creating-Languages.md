@@ -84,4 +84,4 @@ See also;
 * Principles of Programming Languages: Design, Evaluation, and Implementation by Bruce J. MacLennan
 * [Advanced Programming Language Design](https://www.cs.uky.edu/~raphael/courses/CS655/Advanced_programming_language_design.pdf) by Raphael Finkel
 * [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html) by Christian Queinnec and covers _'semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects. It describes 11 interpreters and 2 compilers'_
-* Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters.
+* Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters. (see also the Racket [`#lang sicp` designed to go with the book](https://docs.racket-lang.org/sicp-manual/))
