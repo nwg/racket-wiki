@@ -111,3 +111,5 @@ ACM Programming Usability SIG meeting 2016
 Special Interest Group on Programming Languages
 The ACM Special Interest Group on Programming Languages (SIGPLAN) explores programming language concepts and tools, focusing on design, implementation, practice, and theory. Its members are programming language developers, educators, implementers, researchers, theoreticians, and users.
 <https://www.acm.org/special-interest-groups/sigs/sigplan>
+
+HOPL proceedings: <https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL>
