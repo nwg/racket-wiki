@@ -20,10 +20,12 @@ _The remarks on language design begins at the 40 minute mark. (If you haven't se
 ](https://www.jsoftware.com/papers/APLEvol.htm)
 * [A history of Haskell: being lazy with class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
 
+***
+
 * Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
 * Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
 
-
+***
 
 Special Interest Group on Programming Languages
 The ACM Special Interest Group on Programming Languages (SIGPLAN) explores programming language concepts and tools, focusing on design, implementation, practice, and theory. Its members are programming language developers, educators, implementers, researchers, theoreticians, and users.
