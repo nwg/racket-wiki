@@ -1,6 +1,6 @@
 ### Contents
 * [IDE(DrRacket)](#IDE-(DrRacket)) - Modern with specific support macros and language development.
-* [The C Foreign Function Interface](#the-c-foreign-function-interface) - 
+* [The C Foreign Function Interface](#the-c-foreign-function-interface) - to interface with stuff that isn't Racket
 * [Syntax Parse macros](#Syntax-Parse-macros) - Macro system with error messages
 * [Libraries](#Libraries) - for language development
 * [Meta-DSL's](#Meta-DSL's) - DSL's to support language development
