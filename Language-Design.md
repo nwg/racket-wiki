@@ -19,6 +19,8 @@ _The remarks on language design begins at the 40 minute mark. (If you haven't se
 * [The Design of APL](https://www.jsoftware.com/papers/APLDesign.htm) [The Evolution of APL
 ](https://www.jsoftware.com/papers/APLEvol.htm)
 * [A history of Haskell: being lazy with class](https://www.microsoft.com/en-us/research/wp-content/uploads/2016/07/history.pdf)
+* Modula-2 and Oberon by Niklaus Wirth
+* A history of ALGOL 68 by C. H. Lindsey	
 
 ***
 
