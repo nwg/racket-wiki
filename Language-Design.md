@@ -1,4 +1,3 @@
-# Language Design
 _Resources on language design_
 
 ***
