@@ -6,9 +6,8 @@ The following page attempts to bring together resources for language developers.
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
 * [Implement a programming language in 7 lines of Scheme](http://matt.might.net/articles/implementing-a-programming-language/) by Matt Might
-
-## [[Example Languages]]
-[Example languages built on or with the Racket toolchain](https://docs.google.com/spreadsheets/d/1K4IbX0OH8pz1qebG5lIaQynFIFAO2vqBA8EuCClRSSI)
+* [[Language Design]] _Resources on language design_
+* [[Example Languages]] _Example languages built on or with the Racket toolchain_
 
 ## Videos
 * [Make your own language with Racket](https://fosdem.org/2019/schedule/event/makeownlangracket/) by Jérôme Martin at FOSDEM2019
@@ -85,7 +84,5 @@ See also;
 * [Advanced Programming Language Design](https://www.cs.uky.edu/~raphael/courses/CS655/Advanced_programming_language_design.pdf) by Raphael Finkel
 * [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html) by Christian Queinnec and covers _'semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects. It describes 11 interpreters and 2 compilers'_
 * Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters. (see also the Racket [`#lang sicp` designed to go with the book](https://docs.racket-lang.org/sicp-manual/))
+* Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy
 
-Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy
-
-## [[Language Design]]
