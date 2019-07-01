@@ -1,19 +1,28 @@
-"Growing a Language" by Guy Steele
-<https://www.youtube.com/watch?v=_ahvzDzKdB0>
-The remarks on language design begins at the 40 minute mark.
-(If you haven't seen it before, don't skip the beginning of the talk)
+# Language Design
+_Resources on language design_
 
-Brian Kernighan on Language Design:
-<https://www.youtube.com/watch?v=Sg4U4r_AgJU>
+***
 
-HOPL proceedings: <https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL>
- - History of Lisp <https://doi.org/10.1145/800025.1198360>
+* "Growing a Language" by Guy Steele: <https://www.youtube.com/watch?v=_ahvzDzKdB0>
+_The remarks on language design begins at the 40 minute mark. (If you haven't seen it before, don't skip the beginning of the talk)_
+* Brian Kernighan on Language Design: <https://www.youtube.com/watch?v=Sg4U4r_AgJU>
 
-Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
+## HOPL proceedings: 
+* <https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL>
+* <http://research.ihost.com/hopl/HOPL.html>
 
-Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
+* [History of Lisp](http://jmc.stanford.edu/articles/lisp.html) <https://doi.org/10.1145/800025.1198360>
 
-Early History of Smalltalk by Alan kay <http://worrydream.com/EarlyHistoryOfSmalltalk/>
+* Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
+
+* [Early History of Smalltalk](http://worrydream.com/EarlyHistoryOfSmalltalk/) by Alan Kay
+
+* [The Laffer Curve of Types](https://felleisen.org/matthias/Thoughts/The_Laffer_Curve_of_Types.html) by Matthias Felleisen 
+
+[A history of Erlang](http://www.cse.chalmers.se/edu/year/2009/course/TDA381_Concurrent_Programming/ARCHIVE/VT2009/general/languages/armstrong-erlang_history.pdf) by Joe Armstrong
+
+* Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
+
 
 
 Special Interest Group on Programming Languages
