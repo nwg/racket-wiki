@@ -6,8 +6,10 @@ The following page attempts to bring together resources for language developers.
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
 * [Implement a programming language in 7 lines of Scheme](http://matt.might.net/articles/implementing-a-programming-language/) by Matt Might
-* [[Language Design]] _Resources on language design_
-* [[Example Languages]] _Example languages built on or with the Racket toolchain_
+
+[[Language Design]] _Resources on language design_
+[[Example Languages]] _Example languages built on or with the Racket toolchain_
+
 ### Documentation
 * [Intro to macros](https://docs.racket-lang.org/guide/macros.html)  (or start with [Fear of Macros](http://www.greghendershott.com/fear-of-macros/): A practical guide to Racket macros by Greg Hendershott.
 )  
