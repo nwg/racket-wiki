@@ -34,3 +34,8 @@ _languages that can be used to create languages_
 See also;
   * [Packages tagged ‘parser’](https://pkgd.racket-lang.org/pkgn/search?tags=parser)
   * [Packages tagged ‘parsing’](https://pkgd.racket-lang.org/pkgn/search?tags=parsing)
+
+
+[[Language Design]] _Resources on language design_
+
+[[Example Languages]] _Example languages built on or with the Racket toolchain_
