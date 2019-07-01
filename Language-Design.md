@@ -3,11 +3,12 @@ _Resources on language design_
 
 ***
 
-* "Growing a Language" by Guy Steele: <https://www.youtube.com/watch?v=_ahvzDzKdB0>
+* [Growing a Language](https://www.youtube.com/watch?v=_ahvzDzKdB0) by Guy Steele (video)
 _The remarks on language design begins at the 40 minute mark. (If you haven't seen it before, don't skip the beginning of the talk)_
-* Brian Kernighan on Language Design: <https://www.youtube.com/watch?v=Sg4U4r_AgJU>
+* [Brian Kernighan on Language Design](https://www.youtube.com/watch?v=Sg4U4r_AgJU) (video)
 * [The Laffer Curve of Types](https://felleisen.org/matthias/Thoughts/The_Laffer_Curve_of_Types.html) by Matthias Felleisen 
 
+***
 
 ## [HOPL proceedings](https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL)
 <http://research.ihost.com/hopl/HOPL.html>
