@@ -1,9 +1,10 @@
 ### Contents
-* [IDE(DrRacket)](#IDE-(DrRacket))
-* [Syntax Parse macros](#Syntax-Parse-macros)
-* [Libraries](#Libraries)
-* [Meta-DSL's](#Meta-DSL's)
-* [Lexers and Parsers](#Lexers-and-Parsers)
+* [IDE(DrRacket)](#IDE-(DrRacket)) - Modern with specific support macros and language development.
+* [The C Foreign Function Interface](#the-c-foreign-function-interface) - 
+* [Syntax Parse macros](#Syntax-Parse-macros) - Macro system with error messages
+* [Libraries](#Libraries) - for language development
+* [Meta-DSL's](#Meta-DSL's) - DSL's to support language development
+* [Lexers and Parsers](#Lexers-and-Parsers) - for supporting a variety of syntaxes
 
 ### IDE (DrRacket)
 DrRacket includes support for multiple languages and supports extension to add more.
