@@ -117,3 +117,4 @@ HOPL proceedings: <https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL
 
 Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
 
+Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
