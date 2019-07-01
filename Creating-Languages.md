@@ -113,6 +113,7 @@ The ACM Special Interest Group on Programming Languages (SIGPLAN) explores progr
 <https://www.acm.org/special-interest-groups/sigs/sigplan>
 
 HOPL proceedings: <https://hopl4.sigplan.org/track/hopl-4-papers#History-of-HOPL>
+ - History of Lisp <https://doi.org/10.1145/800025.1198360>
 
 Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
 
