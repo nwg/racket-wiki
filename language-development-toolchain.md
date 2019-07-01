@@ -6,9 +6,17 @@
 * [Lexers and Parsers](#Lexers-and-Parsers)
 
 ### IDE (DrRacket)
-  * [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion
-  * Support for [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
+DrRacket includes support for multiple languages and supports extension to add more.
+
+* [Macro Stepper(Macro Debugger)](https://docs.racket-lang.org/macro-debugger/index.html) to inspect Macro Expansion. 
+
+Extending DrRacket: 
+* [Adding Languages to DrRacket](https://docs.racket-lang.org/tools/adding-languages.html#%28part._.Adding_.Arbitrary_.Languages_to_.Dr.Racket%29)
+
+Other plugins for macro development
   * [`Todo List`(for macros)](https://docs.racket-lang.org/todo-list/index.html) DrRacket plugin 'intended for use with cooperating languages, especially statically typed languages and proof assistants'.
+  * ...
+
 ### [The C Foreign Function Interface](https://docs.racket-lang.org/foreign/index.html)  
 _The ffi/unsafe library enables the direct use of C-based APIs within Racket programs—without writing any new C code._  (e.g. The C FFI is how `#lang video` calls the `ffmpeg`.) (see also [Embedding Racket](https://docs.racket-lang.org/inside/embedding.html) in larger programs.)
 * [Tutorial: Using Racket’s FFI](http://prl.ccs.neu.edu/blog/2016/06/27/tutorial-using-racket-s-ffi/)
