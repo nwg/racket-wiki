@@ -35,16 +35,5 @@ The following page attempts to bring together resources for language developers.
 
 [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt. Communications of the ACM, January 2012, Vol. 55 No. 1, Pages 48-56. DOI 10.1145/2063176.2063195
 
-## Books
 
-* [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) by Shriram Krishnamurthi (see the [PLAI Typed Language `#lang plai-typed`](https://docs.racket-lang.org/plai-typed/index.html))
-* [Essentials of Programming Languages](http://www.eopl3.com) by Daniel P. Friedman and Mitchell Wand ([Publisher](https://mitpress.mit.edu/books/essentials-programming-languages-third-edition))
-* [Design Concepts in Programming Languages](https://mitpress.mit.edu/books/design-concepts-programming-languages) by Franklyn Turbak, David Gifford and Mark Sheldon
-* Programming Language Pragmatics by Michael L. Scott
-* Practical Foundations for Programming Languages by Professor Robert Harper
-* Principles of Programming Languages: Design, Evaluation, and Implementation by Bruce J. MacLennan
-* [Advanced Programming Language Design](https://www.cs.uky.edu/~raphael/courses/CS655/Advanced_programming_language_design.pdf) by Raphael Finkel
-* [Lisp in Small Pieces](https://pages.lip6.fr/Christian.Queinnec/WWW/LiSP.html) by Christian Queinnec and covers _'semantics and the implementation of the whole Lisp family of languages, namely Lisp, Scheme and related dialects. It describes 11 interpreters and 2 compilers'_
-* Structure and Interpretation of Computer Programs - teaches computer science by teaching students how to implement interpreters. (see also the Racket [`#lang sicp` designed to go with the book](https://docs.racket-lang.org/sicp-manual/))
-* Concepts, Techniques, and Models of Computer Programming (2004) by Peter Van Roy
 
