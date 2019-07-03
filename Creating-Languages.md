@@ -19,10 +19,9 @@ The following page attempts to bring together resources for language developers.
 * [Racket syntax model](https://docs.racket-lang.org/reference/syntax-model.html)
 * [Making new languages](https://docs.racket-lang.org/guide/hash-languages.html)
 
-### examples
 
-* [[Racket-Languages]] (a list curated for learning purposes)
-* [`#lang` in the documentation](http://docs.racket-lang.org/search/index.html?q=H%3A) 
+Search: [`#lang` in the documentation](http://docs.racket-lang.org/search/index.html?q=H%3A) 
+
 ## Videos
 * [Make your own language with Racket](https://fosdem.org/2019/schedule/event/makeownlangracket/) by Jérôme Martin at FOSDEM2019
 * [(#lang) Video at BOB 2018](https://lang.video/blog/2018/04/17/video-at-bob-2018/)
