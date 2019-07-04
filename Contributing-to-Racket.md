@@ -1,12 +1,19 @@
+
+
 ### New: [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) by Ben Greenman
+
+see also
+* [issues tagged 'good-first-issue'](https://github.com/racket/racket/issues?utf8=✓&q=is%3Aissue+is%3Aopen++label%3Agood-first-issue+) in <https://github.com/racket/racket>
+* [issues tagged 'good-first-bug'](https://github.com/racket/typed-racket/issues?q=is%3Aopen+is%3Aissue+label%3Agood-first-bug) in <https://github.com/racket/typed-racket>
+
 
 ## Beginners start here:
 ### An important way you can contribute even if you are very new to Racket;
 > While Racket is much better documented than most free software, it
 could be improved.  Debugging documentation requires a supply of
 ignorance, which is rapidly used up as documentation testers
-learn what the documentation means.  So when you find the
-documentation obscure, **_treat it as a documentation bug and report it_**.
+learn what the documentation means.  **So when you find the**
+**documentation obscure**, **_treat it as a documentation bug and report it_**.
 Maybe, when you become an expert and your supply of ignorance has run
 out, you can even propose patches to improve that documentation!  
 
