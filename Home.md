@@ -17,9 +17,11 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * Mobile Apps: [racket-android](https://github.com/jeapostrophe/racket-android) lets you write an Android app in Racket.
 
 ## Events  
-* [Racketfest](https://racketfest.com/)🔗 Berlin, 23 March 2019.
 * [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool)🔗 Salt Lake City, 8–14 July 2019.
-* [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)🔗  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
+* [ICFP’19](https://icfp19.sigplan.org/) / [Scheme 2019](https://thomas.gilray.org/scheme-2019/) August 19-21, 2019 
+  * [Rebuilding Racket on Chez Scheme](https://icfp19.sigplan.org/details/icfp-2019-papers/1/Rebuilding-Racket-on-Chez-Scheme-Experience-Report-) (Experience Report)  <http://www.cs.utah.edu/plt/rkt-on-chez/>
+  * [Solver-Aided Programming for All](https://icfp19.sigplan.org/details/icfp-2019-Keynotes-and-Reports/1/Solver-Aided-Programming-for-All) by Emina Torlak
+* [Racketfest](https://racketfest.com/)🔗 Berlin, August 17
 
 ## Highlights 
 * [[Organizations using Racket]]  
@@ -55,4 +57,8 @@ _at this stage I am not aware of a presence on instagram or twitch_
 * [Racket London](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
 * [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
 a map to some cities where some Racket users are located.
+<http://www.european-lisp-symposium.org/>
+<https://icfp19.sigplan.org/>
+The Scheme and Functional Programming Workshop <https://thomas.gilray.org/scheme-2019/> <https://icfp19.sigplan.org/track/scheme-2019-papers> at ICFP 2019
+ICFP 2019
  
