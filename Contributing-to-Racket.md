@@ -68,10 +68,6 @@ Be sure that you're searching in the main Racket repository (link above) instead
 * Click 'Create Pull Request'
 * Bask in the glory of helping the Racket Community
 
-# Where to go from there?
-
-You can read the [Racket contribution guide](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html).
-
 # How to contribute once you are more familiar with Racket
 
 * [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) (27 Sep 2017) by Ben Greenman
