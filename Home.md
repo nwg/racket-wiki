@@ -4,7 +4,7 @@ Interested?
 
 * **[[How to get started]]**  
 * **[[How to get help]]**
-* _**[Contributing to Racket🔗](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html)**_ (see also [[Ways to contribute to Racket]])
+* _**[Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html)**_🔗 (see also [[Ways to contribute to Racket]])
 
 The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, IDE and a range of packages to support developing languages.
 
@@ -17,9 +17,9 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * Mobile Apps: [racket-android](https://github.com/jeapostrophe/racket-android) lets you write an Android app in Racket.
 
 ## Events  
-* [Racketfest](https://racketfest.com/) Berlin, 23 March 2019.
-* [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool) Salt Lake City, 8–14 July 2019.
-* [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
+* [Racketfest](https://racketfest.com/)🔗 Berlin, 23 March 2019.
+* [Racket Week 2019](https://con.racket-lang.org/2019/)(=RacketCon+RacketSchool)🔗 Salt Lake City, 8–14 July 2019.
+* [ELS'19 - 12th European Lisp Symposium](http://www.european-lisp-symposium.org/)🔗  Genova, Italy, April 1-2 2019. (Guest appearance by Matthew Flatt on Racket)
 
 ## Highlights 
 * [[Organizations using Racket]]  
