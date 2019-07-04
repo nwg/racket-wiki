@@ -4,7 +4,7 @@ Interested?
 
 * **[[How to get started]]**  
 * **[[How to get help]]**
-* **[Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html)** (see also [[Contributing to Racket]])
+* **[Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html)** (see also [[Ways to contribute to Racket]])
 
 The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, IDE and a range of packages to support developing languages.
 
