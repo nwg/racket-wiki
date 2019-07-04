@@ -22,19 +22,23 @@ _The remarks on language design begins at the 40 minute mark. (If you haven't se
 * A history of ALGOL 68 by C. H. Lindsey	
 
 ***
-
+### Lisp
 * Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
 * Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
 
 ***
 
-Special Interest Group on Programming Languages
+### Special Interest Group on Programming Languages
 The ACM Special Interest Group on Programming Languages (SIGPLAN) explores programming language concepts and tools, focusing on design, implementation, practice, and theory. Its members are programming language developers, educators, implementers, researchers, theoreticians, and users.
 <https://www.acm.org/special-interest-groups/sigs/sigplan>
 
-ACM Programming Usability SIG meeting 2016
+### ACM Programming Usability SIG meeting 2016
 <http://www.cs.cmu.edu/~NatProg/programminglanguageusability/>
 2016 meeting notes: <http://tinyurl.com/ProgLangUsabilitySig> (Google docs)
+
+***
+
+**Smalltalk**, an influential language design: <https://archive.org/details/byte-magazine-1981-08>
 
 Also interesting, but not on language design:
 Anders Hejlsberg on the gap between how compilers are taught and how modern compilers work.
