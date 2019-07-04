@@ -22,6 +22,10 @@ _The remarks on language design begins at the 40 minute mark. (If you haven't se
 * A history of ALGOL 68 by C. H. Lindsey	
 
 ***
+
+_Need to find/add resources on the design of: Java, Javascript, C, C++, and Prolog._ (and any others deemed notable)
+
+***
 ### Lisp
 * Olin Shivers account of 'T'(a lisp) <http://www.paulgraham.com/thist.html>
 * Accounts of Lisp development: <http://www.nhplace.com/kent/Papers/cl-untold-story.html>
