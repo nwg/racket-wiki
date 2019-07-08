@@ -24,6 +24,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [Racketfest](https://racketfest.com/)🔗 Berlin, August 17
 
 ## Highlights 
+* [`racket/gui` saves the day](https://defn.io/2019/06/17/racket-gui-saves/) (blog post)
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
 * [[RacketScript]] - Racket in the browser!  
