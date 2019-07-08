@@ -28,7 +28,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
 * [[RacketScript]] - Racket in the browser!  
-* [[Contributing to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
+* [[Ways to contribute to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
 * [[Ways you can use Racket at work]] 
 * [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 * [[Scientific Computing]] lists Racket projects related to applications in science and engineering
