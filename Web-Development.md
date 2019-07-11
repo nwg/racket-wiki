@@ -1,12 +1,21 @@
 # Racket web development tools
 
+* [paper/talks/tutorials](#papertalkstutorials)
+* [Examples](#examples)
+* [Front-end dev](#front-end-dev)
+* [Back-end dev](#back-end-dev)
+* [Database tools](#database-tools)
+* [Testing](#testing)
+* [Internals](#internals)
+* [Related](#related)
+
 ## paper/talks/tutorials
 
 * [Continue: Web Applications in Racket](https://docs.racket-lang.org/continue) tutorial on creating a database backed web application
 * [Web Applications in Racket](https://docs.racket-lang.org/web-server/) describes the Racket libraries for building Web applications.
 * [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/)
 
-## Examples: 
+## Examples
 Both these working example are on glitch.com. Racket is installed via the `install.sh` script.
 You can click the 'Remix to Edit🎤' button to make yourself a copy you can experiment with. 
 * [Pasterack](http://pasterack.org/): Racket pastebin.  [source](https://github.com/stchang/pasterack)
@@ -37,7 +46,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 ## testing 
 * [**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
 
-## background 
+## Internals 
 * [Web Server: HTTP Server](https://docs.racket-lang.org/web-server-internal/index.html) manual describes the internals of the Racket Web Server.
 
 ## related
@@ -46,4 +55,3 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [OpenSSL: Secure Communication](https://docs.racket-lang.org/openssl/index.html)
 * [Amazon Web Services](https://docs.racket-lang.org/aws/index.html) provides support for many of the Amazon Web Services.
 * [memcached](https://docs.racket-lang.org/memcached/index.html) an interface to memcached.
-
