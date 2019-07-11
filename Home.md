@@ -15,6 +15,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Racket Web Development|Web Development]]
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
 * Mobile Apps: [racket-android](https://github.com/jeapostrophe/racket-android) lets you write an Android app in Racket.
+* [[Game Development]]
 
 ## Events  
 * [[Racket Hackathon 2019]] at Racket Week 2019
