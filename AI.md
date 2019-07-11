@@ -12,10 +12,13 @@ _This project ports a subset of the OpenCV library to Racket by using the Racket
 * [Tutorials folder](https://github.com/oetr/racket-opencv/tree/master/tutorials)
 
 **Racket Machine Learning**
- _Set of machine learning libraries by Simon Johnston._  
-* [Racket Machine Learning - Core](https://github.com/johnstonskj/rml-core)
-* [Racket Machine Learning - k-Nearest Neighbor](https://github.com/johnstonskj/rml-knn)
-* [Racket Machine Learning - Decision Trees](https://github.com/johnstonskj/rml-decisiontrees)
+
+* Racket Machine Learning -  _Set of machine learning libraries by Simon Johnston._  
+  * [Core](https://github.com/johnstonskj/rml-core) - This Package is part of an expected set of packages implementing machine learning capabilities for Racket. The core of this package is the management of 'datasets', these datasets are assumed to be for training and testing of machine learning capabilities.
+  * [k-Nearest Neighbor](https://github.com/johnstonskj/rml-knn) - This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements the K-Nearest Neighbor approach for classification.
+  * [Decision Trees](https://github.com/johnstonskj/rml-decisiontrees) - This Package is part of a set of packages implementing machine learning capabilities for Racket. This particular package implements support for classification of individuals using decision trees.
+
+* [tesseract](https://github.com/lasfter/tesseracket) - Bindings for Google's Tesseract-OCR.
 
 **Other** 
 * [Linear Regression](https://gist.github.com/spdegabrielle/f28cd93ffca4e3086d2ab0bd66bd802d) courtesy of @Metaxal  <https://github.com/Metaxal/bazaar/blob/master/math.rkt>
