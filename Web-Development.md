@@ -29,13 +29,19 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 
 ## Back-End dev
 
-* [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
-* [Requests](https://github.com/jackfirth/racket-request) Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
+* [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) - JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
+* [Requests](https://github.com/jackfirth/racket-request) - Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
 * [Riposte—Scripting Language for JSON-based HTTP APIs](https://github.com/vicampo/riposte)
-* [json-pointer: Referring to bits of JSON](https://github.com/jessealama/json-pointer): JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document. (Racket implementation of a JSON Pointer evaluator (RFC 6901))
+* [json-pointer: Referring to bits of JSON](https://github.com/jessealama/json-pointer) - JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document. (Racket implementation of a JSON Pointer evaluator (RFC 6901))
 * [URI Template (RFC 6570) for Racket](https://github.com/jessealama/uri-template)
-* [JSON](https://docs.racket-lang.org/json/) utilities for parsing and producing data in the JSON data exchange format to/from Racket values.
-* [JSONSourcery](https://docs.racket-lang.org/json-sourcery/) A library built on top of the json package for improving JSON serialization and adding clearer syntax macros.
+* [JSON](https://docs.racket-lang.org/json/) - utilities for parsing and producing data in the JSON data exchange format to/from Racket values.
+* [JSONSourcery](https://docs.racket-lang.org/json-sourcery/) - A library built on top of the json package for improving JSON serialization and adding clearer syntax macros.
+* [Spin](https://github.com/dmac/spin) - Write RESTful web apps in Racket.
+* [Routy](https://github.com/Junker/routy) - Routy is a lightweight high performance HTTP request router for Racket.
+* [HoLy](https://github.com/nihirash/holy) - HoLy is simple a HTTP-server Library for Racket.
+  * [Raf](https://github.com/z-song/raf/) A simple REST Application Framework (see HoLy README.md)
+* [web-galaxy](https://github.com/euhmeuh/web-galaxy) - A minimalist web framework for the Racket web-server.
+* [vela](https://github.com/nuty/vela) - Simple web framework to build RESTful app in Racket.
 
 ### Database tools
 * [DB: Database Connectivity](https://docs.racket-lang.org/db/index.html) A database interface for functional programmers.
