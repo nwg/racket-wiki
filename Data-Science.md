@@ -10,3 +10,6 @@
 
 ## Posts
 * [Exploring Racket](https://khinsen.wordpress.com/2014/05/10/exploring-racket/)
+
+## Contributing
+If you need an idea for a math-related Racket project: pick something from  <https://github.com/racket/racket/wiki/Math-Library-Features>
