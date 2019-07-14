@@ -1,3 +1,7 @@
+# [[Racket Hackathon 2019]]
+
+***
+
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also an ecosystem for developing and deploying new languages. See [The Racket Manifesto](http://felleisen.org/matthias/manifesto/) for the origin, purpose and future direction of Racket from its creators.
 
 Interested?
