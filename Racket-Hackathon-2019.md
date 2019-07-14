@@ -26,3 +26,7 @@ Build a game using Racket. Jay McCarthy will give a quick tutorial on some of th
 # LangJam
 
 Implement the core of a language in Racket. Maybe implement your own version of a well-known language or do something totally new!
+
+# Learn about Racket Internals
+
+I (Sam Tobin-Hochstadt) will talk about how the Racket compiler and runtime is put together, including the macro expander, the linklet layer, and how Racket-on-Chez fits in.
