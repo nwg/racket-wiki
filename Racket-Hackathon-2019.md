@@ -13,7 +13,7 @@ Work on some data science-related libraries in Racket. Consider looking at some 
 
 If you plan to work on a package on GitHub (or GitLab, Bitbucket, etc.), consider making an issue with a checklist of possible tasks to work on during the hackathon. Then add a link to the issue here:
 
-- jackfirth/rebellion#144
+- [jackfirth/rebellion#144](https://github.com/jackfirth/rebellion/issues/144)
 
 # AWS Lambda Runtime
 
