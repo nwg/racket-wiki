@@ -7,8 +7,13 @@ Do your thing, have fun, talk to the people around you and get advice from colle
 # Data Science
 
 Work on some data science-related libraries in Racket. Consider looking at some recent mailing list posts for ideas:
+
 - [Use cases for tables and records](https://groups.google.com/d/msg/racket-users/3Ve4UlOmnpo/udLRfywiBgAJ)
 - [table data structure in Racket](https://groups.google.com/d/msg/racket-users/QlpECxy9cHI/50VGle9xBQAJ)
+
+If you plan to work on a package on GitHub (or GitLab, Bitbucket, etc.), consider making an issue with a checklist of possible tasks to work on during the hackathon. Then add a link to the issue here:
+
+- jackfirth/rebellion#144
 
 # AWS Lambda Runtime
 
