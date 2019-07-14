@@ -15,6 +15,7 @@ The Racket [[language development toolchain]] for [[Creating Languages]] include
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 ## Collections
+* [[Data Science]]
 * [[Racket language development toolchain|Creating Languages]]
 * [[Racket Web Development|Web Development]]
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
