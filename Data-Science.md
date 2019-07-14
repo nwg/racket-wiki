@@ -1,5 +1,6 @@
-[[Racket Hackathon 2019]]
+# [[Racket Hackathon 2019]]
 
+## libraries
 
-
-[data-table](https://github.com/jadudm/data-table)
+* [`plot`](https://docs.racket-lang.org/plot/) (core-distribution) plotting library
+* [data-table](https://github.com/jadudm/data-table) (work in progress)
