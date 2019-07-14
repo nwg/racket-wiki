@@ -2,6 +2,7 @@
 
 ## libraries
 
+* [Comma-Separated Value (CSV) Parsing](https://www.neilvandyke.org/racket/csv-reading/)
 * [Data Science Tooling For Racket `data-science`](https://github.com/n3mo/data-science) (WIP)
 * [`plot`](https://docs.racket-lang.org/plot/) (core-distribution) plotting library
 * [data-table](https://github.com/jadudm/data-table) (work in progress)
