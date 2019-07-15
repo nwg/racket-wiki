@@ -1,4 +1,6 @@
-# [[Racket Hackathon 2019]]
+## New!
+
+* [Data Science at Racket Hackathon 2019](/racket/racket/wiki/Racket-Hackathon-2019#data-science) 
 
 ## libraries
 
