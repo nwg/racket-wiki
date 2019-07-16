@@ -1,7 +1,11 @@
 
 
 > Racket2 and syntax
-> Jul 15Matthew Flatt
+>
+> Jul 15
+>
+> Matthew Flatt
+>
 > tl;dr DON'T PANIC 
 >
 > At RacketCon today, after summarizing the state of work on Racket CS, I 
