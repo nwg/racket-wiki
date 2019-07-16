@@ -1,6 +1,6 @@
+[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)
 
-
-> Subject: Racket2 and syntax
+> Subject: [Racket2 and syntax](https://groups.google.com/d/msg/racket-users/3aIPOGbGgmc/A4HHSbdxAwAJ)
 >
 > Date: Jul 15, 2019
 >
@@ -14,7 +14,7 @@
 >
 > You can find the recording here: 
 >
->  https://www.youtube.com/watch?v=dnz6y5U0tFs 
+>  <https://www.youtube.com/watch?v=dnz6y5U0tFs> 
 >
 > Start at 32:27 for the part about what Racket2 could be. 
 >
@@ -58,15 +58,15 @@
 > to know more about how we're thinking about that process, see the 
 > keynote by Aaron Turon: 
 >
->       https://www.youtube.com/watch?v=xSjk2PdQm5k 
+>       <https://www.youtube.com/watch?v=xSjk2PdQm5k> 
 >
 > (We'll have professionally edited videos of all talks available soon.) 
 >
 > Thanks, 
 > Matthew 
 
-* [DON’T PANIC](https://groups.google.com/d/msg/racket-users/3aIPOGbGgmc/A4HHSbdxAwAJ)
-* [Racket2 RFC’s](https://github.com/racket/racket2-rfcs)
+
+***
 
 _Suggestion: sign and date any new entries_
 
@@ -78,7 +78,7 @@ _Suggestion: sign and date any new entries_
 
 * Drop more guarantees about new object allocations: for example, allow `(append lst '())` to return `lst`,
   and the same for other list, string, bytes, vector functions (drop 0 items from the end of a list,
-  `substring` and `regexp-replace` that don't change a string, etc).
+  `substring` and `regexp-replace` that don't change a string, etc). - [elibarzilay](/elibarzilay) 3 Oct 2012
 
 * Remove `cond`'s default else-is-void clause and replace with a default else-is-error.
 
@@ -135,9 +135,9 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 
 * Disallow mutation of `struct` bindings.
 
-* include pattern matching forms in more binding positions (e.g. `define`, `let`/`for` clauses)
+* include pattern matching forms in more binding positions (e.g. `define`, `let`/`for` clauses) - [samth](/samth) 2 Oct 2012
 
-* Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists.
+* Generic programming by default: `map`, `fold`, and friends are generic and not specialized to lists. - [takikawa](/takikawa) 3 Oct 2012
 
 * Change `integer?` to mean `exact-integer?`.
 
