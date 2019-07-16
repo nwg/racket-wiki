@@ -3,27 +3,27 @@
 > Racket2 and syntax
 > Jul 15Matthew Flatt
 > tl;dr DON'T PANIC 
-
+>
 > At RacketCon today, after summarizing the state of work on Racket CS, I 
 > recommended that we next explore the possibly of changing to an 
 > infix-oriented syntax in "Racket2". 
-
+>
 > You can find the recording here: 
-
+>
 >  https://www.youtube.com/watch?v=dnz6y5U0tFs 
-
+>
 > Start at 32:27 for the part about what Racket2 could be. 
-
+>
 > I'll produce a text version of the rationale soon. For now, I'd like to 
 > offer a few clarifications: 
-
+>
 >  * There is no specific proposal for a new syntax, yet. Our next step 
 >    will be creating a process to explore a possible new syntax. 
-
+>
 >  * The talk does include some initial constraints that might guide the 
 >    choice of a syntax. Even that meta level (i.e., the set of 
 >    constraints) remains subject to a community process. 
-
+>
 >  * `#lang racket` is not going away and will always have its current 
 >    parenthesis-oriented syntax. In the same way that Racket still 
 >    supports `#lang scheme` and `#lang mzscheme` and even `(module 
@@ -32,13 +32,13 @@
 >    programs. We believe that Racket's `#lang`-based ecosystem makes it 
 >    uniquely positioned for trying new language variants while 
 >    preserving and building on our past investments. 
-
+>
 >  * Any new syntax must specifically preserve Racket-style 
 >    language-oriented programming, which means everything from defining 
 >    simple pattern-based macros to building whole new `#lang`s with a 
 >    smooth path in between. Again, our current macro technology must be 
 >    an enabler for a new surface syntax, not a casualty. 
-
+>
 > As I hope comes across in the talk, I like the current Racket syntax 
 > --- and how could I not, after 24 years of helping to define it? --- 
 > and I am aware of many potential technical and social pitfalls that 
@@ -48,16 +48,16 @@
 > lining up some technical solutions for a while. I don't know where the 
 > community discussion will lead, but I'm pretty sure it's time to start 
 > the conversation. 
-
+>
 > Whether or not we eventually decide on a different syntax, the design 
 > of Racket2 will require community input and participation. If you want 
 > to know more about how we're thinking about that process, see the 
 > keynote by Aaron Turon: 
-
+>
 >       https://www.youtube.com/watch?v=xSjk2PdQm5k 
-
+>
 > (We'll have professionally edited videos of all talks available soon.) 
-
+>
 > Thanks, 
 > Matthew 
 
@@ -68,9 +68,7 @@ _Suggestion: sign and date any new entries_
 
 ***
 
-A Wishlist of backwards incompatible things for a future Racket2.
-
-
+# A Wishlist of backwards incompatible things for a future Racket2.
 
 **Note**: This is a wishlist. There's no guarantee any of these will be in a Racket2.
 
