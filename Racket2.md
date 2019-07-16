@@ -1,10 +1,10 @@
 
 
-> Racket2 and syntax
+> Subject: Racket2 and syntax
 >
-> Jul 15
+> Date: Jul 15, 2019
 >
-> Matthew Flatt
+> From: Matthew Flatt
 >
 > tl;dr DON'T PANIC 
 >
