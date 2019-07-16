@@ -169,14 +169,14 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 
 * Have `quasiquote` support `...` as well as `,@`. Among other things, this lets `match` patterns can be like `match` "templates" (output expressions) and be like `syntax-case` etc.
 
-* [tonyg] The .zo and .dep files should be invisible to the user. They should be created, deleted, invalidated, and processed generally without needing to form part of the user's mental model or workflow. Look at how python does this. It'd be lovely to make explicit calls to `raco make` (or even `raco setup`??) unnecessary.
+* [tonyg](/tonyg) The .zo and .dep files should be invisible to the user. They should be created, deleted, invalidated, and processed generally without needing to form part of the user's mental model or workflow. Look at how python does this. It'd be lovely to make explicit calls to `raco make` (or even `raco setup`??) unnecessary.
 
-* [jackfirth] Use syntax parameters in `for` loops for `break` and `continue` instead of keywords
+* [jackfirth](/jackfirth) Use syntax parameters in `for` loops for `break` and `continue` instead of keywords
 
-* [alexis king] Make all of `match`’s patterns properly hygienic, rather than inspecting datums for the primitive pattern-matching constructs.
+* [alexis king](/lexi-lambda) Make all of `match`’s patterns properly hygienic, rather than inspecting datums for the primitive pattern-matching constructs.
 
-* [gus-massa] The values returned by `make-custom-hash-types` and `make-custom-set-types` have a different order. Change one of them to improve consistency.
+* [gus-massa](/gus-massa) The values returned by `make-custom-hash-types` and `make-custom-set-types` have a different order. Change one of them to improve consistency.
 
-* [sorawee] Mutable vector should be growable.
+* [sorawee](/sorawee) Mutable vector should be growable.
 
-* [@sdegabrielle] make regexes not need double escaping 
+* [Stephen De Gabrielle](/spdegabrielle) make regexes not need double escaping 
