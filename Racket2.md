@@ -1,5 +1,6 @@
-
-# [Racket2 RFC’s](https://github.com/racket/racket2-rfcs)
+Please see
+* [DON’T PANIC](https://groups.google.com/d/msg/racket-users/3aIPOGbGgmc/A4HHSbdxAwAJ)
+* [Racket2 RFC’s](https://github.com/racket/racket2-rfcs)
 
 _Suggestion: sign and date any new entries_
 
