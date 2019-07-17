@@ -10,5 +10,5 @@ Others include:
 Online 
 
 * [DrRacket on rollApp](https://www.rollapp.com/app/drracket) DrRacket on RollApp application virtualization service. (free to try)
-* You can also run Racket on the Glitch online IDE - see example <https://glitch.com/~rantstack>
+* You can also run Racket on the Glitch online IDE (which includes a console) - see example <https://glitch.com/~rantstack>
 
