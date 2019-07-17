@@ -1,7 +1,7 @@
 
-The [DrRacket](http://docs.racket-lang.org/drracket/index.html) IDE is a graphical environment for developing programs using the Racket programming languages.
+Racket is supported by a number of IDE's and text editors. 
 
-Others include:  
+* [DrRacket](http://docs.racket-lang.org/drracket/index.html) IDE is a graphical environment for developing programs using the Racket programming languages.
 * [Emacs](https://docs.racket-lang.org/guide/Emacs.html)
 * [Vim](https://docs.racket-lang.org/guide/Vim.html)
 * [Sublime Text](https://docs.racket-lang.org/guide/Sublime_Text.html)
