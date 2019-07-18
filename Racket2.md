@@ -179,4 +179,3 @@ And, even better, have this turn into `define/contract` or maybe `provide/contra
 
 * [sorawee](/sorawee) Mutable vector should be growable.
 
-* [Stephen De Gabrielle](/spdegabrielle) make regexes not need double escaping 
