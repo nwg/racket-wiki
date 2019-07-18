@@ -1,5 +1,6 @@
-* [[Racket Hackathon 2019]]
-* [[Racket2]]
+New: **[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)**
+
+_Please don't add Racket2 items here - please add them as an issue on the RFC's repo_
 
 ***
 
