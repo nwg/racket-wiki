@@ -269,37 +269,6 @@
     raco docs icons # then look at them
     ```
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
-    ```
-    raco test -c tests/web-server
-    ```
-
-  - [ ] XML Tests
-    ```
-    raco test -c tests/xml
-    ```
-
-  - [ ] HTML Tests
-    ```
-    raco test -c tests/html
-    ```
-
-  - [ ] PLAI Tests
-    ```
-    raco test -c plai
-    ```
-
-  - [ ] Racklog tests
-    ```
-    raco test -c racklog/tests
-    ```
-
-  - [ ] Datalog tests
-    ```
-    raco test -c datalog/tests
-    ```
-
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
