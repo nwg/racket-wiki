@@ -46,8 +46,6 @@
    ```
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-  - [ ] DrRacket Tests: 
-   + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
 
   - [ ] Release tests for the Windows release:
     + [ ] Test that the `racket-minimal` source release compiles fine.
