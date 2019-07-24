@@ -1,10 +1,5 @@
 # History Updates
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-   - [ ] Updates:
-     + [ ] Redex Updates: update HISTORY (updates should show `v7.4` as the most current version)
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
