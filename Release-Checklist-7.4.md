@@ -24,12 +24,6 @@
 
 * [ ] {Blockers}
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Release tests for the Windows release:
