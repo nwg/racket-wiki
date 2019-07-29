@@ -35,6 +35,8 @@ Search: [`#lang` in the documentation](http://docs.racket-lang.org/search/index.
 
 [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) by Matthew Flatt. Communications of the ACM, January 2012, Vol. 55 No. 1, Pages 48-56. DOI 10.1145/2063176.2063195
 
+[Lexer and Parser Generators in Scheme](https://www.cs.kent.ac.uk/people/staff/sao/documents/sw04.pdf) by Scott Owens, Matthew Flatt, Olin Shivers & Benjamin McMullan.
+
 ## Books
 
 * [Programming Languages: Application and Interpretation](http://cs.brown.edu/courses/cs173/2012/book/) by Shriram Krishnamurthi (see the [PLAI Typed Language `#lang plai-typed`](https://docs.racket-lang.org/plai-typed/index.html))
