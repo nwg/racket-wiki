@@ -1,12 +1,5 @@
 # History Updates
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
-      (updates should show `v7.4` as the most current version; include
-      the text "merge" in the commit message, or tell me if there
-      are no such changes.)
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
       (updates should show `v7.4` as the most current version; include
@@ -15,8 +8,6 @@
 
 
 # Testing
-
-* [ ] {Blockers}
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
