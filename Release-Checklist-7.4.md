@@ -54,11 +54,7 @@
     + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
-  - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
-
+  
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
     
