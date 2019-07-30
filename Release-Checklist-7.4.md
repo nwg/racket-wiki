@@ -18,13 +18,6 @@
 
 * [ ] {Blockers}
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
   ```
@@ -87,21 +80,6 @@
     raco test -l tests/stepper/automatic-tests.rkt
     ```
 
-* [X] {Mike Sperber <sperber@deinprogramm.de>}
-  - [X] DMdA Tests
-    [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
-    [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
-  - [X] Stepper Tests
-    [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
-  - [X] Signature Tests
-    [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
-* [X] {Spencer Florence <spencer.florence@eecs.northwestern.edu>}
-  - [X] Pict Tests. Uncomment the tests disabled [here](https://github.com/racket/pict/commit/eec716eabe1018226cb674f672388f1f709c6423) then
-
-    ```
-    raco test -p pict pict-lib pict-doc pict-test
-    ```
