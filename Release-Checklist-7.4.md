@@ -1,45 +1,15 @@
-# History Updates
-
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show `v7.4` as the most current version; include
-      the text "merge" in the commit message, or tell me if there 
-      are no such changes.)
 
 
 # Testing
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
+ 
   
   - [ ] Typed Racket Tests:
   ```
   racket -l typed-racket-test -- --all
   ```
 
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
-    ```
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Release tests for (one of the) linux releases and the Mac OS release:
     + [ ] Test that the `racket` and `racket-minimal` source releases
