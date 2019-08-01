@@ -255,11 +255,23 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Release tests for (one of the) linux releases and the Mac OS release:
-    + [ ] Test that the `racket` and `racket-minimal` source releases
-        compile fine.
-    + [ ] Test that the binary installers for both work, try each one in
-        both normal and unix-style installation modes.
+  - [ ] Release tests for (a chosen) linux release and the Mac OS release:
+    + [ ] Test that the `racket` source release compiles on linux
+    + [ ] Test that the `racket-minimal` source release compiles on linux
+    + [ ] Test that the binary installer for linux works in normal mode (install
+          then start racket) [FIXME: is this enough?]
+    + [ ] Test that the binary installer for linux works in unix-style mode
+          (install then start racket) [FIXME: is this enough?]
+  - [ ] Release tests for the Mac OS release:
+    + [ ] On MacOS: Build from sources using the minimal distribution, 
+          then `raco pkg install -i racket-lib` and `raco pkg install -i 
+          main-distribution`. 
+          (Why not just test the full source release? 
+          "The problem is that when packages are already included in a source
+          bundle, then it doesn't include the right versions of packages that
+          have to be platform-specific, such as the one that supplies
+          "libintl.9.dylib".)
+    + [ ] Test that the binary installer for MacOS works (install, start DrRacket)
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
