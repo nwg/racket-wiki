@@ -2,6 +2,7 @@ The following page attempts to bring together resources for language developers.
 
 ## Learning 
 * _'[Beautiful Racket](https://beautifulracket.com): Make your own programming languages with Racket'_ by Matthew But­t­er­ick (book)
+* [Creating Languages in Racket](https://cacm.acm.org/magazines/2012/1/144809-creating-languages-in-racket/fulltext) By Matthew Flatt (includes code) ([github](https://github.com/spdegabrielle/flatt-languages))
 * [The programming language of your dreams (part 1)](http://rilouw.eu/article/the-programming-language-of-your-dreams-part-1)
 * [The Racket Guide: (17) Creating Languages](https://docs.racket-lang.org/guide/languages.html)
 * [Books](#Books) (below)
