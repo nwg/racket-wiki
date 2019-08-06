@@ -18,37 +18,37 @@ Valid names for architectures and operating systems defined by [Golang](https://
 
 ### Racket (CGC and 3M)
 
-|      | linux | darwin | windows |
+|      | `linux` | `darwin` | `windows` |
 | ---- | ----- | ------ | ------- |
-| 386  |       |        |         |
-| amd64 | | | | 
-| arm | | | |
-| arm64 | | | |
-| ppc64 | | | |
-| ppc64le | | | |
-| mips | | | |
-| mipsle | | | |
-| mips64 | | | |
-| mips64le | | | |
-| s390x | | | |
+| `386`  |       |        |         |
+| `amd64` | | | | 
+| `arm` | | | |
+| `arm64` | | | |
+| `mips` | | | |
+| `mipsle` | | | |
+| `mips64` | | | |
+| `mips64le` | | | |
+| `ppc64` | | | |
+| `ppc64le` | | | |
+| `s390x` | | | |
 
 TODO
 
 ### Racket (CS)
 
-|      | linux | darwin | windows |
+|      | `linux` | `darwin` | `windows` |
 | ---- | ----- | ------ | ------- |
-| 386  |       |        |         |
-| amd64 | | | | 
-| arm | | | |
-| arm64 | | | |
-| ppc64 | | | |
-| ppc64le | | | |
-| mips | | | |
-| mipsle | | | |
-| mips64 | | | |
-| mips64le | | | |
-| s390x | | | |
+| `386`  |       |        |         |
+| `amd64` | | | | 
+| `arm` | | | |
+| `arm64` | | | |
+| `mips` | | | |
+| `mipsle` | | | |
+| `mips64` | | | |
+| `mips64le` | | | |
+| `ppc64` | | | |
+| `ppc64le` | | | |
+| `s390x` | | | |
 
 TODO
 
