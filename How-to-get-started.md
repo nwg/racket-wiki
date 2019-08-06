@@ -4,6 +4,7 @@ Other useful resources:
 * [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
 * [Racket Cheat Sheet](http://docs.racket-lang.org/racket-cheat/index.html) 
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
+* [Learning Racket](https://github.com/lojic/LearningRacket) by Brian Adkins of Lojic Technologies
 * [[IDE's and text editors]] 
 * [Tutorial: Creating a Package](https://blog.racket-lang.org/2017/10/tutorial-creating-a-package.html) by Stephen Chang
   * [Getting Started with packages](https://docs.racket-lang.org/pkg/getting-started.html)
