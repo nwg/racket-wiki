@@ -2,7 +2,7 @@
 
 The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
 
-Interested?
+## Interested?
 
 See <https://racket-news.com> for the latest updates!
 
