@@ -7,17 +7,13 @@ This page should include a curated set of bugs in the [Racket bug tracker](http:
 
 ***
 
-See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racket/contribute)
 
 ***
 
 ## NEW: Bugs from [[Racketeer Office Hours 2017 Task Ideas]]
 _Potential "Good first bugs"_
-- [https://github.com/racket/racket/issues/1740](https://github.com/racket/racket/issues/1740)
-- [https://github.com/racket/racket/issues/1699](https://github.com/racket/racket/issues/1699)
-- [https://github.com/racket/racket/issues/1690](https://github.com/racket/racket/issues/1690) (most of the way there, mostly integration remains)
-- [https://github.com/racket/racket/issues/1683](https://github.com/racket/racket/issues/1683)
-- [https://github.com/racket/racket/issues/1654](https://github.com/racket/racket/issues/1654)
+
 - [https://github.com/racket/racket/issues/1653](https://github.com/racket/racket/issues/1653)
 - [https://github.com/racket/racket/issues/1637](https://github.com/racket/racket/issues/1637)
 - [https://github.com/racket/racket/issues/1636](https://github.com/racket/racket/issues/1636)
