@@ -1,5 +1,5 @@
 These are improvements to the Racket source.  Fork the GitHub repository
-and then submit a pull request. For detailed guidance see [[Ways to contribute to Racket]].
+and then submit a pull request. For detailed guidance see [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html).
 
 * Find uses of alists and replace them with hash tables where
   appropriate (note that short alists, below ~40 items, can be faster than hashes)
@@ -15,6 +15,7 @@ and then submit a pull request. For detailed guidance see [[Ways to contribute t
 ## Other ways to contribute
  * [[Integration Projects]] These are improvements to other systems to better support Racket.
  * [[Documentation Improvements]] has ideas where you can help improve the documentation
+ * [[Ways to contribute to Racket]]
 
 ## Completed Code Improvements
 * ~~Add support for `macro-debugger/analysis/check-requires` to xrepl~~ (Completed by Eli)
