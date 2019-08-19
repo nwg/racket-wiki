@@ -11,7 +11,10 @@ Interested?
 * **[[How to get started]]**  
 * **[[How to get help]]** 
 * **[[Support Racket]]** Racket needs your support!
-* **[Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html)** 🔗 (see also [[Ways to contribute to Racket]])
+* ** How to contribute to the Racket project **
+  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution.
+  * [[Ways to contribute to Racket]]) covers 
+  * **Financially** by making a donation to [[https://racket-lang.org/sfc.html]] - _you can also set up recurring payments_.
 
 The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
 
@@ -22,9 +25,9 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Racket language development toolchain|Creating Languages]]
 * [[Racket Web Development|Web Development]]
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
-* Mobile Apps: [racket-android](https://github.com/jeapostrophe/racket-android) lets you write an Android app in Racket.
+* [racket-android](https://github.com/jeapostrophe/racket-android) lets you write Apps for Android in Racket.
 * [[Game Development]]
-* Cross-platform [[GUI Development]]  (Windows, MacOS, Linux)
+* [[GUI Development]] - Cross-platform:Windows, MacOS & Linux
 
 ## Events  
 * [[Racket Hackathon 2019]] at Racket Week 2019
