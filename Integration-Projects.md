@@ -1,6 +1,7 @@
 These are improvements to other systems to better support Racket.
 
-* Racket support for github code editing
+* Racket support for CodeMirror.org (see http://codemirror.net/mode/index.html) (GitHub uses CodeMirror)
+* [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
 * Etags support for Racket features
 * Improve Racket support in Ohloh's line counter
 * Racket support in MediaWiki's GeSHi highligher
@@ -9,8 +10,6 @@ These are improvements to other systems to better support Racket.
   (contact [Eli](mailto:eli@barzilay.org) for more info)
   - Optionally, extend it to do more cool stuffs
   - [rudybot](https://github.com/offby1/rudybot) is another possible starting point
-* [LightTable](http://www.lighttable.com/) plugin for Racket. See the [plugin for Haskell](https://github.com/jetaggart/light-haskell) for an example.
-* Racket support for CodeMirror.org (see http://codemirror.org/mode/index.html)
 
 ## Completed Integration Projects
 
