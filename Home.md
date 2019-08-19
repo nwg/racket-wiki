@@ -8,7 +8,7 @@ Interested?
 * **[[How to get help]]** 
 * **[[Support Racket]]** Racket needs your support!
 * ** How to contribute to the Racket project **
-  * [[Ways to contribute to Racket]]) includes other ways you can contribute to Racket.
+  * [[Ways to contribute to Racket]] includes other ways you can contribute to Racket.
   * **Financially** by making a donation to [[https://racket-lang.org/sfc.html]] - _you can also set up recurring payments_.
   * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution.
 * **[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)** Please read for was to contribute the Racket2 project _Please don't add Racket2 items here - please add them as an issue on the RFC's repo_
