@@ -1,10 +1,6 @@
-New: **[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)**
-
-_Please don't add Racket2 items here - please add them as an issue on the RFC's repo_
-
-***
-
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also an ecosystem for developing and deploying new languages. See [The Racket Manifesto](http://felleisen.org/matthias/manifesto/) for the origin, purpose and future direction of Racket from its creators.
+
+The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
 
 Interested?
 
@@ -12,11 +8,10 @@ Interested?
 * **[[How to get help]]** 
 * **[[Support Racket]]** Racket needs your support!
 * ** How to contribute to the Racket project **
-  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution.
-  * [[Ways to contribute to Racket]]) covers 
+  * [[Ways to contribute to Racket]]) includes other ways you can contribute to Racket.
   * **Financially** by making a donation to [[https://racket-lang.org/sfc.html]] - _you can also set up recurring payments_.
-
-The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
+  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution.
+* **[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)** Please read for was to contribute the Racket2 project _Please don't add Racket2 items here - please add them as an issue on the RFC's repo_
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
