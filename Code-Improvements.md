@@ -1,5 +1,5 @@
 These are improvements to the Racket source.  Fork the GitHub repository
-and then submit a pull request. For detailed guidance see [[Contributing to Racket]].
+and then submit a pull request. For detailed guidance see [[Ways to contribute to Racket]].
 
 * Find uses of alists and replace them with hash tables where
   appropriate (note that short alists, below ~40 items, can be faster than hashes)
