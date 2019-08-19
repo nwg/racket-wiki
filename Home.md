@@ -4,6 +4,8 @@ The Racket [[language development toolchain]] for [[Creating Languages]] include
 
 Interested?
 
+See <https://racket-news.com> for the latest updates!
+
 * **[[How to get started]]**  
 * **[[How to get help]]** 
 * **[[Support Racket]]** Racket needs your support!
