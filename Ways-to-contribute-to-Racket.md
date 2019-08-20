@@ -23,15 +23,16 @@ If you are new to GitHub, the following GitHub documentation is helpful;
 Make your first contribution by tackling one of the issues listed below.
 Each issue displayed here is a "good first issue," selected for its relative approachability for first-time contributors.
 
-* <https://github.com/racket/racket/contribute>
-* <https://github.com/racket/typed-racket/contribute>
-* <https://github.com/racket/drracket/contribute>
-* <https://github.com/racket/math/contribute>
-* <https://github.com/racket/scribble/contribute>
-* <https://github.com/jackfirth/rebellion/contribute>
-* <https://github.com/racket/web-server/contribute>
-* <https://github.com/racket/draw/contribute>
+* [Racket](https://github.com/racket/racket/contribute)
+* [typed-racket](https://github.com/racket/typed-racket/contribute)
+* [DrRacket](https://github.com/racket/drracket/contribute)
+* [math](https://github.com/racket/math/contribute)
+* [scribble](https://github.com/racket/scribble/contribute)
+* [rebellion](https://github.com/jackfirth/rebellion/contribute)
+* [web-server](https://github.com/racket/web-server/contribute)
+* [draw](https://github.com/racket/draw/contribute)
 
+Other;
 
 * [Easy bugs to fix](https://github.com/racket/racket/wiki/Easy-bugs-to-fix)
 * [[Code Improvements]] for a list of tasks. These are improvements to the Racket source.
