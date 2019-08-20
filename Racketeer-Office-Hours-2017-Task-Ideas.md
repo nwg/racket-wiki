@@ -5,26 +5,7 @@ Most of these tasks should (modulo mistakes) be approachable by people who are n
 If you decide to work on one of these tasks, please edit this page to mark it as claimed by you, so we can avoid duplicate work. When you're done, you're welcome to post a link to the resulting pull request / commit / repo / etc.
 
 # General Tasks
-- Tag packages on pkgs.racket-lang.org, and/or add missing descriptions.
-  And if feeling bold, add docs, or convert docs in other formats, if they exist.
-- Add a localization for a language you know.
 - Try to reproduce old bugs on gnats or github, close if they're not relevant anymore.
-
-# Docs that could use examples
-- Racket reference (claim one section at a time. 4 has a number of functions with examples missing, but others probably do too)
-- syntax
-- racket/draw
-- racket/gui & framework (with screenshots) (claim one section at a time)
-- scribble, low-level API section
-- graphics/turtles & graphics/value-turtles
-- string-constants
-- syntax-color (not exactly easy to use, examples could really help)
-- openssl (make-log-based-evaluator can help here)
-- net (claim one section at a time)
-- racket/unix-socket
-- parser-tools
-- file (claim one section at a time)
-- data (claim one section at a time)
 
 # Potential "Good first bugs"
 - [https://github.com/racket/racket/issues/1740](https://github.com/racket/racket/issues/1740)
