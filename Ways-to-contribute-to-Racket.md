@@ -14,6 +14,7 @@ You can support Racket with a tax-deductible donation [Donate](https://racket-la
 [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution. (by Ben Greenman)
 
 If you are new to GitHub, the following GitHub documentation is helpful;
+
 * [About pull requests](https://help.github.com/en/articles/about-pull-requests)
 * [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 
@@ -21,13 +22,16 @@ If you are new to GitHub, the following GitHub documentation is helpful;
 
 Make your first contribution by tackling one of the issues listed below.
 Each issue displayed here is a "good first issue," selected for its relative approachability for first-time contributors.
+
 * <https://github.com/racket/racket/contribute>
 * <https://github.com/racket/typed-racket/contribute>
 * <https://github.com/racket/drracket/contribute>
 * <https://github.com/racket/math/contribute>
 * <https://github.com/racket/scribble/contribute>
+* <https://github.com/jackfirth/rebellion/contribute>
 * <https://github.com/racket/web-server/contribute>
 * <https://github.com/racket/draw/contribute>
+
 
 * [Easy bugs to fix](https://github.com/racket/racket/wiki/Easy-bugs-to-fix)
 * [[Code Improvements]] for a list of tasks. These are improvements to the Racket source.
@@ -41,10 +45,12 @@ Each issue displayed here is a "good first issue," selected for its relative app
   * If you make an app you can use DrRacket [to create an executable you can distribute](https://docs.racket-lang.org/drracket/create-exe.html) or use [Raco to create Stand-Alone Executables](https://docs.racket-lang.org/raco/exe-dist.html)
 
 ## On the web
+
 * <http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket>
 * Did you make something with Racket or use Racket at work? write a blog post, or share it on linkedin/reddit/facebook/twitter/hackernews/etc.
 
 ## Older guides to contributing to Racket
 Note: some things have changed since these blog posts were written, but they remain mostly accurate; ask on the racket mailing list if you have any questions. (it is a very friendly community)
+
 * [Tutorial: Contributing to Racket by Joe Gibbs Politz(2012)](http://blog.racket-lang.org/2012/11/tutorial-contributing-to-racket.html)
 * [A guide for infrequent contributors to Racket(2013)](http://www.greghendershott.com/2013/04/a-guide-for-infrequent-contributors-to-racket.html)
