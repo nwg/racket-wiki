@@ -1,3 +1,11 @@
+[Realm of Racket](https://www.realmofracket.com) (BOOK/EBOOK)
+_Learn to program with Racket, one game at a time._
+
+* [Games: Fun Examples](https://docs.racket-lang.org/games/index.html)
+* [GL Board Game: 3-D Game Support](https://docs.racket-lang.org/gl-board-game/index.html)
+* [Turn-Based Games](https://docs.racket-lang.org/turn-based-game/index.html)
+* [Worlds and the Universe](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) (require 2htdp/universe)
+
 *Game development libraries.*
 
 * [mode-lambda](https://github.com/jeapostrophe/mode-lambda) - Sprite-based 2D graphics engine.
