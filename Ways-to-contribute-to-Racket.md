@@ -3,10 +3,10 @@
 ## Donate
 You can support Racket with a tax-deductible donation [Donate](https://racket-lang.org/sfc.html)- _you can also set up recurring payments_.(PayPal)
 
-**An important way you can contribute even if you are very new to Racket;**
+### **An important way you can contribute even if you are very new to Racket;**
 
-> While Racket is much better documented than most free software, it could be improved.  Debugging documentation requires a supply of ignorance, which is rapidly used up as documentation testers learn what the documentation means.  **So when you find the documentation obscure**, _treat it as a documentation bug and report it_ by sending an email with your observations and suggestions to the [Racket mailing list](https://lists.racket-lang.org) (Racket has a friendly community that welcomes feedback)
-> 
+While Racket is much better documented than most free software, it could be improved. **So when you find the documentation obscure**, Please _treat it as a documentation bug and report it_ by sending an email with your observations and suggestions to the [Racket mailing list](https://lists.racket-lang.org) or https://groups.google.com/forum/#!forum/racket-users (Racket has a friendly community that welcomes feedback)
+
 > Maybe, when you become an expert and your supply of ignorance has run out, you can even propose patches to improve that documentation!  
 
 
