@@ -14,7 +14,6 @@ There is also a [Note to Readers with Lisp/Scheme Experience](https://docs.racke
 
 ## First tasks 
 There are various tasks you can attempt to learn Racket; 
-* http://timb.net/popular-languages.html find incomplete rosetta-code tasks
 * [[Easy bugs to fix]]
-* let us know if you have trouble with the [Racket Documentation](https://docs.racket-lang.org): **When you find the documentation obscure**, _treat it as a documentation bug and report it_ by sending an email with your observations and suggestions to the [Racket mailing list](https://lists.racket-lang.org) (Racket has a friendly community that welcomes feedback).  **This is an important way you can contribute even if you are very new to Racket;**
-
+* let us know if you have trouble with the [Racket Documentation](https://docs.racket-lang.org): When you find the documentation obscure, _treat it as a documentation bug and report it_ by sending an email with your observations and suggestions to the [Racket mailing list](https://lists.racket-lang.org) or  https://groups.google.com/forum/#!forum/racket-users **This is an important way you can contribute even if you are very new to Racket**
+* use http://timb.net/popular-languages.html to find incomplete rosetta-code tasks
