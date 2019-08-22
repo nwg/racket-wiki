@@ -20,18 +20,6 @@ If you are new to GitHub, the following GitHub documentation is helpful;
 
 [[Documentation Improvements]] has ideas where you can help improve the documentation
 
-Make your first contribution by tackling one of the issues listed below.
-Each issue displayed here is a "good first issue," selected for its relative approachability for first-time contributors.
-
-* [Racket](https://github.com/racket/racket/contribute)
-* [typed-racket](https://github.com/racket/typed-racket/contribute)
-* [DrRacket](https://github.com/racket/drracket/contribute)
-* [math](https://github.com/racket/math/contribute)
-* [scribble](https://github.com/racket/scribble/contribute)
-* [rebellion](https://github.com/jackfirth/rebellion/contribute)
-* [web-server](https://github.com/racket/web-server/contribute)
-* [draw](https://github.com/racket/draw/contribute)
-
 Other;
 
 * [Easy bugs to fix](https://github.com/racket/racket/wiki/Easy-bugs-to-fix)
@@ -47,7 +35,7 @@ Other;
 
 ## On the web
 
-* <http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket>
+* <http://rosettacode.org/wiki/Reports:Tasks_not_implemented_in_Racket> or http://www.timb.net/popular-languages.html 
 * Did you make something with Racket or use Racket at work? write a blog post, or share it on linkedin/reddit/facebook/twitter/hackernews/etc.
 
 ## Older guides to contributing to Racket
