@@ -15,3 +15,5 @@ _Learn to program with Racket, one game at a time._
 * [vr-lang](https://github.com/thoughtstem/vr-lang) - Racket Lang for Virtual Reality (Aframe).
 * [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
+* [game-engine-demos-common](https://pkgs.racket-lang.org/package/game-engine-demos-common)
+
