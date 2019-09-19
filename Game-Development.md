@@ -17,3 +17,7 @@ _Learn to program with Racket, one game at a time._
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
 * [game-engine-demos-common](https://pkgs.racket-lang.org/package/game-engine-demos-common)
 
+## other
+
+<https://github.com/jeapostrophe/gamejam-2019>
+
