@@ -13,11 +13,15 @@ _Learn to program with Racket, one game at a time._
 * [game-engine](https://github.com/srfoster/game-engine) - Scratchpad for racket game stuff.
 * [pict3d](https://github.com/jeapostrophe/pict3d) - A 3D engine with a purely functional API.
 * [vr-lang](https://github.com/thoughtstem/vr-lang) - Racket Lang for Virtual Reality (Aframe).
-* [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
-* [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
+
+
 * [game-engine-demos-common](https://pkgs.racket-lang.org/package/game-engine-demos-common)
 
 ## other
 
-<https://github.com/jeapostrophe/gamejam-2019>
+* [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
+* [vr-assets](https://github.com/thoughtstem/vr-assets) - Assets suitable for use with vr-engine
+* <https://github.com/jeapostrophe/gamejam-2019>
 
+
+* [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
