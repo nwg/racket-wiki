@@ -12,6 +12,6 @@ Guidance: Put a prefix otherwise tag your announcement so it is clear it is an a
 * [Twitter: @racketlang](https://twitter.com/racketlang)
 
 
-**announce@racket-lang.org** is only for official announcements - e.g. new releases.
+**announce [at] racket-lang ** is only for official announcements - e.g. new releases.
 
 
