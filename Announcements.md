@@ -11,9 +11,7 @@ Guidance: Put a prefix otherwise tag your announcement so it is clear it is an a
 * [Racket News email newsletter](https://racket-news.com)
 * [Reddit: /r/Racket/](https://www.reddit.com/r/Racket/)
 * [Twitter: @racketlang](https://twitter.com/racketlang)
-* [Facebook Page: Racket](https://www.facebook.com/racketlang/)
-* [Facebook Group: DrRacket](https://www.facebook.com/groups/436305706723234/)
 
-![Racket News](https://racket-news.com/logo.png)
+
 
 
