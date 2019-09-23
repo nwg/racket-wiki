@@ -6,12 +6,12 @@ Guidance: Put a prefix otherwise tag your announcement so it is clear it is an a
 
 # the list
 
-* announce@racket-lang.org
 * [Google Groups: racket-users](https://groups.google.com/forum/#!forum/racket-users)
 * [Racket News email newsletter](https://racket-news.com)
 * [Reddit: /r/Racket/](https://www.reddit.com/r/Racket/)
 * [Twitter: @racketlang](https://twitter.com/racketlang)
 
 
+**announce@racket-lang.org** is only for official announcements - e.g. new releases.
 
 
