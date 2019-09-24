@@ -12,19 +12,23 @@ _Learn to program with Racket, one game at a time._
 
 * [mode-lambda](https://github.com/jeapostrophe/mode-lambda) - Sprite-based 2D graphics engine.
 * [get-bonus](https://github.com/get-bonus/get-bonus) - An experimental video game development environment.
-* [game-engine](https://github.com/srfoster/game-engine) - Scratchpad for racket game stuff.
+
+
 * [pict3d](https://github.com/jeapostrophe/pict3d) - A 3D engine with a purely functional API.
-* [vr-lang](https://github.com/thoughtstem/vr-lang) - Racket Lang for Virtual Reality (Aframe).
 
-https://github.com/thoughtstem/game-engine
-https://github.com/thoughtstem/game-engine-rpg
+* [game-engine](https://github.com/thoughtstem/game-engine) - This is an educational game engine for 2D games.
+  * [game-engine-rpg](https://github.com/thoughtstem/game-engine-rpg) - This provides utilities for making RPG games with game-engine.
+  * [game-engine-demos-common](https://pkgs.racket-lang.org/package/game-engine-demos-common)
 
-* [game-engine-demos-common](https://pkgs.racket-lang.org/package/game-engine-demos-common)
+* [vr-engine](https://github.com/thoughtstem/vr-engine) - Racket Lang for Virtual Reality (Aframe).
+  * [vr-assets](https://github.com/thoughtstem/vr-assets) - Assets suitable for use with vr-engine
+
+
 
 ## other
 
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
-* [vr-assets](https://github.com/thoughtstem/vr-assets) - Assets suitable for use with vr-engine
+
 * <https://github.com/jeapostrophe/gamejam-2019>
 
 
