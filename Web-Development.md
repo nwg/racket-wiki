@@ -13,7 +13,7 @@
 
 ## Books 
 
-
+* [Server: Racket](http://serverracket.com/) _Develop a web application with Racket._
 
 ## paper/talks/tutorials
 
