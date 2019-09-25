@@ -5,6 +5,7 @@
 * [Front-end dev](#front-end-dev)
 * [Back-end dev](#back-end-dev)
 * [Database tools](#database-tools)
+* [Authentication/Authorisation tools](#auth-tools)
 * [Testing](#testing)
 * [Internals](#internals)
 * [Related](#related)
@@ -45,6 +46,17 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * [koyo](https://docs.racket-lang.org/koyo@koyo-doc/index.html) - A complete web application development toolkit.
 
 ## [[Database tools]]
+
+
+## auth-tools
+* https://github.com/johnstonskj/simple-oauth2
+* https://github.com/tonyg/racket-google
+* https://github.com/rmculpepper/webapi
+* https://github.com/RenaissanceBug/racket-jwt
+* https://github.com/eu90h/racket-github-api
+* https://github.com/nitros12/racket-cord
+* [dvanhorn/tweet.rkt](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3)  (OAuth v1?)
+
 
 ## Testing 
 * [**marionette**](https://github.com/Bogdanp/marionette): A Racket library that lets you control Firefox via the Marionette Protocol. (the aim of the Marionette protocol is to make automated browser testing easy)
