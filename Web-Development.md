@@ -10,6 +10,11 @@
 * [Internals](#internals)
 * [Related](#related)
 
+
+## Books 
+
+
+
 ## paper/talks/tutorials
 
 * [Continue: Web Applications in Racket](https://docs.racket-lang.org/continue) tutorial on creating a database backed web application
@@ -29,8 +34,6 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
   * [RacketScript Playground](http://rapture.twistedplane.com:8080/)
 
 ## Back-End dev
-
-
 * [Requests](https://github.com/jackfirth/racket-request) - Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
 * [Riposte—Scripting Language for JSON-based HTTP APIs](https://github.com/vicampo/riposte)
 * [json-pointer: Referring to bits of JSON](https://github.com/jessealama/json-pointer) - JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document. (Racket implementation of a JSON Pointer evaluator (RFC 6901))
