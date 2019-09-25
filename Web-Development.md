@@ -30,7 +30,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 
 ## Back-End dev
 
-* [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) - JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
+
 * [Requests](https://github.com/jackfirth/racket-request) - Package for simplifying HTTP requests and writing integration tests of REST-ful APIs in Racket
 * [Riposte—Scripting Language for JSON-based HTTP APIs](https://github.com/vicampo/riposte)
 * [json-pointer: Referring to bits of JSON](https://github.com/jessealama/json-pointer) - JSON Pointer (RFC 6901) is a straightforward notation for referring to values embedded within a JSON document. (Racket implementation of a JSON Pointer evaluator (RFC 6901))
@@ -52,7 +52,7 @@ You can click the 'Remix to Edit🎤' button to make yourself a copy you can exp
 * https://github.com/johnstonskj/simple-oauth2
 * https://github.com/tonyg/racket-google
 * https://github.com/rmculpepper/webapi
-* https://github.com/RenaissanceBug/racket-jwt
+* [JSON Web Token (JWT) and JSON Web Signature (JWS)](https://docs.racket-lang.org/jwt/) - JSON Web Token parsing and verification in Racket ([source](https://github.com/RenaissanceBug/racket-jwt))
 * https://github.com/eu90h/racket-github-api
 * https://github.com/nitros12/racket-cord
 * [dvanhorn/tweet.rkt](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3)  (OAuth v1?)
