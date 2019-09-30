@@ -24,6 +24,9 @@ _Learn to program with Racket, one game at a time._
   * [vr-assets](https://github.com/thoughtstem/vr-assets) - Assets suitable for use with vr-engine
 
 
+## Assets
+
+* Characters and tilesets from [gameart2d](https://www.gameart2d.com/freebies.html)
 
 ## other
 
