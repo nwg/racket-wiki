@@ -1,6 +1,6 @@
+Game development resources 
 
-[Realm of Racket](https://www.realmofracket.com) (BOOK/EBOOK)
-_Learn to program with Racket, one game at a time._
+* [Realm of Racket](https://www.realmofracket.com) (BOOK/EBOOK)
 
 * [Worlds and the Universe](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) (require 2htdp/universe)
 * [Implementing New Games](https://docs.racket-lang.org/games/new-games.html) in [Games: Fun Examples](https://docs.racket-lang.org/games/index.html)
