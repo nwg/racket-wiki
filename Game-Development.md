@@ -28,7 +28,8 @@ Game development resources
 ## other
 
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
+
+## example games
 * <https://github.com/jeapostrophe/gamejam-2019> Space invaders
-
-
 * [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
+* [Breakout](https://github.com/soegaard/breakout) 
