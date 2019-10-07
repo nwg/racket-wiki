@@ -2,6 +2,8 @@ Game development resources
 
 * [Realm of Racket](https://www.realmofracket.com) (BOOK/EBOOK)
 
+* [Creating Languages in Racket](http://dl.acm.org/authorize?6529547)  alt: [[Queue](http://dl.acm.org/authorize?6501038)] covers creating a text adventure game as a language creation tutorial 
+
 * [Worlds and the Universe](https://docs.racket-lang.org/teachpack/2htdpuniverse.html) (require 2htdp/universe)
 * [Implementing New Games](https://docs.racket-lang.org/games/new-games.html) in [Games: Fun Examples](https://docs.racket-lang.org/games/index.html)
 * [Turn-Based Games](https://docs.racket-lang.org/turn-based-game/index.html) interfaces and tools for defining and playing turn-based games
