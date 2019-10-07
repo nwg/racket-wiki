@@ -32,4 +32,5 @@ Game development resources
 ## example games
 * <https://github.com/jeapostrophe/gamejam-2019> Space invaders
 * [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
-* [Breakout](https://github.com/soegaard/breakout) 
+* [Breakout](https://github.com/soegaard/breakout) - the classic breakout game
+* [Snake](https://github.com/bogdanp/hebi) - classic snake game
