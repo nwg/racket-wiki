@@ -10,9 +10,22 @@
 [github.rkt](https://github.com/samth/github.rkt)
 * [package](https://pkgs.racket-lang.org/package/github)
 
+## google
+Google APIs (Drive, Plus, ...) for Racket.
+* [package](https://pkgs.racket-lang.org/package/google)
+* [GitHub](https://github.com/tonyg/racket-google)
+* [API documentation](https://developers.google.com/apis-explorer/#p/)
+
 ## Twitter
 * [GitHub](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3) 
 * [API documentation](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
+
+## slack-api
+Racket bindings for the Slack API
+* [GitHub](https://github.com/octotep/racket-slack-api)
+* [package](https://pkgs.racket-lang.org/package/slack-api)
+* [documentation](https://github.com/octotep/racket-slack-api/blob/master/README.md)
+* [API Documentation](https://api.slack.com/)
 
 ## Discord
 * [GitHub](https://github.com/nitros12/racket-cord)
