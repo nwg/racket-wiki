@@ -10,7 +10,8 @@
 [github.rkt](https://github.com/samth/github.rkt)
 * [package](https://pkgs.racket-lang.org/package/github)
 
-## [Twitter](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3) 
+## Twitter
+* [GitHub](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3) 
 * [API documentation](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
 
 ## Discord
