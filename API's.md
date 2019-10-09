@@ -1,35 +1,21 @@
 # API support in Racket 
 
-## GitHub
+GitHub: 
+* racket-github-api [GitHub](https://github.com/eu90h/racket-github-api) | [package](https://pkgs.racket-lang.org/package/github-api) | [documentation](https://docs.racket-lang.org/github-api/index.html) | [API documentation](https://developer.github.com/v3/)
+* github.rkt [GitHub](https://github.com/samth/github.rkt) | [package](https://pkgs.racket-lang.org/package/github)
 
-[racket-github-api](https://github.com/eu90h/racket-github-api) 
-* [package](https://pkgs.racket-lang.org/package/github-api) 
-* [documentation](https://docs.racket-lang.org/github-api/index.html)
-* [API documentation](https://developer.github.com/v3/)
+Google: Google APIs (Drive, Plus, ...) for Racket. 
+* google [GitHub](https://github.com/tonyg/racket-google) | [package](https://pkgs.racket-lang.org/package/google) | [API documentation](https://developers.google.com/apis-explorer/#p/)
 
-[github.rkt](https://github.com/samth/github.rkt)
-* [package](https://pkgs.racket-lang.org/package/github)
+Twitter
+* Gist [GitHub](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3) | [API documentation](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
 
-## google
-Google APIs (Drive, Plus, ...) for Racket.
-* [package](https://pkgs.racket-lang.org/package/google)
-* [GitHub](https://github.com/tonyg/racket-google)
-* [API documentation](https://developers.google.com/apis-explorer/#p/)
-
-## Twitter
-* [GitHub](https://gist.github.com/dvanhorn/815bdda5cfcdee18d480cb6a5d1119f3) 
-* [API documentation](https://developer.twitter.com/en/docs/tweets/post-and-engage/overview)
-
-## slack-api
-Racket bindings for the Slack API
-* [GitHub](https://github.com/octotep/racket-slack-api)
-* [package](https://pkgs.racket-lang.org/package/slack-api)
-* [documentation](https://github.com/octotep/racket-slack-api/blob/master/README.md)
+Slack: Racket bindings for the Slack API
+* slack-api [GitHub](https://github.com/octotep/racket-slack-api) | [package](https://pkgs.racket-lang.org/package/slack-api) | [documentation](https://github.com/octotep/racket-slack-api/blob/master/README.md)
 * [API Documentation](https://api.slack.com/)
 
-## Discord
-* [GitHub](https://github.com/nitros12/racket-cord)
-* [API documentation](https://discordapp.com/developers/docs/intro)
+Discord: 
+* [GitHub](https://github.com/nitros12/racket-cord) | [API documentation](https://discordapp.com/developers/docs/intro)
 
 ## webapi
 Implementations of a few web APIs, including OAuth2, PicasaWeb, and Blogger.
