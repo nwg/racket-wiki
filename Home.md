@@ -25,6 +25,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [racket-android](https://github.com/jeapostrophe/racket-android) lets you write Apps for Android in Racket.
 * [[Game Development]]
 * [[GUI Development]] - Cross-platform:Windows, MacOS & Linux
+* [[API support in Racket]]
 
 ## Events  
 * [[Racket Hackathon 2019]] at Racket Week 2019
