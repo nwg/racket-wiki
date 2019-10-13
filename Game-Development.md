@@ -39,3 +39,6 @@
 * https://github.com/thoughtstem/pzuh-assets
 * https://github.com/thoughtstem/kenney-assets
 
+# related
+
+<https://github.com/nitros12/racket-cord> is a Discord library in Racket
