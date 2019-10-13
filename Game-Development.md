@@ -28,6 +28,7 @@ Game development resources
 * [Planet Cute Images](https://docs.racket-lang.org/teachpack/2htdpPlanet_Cute_Images.html) The 2htdp/planetcute library contains the Planet Cute art by Daniel Cook (Lostgarden.com).
 * https://github.com/thoughtstem/cartoon-assets
 * https://github.com/thoughtstem/pzuh-assets
+* https://github.com/thoughtstem/kenney-assets
 
 ## other
 
