@@ -35,6 +35,8 @@ Game development resources
 * [apse](https://github.com/jeapostrophe/apse) - A Pixel Sprite Editor.
 
 ## example games
+* [flappy-birds](http://rapture.twistedplane.com:8080/#example/flappy-birds) in [RacketScript](https://github.com/vishesh/racketscript)
+* [space-invaders](https://github.com/soegaard/urlang/tree/master/urlang-examples/space-invaders) in [Urlang](https://github.com/soegaard/urlang)
 * <https://github.com/jeapostrophe/gamejam-2019> Space invaders
 * [towers](https://github.com/Metaxal/towers) - Towers is an original 2-player board game.
 * [Breakout](https://github.com/soegaard/breakout) - the classic breakout game
