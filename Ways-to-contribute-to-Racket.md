@@ -25,7 +25,7 @@ If you are new to GitHub, the following GitHub documentation is helpful;
 
 [[Documentation Improvements]] has ideas where you can help improve the documentation
 
-Other;
+## Other way to contribute to Racket
 
 * [Easy bugs to fix](https://github.com/racket/racket/wiki/Easy-bugs-to-fix)
 * [[Code Improvements]] for a list of tasks. These are improvements to the Racket source.
