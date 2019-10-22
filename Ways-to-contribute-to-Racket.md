@@ -11,7 +11,8 @@ While Racket is much better documented than most free software, it could be impr
 
 
 ## Contribute directly
-[Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution. (by Ben Greenman)
+* [Building, Distributing, and Contributing to Racket](https://docs.racket-lang.org/racket-build-guide/index.html)
+* [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution. (by Ben Greenman)
 
 If you are new to GitHub, the following GitHub documentation is helpful;
 
