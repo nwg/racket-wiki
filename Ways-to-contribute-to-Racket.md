@@ -3,7 +3,7 @@
 ## Donate
 **[You can support Racket with a tax-deductible donation](https://racket-lang.org/sfc.html)** (_you can also set up **recurring payments** with PayPal_)
 
-### Contribute to the Racket Documentation
+## Contribute to the Racket Documentation
 
 **This is an important way you can contribute even if you are very new to Racket** (and its a great way to learn)
 
