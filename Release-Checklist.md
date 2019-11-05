@@ -18,13 +18,13 @@ A copy of this checklist for the current release in progress is at [[Release-Che
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
-      (updates should show `v$RKTNVER` as the most current version; include
+      (updates should show v`$RKTNVER` as the most current version; include
       the text "merge" in the commit message, or tell me if there
       are no such changes.)
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
-      (updates should show v$RKTNVER as the most current version; include
+      (updates should show v`$RKTNVER` as the most current version; include
       the text "merge" in the commit message, or tell me if there 
       are no such changes.)
 
