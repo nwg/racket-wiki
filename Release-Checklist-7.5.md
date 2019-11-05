@@ -106,12 +106,7 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      
-  - [ ] Framework Tests:
-   ```
-   # from the top-level directory of the release bundle, run
-   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "main.rkt" "framework" "tests"))')")"
-   raco test .
-   ```
+  
 
   - [ ] Contracts Tests:
    ```
