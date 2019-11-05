@@ -162,37 +162,6 @@
   tests/stepper/manual-tests.txt ;; follow the instructions in this file
   ```
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
-
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
-    ```
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
