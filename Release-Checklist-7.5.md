@@ -35,6 +35,8 @@
 # Testing
 
 * [ ] {Blockers}
+  - `in-dict` with a-lists: https://github.com/greghendershott/aws/issues/64
+  - compilation failure in `psd` package
 
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
   - [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
