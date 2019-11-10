@@ -8,12 +8,12 @@ See <https://racket-news.com> for the latest updates!
 
 * **[[How to get started]]**  
 * **[[How to get help]]** 
-* **[[Support Racket]]** Racket needs your support!
-* ** How to contribute to the Racket project **
+* **[[Support Racket]]**: Racket needs your support!
+* **How to contribute to the Racket project**
   * [[Ways to contribute to Racket]] includes other ways you can contribute to Racket.
-  * **Financially** by making a donation to [[https://racket-lang.org/sfc.html]] - _you can also set up recurring payments_.
-  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution.
-* **[Racket2 RFC’s](https://github.com/racket/racket2-rfcs)** Please read for was to contribute the Racket2 project _Please don't add Racket2 items here - please add them as an issue on the RFC's repo_
+  * You can **financially** help Racket by making a donation to [[https://racket-lang.org/sfc.html]] - _you can also set up recurring payments_.
+  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation (e.g. fix a typo), the language itself, or a package in the main distribution.
+* **[Rhombus Brainstorming](https://github.com/racket/rhombus-brainstorming)** (previously known as Racket2 RFC): discuss and give feedback on the design of a next generation language based on Racket.
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
