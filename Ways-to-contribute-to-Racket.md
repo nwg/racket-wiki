@@ -1,3 +1,5 @@
+https://github.com/racket/racket/contribute
+
 # How to contribute to the Racket project?
 
 There are many ways to contribute, and you can contribute at any level, no matter how experienced or inexperienced with racket or software development. In a large project like Racket there are lots of options: 
