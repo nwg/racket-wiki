@@ -38,10 +38,6 @@
   - `in-dict` with a-lists: https://github.com/greghendershott/aws/issues/64
   - compilation failure in `psd` package
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-
-  - [ ] Games Tests: play a bunch of games (not automated)
-
 * [ ] {John Clements <clements@brinckerhoff.org>}
   - [ ] Stepper Tests
   ```
