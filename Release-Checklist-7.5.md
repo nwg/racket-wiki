@@ -65,7 +65,6 @@
 
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the `racket` source release compiles on linux
     + [ ] Test that the `racket-minimal` source release compiles on linux
     + [ ] Test that the binary installer for linux works in normal mode (install
           then start racket) [FIXME: is this enough?]
