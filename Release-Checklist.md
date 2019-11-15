@@ -15,7 +15,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
      + [ ] Redex Updates: update HISTORY (updates should show v`$RKTNVER` as the most current version)
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
+* [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
       (updates should show v`$RKTNVER` as the most current version; include
@@ -158,7 +158,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
+* [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Stepper Tests
   ```
   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
