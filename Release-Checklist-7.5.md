@@ -46,7 +46,6 @@
           bundle, then it doesn't include the right versions of packages that
           have to be platform-specific, such as the one that supplies
           "libintl.9.dylib".)
-    + [ ] Test that the binary installer for MacOS works (install, start DrRacket)
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
