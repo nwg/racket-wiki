@@ -296,7 +296,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
         events and interactions with control widgets.
   - [ ] Inspect icons
     ```
-    raco docs icons # then look at them
+    raco docs icons # then look at them (look for icons, ensure no red error text on the page)
     ```
 
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
