@@ -29,13 +29,6 @@
   - `in-dict` with a-lists: https://github.com/greghendershott/aws/issues/64
   - compilation failure in `psd` package
 
-* [ ] {John Clements <clements@brinckerhoff.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
-
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
