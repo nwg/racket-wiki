@@ -264,19 +264,19 @@ A copy of this checklist for the current release in progress is at [[Release-Che
           (install then start racket) [FIXME: is this enough?]
   - [ ] Release tests for the Mac OS release:
     + [ ] On MacOS: Build from sources using the minimal distribution:
-```
+          ```
           cd src
           mkdir build
           cd build
           ../configure
           make
           make install
-```
+          ```
           then
-```
+          ```
           ./bin/raco pkg install --auto -i racket-lib
           ./bin/raco pkg install --auto -i main-distribution
-```
+          ```
           (Why not just test the full source release? 
           "The problem is that when packages are already included in a source
           bundle, then it doesn't include the right versions of packages that
