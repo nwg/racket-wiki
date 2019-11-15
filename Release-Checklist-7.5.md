@@ -37,15 +37,6 @@
   ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Release tests for the Mac OS release:
-    + [ ] On MacOS: Build from sources using the minimal distribution, 
-          then `raco pkg install -i racket-lib` and `raco pkg install -i 
-          main-distribution`. 
-          (Why not just test the full source release? 
-          "The problem is that when packages are already included in a source
-          bundle, then it doesn't include the right versions of packages that
-          have to be platform-specific, such as the one that supplies
-          "libintl.9.dylib".)
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
@@ -54,10 +45,6 @@
     + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
         `tetris.rkt`) work as expected, responding to relevant key and mouse
         events and interactions with control widgets.
-  - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them
-    ```
 
 * [ ] {Stephen Chang <stchang@ccs.neu.edu>}
   - [ ] Lazy Racket Tests
