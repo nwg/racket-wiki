@@ -158,13 +158,6 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
 
-* [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Stepper Tests
-  ```
-  tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-  tests/stepper/manual-tests.txt ;; follow the instructions in this file
-  ```
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Match Tests:
   ```
@@ -255,6 +248,11 @@ A copy of this checklist for the current release in progress is at [[Release-Che
     ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
+  - [ ] Stepper Tests
+   ```
+   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
+   tests/stepper/manual-tests.txt ;; follow the instructions in this file
+   ```
   - [ ] Release tests for (a chosen) linux release and the Mac OS release:
     + [ ] Test that the `racket` source release compiles on linux
     + [ ] Test that the `racket-minimal` source release compiles on linux
