@@ -37,11 +37,6 @@
   ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the binary installer for linux works in normal mode (install
-          then start racket) [FIXME: is this enough?]
-    + [ ] Test that the binary installer for linux works in unix-style mode
-          (install then start racket) [FIXME: is this enough?]
   - [ ] Release tests for the Mac OS release:
     + [ ] On MacOS: Build from sources using the minimal distribution, 
           then `raco pkg install -i racket-lib` and `raco pkg install -i 
