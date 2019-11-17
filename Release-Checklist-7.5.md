@@ -25,10 +25,6 @@
 
 # Testing
 
-* [ ] {Blockers}
-  - compilation failure in `psd` package
-
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
