@@ -26,7 +26,6 @@
 # Testing
 
 * [ ] {Blockers}
-  - `in-dict` with a-lists: https://github.com/greghendershott/aws/issues/64
   - compilation failure in `psd` package
 
 
