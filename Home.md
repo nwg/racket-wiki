@@ -4,7 +4,7 @@ The Racket [[language development toolchain]] for [[Creating Languages]] include
 
 ## Interested?
 
-See <https://racket-news.com> for the latest updates!
+See <https://racket-news.com> for the latest updates!S
 
 * **[[How to get started]]**  
 * **[[How to get help]]** 
@@ -66,7 +66,6 @@ _at this stage I am not aware of a presence on instagram or twitch_
 * [[Racket Meetups]] and tips on how to [[Start a Meetup]] 
 * [RacketCon](https://con.racket-lang.org) <https://con.racket-lang.org>
 * [Racketfest](https://racketfest.com) <https://racketfest.com>
-* [STL Racket](http://www.meetup.com/STL-Racket/)
 * [Racket London](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
 * [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
 a map to some cities where some Racket users are located.
