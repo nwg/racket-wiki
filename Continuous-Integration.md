@@ -1,12 +1,16 @@
+*DRAFT*
 This page hopes to describe the plan for the Continuous Integration process to use in Racket.
 
 **Goal**: to ensure Racket is and remains to be a reliable system, without unexplained regressions or performance changes.
 
-# Support Levels
+# Contributing
 
-Due to available resources for testing and benchmarking, there are three support levels implemented. 
+If you are interested in contributing machines, volunteering with code, or anything else, get in touch. We gather in channel #ci on Slack.
 
-In support level 1, all tests and benchmarks are ran on a per-commit basis. This should be fast and thorough enough to catch most obvious errors. In support level 2, we run all the tests and benchmarks on a wider variety of architectures. In support level 3, we run not on all supported architectures, but also with all supported compilers.
+# Support Tiers
+
+Due to available resources for testing and benchmarking, there are X support tiers. 
+TODO: decide how many support tiers are available and which arch/vm/os/options are in each tier.
 
 # Environments
 
@@ -33,6 +37,7 @@ Valid names for architectures and operating systems defined by [Golang](https://
 | `s390x` | | | |
 
 TODO
+TODO Where does QNX and FreeBSD fit in?
 
 ### Racket (CS)
 
@@ -52,9 +57,9 @@ TODO
 
 TODO
 
-# GitLab CI
+# GitHub Actions
 
-TODO
+We are committed to using GitHub Actions for CI as it provides an unparalleled level of integration with our current workflow.
 
 # Dashboard
 
