@@ -18,7 +18,7 @@ This section describes the environment (hardware/software combinations) on which
 
 ## Racket Support Matrix
 
-Valid names for architectures and operating systems defined by [Golang](https://golang.org/doc/install/source#environment).
+Architecture names, operating system names, and their valid combinations are defined by the [$GOOS and $GOARCH](https://golang.org/doc/install/source#environment) variables used by the [Go](https://golang.org/) compiler.
 
 ### Racket (CGC and 3M)
 
