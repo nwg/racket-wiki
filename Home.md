@@ -67,6 +67,7 @@ _at this stage I am not aware of a presence on instagram or twitch_
 * [RacketCon](https://con.racket-lang.org) <https://con.racket-lang.org>
 * [Racketfest](https://racketfest.com) <https://racketfest.com>
 * [Racket London](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
+* [AfterWork Racket](https://www.meetup.com/After-Work-Racket/) organized by Jesse Alama
 * [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
 a map to some cities where some Racket users are located.
 <http://www.european-lisp-symposium.org/>
