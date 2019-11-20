@@ -20,6 +20,8 @@ This section describes the environment (hardware/software combinations) on which
 
 Architecture names, operating system names, and their valid combinations are defined by the [$GOOS and $GOARCH](https://golang.org/doc/install/source#environment) variables used by the [Go](https://golang.org/) compiler.
 
+TODO: Some racket features, such as memory accounting, require specifying certain options when compiling Racket. How do we test that these features work on supported platforms? Does it count as a separate variant of racket? The compiled racket binary is different and could behave differently.
+
 ### Racket (CGC and 3M)
 
 |      | `linux` | `darwin` | `windows` |
