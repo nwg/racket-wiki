@@ -41,7 +41,7 @@ TODO: Some racket features, such as memory accounting, require specifying certai
 TODO
 TODO Where does QNX and FreeBSD fit in?
 
-- @jackfirth For reference, Go just flat out [doesn't](https://github.com/golang/go/issues/23633) [support](https://github.com/golang/go/issues/12045) QNX at all. We should see how other languages handle this.
+- [@jackfirth](https://github.com/jackfirth) For reference, Go just flat out [doesn't](https://github.com/golang/go/issues/23633) [support](https://github.com/golang/go/issues/12045) QNX at all. We should see how other languages handle this.
 
 ### Racket (CS)
 
