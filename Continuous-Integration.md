@@ -52,11 +52,13 @@ Whenever running tests, we sometimes refer to the standard test set or `Test (st
 ### Pull Request CI
 
 Build:
+
 |         | `linux` | `darwin` | `windows` |
 | ------- | ------- | -------- | --------- |
 | `amd64` | cgc,3m  | cgc,3m   | cgc,3m,cs | 
 
 Test (std.):
+
 |         | `linux` | `darwin` | `windows` |
 | ------- | ------- | -------- | --------- |
 | `amd64` |   3m    |    3m    |     3m    | 
