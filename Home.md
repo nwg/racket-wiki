@@ -46,7 +46,6 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 * [[Math-Library-Features]] to suggest features for the math library.
 * [[Generics Plans]] planned features for Racket's generic functions library
-* [[Racket2]] A wishlist of backwards incompatible things for a future Racket2.
 * [[Verification and Advanced Types in Racket]]
 * [[Typed Racket plans]] 
 * [[Redex Features]]
