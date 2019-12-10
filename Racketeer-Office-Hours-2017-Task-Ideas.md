@@ -26,7 +26,6 @@ If you decide to work on one of these tasks, please edit this page to mark it as
 - [https://github.com/racket/racket/issues/1400](https://github.com/racket/racket/issues/1400)
 - [https://github.com/racket/racket/issues/1342](https://github.com/racket/racket/issues/1342) (candidate solution exists, need to push it the rest of the way, and other potential directions)
 - [https://github.com/racket/racket/issues/1295](https://github.com/racket/racket/issues/1295)
-- [https://github.com/racket/racket/issues/1092](https://github.com/racket/racket/issues/1092)
 - [https://github.com/racket/pict/issues/2](https://github.com/racket/pict/issues/2) (may be deep)
 - [https://github.com/racket/pict/issues/29](https://github.com/racket/pict/issues/29)
 - [https://github.com/racket/slideshow/issues/2](https://github.com/racket/slideshow/issues/2)
