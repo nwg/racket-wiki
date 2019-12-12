@@ -1,5 +1,3 @@
-# Music
-
 * [RSound](https://pkgs.racket-lang.org/package/rsound) `(require rsound)` : A Sound Engine for Racket `rsound` A framework for manipulating and playing sounds using the portaudio library. Runs on Windows, Mac OS X, and linux.
 * [Racket MIDI reader](https://pkgs.racket-lang.org/package/midi-readwrite) `(require midi-readwrite)` simple functions to read MIDI (.mid) files
 * [RtMidi](https://pkgs.racket-lang.org/package/rtmidi) `(require rtmidi)` provides racket bindings for the RtMidi library, thus enabling racket programs to send and receive MIDI events.
