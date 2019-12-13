@@ -115,3 +115,7 @@ We are committed to using GitHub Actions for CI as it provides an unparalleled l
 # Dashboard
 
 The long-term plan is to develop a single-page dashboard that gather information from test runs and benchmarks and displays it in a succing and understandable way so that Racket devs know at-a-glance what the status of the project is.
+
+# Meetings
+
+* [November, 2019](https://github.com/racket/racket/wiki/CI-Meeting---Nov,-2019)
