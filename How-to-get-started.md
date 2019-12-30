@@ -17,7 +17,7 @@ Hot Tip: Set your PATH environment variable so you can use `raco` and other Rack
 On macOS:
 
 * `sudo sh -c 'echo "/Applications/Racket v7.5/bin" >> /etc/paths.d/racket'`
-  (If you have installed a previous version you may want to edit `/etc/paths.d/racket` to remove the old paths. I used `vi` but you may prefer to delete the file with `rm /etc, and recreate it with the above command)
+  (If you have installed a previous version you may want to edit `/etc/paths.d/racket` to remove the old paths. I used `vi` but you may prefer to delete the file with `sudo rm /etc/paths.d/racket` , and recreate it with the above command)
 
 * To use command line tools (`raco`) you will also need to run the command `sudo xattr -r -d com.apple.quarantine /Applications/Racket\ v7.5/`  
 
