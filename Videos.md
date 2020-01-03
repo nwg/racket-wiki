@@ -4,7 +4,7 @@ Videos
 Talks
 -----
 
- * RacketCon: [2016](http://con.racket-lang.org/), [2015](http://con.racket-lang.org/2015), [2014](http://con.racket-lang.org/2014), [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
+ * RacketCon: [2019](https://con.racket-lang.org/2019), [2018](https://con.racket-lang.org/2018), [2017](https://con.racket-lang.org/2017), [2016](https://con.racket-lang.org/2016/), [2015](http://con.racket-lang.org/2015), [2014](http://con.racket-lang.org/2014), [2013](http://con.racket-lang.org/2013), [2012](http://con.racket-lang.org/2012), [2011](http://con.racket-lang.org/2011) 
    (see [video] link for each talk)
 
  * The [[Inside Racket Seminar]] is a video series about Racket internal programming details.
