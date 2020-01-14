@@ -59,6 +59,7 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 ##### University of Washington
 * CSE 341, Programming Languages, https://courses.cs.washington.edu/courses/cse341/
 * CSE 413, Programming Languages and Implementation, https://courses.cs.washington.edu/courses/cse413/
+* CSE 507, Computer-Aided Reasoning for Software Engineering, https://courses.cs.washington.edu/courses/cse507/
 
 ##### University of Waterloo
 
