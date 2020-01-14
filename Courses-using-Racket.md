@@ -33,6 +33,10 @@
 * Computation, Programs, and Programming (CPSC 110), https://sites.google.com/site/ubccpsc110/
 * Definition of Programming Languages (CPSC 311), http://www.ugrad.cs.ubc.ca/~cs311/current/
 
+##### University of Chicago
+
+* Introduction to Computer Science I (CMSC 15100), https://www.classes.cs.uchicago.edu/archive/2020/winter/15100-1/
+
 ##### EdX (University of British Columbia)
 
 * How to Code: Simple Data,
