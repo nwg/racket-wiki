@@ -7,13 +7,6 @@
      + [ ] Redex Updates: update HISTORY (updates should show `v7.6` as the most current version)
      + [ ] Update man pages in `racket/man/man1`: `drracket.1`
 
-* [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
-      (updates should show `v7.6` as the most current version; include
-      the text "merge" in the commit message, or tell me if there
-      are no such changes.)
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
       (updates should show `v7.6` as the most current version; include
