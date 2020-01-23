@@ -106,29 +106,8 @@
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    + [ ] Ensure that previous version of DrRacket's preference files still starts up with new DrRacket
      
-  - [ ] Framework Tests:
-   ```
-   # from the top-level directory of the release bundle, run
-   cd "$(dirname "$(./bin/racket -e '(display (collection-file-path "main.rkt" "framework" "tests"))')")"
-   raco test .
-   ```
-
-  - [ ] Contracts Tests:
-   ```
-   racket -l tests/racket/contract/all
-   racket -l tests/racket/contract-stress-argmin
-   racket -l tests/racket/contract-stress-take-right
-   ```
 
   - [ ] Games Tests: play a bunch of games (not automated)
-  - [ ] Teachpacks Tests: image tests
-   ```
-   racket -l 2htdp/tests/bitmap-as-image-in-universe
-   racket -l 2htdp/tests/image-equality-performance-htdp
-   racket -l 2htdp/tests/image-equality-performance
-   racket -l 2htdp/tests/image-too-large
-   racket -l 2htdp/tests/test-image
-   ```
 
   - [ ] PLaneT Tests: 
    ```
