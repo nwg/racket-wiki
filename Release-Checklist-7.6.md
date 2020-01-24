@@ -54,7 +54,6 @@
    tests/stepper/manual-tests.txt ;; follow the instructions in this file
    ```
   - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the `racket-minimal` source release compiles on linux
     + [ ] Test that the binary installer for linux works in normal mode (install
           then start racket) [FIXME: is this enough?]
     + [ ] Test that the binary installer for linux works in unix-style mode
