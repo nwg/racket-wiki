@@ -13,11 +13,6 @@
 
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Stepper Tests
-   ```
-   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-   tests/stepper/manual-tests.txt ;; follow the instructions in this file
-   ```
   - [ ] Release tests for the Mac OS release:
     + [ ] On MacOS: Build from sources using the minimal distribution:
       ```
