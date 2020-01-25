@@ -43,11 +43,6 @@
    tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
    tests/stepper/manual-tests.txt ;; follow the instructions in this file
    ```
-  - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the binary installer for linux works in normal mode (install
-          then start racket) [FIXME: is this enough?]
-    + [ ] Test that the binary installer for linux works in unix-style mode
-          (install then start racket) [FIXME: is this enough?]
   - [ ] Release tests for the Mac OS release:
     + [ ] On MacOS: Build from sources using the minimal distribution:
       ```
@@ -71,7 +66,6 @@
           bundle, then it doesn't include the right versions of packages that
           have to be platform-specific, such as the one that supplies
           "libintl.9.dylib".)
-    + [ ] Test that the binary installer for MacOS works (install, start DrRacket)
   - [ ] FrTime Tests
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
