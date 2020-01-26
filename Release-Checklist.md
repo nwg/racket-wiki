@@ -2,6 +2,8 @@ This is the master copy of the history updates and testing checklist for Racket 
 
 A copy of this checklist for the current release in progress is at [[Release-Checklist-7.6]]. That page is edited when testing items are completed.
 
+Although github has a nifty syntax for checking the boxes below, you should probably just go ahead and delete the items, rather than check them off; it's much easier to see what remains to be done when everything else is simply not there.
+
 # History Updates
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
@@ -284,7 +286,7 @@ A copy of this checklist for the current release in progress is at [[Release-Che
           have to be platform-specific, such as the one that supplies
           "libintl.9.dylib".)
     + [ ] Test that the binary installer for MacOS works (install, start DrRacket)
-  - [ ] FrTime Tests
+  - [ ] FrTime Tests (in frtime/demos)
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
         expected in the FrTime language level. Check that they continue
