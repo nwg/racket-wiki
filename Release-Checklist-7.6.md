@@ -1,12 +1,4 @@
 
-# History Updates
-
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show `v7.6` as the most current version; include
-      the text "merge" in the commit message, or tell me if there 
-      are no such changes.)
-
 # Testing
 
 * [ ] {Blockers}
