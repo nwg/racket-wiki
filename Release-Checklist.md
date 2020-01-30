@@ -211,6 +211,8 @@ Although github has a nifty syntax for checking the boxes below, you should prob
       run tests in plt: extra-pkgs/htdp/htdp-test/tests/test-engine/
       ```
 
+  - [ ] Test #lang htdp/* languages
+
 * [ ] {Ryan Culpepper <ryanc@ccs.neu.edu>}
   - [ ] Macro Debugger Tests
     ```
