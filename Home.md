@@ -27,6 +27,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Music]]
 * [[GUI Development]] - Cross-platform:Windows, MacOS & Linux
 * [[API support in Racket]]
+* [[Mathematics]]
 
 ## Events  
 * [[Racket Hackathon 2019]] at Racket Week 2019
