@@ -1,4 +1,4 @@
-The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers. (Don't forget to set your [[Path]])!
+The [getting-started](https://docs.racket-lang.org/getting-started/index.html) guide covers installation, and learning resources for both beginners and experienced programmers.
 
 ## Useful resources:  
 * [How to Program Racket: a Style Guide](http://docs.racket-lang.org/style/index.html)
