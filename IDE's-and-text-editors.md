@@ -6,5 +6,7 @@ Racket is supported by a number of IDE's and text editors.
 * [Vim](https://docs.racket-lang.org/guide/Vim.html)
 * [Sublime Text](https://docs.racket-lang.org/guide/Sublime_Text.html)
 * [Atom](https://atom.io/packages/atom-ide-racket)
+* [Racket for Visual Studio Code](https://marketplace.visualstudio.com/items?itemName=karyfoundation.racket)
+
 
 You can also run [[Racket in the Cloud]].
