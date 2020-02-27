@@ -56,25 +56,16 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 ## Racket on the web
 * [Racket Users](https://groups.google.com/forum/#!forum/racket-users) email list
 * [Racket News](https://racket-news.com)
-* [[GitHub]]: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
+* [Racket Stories](https://racket-stories.com)
 * [YouTube](https://www.youtube.com/user/racketlang)
 * [StackOverflow](https://stackoverflow.com/questions/tagged/racket)
-* Racket Slack
-* Discord
-  * [Racket Discord](https://discord.gg/6Zq8sH5)
-  * [LISP Discord](https://discord.gg/hhk46CE) - mostly Common Lisp chats, also has Racket, Scheme, and Clojure communities
-* IRC (https://freenode.net/)
-  * `#racket` 
-  * `#scheme`
-* Reddit
-  * [/r/Racket](https://www.reddit.com/r/Racket/)
-  * [/r/scheme](https://www.reddit.com/r/scheme)
-  * [/r/lisp](https://www.reddit.com/r/lisp)
+* [Racket Slack](https://racket.slack.com/) ([signup](https://racket-slack.herokuapp.com/))
+* [Racket Discord](https://discord.gg/6Zq8sH5)
+* [#racket IRC on freenode.net](https://botbot.me/freenode/racket/)
+* [Reddit /r/Racket](https://www.reddit.com/r/Racket/)
 * [Facebook](https://www.facebook.com/groups/436305706723234/)
 * [Linkedin](https://www.linkedin.com/groups/119028/)
 * [Twitter](https://twitter.com/racketlang)
-
-_at this stage I am not aware of a presence on instagram or twitch_
-
+* [[GitHub]]: [Trending](https://github.com/trending/racket?since=monthly) | [Most starred](https://github.com/search?l=racket&q=stars%3A%3E1&s=stars&type=Repositories) | topics: [racket](https://github.com/topics/racket), [drracket](https://github.com/topics/drracket)
 
  
