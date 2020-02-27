@@ -1,5 +1,7 @@
 # Game development resources 
 
+See also [[Gamejam]]
+
 ## example games
 * [Slimesteroids](https://samdphillips.itch.io/slimesteroids) ([Slimesteroids source](https://github.com/samdphillips/lgj_2018_10))
 * [flappy-birds](http://rapture.twistedplane.com:8080/#example/flappy-birds) in [RacketScript](https://github.com/vishesh/racketscript)
