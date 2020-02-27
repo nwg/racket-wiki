@@ -14,3 +14,16 @@ This page aims to provide a canonical index of local meetup groups for Racket us
 * [STL Racket](http://www.meetup.com/STL-Racket/)
 
 * [Racket London](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
+
+## Meetups?
+* [[Racket Meetups]] and tips on how to [[Start a Meetup]] 
+* [RacketCon](https://con.racket-lang.org) <https://con.racket-lang.org>
+* [Racketfest](https://racketfest.com) <https://racketfest.com>
+* [Racket London](https://groups.google.com/d/forum/racket-london) (mailing list - no meet up organised yet)
+* [AfterWork Racket](https://www.meetup.com/After-Work-Racket/) organized by Jesse Alama
+* [Other Racket users](https://drive.google.com/open?id=1i3zN11e_6te5ytduAiv1cidrIi4&usp=sharing):
+a map to some cities where some Racket users are located.
+<http://www.european-lisp-symposium.org/>
+<https://icfp19.sigplan.org/>
+The Scheme and Functional Programming Workshop <https://thomas.gilray.org/scheme-2019/> <https://icfp19.sigplan.org/track/scheme-2019-papers> at ICFP 2019
+ICFP 2019
