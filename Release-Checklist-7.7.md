@@ -299,18 +299,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     raco test -c datalog/tests
     ```
 
-* [ ] {Stephen Chang <stchang@ccs.neu.edu>}
-  - [ ] Lazy Racket Tests
-    
-    ```
-    raco test -l lazy/tests/main.rkt
-    ```
-  - [ ] Lazy stepper tests
-
-    ```
-    raco test -l tests/stepper/automatic-tests.rkt
-    ```
-
 * [ ] {Mike Sperber <sperber@deinprogramm.de>}
   - [ ] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
