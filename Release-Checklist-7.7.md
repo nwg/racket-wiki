@@ -36,6 +36,9 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 # Testing
 
 * [ ] {Blockers}
+  - [ ] pkg-build failure for 'expander'
+  - [ ] pkg-build failure for 'rwind'
+  - [ ] pkg-build failure for 'sass'
 
 * [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
   - [ ] Racket Tests
