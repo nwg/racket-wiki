@@ -159,38 +159,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
 
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Match Tests:
-  ```
-  raco test -l tests/match/main
-  ```
-  
-  - [ ] Typed Racket Tests:
-  ```
-  racket -l typed-racket-test -- --all
-  ```
-
-  - [ ] Unit Contract Tests
-    ```
-    raco test -l tests/units/test-unit-contracts
-    ```
-
-  - [ ] Contract Region Tests
-    ```
-    racket -l tests/racket/contract/define-contract
-    racket -l tests/racket/contract/with-contract
-    ```
-
-  - [ ] Class Contract Tests
-    ```
-    racket -l tests/racket/contract/class
-    ```
-
-  - [ ] EoPL Tests
-    ```
-    raco test -c eopl/tests
-    ```
-
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
       ```
