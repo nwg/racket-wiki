@@ -157,7 +157,7 @@ Although github has a nifty syntax for checking the boxes below, you should prob
    ```
 
   - [ ] Release tests for the Windows release:
-    + [ ] Test that the `racket-minimal` source release compiles fine.
+    + [ ] Test that the `racket-minimal` source release compiles fine; follow the instructions in `src/README`.
     + [ ] Test that the binary installers for both work.
 
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
