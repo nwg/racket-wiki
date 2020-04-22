@@ -110,7 +110,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
 
   - [ ] Release tests for the Windows release:
-    + [ ] Test that the `racket-minimal` source release compiles fine.
     + [ ] Test that the binary installers for both work.
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
