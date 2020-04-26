@@ -2,12 +2,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 
 # History Updates
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
-   - [ ] Updates:
-     + [ ] DrRacket Updates: update HISTORY
-     + [ ] Redex Updates: update HISTORY (updates should show `v7.7` as the most current version)
-     + [ ] Update man pages in `racket/man/man1`: `drracket.1`
-
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Updates:
     + [ ] Stepper Updates: update HISTORY
