@@ -247,7 +247,7 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     raco test -c datalog/tests
     ```
 
-* [ ] {Mike Sperber <sperber@deinprogramm.de>}
+* [X] {Mike Sperber <sperber@deinprogramm.de>}
   - [X] DMdA Tests
     [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
     [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
