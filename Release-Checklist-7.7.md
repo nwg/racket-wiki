@@ -2,11 +2,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 
 # History Updates
 
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Updates:
-    + [ ] Racket Updates: update HISTORY (updates should show `v7.7` as the most current version)
-    + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
-
 * [ ] {Robby Findler <robby@eecs.northwestern.edu>}
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
@@ -39,17 +34,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
   - [ ] pkg-build failure for 'expander'
   - [ ] pkg-build failure for 'rwind'
   - [ ] pkg-build failure for 'sass'
-
-* [ ] {Matthew Flatt <mflatt@cs.utah.edu>}
-  - [ ] Create an executable from a BSL program
-   ```
-   # make big-bang program with literal image in DrRacket, 
-   # then create executable
-   ```
-  - [ ] Run COM tests
-   ```
-   racket -l tests/racket/com
-   ```
 
 * [ ] {Matthias Felleisen <matthias@ccs.neu.edu>}
   - [ ] Teachpacks Tests: check that new teachpacks are addable
