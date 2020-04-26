@@ -11,7 +11,7 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     + [ ] Racket Updates: update HISTORY (updates should show `v$RKTNVER` as the most current version)
     + [ ] Update man pages in `racket/man/man1`: `racket.1`, `gracket.1`, `raco.1`
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+* [ ] {Robby Findler <robby@cs.northwestern.edu>}
    - [ ] Updates:
      + [ ] DrRacket Updates: update HISTORY
      + [ ] Redex Updates: update HISTORY (updates should show `v$RKTNVER` as the most current version)
@@ -108,7 +108,7 @@ Although github has a nifty syntax for checking the boxes below, you should prob
    racket -l distro-build/tests/unix-installer <version>
    ```
 
-* [ ] {Robby Findler <robby@eecs.northwestern.edu>}
+* [ ] {Robby Findler <robby@cs.northwestern.edu>}
   - [ ] DrRacket Tests: 
    ```
    # from the top-level directory of the release bundle, run
