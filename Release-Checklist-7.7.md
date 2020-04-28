@@ -77,14 +77,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     racket -l tests/srfi/run-tests
     ```
 
-* [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the `racket-minimal` source release compiles on linux
-    + [ ] Test that the binary installer for linux works in normal mode (install
-          then start racket) [FIXME: is this enough?]
-    + [ ] Test that the binary installer for linux works in unix-style mode
-          (install then start racket) [FIXME: is this enough?]
-
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
   - [ ] Web Server Tests
     ```
