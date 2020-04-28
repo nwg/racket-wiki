@@ -2,13 +2,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 
 # History Updates
 
-* [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Updates:
-    + [ ] Stepper Updates: update HISTORY
-      (updates should show `v7.7` as the most current version; include
-      the text "merge" in the commit message, or tell me if there
-      are no such changes.)
-
 * [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
   - [ ] Typed Racket Updates: update HISTORY
       (updates should show `v7.7` as the most current version; include
