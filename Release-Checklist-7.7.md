@@ -79,36 +79,11 @@ Although github has a nifty syntax for checking the boxes below, you should prob
 
 * [ ] {John Clements <clements@racket-lang.org>}
   - [ ] Release tests for (a chosen) linux release and the Mac OS release:
-    + [ ] Test that the `racket` source release compiles on linux
     + [ ] Test that the `racket-minimal` source release compiles on linux
     + [ ] Test that the binary installer for linux works in normal mode (install
           then start racket) [FIXME: is this enough?]
     + [ ] Test that the binary installer for linux works in unix-style mode
           (install then start racket) [FIXME: is this enough?]
-  - [ ] Release tests for the Mac OS release:
-    + [ ] On MacOS: Build from sources using the minimal distribution:
-      ```
-      cd src
-      mkdir build
-      cd build
-      ../configure
-      make
-      make install
-      ```
-
-      then
-
-      ```
-      ./bin/raco pkg install --auto -i racket-lib
-      ./bin/raco pkg install --auto -i main-distribution
-      ```
-      
-      (Why not just test the full source release? 
-          "The problem is that when packages are already included in a source
-          bundle, then it doesn't include the right versions of packages that
-          have to be platform-specific, such as the one that supplies
-          "libintl.9.dylib".)
-    + [ ] Test that the binary installer for MacOS works (install, start DrRacket)
   - [ ] FrTime Tests (in frtime/demos)
     + [ ] Test that expressions with time-varying values (e.g., `seconds`,
         `(build-list (modulo seconds 10) identity)`) render and update as
