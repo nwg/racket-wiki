@@ -84,18 +84,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
           then start racket) [FIXME: is this enough?]
     + [ ] Test that the binary installer for linux works in unix-style mode
           (install then start racket) [FIXME: is this enough?]
-  - [ ] FrTime Tests (in frtime/demos)
-    + [ ] Test that expressions with time-varying values (e.g., `seconds`,
-        `(build-list (modulo seconds 10) identity)`) render and update as
-        expected in the FrTime language level. Check that they continue
-        updating even after a garbage collection.
-    + [ ] Test that a sampling of graphical demos (e.g., `analog-clock.rkt`,
-        `tetris.rkt`) work as expected, responding to relevant key and mouse
-        events and interactions with control widgets.
-  - [ ] Inspect icons
-    ```
-    raco docs icons # then look at them (look for icons, ensure no red error text on the page)
-    ```
 
 * [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
   - [ ] Web Server Tests
