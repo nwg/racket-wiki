@@ -153,15 +153,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     raco test -c datalog/tests
     ```
 
-* [X] {Mike Sperber <sperber@deinprogramm.de>}
-  - [X] DMdA Tests
-    [Test properties](https://gist.github.com/mikesperber/51851dc0540307721c24),
-    [World teachpack](https://gist.github.com/mikesperber/84273cd5d097edf1cf0f)
-  - [X] Stepper Tests
-    [Check format of lists, records](https://gist.github.com/mikesperber/47b614c59930c2fbc7f1)
-  - [X] Signature Tests
-    [Test signatures](https://gist.github.com/mikesperber/1ba48601a944ecb38309)
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
