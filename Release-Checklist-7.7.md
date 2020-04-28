@@ -85,11 +85,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     ```
 
 * [ ] {John Clements <clements@racket-lang.org>}
-  - [ ] Stepper Tests
-   ```
-   tests/stepper/run-manual-tests.rkt ;; run in DrRacket, ensure that expected failures occur.
-   tests/stepper/manual-tests.txt ;; follow the instructions in this file
-   ```
   - [ ] Release tests for (a chosen) linux release and the Mac OS release:
     + [ ] Test that the `racket` source release compiles on linux
     + [ ] Test that the `racket-minimal` source release compiles on linux
