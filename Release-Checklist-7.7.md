@@ -41,37 +41,6 @@ Although github has a nifty syntax for checking the boxes below, you should prob
     racket -l tests/srfi/run-tests
     ```
 
-* [ ] {Jay McCarthy <jay.mccarthy@gmail.com>}
-  - [ ] Web Server Tests
-    ```
-    raco test -c tests/web-server
-    ```
-
-  - [ ] XML Tests
-    ```
-    raco test -c tests/xml
-    ```
-
-  - [ ] HTML Tests
-    ```
-    raco test -c tests/html
-    ```
-
-  - [ ] PLAI Tests
-    ```
-    raco test -c plai
-    ```
-
-  - [ ] Racklog tests
-    ```
-    raco test -c racklog/tests
-    ```
-
-  - [ ] Datalog tests
-    ```
-    raco test -c datalog/tests
-    ```
-
 * [ ] {Doug Williams <m.douglas.williams@gmail.com>}
   - [ ] Additional Plot Tests
 
