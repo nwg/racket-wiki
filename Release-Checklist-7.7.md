@@ -1,12 +1,5 @@
 Although github has a nifty syntax for checking the boxes below, you should probably just go ahead and delete the items, rather than check them off; it's much easier to see what remains to be done when everything else is simply not there.
 
-# History Updates
-
-* [ ] {Sam Tobin-Hochstadt <samth@ccs.neu.edu>}
-  - [ ] Typed Racket Updates: update HISTORY
-      (updates should show `v7.7` as the most current version; include
-      the text "merge" in the commit message, or tell me if there 
-      are no such changes.)
 
 # Testing
 
