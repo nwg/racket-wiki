@@ -1,6 +1,6 @@
 **What is Racket?**: Racket is a [general-purpose programming language](https://docs.racket-lang.org/quick/index.html) that’s also an ecosystem for developing and deploying new languages. See [The Racket Manifesto](http://felleisen.org/matthias/manifesto/) for the origin, purpose and future direction of Racket from its creators.
 
-The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
+The Racket [[language development toolchain]] for [[Creating Languages]] includes the Racket language(s), command line tools, native DrRacket IDE, that is extensible (see [[Extending DrRacket]]) and support for other [[IDE's and text editors]] in addition to a [[range of packages to support developing languages|Creating Languages]].
 
 ## Interested?
 
@@ -21,6 +21,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 
 ## Collections
 * [[Data Science]]
+* [[Extending DrRacket]] 
 * [[Racket language development toolchain|Creating Languages]]
 * [[Racket Web Development|Web Development]]
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
