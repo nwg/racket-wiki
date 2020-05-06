@@ -26,6 +26,10 @@ On Windows one of the following
  * right click on Start menu and select Command Prompt(Admin), then `setx /m PATH "C:\my\installed\racket\bin\;%PATH%"` (restart command prompt required)
  * HKEY_LOCAL_MACHINE\SYSTEM\CurrentControlSet\Control\Session Manager\Environment (restart windows required)
 
+### Other tasks
+1. `raco setup --doc-index`  rebuild the local copy of the documentation
+2. rebuild installed packages e.g. `raco setup -l quickscript-extra`
+
 There is also a [Note to Readers with Lisp/Scheme Experience](https://docs.racket-lang.org/guide/intro.html#%28part._use-module%29) in the Racket Guide.
 
 ## First tasks 
