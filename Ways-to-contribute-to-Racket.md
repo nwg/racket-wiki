@@ -1,5 +1,10 @@
 https://github.com/racket/racket/contribute
 
+includes other ways you can contribute to Racket.
+  * [[Sponsor or make a donation]] to the Racket project
+  * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation (e.g. fix a typo), the language itself, or a package in the main distribution.
+
+
 # How to contribute to the Racket project?
 
 There are many ways to contribute, and you can contribute at any level, no matter how experienced or inexperienced with racket or software development. In a large project like Racket there are lots of options:
