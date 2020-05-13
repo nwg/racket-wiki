@@ -11,7 +11,7 @@ See <https://racket-news.com> for the latest updates!
 * **[[Support Racket]]**: Racket needs your support!
 * **[[Ways to contribute to Racket]]**
 includes other ways you can contribute to Racket.
-  * [[Sponsor or make a donation]]: [[https://github.com/sponsors/racket]] or [[https://racket-lang.org/sfc.html]]
+  * [[Sponsor or make a donation]]
   * [Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation (e.g. fix a typo), the language itself, or a package in the main distribution.
 * **[Rhombus Brainstorming](https://github.com/racket/rhombus-brainstorming)** (previously known as Racket2 RFC): discuss and give feedback on the design of a next generation language based on Racket.
 
