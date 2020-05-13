@@ -16,17 +16,7 @@ There are many ways to contribute, and you can contribute at any level, no matte
 ## Donate
 **[You can support Racket with a tax-deductible donation](https://racket-lang.org/sfc.html)** (_you can also set up **recurring payments** with PayPal_)
 
-## Contribute to the Racket Documentation
-
-**This is an important way you can contribute even if you are very new to Racket** (and its a great way to learn)
-
-While Racket is much better documented than most free software, it could be improved. So when you find the documentation obscure, Please treat it as a documentation bug and report it by sending your observations and suggestions to;
-* email the [Racket-users mailing list](https://lists.racket-lang.org), **or** 
-* [racket-users on google groups web interface](https://groups.google.com/forum/#!forum/racket-users), **or**
-* [logging an issue](https://github.com/racket/racket/issues/new)
-
-Pull requests to improve the documentation are also welcome!  
-
+## [[Contribute to the Racket Documentation]]
 ## Contribute directly
 * [Building, Distributing, and Contributing to Racket](https://docs.racket-lang.org/racket-build-guide/index.html)
 * [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution. (by Ben Greenman)
