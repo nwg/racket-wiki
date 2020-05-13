@@ -14,21 +14,22 @@ See <https://racket-news.com> for the latest updates!
 * **[[Ways to contribute to Racket]]**
 * **[Rhombus Brainstorming](https://github.com/racket/rhombus-brainstorming)** (previously known as Racket2 RFC): discuss and give feedback on the design of a next generation language based on Racket.
 
+[[Events]]  |  [[Racket on the web]] | [[Easy bugs to fix]] | [[Project Ideas]] 
+
+
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 [[Collections]] : resources organised by topic
+[[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 
-[[Events]]  |  [[Racket on the web]]
+
 
 ## Highlights 
 * [`racket/gui` saves the day](https://defn.io/2019/06/17/racket-gui-saves/) (blog post)
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
 * [[RacketScript]] - Racket in the browser!  
-* [[Ways to contribute to Racket]], [[Easy bugs to fix]] & [[Project Ideas]] 
-* [[Ways you can use Racket at work]] 
-* [[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
-* [[Scientific Computing]] lists Racket projects related to applications in science and engineering
+* [[Ways you can use Racket at work]]
 * [[Math-Library-Features]] to suggest features for the math library.
 * [[Generics Plans]] planned features for Racket's generic functions library
 * [[Verification and Advanced Types in Racket]]
