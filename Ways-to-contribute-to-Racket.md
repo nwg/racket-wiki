@@ -2,23 +2,33 @@ https://github.com/racket/racket/contribute
 
 # How to contribute to the Racket project?
 
-There are many ways to contribute, and you can contribute at any level, no matter how experienced or inexperienced with racket or software development. In a large project like Racket there are lots of options: 
+There are many ways to contribute, and you can contribute at any level, no matter how experienced or inexperienced with racket or software development. In a large project like Racket there are lots of options:
 
-* Contribute code, in the form of new features, libraries, bug fixes to either Racket, the racket tool chain, or racket libraries. You may also make your own libraries, languages, or applications for inclusion in the [Racket package catalog](https://pkgs.racket-lang.org/). 
-  * testing is also an important way to contribute; so log that issue, and if you can solve it, submit a PR.
+**Build things!** Applications, libraries, scripts, websites...and don't forget to tell us about it.
+
+* [[Contribute to Racket]] itself
+
+* Create new libraries
+* Build new languages
+
+Don't forget to post your creations in the [Racket package catalog](https://pkgs.racket-lang.org/). 
+
+* testing is also an important way to contribute; so log that issue, and if you can solve it, submit a PR.
 * [[Contribute to the Racket Documentation]] by reporting issue, or submitting changes. [[Documentation Improvements]] has ideas where you can help improve the documentation
- * Another important way to contribute documenting Racket is tutorials, and a good source of tutorials is things you learnt how to do like [write macros](https://www.greghendershott.com/fear-of-macros/) or [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/). While these examples are blog posts, video tutorials or screencasts are also great.(use tools like [OBS](https://obsproject.com/), QuickTime, or [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) to make videos or gif's)
+
+## Contribute to the community 
+* Another important way to contribute documenting Racket is tutorials, and a good source of tutorials is things you learnt how to do like [write macros](https://www.greghendershott.com/fear-of-macros/) or [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/). 
+
+Video tutorials or screencasts are also great. (use tools like [OBS](https://obsproject.com/), QuickTime, or [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) to make videos or gif's)
+
 * donating to the Racket project is a great help, and is tax deductible. 
 * Organising social things like a coding competition, game jam, hackathon, or meetup.
-* outreach like answering racket questions that pop on other forums like stack overflow, twitter, or reddit (/r/learnprogramming or /r/scheme).
+
+* Answering racket questions forums like [stack overflow](https://stackoverflow.com/questions/tagged/racket), or reddit [r/Racket](https://www.reddit.com/r/Racket/) [r/learnprogramming](https://www.reddit.com/r/learnprogramming) or [r/scheme](https://www.reddit.com/r/Racket/r/scheme).
 * raise awareness by talking about what you are making with Racket on social media; like linkedin, twitter, Hacker news  or facebook.
 
 ## Donate
 **[You can support Racket with a tax-deductible donation](https://racket-lang.org/sfc.html)** (_you can also set up **recurring payments** with PayPal_)
-
- 
-## [[Contribute to Racket]] 
-
 
 
 
