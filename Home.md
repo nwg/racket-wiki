@@ -19,7 +19,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 ## Collections
 * [[Data Science]]
 * [[Extending DrRacket]] 
-* [[Racket language development toolchain|Creating Languages]] [[language development toolchain]] 
+* [[Creating Languages]] with the [[language development toolchain]] 
 * [[Racket Web Development|Web Development]]
 * [[Racket, AI, Neural networks and Deep Learning|AI]]   
 * [racket-android](https://github.com/jeapostrophe/racket-android) lets you write Apps for Android in Racket.
