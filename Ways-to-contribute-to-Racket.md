@@ -7,9 +7,8 @@ There are many ways to contribute, and you can contribute at any level, no matte
 **Build things!** Applications, libraries, scripts, websites...and don't forget to tell us about it.
 
 * [[Contribute to Racket]] itself
-
-* Create new libraries
-* Build new languages
+* Create new libraries: [Tutorial: Creating a Package](https://blog.racket-lang.org/2017/10/tutorial-creating-a-package.html) by Stephen Chang & [Getting Started with packages](https://docs.racket-lang.org/pkg/getting-started.html)
+* [[Create a language|Creating Languages]]
 
 Don't forget to post your creations in the [Racket package catalog](https://pkgs.racket-lang.org/). 
 
