@@ -18,7 +18,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 
 [[Collections]] : resources organised by topic
 
-[[Events]]
+[[Events]]  |  [[Racket on the web]]
 
 ## Highlights 
 * [`racket/gui` saves the day](https://defn.io/2019/06/17/racket-gui-saves/) (blog post)
@@ -36,4 +36,4 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 * [[Redex Features]]
 * [[Courses using Racket]]  
 
-[[Racket on the web]]
+
