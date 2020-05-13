@@ -16,8 +16,7 @@ See <https://racket-news.com> for the latest updates!
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
-[[Collections]]
-
+[[Collections]] : resources organised by topic
 
 [[Events]]
 
