@@ -20,8 +20,8 @@ See <https://racket-news.com> for the latest updates!
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
 
 [[Collections]] : resources organised by topic
-[[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 
+[[Artifacts]] page of Racket snippets for specific small tasks.  Contribute your own!
 
 
 ## Highlights 
