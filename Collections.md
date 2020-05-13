@@ -1,4 +1,5 @@
 ## Collections
+* [[Scientific Computing]] lists Racket projects related to applications in science and engineering
 * [[Data Science]]
 * [[Extending DrRacket]] 
 * [[Creating Languages]] with the [[language development toolchain]] 
