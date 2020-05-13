@@ -6,7 +6,7 @@ There are many ways to contribute, and you can contribute at any level, no matte
 
 * Contribute code, in the form of new features, libraries, bug fixes to either Racket, the racket tool chain, or racket libraries. You may also make your own libraries, languages, or applications for inclusion in the [Racket package catalog](https://pkgs.racket-lang.org/). 
   * testing is also an important way to contribute; so log that issue, and if you can solve it, submit a PR.
-* Contribute to the documentation of Racket by reporting issue, or submitting changes.
+* [[Contribute to the Racket Documentation]] by reporting issue, or submitting changes. [[Documentation Improvements]] has ideas where you can help improve the documentation
  * Another important way to contribute documenting Racket is tutorials, and a good source of tutorials is things you learnt how to do like [write macros](https://www.greghendershott.com/fear-of-macros/) or [Deploying Racket applications on Heroku](https://lexi-lambda.github.io/blog/2015/08/22/deploying-racket-applications-on-heroku/). While these examples are blog posts, video tutorials or screencasts are also great.(use tools like [OBS](https://obsproject.com/), QuickTime, or [ScreenToGif](https://github.com/NickeManarin/ScreenToGif) to make videos or gif's)
 * donating to the Racket project is a great help, and is tax deductible. 
 * Organising social things like a coding competition, game jam, hackathon, or meetup.
@@ -16,17 +16,11 @@ There are many ways to contribute, and you can contribute at any level, no matte
 ## Donate
 **[You can support Racket with a tax-deductible donation](https://racket-lang.org/sfc.html)** (_you can also set up **recurring payments** with PayPal_)
 
-## [[Contribute to the Racket Documentation]]
-## Contribute directly
-* [Building, Distributing, and Contributing to Racket](https://docs.racket-lang.org/racket-build-guide/index.html)
-* [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation(e.g. fix a typo), the language itself or a package in the main distribution. (by Ben Greenman)
+ 
+## [[Contribute to Racket]] 
 
-If you are new to GitHub, the following GitHub documentation is helpful;
 
-* [About pull requests](https://help.github.com/en/articles/about-pull-requests)
-* [Creating a pull request](https://help.github.com/en/articles/creating-a-pull-request)
 
-[[Documentation Improvements]] has ideas where you can help improve the documentation
 
 ## Other way to contribute to Racket
 
