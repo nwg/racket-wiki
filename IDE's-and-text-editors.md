@@ -9,7 +9,6 @@ Racket is supported by a number of IDE's and text editors.
 * [Racket for Visual Studio Code](https://marketplace.visualstudio.com/search?term=Racket&target=VSCode&category=Programming%20Languages&sortBy=Relevance) (search)
   * [Magic Racket](https://github.com/Eugleo/magic-racket) for VS Code
 
-IDE not included?
-- there is a [racket-langserver](https://github.com/jeapostrophe/racket-langserver) Language Server Protocol implementation for Racket
+IDE not included? There is a [racket-langserver](https://github.com/jeapostrophe/racket-langserver) Language Server Protocol implementation for Racket
 
 You can also run [[Racket in the Cloud]].
