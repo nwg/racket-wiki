@@ -7,8 +7,7 @@ The [getting-started](https://docs.racket-lang.org/getting-started/index.html) g
 * [Teach Yourself Racket](https://cs.uwaterloo.ca/~plragde/flaneries/TYR/)(TYR): is a rapid introduction to the basics of programming in full Racket, intended for mature programmers.  
 * [Learning Racket](https://github.com/lojic/LearningRacket) by Brian Adkins of Lojic Technologies
 * [[IDE's and text editors]] 
-* [Tutorial: Creating a Package](https://blog.racket-lang.org/2017/10/tutorial-creating-a-package.html) by Stephen Chang
-  * [Getting Started with packages](https://docs.racket-lang.org/pkg/getting-started.html)
+* [Tutorial: Creating a Package](https://blog.racket-lang.org/2017/10/tutorial-creating-a-package.html) by Stephen Chang & [Getting Started with packages](https://docs.racket-lang.org/pkg/getting-started.html)
 * [Racket dev workflow](https://www.greghendershott.com/2014/11/racket-workflow.html) by [Greg Hendershott](https://www.greghendershott.com/index.html)
 * [[API support in Racket]]
 
