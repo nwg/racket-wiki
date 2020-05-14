@@ -2,7 +2,7 @@
 
 > _[The Racket Manifesto](http://felleisen.org/matthias/manifesto/) outlines the origin, purpose and future direction of Racket from its creators._
 
-The [Racket Distribution](https://download.racket-lang.org) includes the Racket language(s), command line tools, and DrRacket IDE.
+The [Racket Distribution](https://download.racket-lang.org) includes the Racket language(s), command line tools, and [[DrRacket]] IDE.
 
 Racket is supported by a variety of [[IDE's and text editors]] 
 
