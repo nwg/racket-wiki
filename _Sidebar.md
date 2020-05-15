@@ -6,7 +6,7 @@
 [#racket IRC on freenode.net](https://botbot.me/freenode/racket/)  
 [@racketlang on Twitter](https://twitter.com/racketlang)  
 [Books](https://racket-lang.org/books.html), [[Videos]] & [[resources|Racket resources]]  
-[Team & map](http://www.racket-lang.org/team.html)  
+[Team & map](http://www.racket-lang.org/team.html) | [[Artifacts]] 
 [[Meetups]] | [[Sponsor/donate|Sponsor or make a donation]]
 ## Racket Release process
 [[Release overview]]  
