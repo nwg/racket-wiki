@@ -18,6 +18,7 @@ _Please contribute your own!_
 * [[OpenSSL on Amazon Linux]]  
 
 ## Web:  
+* [[Deploying Racket applications on Heroku]]
 * [[multi-threaded port scanner demo]]  
 * [[Fetch the contents of a URL]]  
 * [[Redirecting an HTTP-scheme URL to an HTTPS-scheme URL using two servlets]]  
