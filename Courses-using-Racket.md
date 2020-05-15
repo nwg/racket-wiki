@@ -135,3 +135,9 @@ https://www.edx.org/course/how-code-complex-data-ubcx-htc2x
 #### San Diego Mesa College
 
 * CISC 106, Introduction to Computer Science, 2018 Spring, http://schedule.sdccd.edu/detail/popupdetails.cfm?crn=67651&trm=20181&detail=1
+
+#### University of Northern Iowa
+
+* CS 3540 Programming Languages 
+and Paradigms, Spring Semester 2020
+https://www.cs.uni.edu/~wallingf/teaching/cs3540/
