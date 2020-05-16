@@ -11,6 +11,7 @@ The [getting-started](https://docs.racket-lang.org/getting-started/index.html) g
 * [Racket dev workflow](https://www.greghendershott.com/2014/11/racket-workflow.html) by [Greg Hendershott](https://www.greghendershott.com/index.html)
 * [[API support in Racket]]
 * [Portable (USB Stick) Racket for Windows](https://github.com/plicatibu/racket-portable)  
+* [Scheme and Racket books](https://erkin.party/scheme/bibliography/)
 
 **Hot Tip**: [[Set your PATH environment variable]] so you can use `raco` and other Racket command line functions.
 
