@@ -25,6 +25,7 @@ The [[Inside Racket Seminar]] seminars expose the _internal design and implement
 
 
 ## Highlights 
+* [Portable (USB Stick) Racket for Windows](https://github.com/plicatibu/racket-portable)  
 * [`racket/gui` saves the day](https://defn.io/2019/06/17/racket-gui-saves/) (blog post)
 * [[Organizations using Racket]]  
 * [[Racket Blogs|Blogs]]
