@@ -10,6 +10,7 @@ The [getting-started](https://docs.racket-lang.org/getting-started/index.html) g
 * [Tutorial: Creating a Package](https://blog.racket-lang.org/2017/10/tutorial-creating-a-package.html) by Stephen Chang & [Getting Started with packages](https://docs.racket-lang.org/pkg/getting-started.html)
 * [Racket dev workflow](https://www.greghendershott.com/2014/11/racket-workflow.html) by [Greg Hendershott](https://www.greghendershott.com/index.html)
 * [[API support in Racket]]
+* [Portable (USB Stick) Racket for Windows](https://github.com/plicatibu/racket-portable)  
 
 **Hot Tip**: [[Set your PATH environment variable]] so you can use `raco` and other Racket command line functions.
 
