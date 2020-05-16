@@ -3,6 +3,7 @@ This page captures useful code snippets that are too small to be a package.
 _Please contribute your own!_
 
 ## Uncategorized
+* [[voice]] (windows)
 * [[Quickly create a large file]]  (e.g. for testing, or to reserve disk space for later use)  
 * [[More convenient printing of multiple values]]  
 * [[Split a string into lines]]  
