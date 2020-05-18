@@ -6,7 +6,7 @@ from https://gist.github.com/alex-hhh/d6bdc9f9b671876d6726396e3c7b05c9
 #lang racket
 (require racket/gui racket/draw pict)
 
-(define animation-snip-class
+(define animation-snip-class  ; create singleton object
   (make-object
    (class snip-class%
      (super-new)
