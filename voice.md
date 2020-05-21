@@ -1,4 +1,7 @@
-Four lines to make your computer talk (on Windows):
+Make your computer talk
+
+## Windows 
+
 ```scheme
 #lang racket/base
 
@@ -9,3 +12,19 @@ Four lines to make your computer talk (on Windows):
 
 (com-invoke voice "Speak" "hello world")
 ```
+
+## Linux
+
+```
+#lang racket/base
+(require racket/system)
+(system "espeak 'Hello world!'")
+```
+
+## MacOS
+
+```
+#lang racket 
+(system "say 'hello mac world'")
+```
+
