@@ -15,7 +15,7 @@ Make your computer talk
 
 ## Linux
 
-```
+```scheme
 #lang racket/base
 (require racket/system)
 (system "espeak 'Hello world!'")
@@ -23,7 +23,7 @@ Make your computer talk
 
 ## MacOS
 
-```
+```scheme
 #lang racket 
 (system "say 'hello mac world'")
 ```
