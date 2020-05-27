@@ -9,4 +9,4 @@ Future Racket releases will be on the following schedule (these are times when t
 * July 2020 (7.8)
 * October 2020 (7.9)
 * January 2021 (7.10)
-* April 2020 (7.11)
+* April 2021 (7.11)
