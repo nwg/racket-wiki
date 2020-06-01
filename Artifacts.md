@@ -3,7 +3,7 @@ This page captures useful code snippets that are too small to be a package.
 _Please contribute your own!_
 
 ## Uncategorized
-* [[Artifacts/Example of evaluating `#lang ….` from C with Racket BC.]]
+* [[Example of evaluating `#lang ….` from C with Racket BC.]]
 * [[Add a tag to scribble]]
 * [[Animated image in the REPL]]
 * [[voice]] (windows)
