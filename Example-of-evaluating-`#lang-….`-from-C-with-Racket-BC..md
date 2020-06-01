@@ -5,7 +5,7 @@ Example of evaluating “#lang ….” from C with Racket BC.
 #include "base.c"
 
 /* 
-  To gather all the module sneeded by `racket/base` in "base.c":
+  To gather all the modules needed by `racket/base` in "base.c":
 
    raco ctool --c-mods base.c ++lib racket/base ++lib racket/base/lang/reader ++lib racket/runtime-config
 
