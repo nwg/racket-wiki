@@ -1,5 +1,8 @@
+# Some `#lan slideshow` resources 
 
-[packeges tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
+[mflatt/talks](https://github.com/mflatt/talks/)
+
+[packages tagged slideshow](https://pkgd.racket-lang.org/pkgn/search?tags=slideshow)
 
 [slideshow-repl](https://github.com/mflatt/slideshow-repl)
 
