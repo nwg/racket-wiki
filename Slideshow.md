@@ -1,4 +1,4 @@
-# Some `#lan slideshow` resources 
+# Some `#lang slideshow` resources 
 
 [mflatt/talks](https://github.com/mflatt/talks/)
 
