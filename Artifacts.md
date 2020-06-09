@@ -21,6 +21,7 @@ _Please contribute your own!_
 * [[How to Build a Context-Free Grammar with Racket's unique Recursive Contract System]]  
 * [[How to transform a Tree (see above) into an x-expression]]  
 * [[at sign in scribble]]
+*[[qresults list table with a right click menu]]
 
 ## OpenSSL   
 * [[Directly calling the OpenSSL executable from Racket|Directly calling OpenSSL]]  
