@@ -1,5 +1,7 @@
 This page captures useful code snippets that are too small to be a package. 
 
+There is also an GitHub organisation for larger examples https://github.com/racket-artifacts
+
 _Please contribute your own!_
 
 ## Uncategorized
