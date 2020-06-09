@@ -1,4 +1,4 @@
-Example of evaluating `#lang ….` from C with Racket BC.
+## Example of evaluating `#lang ….` from C with Racket BC
 
 ```c
 #include "scheme.h"
