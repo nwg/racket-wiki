@@ -1,5 +1,5 @@
 
-```
+```racket
 #lang racket/base
 (require 2htdp/universe 2htdp/image lang/posn)
 ; The gravitational constant G
