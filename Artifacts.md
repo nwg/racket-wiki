@@ -7,7 +7,7 @@ _Please contribute your own!_
 * [[Example of evaluating #lang ... from C with Racket BC|Example of evaluating #lang from C with Racket BC]]
 * [[Add a tag to scribble]]
 * [[Animated image in the REPL]]
-* [[voice]] (windows)
+* [[voice]] 
 * [[Quickly create a large file]]  (e.g. for testing, or to reserve disk space for later use)  
 * [[More convenient printing of multiple values]]  
 * [[Split a string into lines]]  
