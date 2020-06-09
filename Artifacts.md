@@ -5,6 +5,7 @@ There is also an GitHub organisation for larger examples https://github.com/rack
 _Please contribute your own!_
 
 ## Uncategorized
+* [[Animated slideshow]]
 * [Utah-teapot](https://github.com/racket-artifacts/Utah-teapot)
 * [[Example of evaluating #lang ... from C with Racket BC|Example of evaluating #lang from C with Racket BC]]
 * [[Add a tag to scribble]]
