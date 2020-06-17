@@ -2,7 +2,9 @@
 
 > Make your first contribution to this repository by tackling one of the issues listed at <https://github.com/racket/racket/contribute>. Each issue is a "good first issue," selected for its relative approachability for first-time contributors.
 
-Check the [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) or the manual [Contributing to Racket Development](https://docs.racket-lang.org/racket-build-guide/contribute.html) for detailed guidance on contributing fixes and enhancements. [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style) is essential.
+* [Tutorial: Contributing to Racket](https://blog.racket-lang.org/2017/09/tutorial-contributing-to-racket.html) describes how to contribute to racket documentation (e.g. fix a typo), the language itself, or a package in the main distribution.
+* [Contributing to Racket Development](https://docs.racket-lang.org/racket-build-guide/contribute.html) has detailed guidance on contributing fixes and enhancements.
+* [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style) covers coding standards and other good advice.
 
 If you need to, ask for help on the [development mailing list](https://lists.racket-lang.org), IRC or Slack channels.
 
