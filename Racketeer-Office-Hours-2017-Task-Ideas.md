@@ -7,6 +7,8 @@ If you decide to work on one of these tasks, please edit this page to mark it as
 # General Tasks
 - Try to reproduce old bugs on gnats or github, close if they're not relevant anymore.
 
+Gnats database migrated to <https://github.com/racket/gnats-bugs>
+
 # Potential "Good first bugs"
 moved to <https://github.com/racket/racket/wiki/Easy-bugs-to-fix>
 # Automate more of the release tests
