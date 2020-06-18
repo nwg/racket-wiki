@@ -1,7 +1,9 @@
 Make your first contribution by tackling one of the issues listed below.
-Each issue displayed here is a "good first issue," selected for its relative approachability for first-time contributors.
 
-Search for [type:issue org:racket state:open label:"good first issue"](https://github.com/search?q=type:issue+org:racket+state:open+label:%22good+first+issue%22) in Racket GitHub repositories.
+Each issue displayed here is labeled `good first issue` and is selected for its relative approachability for first-time contributors.
+
+* [Issues labeled `good first issue` in the Racket repository](https://github.com/racket/racket/contribute)
+* [Issues labeled `good first issue` in in Racket GitHub repositories](https://github.com/search?q=type:issue+org:racket+state:open+label:%22good+first+issue%22)
 
 [Racket](https://github.com/racket/racket/contribute) | [typed-racket](https://github.com/racket/typed-racket/contribute) | [DrRacket](https://github.com/racket/drracket/contribute) | [math](https://github.com/racket/math/contribute) | [scribble](https://github.com/racket/scribble/contribute) | [rebellion](https://github.com/jackfirth/rebellion/contribute) | [web-server](https://github.com/racket/web-server/contribute) | [draw](https://github.com/racket/draw/contribute)
 
