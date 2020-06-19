@@ -80,8 +80,6 @@ drracket
 - [https://github.com/racket/drracket/issues/130](https://github.com/racket/drracket/issues/130) (a lot of the detective work has already been done)
 - [https://github.com/racket/drracket/issues/99](https://github.com/racket/drracket/issues/99)
 
-typed-racket
-- [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
-- [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
+
 
 ![Bug?](http://www.ece.northwestern.edu/~robby/logos/PLT-206-larval.png)
