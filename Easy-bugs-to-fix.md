@@ -43,9 +43,6 @@ pict
 - [https://github.com/racket/pict/issues/2](https://github.com/racket/pict/issues/2) (may be deep)
 - [https://github.com/racket/pict/issues/29](https://github.com/racket/pict/issues/29)
 
-slideshow
-- [https://github.com/racket/slideshow/issues/2](https://github.com/racket/slideshow/issues/2)
-
 db
 - [https://github.com/racket/db/issues/10](https://github.com/racket/db/issues/10) (move old-style logging to actual loggers, document topics, etc.)
 
@@ -53,7 +50,6 @@ lazy
 - [https://github.com/racket/lazy/issues/3](https://github.com/racket/lazy/issues/3) (some (most?) of the detective work appears to be done)
 
 math
-- [https://github.com/racket/math/issues/9](https://github.com/racket/math/issues/9)
 - [https://github.com/racket/math/issues/2](https://github.com/racket/math/issues/2) (for someone well-versed in numerical analysis)
 
 draw
