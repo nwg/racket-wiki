@@ -76,9 +76,6 @@ scribble
 - [https://github.com/racket/scribble/issues/76](https://github.com/racket/scribble/issues/76)
 - [https://github.com/racket/scribble/issues/47](https://github.com/racket/scribble/issues/47)
 
-drracket
-- [https://github.com/racket/drracket/issues/130](https://github.com/racket/drracket/issues/130) (a lot of the detective work has already been done)
-- [https://github.com/racket/drracket/issues/99](https://github.com/racket/drracket/issues/99)
 
 
 
