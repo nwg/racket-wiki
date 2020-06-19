@@ -48,25 +48,39 @@ slideshow
 
 db
 - [https://github.com/racket/db/issues/10](https://github.com/racket/db/issues/10) (move old-style logging to actual loggers, document topics, etc.)
+
+lazy
 - [https://github.com/racket/lazy/issues/3](https://github.com/racket/lazy/issues/3) (some (most?) of the detective work appears to be done)
 
+math
 - [https://github.com/racket/math/issues/9](https://github.com/racket/math/issues/9)
 - [https://github.com/racket/math/issues/2](https://github.com/racket/math/issues/2) (for someone well-versed in numerical analysis)
+
+draw
 - [https://github.com/racket/draw/issues/8](https://github.com/racket/draw/issues/8)
+
+plot
 - [https://github.com/racket/plot/issues/7](https://github.com/racket/plot/issues/7)
 - [https://github.com/racket/plot/issues/6](https://github.com/racket/plot/issues/6)
+
+rackunit
 - [https://github.com/racket/rackunit/issues/71](https://github.com/racket/rackunit/issues/71) (probably requires decent macro-fu)
+
+gui
 - [https://github.com/racket/gui/issues/32](https://github.com/racket/gui/issues/32)
 - [https://github.com/racket/gui/issues/16](https://github.com/racket/gui/issues/16) (cross-platform gui toolkit work)
-- [https://github.com/racket/htdp/issues/10](https://github.com/racket/htdp/issues/10) (small doc bug)
-- [https://github.com/racket/htdp/issues/5](https://github.com/racket/htdp/issues/5)
+
+scribble
 - [https://github.com/racket/scribble/issues/131](https://github.com/racket/scribble/issues/131)
 - [https://github.com/racket/scribble/issues/112](https://github.com/racket/scribble/issues/112) (front end work)
 - [https://github.com/racket/scribble/issues/76](https://github.com/racket/scribble/issues/76)
 - [https://github.com/racket/scribble/issues/47](https://github.com/racket/scribble/issues/47)
 
+drracket
 - [https://github.com/racket/drracket/issues/130](https://github.com/racket/drracket/issues/130) (a lot of the detective work has already been done)
 - [https://github.com/racket/drracket/issues/99](https://github.com/racket/drracket/issues/99)
+
+typed-racket
 - [https://github.com/racket/typed-racket/issues/595](https://github.com/racket/typed-racket/issues/595)
 - [https://github.com/racket/typed-racket/issues/517](https://github.com/racket/typed-racket/issues/517)
 
