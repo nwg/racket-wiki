@@ -31,15 +31,14 @@ See also: [Typed Racket "Good first bugs"](https://github.com/racket/typed-racke
 ## NEW: Bugs from [[Racketeer Office Hours 2017 Task Ideas]]
 _Potential "Good first bugs"_
 
+racket
 - [https://github.com/racket/racket/issues/1653](https://github.com/racket/racket/issues/1653)
 - [https://github.com/racket/racket/issues/1637](https://github.com/racket/racket/issues/1637)
 - [https://github.com/racket/racket/issues/1636](https://github.com/racket/racket/issues/1636)
-
-
 - [https://github.com/racket/racket/issues/1463](https://github.com/racket/racket/issues/1463) (most of the detective work has already been done)
 - [https://github.com/racket/racket/issues/1400](https://github.com/racket/racket/issues/1400)
 - [https://github.com/racket/racket/issues/1342](https://github.com/racket/racket/issues/1342) (candidate solution exists, need to push it the rest of the way, and other potential directions)
-
+pict
 - [https://github.com/racket/pict/issues/2](https://github.com/racket/pict/issues/2) (may be deep)
 - [https://github.com/racket/pict/issues/29](https://github.com/racket/pict/issues/29)
 - [https://github.com/racket/slideshow/issues/2](https://github.com/racket/slideshow/issues/2)
