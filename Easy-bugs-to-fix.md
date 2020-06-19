@@ -38,10 +38,15 @@ racket
 - [https://github.com/racket/racket/issues/1463](https://github.com/racket/racket/issues/1463) (most of the detective work has already been done)
 - [https://github.com/racket/racket/issues/1400](https://github.com/racket/racket/issues/1400)
 - [https://github.com/racket/racket/issues/1342](https://github.com/racket/racket/issues/1342) (candidate solution exists, need to push it the rest of the way, and other potential directions)
+
 pict
 - [https://github.com/racket/pict/issues/2](https://github.com/racket/pict/issues/2) (may be deep)
 - [https://github.com/racket/pict/issues/29](https://github.com/racket/pict/issues/29)
+
+slideshow
 - [https://github.com/racket/slideshow/issues/2](https://github.com/racket/slideshow/issues/2)
+
+db
 - [https://github.com/racket/db/issues/10](https://github.com/racket/db/issues/10) (move old-style logging to actual loggers, document topics, etc.)
 - [https://github.com/racket/lazy/issues/3](https://github.com/racket/lazy/issues/3) (some (most?) of the detective work appears to be done)
 
