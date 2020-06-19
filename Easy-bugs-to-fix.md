@@ -71,7 +71,6 @@ gui
 - [https://github.com/racket/gui/issues/16](https://github.com/racket/gui/issues/16) (cross-platform gui toolkit work)
 
 scribble
-- [https://github.com/racket/scribble/issues/131](https://github.com/racket/scribble/issues/131)
 - [https://github.com/racket/scribble/issues/112](https://github.com/racket/scribble/issues/112) (front end work)
 - [https://github.com/racket/scribble/issues/76](https://github.com/racket/scribble/issues/76)
 - [https://github.com/racket/scribble/issues/47](https://github.com/racket/scribble/issues/47)
