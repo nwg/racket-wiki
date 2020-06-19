@@ -12,3 +12,5 @@ example of live code in a talk: https://github.com/mflatt/talks/tree/master/mred
 
 use `#lang video` to include live video in slides; 
 https://github.com/videolang/website/blob/master/pub/icfp2017/slidesrc/slides.rkt
+
+https://github.com/lexi-lambda/talks/blob/master/2020-06-effects/main.rkt
