@@ -33,7 +33,6 @@ _Potential "Good first bugs"_
 
 racket
 - [https://github.com/racket/racket/issues/1653](https://github.com/racket/racket/issues/1653)
-- [https://github.com/racket/racket/issues/1637](https://github.com/racket/racket/issues/1637)
 - [https://github.com/racket/racket/issues/1636](https://github.com/racket/racket/issues/1636)
 - [https://github.com/racket/racket/issues/1463](https://github.com/racket/racket/issues/1463) (most of the detective work has already been done)
 - [https://github.com/racket/racket/issues/1400](https://github.com/racket/racket/issues/1400)
@@ -41,7 +40,6 @@ racket
 
 pict
 - [https://github.com/racket/pict/issues/2](https://github.com/racket/pict/issues/2) (may be deep)
-- [https://github.com/racket/pict/issues/29](https://github.com/racket/pict/issues/29)
 
 db
 - [https://github.com/racket/db/issues/10](https://github.com/racket/db/issues/10) (move old-style logging to actual loggers, document topics, etc.)
