@@ -1,5 +1,14 @@
 # How to propose a bug fix or enhancement
 
+Guidance on good practice for making a contribution can be found in the documentation: 
+
+* [Building, Distributing, and Contributing to Racket](https://docs.racket-lang.org/racket-build-guide/index.html)
+* [How to Program Racket: a Style Guide](https://docs.racket-lang.org/style/index.html)
+
+In particular; 
+* [3 Contributing to Racket Development](https://docs.racket-lang.org/racket-build-guide/contribute.html)
+* [8 Retiquette: Branch and Commit](https://docs.racket-lang.org/style/branch-and-commit.html) 
+
 *Make your first contribution to this repository by tackling one of the issues listed at <https://github.com/racket/racket/contribute>. Each issue is a "good first issue," selected for its relative approachability for first-time contributors.*
 
 1. First check if your change has already been entered into the [issue tracker](https://github.com/racket/racket/issues)
