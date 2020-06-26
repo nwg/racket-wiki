@@ -18,7 +18,7 @@ That sets the search paths _used_ by rpath, but the library binary still needs t
 
 Note also that Xcode is hard coded to codesign in the Versions/A subdirectory and hasn't added any support for signing other major versions, so i link version A in the below steps. Since all apple products now use embedded frameworks, it seems apple has no plan to support non-automatic codesigning for framework major versions other than 'A' (see https://developer.apple.com/forums/thread/65963). Some system frameworks that are apple-distributed still use non-'A' major versions, but to accomplish this in Xcode you would need to add a `codesign` step manually. Also note that creating the A symlink is only necessary if you wish to sign the framework on copy.
 
-Note also for a proper framework structure (see https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPFrameworks/Concepts/FrameworkAnatomy.html), the framework should have an Info.plist in Resources and all of `Versions/Current/Racket` and `Versions/Current/Resources`, and Versions/Current/Racket symlinks in the top level.
+Note also for a proper framework structure (see https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPFrameworks/Concepts/FrameworkAnatomy.html), the framework should have an Info.plist in Resources and both of `Versions/Current/Racket` and `Versions/Current/Resources`, symlinks in the top level.
 
 Note you would have to modify the steps if you were using normal (non-CS) Racket.
 
