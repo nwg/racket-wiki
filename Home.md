@@ -14,7 +14,7 @@ See <https://racket-news.com> for the latest updates!
 * **[[Ways to contribute to Racket]]**
 * **[Rhombus Brainstorming](https://github.com/racket/rhombus-brainstorming)** (previously known as Racket2 RFC): discuss and give feedback on the design of a next generation language based on Racket.
 
-[[Events]]  |  [[Racket on the web]] | [[Easy bugs to fix]] | [[Project Ideas]] 
+[[Events]]  |  [[Racket on the web]] | [[Easy bugs to fix]] | [[Project Ideas]] | [[Embedding Racket]]
 
 
 The [[Inside Racket Seminar]] seminars expose the _internal design and implementation of Racket_.
